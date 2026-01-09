@@ -1,34 +1,110 @@
 # ENGL 170 Blog Network Dashboard
 
-A web dashboard that aggregates posts from all course blogs, helping students find posts to engage with.
+## Purpose
 
-## How It Works
+This dashboard aggregates blog posts from all students and the instructor in ENGL 170 (First-Year Writing), allowing participants to discover and engage with each other's writing.
 
-1. **Scraper** (`scripts/scraper.js`) fetches each blog's `index.html`
-2. **GitHub Action** (`.github/workflows/scrape.yml`) runs the scraper on a schedule
-3. **Posts data** (`data/posts.json`) stores the aggregated post information
-4. **Dashboard** (`index.html`) displays posts with filtering options
+## Course Context
 
-## Setup
+### About ENGL 170
 
-### 1. Create GitHub Repository
+ENGL 170 is a composition course focused on AI, writing, and intellectual work. The central assignment is a semester-long blog where students develop argumentative perspectives on these topics.
 
-1. Create a new repository (e.g., `engl170-spring2026-dashboard`)
-2. Copy all files from this directory into the repository
-3. Enable GitHub Pages:
-   - Go to Settings > Pages
-   - Set Source to "Deploy from a branch"
-   - Select `main` branch, `/ (root)` folder
-   - Click Save
+### Blog Requirements
 
-### 2. Add Blog URLs
+Each student maintains a GitHub Pages blog with these requirements:
 
-Edit `config.json` to add all course blogs:
+- **Frequency**: 3 posts per week (Sunday, Tuesday, Thursday by midnight)
+- **Length**: 750-1500 words per post
+- **Engagement**: Each post must link to and engage with at least one other blog in the course network
+- **Sources**: Each post must use at least one source outside the class blog network
+- **Platform**: All blogs are hosted on GitHub Pages (not WordPress, Wix, etc.)
+
+### Why This Dashboard Exists
+
+Because every post must engage with another class blog, students need an easy way to discover what their classmates have written. This dashboard:
+
+1. Aggregates all posts from all course blogs in one place
+2. Shows newest posts first so students can find recent content to respond to
+3. Filters by author or date range
+4. Updates automatically every hour
+
+### The Instructor's Blog
+
+The instructor (Dr. Plate) maintains a blog at `https://buildlittleworlds.github.io/plate-composition-blog/` that models the kind of writing expected and provides starting points for student engagement. The instructor's posts appear in the dashboard with an "Instructor" badge.
+
+## Technical Architecture
+
+### Overview
+
+```
+┌─────────────────┐     ┌──────────────────┐     ┌─────────────────┐
+│  Student Blogs  │     │  GitHub Action   │     │   Dashboard     │
+│  (GitHub Pages) │────▶│  (scraper.js)    │────▶│  (index.html)   │
+│                 │     │  runs hourly     │     │                 │
+└─────────────────┘     └──────────────────┘     └─────────────────┘
+                               │
+                               ▼
+                        ┌──────────────────┐
+                        │  data/posts.json │
+                        │  (aggregated)    │
+                        └──────────────────┘
+```
+
+### How It Works
+
+1. **Scraper** (`scripts/scraper.js`): A Node.js script that fetches each blog's `index.html`, parses the HTML to extract post titles, dates, and URLs, then writes everything to `data/posts.json`.
+
+2. **GitHub Action** (`.github/workflows/scrape.yml`): Runs the scraper every hour on the hour. If new posts are found, it commits and pushes the updated `posts.json`.
+
+3. **Dashboard** (`index.html` + `js/dashboard.js`): A static page that loads `posts.json` and displays posts with filtering options. Hosted on GitHub Pages.
+
+### Student Blog Format Requirement
+
+For the scraper to find posts, students must format their `index.html` like this:
+
+```html
+<ul class="post-list">
+  <li>
+    <a href="my-post.html">Post Title Here</a>
+    <span class="date">January 15, 2026</span>
+  </li>
+</ul>
+```
+
+This requirement is documented in the student GitHub Pages setup instructions.
+
+## File Structure
+
+```
+engl170-dashboard/
+├── index.html                 # Dashboard webpage
+├── style.css                  # Styling (ink/cream/sepia academic aesthetic)
+├── config.json                # List of all blog URLs
+├── data/
+│   └── posts.json             # Aggregated post data (auto-generated)
+├── js/
+│   └── dashboard.js           # Frontend filtering and display logic
+├── scripts/
+│   └── scraper.js             # Node.js scraper (runs in GitHub Action)
+├── .github/
+│   └── workflows/
+│       └── scrape.yml         # GitHub Action configuration
+└── README.md                  # This file
+```
+
+## Configuration
+
+### config.json
+
+Contains the list of all blogs to scrape:
 
 ```json
 {
   "course": "ENGL 170",
   "semester": "Spring 2026",
+  "title": "ENGL 170 Blog Network",
+  "description": "Aggregated posts from all course blogs",
   "blogs": [
     {
       "author": "Dr. Plate",
@@ -37,90 +113,132 @@ Edit `config.json` to add all course blogs:
     },
     {
       "author": "Student Name",
-      "url": "https://studentusername.github.io",
+      "url": "https://username.github.io",
       "role": "student"
     }
   ]
 }
 ```
 
-### 3. Run Initial Scrape
-
-Either:
-- Push a change to `config.json` or `scripts/scraper.js` (triggers automatic scrape)
-- Go to Actions tab and manually run "Scrape Blogs" workflow
-- Run locally: `node scripts/scraper.js`
-
-## Maintenance
-
 ### Adding New Blogs
 
 1. Edit `config.json`
-2. Add new blog entry with author name, URL, and role
+2. Add a new entry with `author`, `url`, and `role` ("student" or "instructor")
 3. Commit and push
-4. The scraper will automatically run and pick up the new blog
+4. The next hourly scrape will pick up the new blog
 
-### Checking for Errors
+## Data Format
 
-1. Go to the Actions tab in GitHub
-2. Click on the latest "Scrape Blogs" run
-3. Check the logs for any blogs that returned errors
+### posts.json
 
-### Manual Refresh
-
-Go to Actions > Scrape Blogs > Run workflow
-
-## Student Requirements
-
-Students must format their `index.html` post list like this:
-
-```html
-<ul class="post-list">
-  <li>
-    <a href="post-filename.html">Post Title</a>
-    <span class="date">January 15, 2026</span>
-  </li>
-</ul>
+```json
+{
+  "lastUpdated": "2026-01-09T12:59:29.276Z",
+  "course": "ENGL 170",
+  "semester": "Spring 2026",
+  "totalPosts": 6,
+  "totalBlogs": 3,
+  "blogsWithErrors": [],
+  "posts": [
+    {
+      "title": "Post Title",
+      "url": "https://username.github.io/post.html",
+      "date": "January 14, 2026",
+      "dateISO": "2026-01-14",
+      "author": "Student Name",
+      "authorRole": "student",
+      "blogUrl": "https://username.github.io"
+    }
+  ]
+}
 ```
 
-This format allows the scraper to find and extract post information.
+Posts are sorted by date, newest first.
 
-## Schedule
+## Dashboard Features
 
-The scraper runs automatically:
-- Every 4 hours normally
-- Every hour around deadlines (Sunday/Tuesday/Thursday evenings, UTC)
+### Display
+- Post cards showing title, author, date
+- Click to visit original post
+- Instructor posts have a visual badge
 
-## Files
+### Filtering
+- **By Author**: Dropdown to see one person's posts
+- **By Date**: This week / Last 2 weeks / Last month / All posts
 
-```
-engl170-dashboard/
-├── index.html              # Dashboard page
-├── style.css               # Styling
-├── config.json             # Blog URLs
-├── data/
-│   └── posts.json          # Scraped post data
-├── js/
-│   └── dashboard.js        # Frontend logic
-├── scripts/
-│   └── scraper.js          # Node.js scraper
-├── .github/
-│   └── workflows/
-│       └── scrape.yml      # GitHub Action
-└── README.md               # This file
-```
+### Automatic Updates
+- Scraper runs every hour via GitHub Actions
+- Dashboard shows "Last updated: X minutes ago"
 
-## Troubleshooting
+## Scraper Details
 
-**Posts not appearing:**
-- Check that the blog URL is correct in `config.json`
+### Parsing Strategy
+
+The scraper (`scripts/scraper.js`) uses this fallback strategy:
+
+1. Look for `<ul class="post-list">` (preferred format)
+2. Fall back to any `<ul>` with links in `<main>`
+3. Extract title from link text
+4. Extract date from `.date` span or date-like text patterns
+5. Skip non-post links (index.html, about.html, external URLs)
+
+### Error Handling
+
+- Blogs that return HTTP errors are logged in `blogsWithErrors`
+- The scraper continues even if some blogs fail
+- Dashboard still displays posts from working blogs
+
+## Deployment
+
+### Live URLs
+
+- **Dashboard**: https://buildlittleworlds.github.io/engl170-spring2026-dashboard/
+- **Instructor Blog**: https://buildlittleworlds.github.io/plate-composition-blog/
+
+### GitHub Repositories
+
+- Dashboard: `buildLittleWorlds/engl170-spring2026-dashboard`
+- Instructor Blog: `buildLittleWorlds/plate-composition-blog`
+
+## Maintenance Tasks
+
+### Semester Start
+1. Collect all student blog URLs
+2. Add each to `config.json`
+3. Verify scraping works for each blog
+
+### During Semester
+- Monitor GitHub Actions for scraping errors
+- Help students fix their `index.html` format if posts aren't appearing
+- Add/remove blogs from `config.json` as needed
+
+### If a Blog Has Issues
+- Check that the blog URL is correct
 - Verify the blog's `index.html` uses the `post-list` format
-- Check GitHub Actions logs for errors
+- Check GitHub Actions logs for specific error messages
 
-**Dashboard shows old data:**
-- Wait for the next scheduled scrape, or trigger a manual run
-- Check that the GitHub Action completed successfully
+## Design Aesthetic
 
-**Scraper can't find posts:**
-- The blog may use a different HTML structure
-- Add custom parsing logic to `scripts/scraper.js` if needed
+The dashboard matches the course's visual identity:
+
+- **Colors**: Ink (#2C3E50), cream (#F5F0E6), sepia (#8B5A2B)
+- **Typography**: Georgia serif font
+- **Style**: Clean, academic, no images
+- **Responsive**: Works on mobile devices
+
+## Related Files (Outside This Repository)
+
+These files in the main course folder relate to the dashboard:
+
+- `course-files-for-canvas/style-guide-and-example-files/github-pages-setup-instructions.md` - Student instructions that include the required `post-list` format
+- `plate-blog/` - The instructor's blog that serves as a model
+- `course-planning-files/course-planning-notes.md` - Course requirements that explain why blogs must link to each other
+
+## Test Blogs
+
+For development/testing, two dummy student blogs exist:
+
+- `buildLittleWorlds/test-student-alpha` - Simulates a student who disagrees with Dr. Plate
+- `buildLittleWorlds/test-student-beta` - Simulates a student responding to Alpha
+
+These demonstrate the network effect where students engage with each other's posts.
