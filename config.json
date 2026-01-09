@@ -1,0 +1,13 @@
+{
+  "course": "ENGL 170",
+  "semester": "Spring 2026",
+  "title": "ENGL 170 Blog Network",
+  "description": "Aggregated posts from all course blogs",
+  "blogs": [
+    {
+      "author": "Dr. Plate",
+      "url": "https://buildlittleworlds.github.io/plate-composition-blog",
+      "role": "instructor"
+    }
+  ]
+}

@@ -1,0 +1,242 @@
+/*
+  ENGL 170 Blog Network Dashboard
+  Matches the course blog aesthetic: ink, cream, sepia tones
+*/
+
+/* CSS Variables - matching plate-blog */
+:root {
+  --ink-deep: #2C3E50;
+  --ink-medium: #4A6785;
+  --cream: #F5F0E6;
+  --paper: #EDE4D3;
+  --sepia: #8B5A2B;
+  --rust: #A0522D;
+  --text: #333333;
+  --teal: #17A2B8;
+}
+
+/* Reset and base */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 18px;
+  line-height: 1.7;
+  color: var(--text);
+  background: var(--cream);
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 40px 20px;
+}
+
+/* Links */
+a {
+  color: var(--teal);
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* Header */
+header {
+  margin-bottom: 30px;
+  padding-bottom: 20px;
+  border-bottom: 2px solid var(--paper);
+}
+
+header h1 {
+  font-size: 1.6em;
+  font-weight: normal;
+  color: var(--ink-deep);
+  margin-bottom: 5px;
+}
+
+header .subtitle {
+  font-size: 0.95em;
+  color: var(--ink-medium);
+}
+
+/* Filters */
+.filters {
+  display: flex;
+  gap: 20px;
+  flex-wrap: wrap;
+  margin-bottom: 25px;
+  padding: 15px 20px;
+  background: var(--paper);
+  border-radius: 5px;
+}
+
+.filter-row {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.filter-row label {
+  font-size: 0.9em;
+  color: var(--ink-medium);
+}
+
+.filter-row select {
+  font-family: inherit;
+  font-size: 0.9em;
+  padding: 6px 10px;
+  border: 1px solid var(--ink-medium);
+  border-radius: 4px;
+  background: var(--cream);
+  color: var(--text);
+  cursor: pointer;
+}
+
+.filter-row select:focus {
+  outline: 2px solid var(--teal);
+  outline-offset: 1px;
+}
+
+/* Status */
+.status {
+  margin-bottom: 20px;
+  font-size: 0.9em;
+  color: var(--ink-medium);
+}
+
+.status .count {
+  font-weight: 600;
+}
+
+/* Post Feed */
+.post-feed {
+  margin-bottom: 40px;
+}
+
+/* Post Card */
+.post-card {
+  margin-bottom: 25px;
+  padding: 20px;
+  background: white;
+  border-radius: 5px;
+  border-left: 4px solid var(--paper);
+  transition: border-color 0.2s;
+}
+
+.post-card:hover {
+  border-left-color: var(--teal);
+}
+
+.post-card.instructor {
+  border-left-color: var(--sepia);
+}
+
+.post-card.instructor:hover {
+  border-left-color: var(--rust);
+}
+
+.post-card h2 {
+  font-size: 1.2em;
+  font-weight: normal;
+  margin-bottom: 8px;
+  line-height: 1.4;
+}
+
+.post-card h2 a {
+  color: var(--ink-deep);
+}
+
+.post-card h2 a:hover {
+  color: var(--teal);
+}
+
+.post-card .meta {
+  font-size: 0.85em;
+  color: #666;
+  margin-bottom: 10px;
+}
+
+.post-card .meta .author {
+  color: var(--ink-medium);
+}
+
+.post-card .meta .instructor-badge {
+  display: inline-block;
+  font-size: 0.75em;
+  padding: 2px 6px;
+  background: var(--sepia);
+  color: white;
+  border-radius: 3px;
+  margin-left: 8px;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.post-card .read-link {
+  display: inline-block;
+  font-size: 0.9em;
+  margin-top: 8px;
+}
+
+/* Empty State */
+.empty-state {
+  text-align: center;
+  padding: 60px 20px;
+  color: var(--ink-medium);
+}
+
+.empty-state h3 {
+  font-size: 1.2em;
+  font-weight: normal;
+  margin-bottom: 10px;
+}
+
+/* Error State */
+.error-state {
+  text-align: center;
+  padding: 40px 20px;
+  background: #fff3cd;
+  border-radius: 5px;
+  border-left: 4px solid #ffc107;
+}
+
+.error-state p {
+  color: #856404;
+}
+
+/* Footer */
+footer {
+  margin-top: 40px;
+  padding-top: 20px;
+  border-top: 2px solid var(--paper);
+  font-size: 0.85em;
+  color: #666;
+}
+
+footer .footer-note {
+  margin-top: 5px;
+  font-style: italic;
+}
+
+/* Responsive */
+@media (max-width: 600px) {
+  body {
+    padding: 20px 15px;
+  }
+
+  .filters {
+    flex-direction: column;
+    gap: 15px;
+  }
+
+  .post-card {
+    padding: 15px;
+  }
+
+  .post-card h2 {
+    font-size: 1.1em;
+  }
+}

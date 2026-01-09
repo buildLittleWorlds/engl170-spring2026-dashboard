@@ -1,0 +1,28 @@
+{
+  "lastUpdated": "2026-01-09T12:50:25.248Z",
+  "course": "ENGL 170",
+  "semester": "Spring 2026",
+  "totalPosts": 2,
+  "totalBlogs": 1,
+  "blogsWithErrors": [],
+  "posts": [
+    {
+      "title": "What a Ban Can't Teach",
+      "url": "https://buildlittleworlds.github.io/plate-composition-blog/what-a-ban-cant-teach.html",
+      "date": "January 8, 2026",
+      "dateISO": "2026-01-08",
+      "author": "Dr. Plate",
+      "authorRole": "instructor",
+      "blogUrl": "https://buildlittleworlds.github.io/plate-composition-blog"
+    },
+    {
+      "title": "The Agency Paradox",
+      "url": "https://buildlittleworlds.github.io/plate-composition-blog/the-agency-paradox.html",
+      "date": "January 8, 2026",
+      "dateISO": "2026-01-08",
+      "author": "Dr. Plate",
+      "authorRole": "instructor",
+      "blogUrl": "https://buildlittleworlds.github.io/plate-composition-blog"
+    }
+  ]
+}

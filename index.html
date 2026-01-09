@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ENGL 170 Blog Network</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>ENGL 170 Blog Network</h1>
+    <p class="subtitle">Spring 2026 &middot; AI, Writing, and Work</p>
+  </header>
+
+  <main>
+    <section class="filters">
+      <div class="filter-row">
+        <label for="author-filter">Author:</label>
+        <select id="author-filter">
+          <option value="all">All Authors</option>
+        </select>
+      </div>
+      <div class="filter-row">
+        <label for="date-filter">Show:</label>
+        <select id="date-filter">
+          <option value="7">This Week</option>
+          <option value="14">Last 2 Weeks</option>
+          <option value="30">Last Month</option>
+          <option value="all">All Posts</option>
+        </select>
+      </div>
+    </section>
+
+    <section class="status">
+      <p id="status-text">Loading posts...</p>
+    </section>
+
+    <section class="post-feed" id="post-feed">
+      <!-- Posts loaded dynamically -->
+    </section>
+  </main>
+
+  <footer>
+    <p>Last updated: <span id="last-update">—</span></p>
+    <p class="footer-note">Posts are automatically collected from all course blogs.</p>
+  </footer>
+
+  <script src="js/dashboard.js"></script>
+</body>
+</html>

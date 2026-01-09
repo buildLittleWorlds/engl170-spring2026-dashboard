@@ -1,0 +1,57 @@
+name: Scrape Blogs
+
+on:
+  # Run on schedule
+  schedule:
+    # Every 4 hours during normal times
+    - cron: '0 */4 * * *'
+    # More frequently around deadlines (UTC times - adjust for your timezone)
+    # Sunday evening (deadline day) - every hour from 6pm-midnight CST = 0-6 UTC Monday
+    - cron: '0 0-6 * * 1'
+    # Tuesday evening - every hour from 6pm-midnight CST = 0-6 UTC Wednesday
+    - cron: '0 0-6 * * 3'
+    # Thursday evening - every hour from 6pm-midnight CST = 0-6 UTC Friday
+    - cron: '0 0-6 * * 5'
+
+  # Allow manual trigger
+  workflow_dispatch:
+
+  # Run on push to main (for testing)
+  push:
+    branches: [main]
+    paths:
+      - 'config.json'
+      - 'scripts/scraper.js'
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Run scraper
+        run: node scripts/scraper.js
+
+      - name: Check for changes
+        id: git-check
+        run: |
+          git diff --quiet data/posts.json || echo "changed=true" >> $GITHUB_OUTPUT
+
+      - name: Commit and push if changed
+        if: steps.git-check.outputs.changed == 'true'
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add data/posts.json
+          git commit -m "Update posts data [automated]"
+          git push
