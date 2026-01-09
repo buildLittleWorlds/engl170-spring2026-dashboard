@@ -1,11 +1,47 @@
 {
-  "lastUpdated": "2026-01-09T12:59:10.983Z",
+  "lastUpdated": "2026-01-09T12:59:29.276Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 2,
-  "totalBlogs": 1,
+  "totalPosts": 6,
+  "totalBlogs": 3,
   "blogsWithErrors": [],
   "posts": [
+    {
+      "title": "Building on Alpha's Critique",
+      "url": "https://buildlittleworlds.github.io/test-student-beta/building-on-alphas-critique.html",
+      "date": "January 14, 2026",
+      "dateISO": "2026-01-14",
+      "author": "Test Student Beta",
+      "authorRole": "student",
+      "blogUrl": "https://buildlittleworlds.github.io/test-student-beta"
+    },
+    {
+      "title": "Why I Disagree with Dr. Plate",
+      "url": "https://buildlittleworlds.github.io/test-student-alpha/why-i-disagree-with-dr-plate.html",
+      "date": "January 12, 2026",
+      "dateISO": "2026-01-12",
+      "author": "Test Student Alpha",
+      "authorRole": "student",
+      "blogUrl": "https://buildlittleworlds.github.io/test-student-alpha"
+    },
+    {
+      "title": "First Thoughts on This Course",
+      "url": "https://buildlittleworlds.github.io/test-student-beta/first-thoughts.html",
+      "date": "January 11, 2026",
+      "dateISO": "2026-01-11",
+      "author": "Test Student Beta",
+      "authorRole": "student",
+      "blogUrl": "https://buildlittleworlds.github.io/test-student-beta"
+    },
+    {
+      "title": "Starting This Journey",
+      "url": "https://buildlittleworlds.github.io/test-student-alpha/my-first-post.html",
+      "date": "January 10, 2026",
+      "dateISO": "2026-01-10",
+      "author": "Test Student Alpha",
+      "authorRole": "student",
+      "blogUrl": "https://buildlittleworlds.github.io/test-student-alpha"
+    },
     {
       "title": "What a Ban Can't Teach",
       "url": "https://buildlittleworlds.github.io/plate-composition-blog/what-a-ban-cant-teach.html",

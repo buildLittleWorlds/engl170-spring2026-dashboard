@@ -8,6 +8,16 @@
       "author": "Dr. Plate",
       "url": "https://buildlittleworlds.github.io/plate-composition-blog",
       "role": "instructor"
+    },
+    {
+      "author": "Test Student Alpha",
+      "url": "https://buildlittleworlds.github.io/test-student-alpha",
+      "role": "student"
+    },
+    {
+      "author": "Test Student Beta",
+      "url": "https://buildlittleworlds.github.io/test-student-beta",
+      "role": "student"
     }
   ]
 }
