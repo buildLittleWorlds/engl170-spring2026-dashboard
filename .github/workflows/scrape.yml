@@ -1,17 +1,9 @@
 name: Scrape Blogs
 
 on:
-  # Run on schedule
+  # Run every hour on the hour
   schedule:
-    # Every 4 hours during normal times
-    - cron: '0 */4 * * *'
-    # More frequently around deadlines (UTC times - adjust for your timezone)
-    # Sunday evening (deadline day) - every hour from 6pm-midnight CST = 0-6 UTC Monday
-    - cron: '0 0-6 * * 1'
-    # Tuesday evening - every hour from 6pm-midnight CST = 0-6 UTC Wednesday
-    - cron: '0 0-6 * * 3'
-    # Thursday evening - every hour from 6pm-midnight CST = 0-6 UTC Friday
-    - cron: '0 0-6 * * 5'
+    - cron: '0 * * * *'
 
   # Allow manual trigger
   workflow_dispatch:
