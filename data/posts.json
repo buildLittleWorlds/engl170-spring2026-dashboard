@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-01-11T14:56:50.291Z",
+  "lastUpdated": "2026-01-11T15:08:50.557Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 4,
+  "totalPosts": 5,
   "totalBlogs": 2,
   "blogsWithErrors": [],
   "posts": [
@@ -14,6 +14,15 @@
       "author": "Test Student Alpha",
       "authorRole": "student",
       "blogUrl": "https://buildlittleworlds.github.io/test-student-alpha"
+    },
+    {
+      "title": "Thinking at a Higher Level",
+      "url": "https://buildlittleworlds.github.io/plate-composition-blog/thinking-at-a-higher-level.html",
+      "date": "January 11, 2026",
+      "dateISO": "2026-01-11",
+      "author": "Dr. Plate",
+      "authorRole": "instructor",
+      "blogUrl": "https://buildlittleworlds.github.io/plate-composition-blog"
     },
     {
       "title": "Starting This Journey",
