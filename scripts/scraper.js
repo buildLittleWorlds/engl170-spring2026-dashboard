@@ -132,9 +132,12 @@ async function main() {
   console.log('Reading config...');
   const config = JSON.parse(fs.readFileSync(configPath, 'utf8'));
 
+  // Filter to only active blogs (active defaults to true if not specified)
+  const activeBlogs = config.blogs.filter(blog => blog.active !== false);
+
   // Fetch all blogs in parallel
-  console.log(`\nFetching ${config.blogs.length} blog(s)...\n`);
-  const results = await Promise.all(config.blogs.map(fetchBlog));
+  console.log(`\nFetching ${activeBlogs.length} active blog(s) (${config.blogs.length - activeBlogs.length} inactive)...\n`);
+  const results = await Promise.all(activeBlogs.map(fetchBlog));
 
   // Aggregate all posts
   const allPosts = results.flatMap(r => r.posts);
@@ -153,7 +156,7 @@ async function main() {
     course: config.course,
     semester: config.semester,
     totalPosts: allPosts.length,
-    totalBlogs: config.blogs.length,
+    totalBlogs: activeBlogs.length,
     blogsWithErrors: results.filter(r => r.error).map(r => ({
       author: r.blog.author,
       error: r.error

@@ -17,7 +17,8 @@
     {
       "author": "Test Student Beta",
       "url": "https://buildlittleworlds.github.io/test-student-beta",
-      "role": "student"
+      "role": "student",
+      "active": false
     }
   ]
 }
