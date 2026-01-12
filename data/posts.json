@@ -1,11 +1,20 @@
 {
-  "lastUpdated": "2026-01-12T12:54:36.187Z",
+  "lastUpdated": "2026-01-12T13:20:04.807Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 6,
+  "totalPosts": 7,
   "totalBlogs": 2,
   "blogsWithErrors": [],
   "posts": [
+    {
+      "title": "The Book and the Chatbot",
+      "url": "https://buildlittleworlds.github.io/plate-composition-blog/the-book-and-the-chatbot.html",
+      "date": "January 12, 2026",
+      "dateISO": "2026-01-12",
+      "author": "Dr. Plate",
+      "authorRole": "instructor",
+      "blogUrl": "https://buildlittleworlds.github.io/plate-composition-blog"
+    },
     {
       "title": "The Ocean in the Chatbot",
       "url": "https://buildlittleworlds.github.io/plate-composition-blog/the-ocean-in-the-chatbot.html",
