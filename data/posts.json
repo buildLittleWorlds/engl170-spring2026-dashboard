@@ -1,11 +1,20 @@
 {
-  "lastUpdated": "2026-01-12T21:16:43.435Z",
+  "lastUpdated": "2026-01-12T21:31:35.633Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 7,
+  "totalPosts": 8,
   "totalBlogs": 3,
   "blogsWithErrors": [],
   "posts": [
+    {
+      "title": "Two Theories of Safety",
+      "url": "https://buildlittleworlds.github.io/plate-composition-blog/two-theories-of-safety.html",
+      "date": "January 12, 2026",
+      "dateISO": "2026-01-12",
+      "author": "Dr. Plate",
+      "authorRole": "instructor",
+      "blogUrl": "https://buildlittleworlds.github.io/plate-composition-blog"
+    },
     {
       "title": "The Book and the Chatbot",
       "url": "https://buildlittleworlds.github.io/plate-composition-blog/the-book-and-the-chatbot.html",
