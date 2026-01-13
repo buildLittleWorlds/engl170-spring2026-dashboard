@@ -1,11 +1,20 @@
 {
-  "lastUpdated": "2026-01-13T23:00:13.414Z",
+  "lastUpdated": "2026-01-13T23:10:36.445Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 8,
-  "totalBlogs": 3,
+  "totalPosts": 9,
+  "totalBlogs": 4,
   "blogsWithErrors": [],
   "posts": [
+    {
+      "title": "My First Post",
+      "url": "https://buildlittleworlds.github.io/first-post.html",
+      "date": "January 13, 2026",
+      "dateISO": "2026-01-13",
+      "author": "Test Blog",
+      "authorRole": "student",
+      "blogUrl": "https://buildlittleworlds.github.io"
+    },
     {
       "title": "Two Theories of Safety",
       "url": "https://buildlittleworlds.github.io/plate-composition-blog/two-theories-of-safety.html",
