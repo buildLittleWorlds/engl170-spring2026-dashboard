@@ -24,6 +24,11 @@
       "url": "https://buildlittleworlds.github.io/test-student-beta",
       "role": "student",
       "active": false
+    },
+    {
+      "author": "Test Blog",
+      "url": "https://buildlittleworlds.github.io",
+      "role": "student"
     }
   ]
 }
