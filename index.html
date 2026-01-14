@@ -4,45 +4,73 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>ENGL 170 Blog Network</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,600;1,400&family=Instrument+Sans:wght@400;500;600&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
-  <header>
-    <h1>ENGL 170 Blog Network</h1>
-    <p class="subtitle">Spring 2026 &middot; AI, Writing, and Work</p>
+  <div class="grain-overlay"></div>
+
+  <header class="site-header">
+    <div class="header-content">
+      <div class="masthead">
+        <span class="issue-label">Spring 2026</span>
+        <h1 class="site-title">The Network</h1>
+        <p class="site-subtitle">ENGL 170 · Composition II</p>
+      </div>
+      <div class="network-pulse">
+        <span class="pulse-dot"></span>
+        <span class="pulse-label">Live Feed</span>
+      </div>
+    </div>
   </header>
 
-  <main>
-    <section class="filters">
-      <div class="filter-row">
-        <label for="author-filter">Author:</label>
-        <select id="author-filter">
-          <option value="all">All Authors</option>
+  <nav class="filter-bar">
+    <div class="filter-inner">
+      <div class="filter-group">
+        <label for="author-filter" class="filter-label">Voice</label>
+        <select id="author-filter" class="filter-select">
+          <option value="all">All Writers</option>
         </select>
       </div>
-      <div class="filter-row">
-        <label for="date-filter">Show:</label>
-        <select id="date-filter">
+      <div class="filter-group">
+        <label for="date-filter" class="filter-label">Window</label>
+        <select id="date-filter" class="filter-select">
           <option value="7">This Week</option>
           <option value="14">Last 2 Weeks</option>
           <option value="30">Last Month</option>
-          <option value="all">All Posts</option>
+          <option value="all">All Time</option>
         </select>
       </div>
+      <div class="filter-status">
+        <span id="status-text">Loading...</span>
+      </div>
+    </div>
+  </nav>
+
+  <main class="main-content">
+    <section class="featured-section" id="featured-section">
+      <!-- Featured post loaded dynamically -->
     </section>
 
-    <section class="status">
-      <p id="status-text">Loading posts...</p>
-    </section>
-
-    <section class="post-feed" id="post-feed">
+    <section class="post-grid" id="post-feed">
       <!-- Posts loaded dynamically -->
     </section>
   </main>
 
-  <footer>
-    <p>Last updated: <span id="last-update">—</span></p>
-    <p class="footer-note">Posts are automatically collected from all course blogs.</p>
+  <footer class="site-footer">
+    <div class="footer-content">
+      <div class="footer-left">
+        <p class="update-time">Last collected: <span id="last-update">—</span></p>
+        <p class="footer-note">Posts flow in automatically from all course blogs</p>
+      </div>
+      <div class="footer-right">
+        <div class="network-stats" id="network-stats">
+          <!-- Stats loaded dynamically -->
+        </div>
+      </div>
+    </div>
   </footer>
 
   <script src="js/dashboard.js"></script>

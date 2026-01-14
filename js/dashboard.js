@@ -1,6 +1,7 @@
 /**
  * ENGL 170 Blog Network Dashboard
  * Client-side logic for displaying and filtering aggregated posts
+ * Redesigned with editorial magazine aesthetic
  */
 
 (function () {
@@ -8,13 +9,16 @@
 
   let allPosts = [];
   let authors = new Set();
+  let totalBlogs = 0;
 
   // DOM Elements
   const postFeed = document.getElementById('post-feed');
+  const featuredSection = document.getElementById('featured-section');
   const authorFilter = document.getElementById('author-filter');
   const dateFilter = document.getElementById('date-filter');
   const statusText = document.getElementById('status-text');
   const lastUpdate = document.getElementById('last-update');
+  const networkStats = document.getElementById('network-stats');
 
   // Initialize
   async function init() {
@@ -22,6 +26,7 @@
       await loadPosts();
       setupFilters();
       renderPosts();
+      renderStats();
     } catch (error) {
       showError(error.message);
     }
@@ -38,6 +43,7 @@
     const data = await response.json();
 
     allPosts = data.posts || [];
+    totalBlogs = data.totalBlogs || 0;
 
     // Collect unique authors
     allPosts.forEach(post => {
@@ -107,38 +113,102 @@
 
     // Render
     if (filtered.length === 0) {
+      featuredSection.innerHTML = '';
       showEmpty();
     } else {
-      postFeed.innerHTML = filtered.map(renderPostCard).join('');
+      // Render featured post (most recent)
+      renderFeatured(filtered[0]);
+
+      // Render remaining posts in grid
+      const remainingPosts = filtered.slice(1);
+      if (remainingPosts.length > 0) {
+        postFeed.innerHTML = remainingPosts.map((post, index) =>
+          renderPostCard(post, index)
+        ).join('');
+      } else {
+        postFeed.innerHTML = '';
+      }
     }
   }
 
+  // Render featured post
+  function renderFeatured(post) {
+    const isInstructor = post.authorRole === 'instructor';
+    const dateDisplay = post.date || 'Date unknown';
+
+    featuredSection.innerHTML = `
+      <article class="featured-card">
+        <span class="featured-label">Latest</span>
+        <div class="featured-content">
+          <h2 class="featured-title">
+            <a href="${escapeHtml(post.url)}" target="_blank" rel="noopener">${escapeHtml(post.title)}</a>
+          </h2>
+          <div class="featured-meta">
+            <p class="featured-author">
+              by <span class="name">${escapeHtml(post.author)}</span>
+              ${isInstructor ? '<span class="instructor-tag">Instructor</span>' : ''}
+            </p>
+            <p class="featured-date">${escapeHtml(dateDisplay)}</p>
+          </div>
+        </div>
+        <div class="featured-visual"></div>
+      </article>
+    `;
+  }
+
   // Render a single post card
-  function renderPostCard(post) {
+  function renderPostCard(post, index) {
     const isInstructor = post.authorRole === 'instructor';
     const cardClass = isInstructor ? 'post-card instructor' : 'post-card';
-    const badge = isInstructor ? '<span class="instructor-badge">Instructor</span>' : '';
-
     const dateDisplay = post.date || 'Date unknown';
 
     return `
-      <article class="${cardClass}">
-        <h2><a href="${escapeHtml(post.url)}" target="_blank" rel="noopener">${escapeHtml(post.title)}</a></h2>
-        <p class="meta">
-          <span class="author">${escapeHtml(post.author)}</span>${badge}
-          &middot; ${escapeHtml(dateDisplay)}
-        </p>
-        <a class="read-link" href="${escapeHtml(post.url)}" target="_blank" rel="noopener">Read post &rarr;</a>
+      <article class="${cardClass}" style="animation-delay: ${0.05 + (index * 0.05)}s">
+        <h2 class="post-title">
+          <a href="${escapeHtml(post.url)}" target="_blank" rel="noopener">${escapeHtml(post.title)}</a>
+        </h2>
+        <div class="post-meta">
+          <span class="post-author">
+            <span class="author-indicator"></span>
+            <span class="post-author-name">${escapeHtml(post.author)}</span>
+            ${isInstructor ? '<span class="instructor-tag">Instructor</span>' : ''}
+          </span>
+          <span class="post-date">${escapeHtml(dateDisplay)}</span>
+        </div>
+        <a class="post-link" href="${escapeHtml(post.url)}" target="_blank" rel="noopener">
+          Read post <span class="post-link-arrow">→</span>
+        </a>
       </article>
+    `;
+  }
+
+  // Render network statistics
+  function renderStats() {
+    const studentPosts = allPosts.filter(p => p.authorRole !== 'instructor').length;
+    const instructorPosts = allPosts.filter(p => p.authorRole === 'instructor').length;
+
+    networkStats.innerHTML = `
+      <div class="stat-item">
+        <span class="stat-value">${allPosts.length}</span>
+        <span class="stat-label">Total Posts</span>
+      </div>
+      <div class="stat-item">
+        <span class="stat-value">${totalBlogs}</span>
+        <span class="stat-label">Active Blogs</span>
+      </div>
+      <div class="stat-item">
+        <span class="stat-value">${authors.size}</span>
+        <span class="stat-label">Writers</span>
+      </div>
     `;
   }
 
   // Update status text
   function updateStatus(showing, total) {
     if (showing === total) {
-      statusText.innerHTML = `Showing <span class="count">${total}</span> post${total !== 1 ? 's' : ''}`;
+      statusText.innerHTML = `<span class="count">${total}</span> post${total !== 1 ? 's' : ''} in the network`;
     } else {
-      statusText.innerHTML = `Showing <span class="count">${showing}</span> of ${total} posts`;
+      statusText.innerHTML = `Showing <span class="count">${showing}</span> of ${total}`;
     }
   }
 
@@ -155,9 +225,10 @@
   // Show error state
   function showError(message) {
     statusText.textContent = '';
+    featuredSection.innerHTML = '';
     postFeed.innerHTML = `
       <div class="error-state">
-        <p><strong>Unable to load posts</strong></p>
+        <h3>Unable to load posts</h3>
         <p>${escapeHtml(message)}</p>
       </div>
     `;
