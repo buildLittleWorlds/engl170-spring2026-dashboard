@@ -79,7 +79,7 @@ This requirement is documented in the student GitHub Pages setup instructions.
 ```
 engl170-dashboard/
 ├── index.html                 # Dashboard webpage
-├── style.css                  # Styling (ink/cream/sepia academic aesthetic)
+├── style.css                  # Styling (editorial/literary magazine aesthetic)
 ├── config.json                # List of all blog URLs
 ├── data/
 │   └── posts.json             # Aggregated post data (auto-generated)
@@ -158,17 +158,18 @@ Posts are sorted by date, newest first.
 ## Dashboard Features
 
 ### Display
-- Post cards showing title, author, date
-- Click to visit original post
-- Instructor posts have a visual badge
+- **Featured post**: Most recent post displayed prominently at top
+- **Post grid**: Remaining posts in responsive card layout
+- **Network stats**: Footer shows total posts, active blogs, and writer count
+- Instructor posts have visual distinction (warm accent, badge)
 
 ### Filtering
-- **By Author**: Dropdown to see one person's posts
-- **By Date**: This week / Last 2 weeks / Last month / All posts
+- **By Author**: Dropdown labeled "Voice" to see one person's posts
+- **By Date**: "Window" dropdown for This week / Last 2 weeks / Last month / All time
 
 ### Automatic Updates
 - Scraper runs every hour via GitHub Actions
-- Dashboard shows "Last updated: X minutes ago"
+- Dashboard shows "Last collected: X minutes ago"
 
 ## Scraper Details
 
@@ -217,14 +218,210 @@ The scraper (`scripts/scraper.js`) uses this fallback strategy:
 - Verify the blog's `index.html` uses the `post-list` format
 - Check GitHub Actions logs for specific error messages
 
-## Design Aesthetic
+---
 
-The dashboard matches the course's visual identity:
+## Front-End Design System
 
-- **Colors**: Ink (#2C3E50), cream (#F5F0E6), sepia (#8B5A2B)
-- **Typography**: Georgia serif font
-- **Style**: Clean, academic, no images
-- **Responsive**: Works on mobile devices
+The dashboard uses an **editorial / literary magazine aesthetic**—dark, sophisticated, and typography-forward. This section documents the complete design system for replicating in other dashboards.
+
+### Design Philosophy
+
+- **Tone**: Refined digital publication, like *The Paris Review* meets modern web
+- **Mood**: Intellectual, sophisticated, writing-focused
+- **Key features**: Strong typography hierarchy, dramatic dark palette, warm amber accents, subtle animations
+
+### Typography
+
+**Fonts** (loaded from Google Fonts):
+
+```html
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,600;1,400&family=Instrument+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+```
+
+| Purpose | Font | Usage |
+|---------|------|-------|
+| Display | Cormorant Garamond (italic) | Site title, post titles, featured title, stats |
+| Body | Instrument Sans | All other text, labels, metadata, UI elements |
+
+**Type Scale**:
+- Site title: `clamp(2.5rem, 6vw, 4rem)` — fluid, dramatic
+- Featured title: `clamp(1.75rem, 3vw, 2.25rem)`
+- Post titles: `1.35rem`
+- Body text: `1rem` (16px base)
+- Labels/meta: `0.75rem - 0.875rem`
+- Micro text (tags): `0.65rem`
+
+### Color Palette
+
+**CSS Variables** (defined in `:root`):
+
+```css
+:root {
+  /* Backgrounds - deep charcoal progression */
+  --bg-deep: #0D0D0F;      /* Page background */
+  --bg-surface: #151518;    /* Cards, header */
+  --bg-elevated: #1C1C21;   /* Hover states, inputs */
+  --bg-hover: #252529;      /* Active states */
+
+  /* Text hierarchy - cream to muted */
+  --text-primary: #F5F3F0;   /* Headings, important */
+  --text-secondary: #A8A5A0; /* Body text */
+  --text-tertiary: #6B6863;  /* Labels, dates */
+  --text-muted: #4A4845;     /* Least important */
+
+  /* Accent - warm amber/copper */
+  --accent-warm: #C4956A;        /* Primary accent */
+  --accent-warm-muted: #8B6B4A;  /* Subtle accent */
+  --accent-highlight: #E8D5C4;   /* Hover accent */
+  --accent-glow: rgba(196, 149, 106, 0.15); /* Background glow */
+
+  /* Borders */
+  --border-subtle: rgba(168, 165, 160, 0.08);
+  --border-medium: rgba(168, 165, 160, 0.15);
+  --border-accent: rgba(196, 149, 106, 0.3);
+}
+```
+
+### Layout Structure
+
+```
+┌─────────────────────────────────────────────────────────┐
+│  HEADER                                                 │
+│  ┌─────────────────────────────────────────────────┐   │
+│  │ Spring 2026                                     │   │
+│  │ The Network (italic, large)                     │   │
+│  │ ENGL 170 · Composition II                       │   │
+│  └─────────────────────────────────────────────────┘   │
+├─────────────────────────────────────────────────────────┤
+│  FILTER BAR (sticky)                                    │
+│  Voice: [dropdown]  Window: [dropdown]    X posts...   │
+├─────────────────────────────────────────────────────────┤
+│  MAIN CONTENT                                           │
+│  ┌─────────────────────────────────────────────────┐   │
+│  │  FEATURED POST (2-column card)                   │   │
+│  │  Latest | Title | Author | Date | Visual        │   │
+│  └─────────────────────────────────────────────────┘   │
+│                                                         │
+│  ┌─────────┐ ┌─────────┐ ┌─────────┐                   │
+│  │ Post    │ │ Post    │ │ Post    │  ← Grid           │
+│  │ Card    │ │ Card    │ │ Card    │                   │
+│  └─────────┘ └─────────┘ └─────────┘                   │
+├─────────────────────────────────────────────────────────┤
+│  FOOTER                                                 │
+│  Last collected: X ago          10 Posts | 4 Blogs     │
+└─────────────────────────────────────────────────────────┘
+```
+
+**Grid**: `repeat(auto-fill, minmax(340px, 1fr))` — responsive cards
+
+### Component Patterns
+
+#### Featured Post Card
+- 2-column grid layout (content | visual)
+- Left accent bar (4px gradient)
+- "Latest" label badge
+- Large decorative quotation mark in visual area
+- Lifts on hover with shadow
+
+#### Post Card
+- Rounded corners (`10px`)
+- Subtle border, accent border on hover
+- Staggered fade-in animation on load
+- "Read post →" link slides in on hover
+- Instructor cards have warm gradient background and accent dot
+
+#### Filter Controls
+- Uppercase micro labels ("VOICE", "WINDOW")
+- Custom select styling with SVG dropdown arrow
+- Accent glow on focus
+
+#### Instructor Distinction
+- Warm gradient background
+- Amber accent dot (top-right)
+- "INSTRUCTOR" tag badge
+- Glowing author indicator dot
+
+### Visual Effects
+
+**Grain Overlay**:
+```css
+.grain-overlay {
+  position: fixed;
+  pointer-events: none;
+  z-index: 1000;
+  opacity: 0.03;
+  background-image: url("data:image/svg+xml,..."); /* SVG noise filter */
+}
+```
+
+**Header Accent Line**:
+```css
+.site-header::before {
+  background: linear-gradient(90deg, transparent 0%, var(--accent-warm-muted) 50%, transparent 100%);
+}
+```
+
+**Card Hover**:
+```css
+.post-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 12px 40px -12px rgba(0, 0, 0, 0.4);
+  border-color: var(--border-accent);
+}
+```
+
+**Staggered Animation**:
+```css
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(12px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+.post-card:nth-child(1) { animation-delay: 0.05s; }
+.post-card:nth-child(2) { animation-delay: 0.1s; }
+/* etc. */
+```
+
+### Responsive Breakpoints
+
+| Breakpoint | Changes |
+|------------|---------|
+| `900px` | Featured card becomes single column |
+| `768px` | Header stacks, filter bar stacks, grid becomes single column |
+| `480px` | Reduced padding, smaller titles |
+
+### Spacing Scale
+
+```css
+--space-xs: 0.25rem;   /* 4px */
+--space-sm: 0.5rem;    /* 8px */
+--space-md: 1rem;      /* 16px */
+--space-lg: 1.5rem;    /* 24px */
+--space-xl: 2rem;      /* 32px */
+--space-2xl: 3rem;     /* 48px */
+--space-3xl: 4rem;     /* 64px */
+```
+
+### Adapting for Another Course
+
+To replicate this design for a different course dashboard:
+
+1. **Copy these files**: `index.html`, `style.css`, `js/dashboard.js`
+
+2. **Update text content in `index.html`**:
+   - Change "Spring 2026" to your semester
+   - Change "The Network" title if desired
+   - Change "ENGL 170 · Composition II" to your course
+
+3. **Update `config.json`** with your course info and blog URLs
+
+4. **Optional customizations**:
+   - Change `--accent-warm` color family for a different accent
+   - Modify the site title in `.site-title`
+   - Adjust filter labels ("Voice", "Window") if desired
+
+The scraper and data format remain the same—only the front-end styling and text change.
+
+---
 
 ## Related Files (Outside This Repository)
 
