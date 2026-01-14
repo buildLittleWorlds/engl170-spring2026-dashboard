@@ -10,24 +10,43 @@
       "role": "instructor"
     },
     {
+      "author": "Olivia Andresen",
+      "url": "https://olliebear2006ya-dotcom.github.io/Olivias-Disney-Blog",
+      "role": "student"
+    },
+    {
+      "author": "Gabriel Bell",
+      "url": "https://gabriel-bell.github.io",
+      "role": "student"
+    },
+    {
+      "author": "Jacob Brunts",
+      "url": "https://jrbrunts.github.io",
+      "role": "student"
+    },
+    {
+      "author": "Emani Gerdine",
+      "url": "https://emanigerdine7-ops.github.io",
+      "role": "student"
+    },
+    {
       "author": "Jinx Hixson",
       "url": "https://jinxxywrites.github.io/Psyched-for-Psychology",
       "role": "student"
     },
     {
-      "author": "Test Student Alpha",
-      "url": "https://buildlittleworlds.github.io/test-student-alpha",
+      "author": "Sam Levine",
+      "url": "https://samlevine277.github.io",
       "role": "student"
     },
     {
-      "author": "Test Student Beta",
-      "url": "https://buildlittleworlds.github.io/test-student-beta",
-      "role": "student",
-      "active": false
+      "author": "Eliana Nodari",
+      "url": "https://eliananodari.github.io",
+      "role": "student"
     },
     {
-      "author": "Test Blog",
-      "url": "https://buildlittleworlds.github.io",
+      "author": "Jonas Rodrigues",
+      "url": "https://qubitn.github.io",
       "role": "student"
     }
   ]
