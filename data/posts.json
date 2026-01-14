@@ -1,11 +1,20 @@
 {
-  "lastUpdated": "2026-01-14T02:00:57.340Z",
+  "lastUpdated": "2026-01-14T02:32:47.351Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 9,
+  "totalPosts": 10,
   "totalBlogs": 4,
   "blogsWithErrors": [],
   "posts": [
+    {
+      "title": "What We Outsource To",
+      "url": "https://buildlittleworlds.github.io/plate-composition-blog/what-we-outsource-to.html",
+      "date": "January 13, 2026",
+      "dateISO": "2026-01-13",
+      "author": "Dr. Plate",
+      "authorRole": "instructor",
+      "blogUrl": "https://buildlittleworlds.github.io/plate-composition-blog"
+    },
     {
       "title": "My First Post",
       "url": "https://buildlittleworlds.github.io/first-post.html",
