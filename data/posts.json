@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-14T16:10:12.206Z",
+  "lastUpdated": "2026-01-14T16:26:54.750Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
   "totalPosts": 11,
@@ -16,6 +16,15 @@
       "blogUrl": "https://buildlittleworlds.github.io/plate-composition-blog"
     },
     {
+      "title": "Welcome to My Space Blog",
+      "url": "https://buildlittleworlds.github.io/first-post.html",
+      "date": "January 14, 2026",
+      "dateISO": "2026-01-14",
+      "author": "Test Blog",
+      "authorRole": "student",
+      "blogUrl": "https://buildlittleworlds.github.io"
+    },
+    {
       "title": "What We Outsource To",
       "url": "https://buildlittleworlds.github.io/plate-composition-blog/what-we-outsource-to.html",
       "date": "January 13, 2026",
@@ -23,15 +32,6 @@
       "author": "Dr. Plate",
       "authorRole": "instructor",
       "blogUrl": "https://buildlittleworlds.github.io/plate-composition-blog"
-    },
-    {
-      "title": "My First Post",
-      "url": "https://buildlittleworlds.github.io/first-post.html",
-      "date": "January 13, 2026",
-      "dateISO": "2026-01-13",
-      "author": "Test Blog",
-      "authorRole": "student",
-      "blogUrl": "https://buildlittleworlds.github.io"
     },
     {
       "title": "Two Theories of Safety",
