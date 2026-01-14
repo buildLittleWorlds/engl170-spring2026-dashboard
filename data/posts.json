@@ -1,11 +1,20 @@
 {
-  "lastUpdated": "2026-01-14T16:47:09.006Z",
+  "lastUpdated": "2026-01-14T17:01:21.638Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 11,
+  "totalPosts": 13,
   "totalBlogs": 4,
   "blogsWithErrors": [],
   "posts": [
+    {
+      "title": "The Fluency Illusion: AI-Induced Learned Helplessness",
+      "url": "https://jinxxywrites.github.io/Psyched-for-Psychology/fluency-illusion-helplessness.html",
+      "date": "January 15, 2026",
+      "dateISO": "2026-01-15",
+      "author": "Jinx Hixson",
+      "authorRole": "student",
+      "blogUrl": "https://jinxxywrites.github.io/Psyched-for-Psychology"
+    },
     {
       "title": "The Fluency Illusion",
       "url": "https://buildlittleworlds.github.io/plate-composition-blog/the-fluency-illusion.html",
@@ -32,6 +41,15 @@
       "author": "Dr. Plate",
       "authorRole": "instructor",
       "blogUrl": "https://buildlittleworlds.github.io/plate-composition-blog"
+    },
+    {
+      "title": "\"Mastermind\" Machinery: AI, Agency, and Mental Health",
+      "url": "https://jinxxywrites.github.io/Psyched-for-Psychology/ai-mental-health-agency.html",
+      "date": "January 13, 2026",
+      "dateISO": "2026-01-13",
+      "author": "Jinx Hixson",
+      "authorRole": "student",
+      "blogUrl": "https://jinxxywrites.github.io/Psyched-for-Psychology"
     },
     {
       "title": "Two Theories of Safety",
