@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-01-14T22:25:17.261Z",
+  "lastUpdated": "2026-01-14T22:28:49.030Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 18,
-  "totalBlogs": 9,
+  "totalPosts": 19,
+  "totalBlogs": 10,
   "blogsWithErrors": [],
   "posts": [
     {
@@ -32,6 +32,15 @@
       "author": "Jinx Hixson",
       "authorRole": "student",
       "blogUrl": "https://jinxxywrites.github.io/Psyched-for-Psychology"
+    },
+    {
+      "title": "Banning AI in the Classroom: Helpful or Not?",
+      "url": "https://lukesum.github.io/banning-ai-in-the-classroom.html",
+      "date": "January 15, 2026",
+      "dateISO": "2026-01-15",
+      "author": "Luke Sumner",
+      "authorRole": "student",
+      "blogUrl": "https://lukesum.github.io"
     },
     {
       "title": "The Fluency Illusion",
