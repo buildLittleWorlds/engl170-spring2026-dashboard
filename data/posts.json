@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-15T22:09:55.514Z",
+  "lastUpdated": "2026-01-15T22:25:09.249Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
   "totalPosts": 21,
@@ -52,6 +52,15 @@
       "blogUrl": "https://jinxxywrites.github.io/Psyched-for-Psychology"
     },
     {
+      "title": "Using AI to Elevate Thinking",
+      "url": "https://eliananodari.github.io/relocating-thinking.html",
+      "date": "January 15, 2026",
+      "dateISO": "2026-01-15",
+      "author": "Eliana Nodari",
+      "authorRole": "student",
+      "blogUrl": "https://eliananodari.github.io"
+    },
+    {
       "title": "Banning AI in the Classroom: Helpful or Not?",
       "url": "https://lukesum.github.io/banning-ai-in-the-classroom.html",
       "date": "January 15, 2026",
@@ -77,15 +86,6 @@
       "author": "Gabriel Bell",
       "authorRole": "student",
       "blogUrl": "https://gabriel-bell.github.io"
-    },
-    {
-      "title": "first post",
-      "url": "https://eliananodari.github.io/first-post.html",
-      "date": "January 14, 2026",
-      "dateISO": "2026-01-14",
-      "author": "Eliana Nodari",
-      "authorRole": "student",
-      "blogUrl": "https://eliananodari.github.io"
     },
     {
       "title": "First Post Test",
