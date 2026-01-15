@@ -1,11 +1,20 @@
 {
-  "lastUpdated": "2026-01-15T03:20:30.573Z",
+  "lastUpdated": "2026-01-15T03:54:27.709Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 19,
+  "totalPosts": 20,
   "totalBlogs": 10,
   "blogsWithErrors": [],
   "posts": [
+    {
+      "title": "My Thoughts on AI Affecting The Ocean",
+      "url": "https://samlevine277.github.io/responding-to-dr-plate.html",
+      "date": "January 18, 2026",
+      "dateISO": "2026-01-18",
+      "author": "Sam Levine",
+      "authorRole": "student",
+      "blogUrl": "https://samlevine277.github.io"
+    },
     {
       "title": "My Thoughts on AI Writing Tools",
       "url": "https://samlevine277.github.io/my-first-post.html",
