@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-01-15T18:49:35.603Z",
+  "lastUpdated": "2026-01-15T19:04:36.128Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 20,
+  "totalPosts": 21,
   "totalBlogs": 10,
   "blogsWithErrors": [],
   "posts": [
@@ -23,6 +23,15 @@
       "author": "Sam Levine",
       "authorRole": "student",
       "blogUrl": "https://samlevine277.github.io"
+    },
+    {
+      "title": "The Green Mask: What We’re Really Hiding Behind",
+      "url": "https://jrbrunts.github.io/the-green-mask.html",
+      "date": "January 15, 2026",
+      "dateISO": "2026-01-15",
+      "author": "Jacob Brunts",
+      "authorRole": "student",
+      "blogUrl": "https://jrbrunts.github.io"
     },
     {
       "title": "My First Post Title",
