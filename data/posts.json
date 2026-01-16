@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-01-16T23:28:11.588Z",
+  "lastUpdated": "2026-01-16T23:39:24.708Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 32,
+  "totalPosts": 30,
   "totalBlogs": 15,
   "blogsWithErrors": [],
   "posts": [
@@ -151,15 +151,6 @@
       "blogUrl": "https://dominicdebro.github.io"
     },
     {
-      "title": "The Loud Lie Economy: Why Exaggeration Goes Viral and Truth Doesn't",
-      "url": "https://buildlittleworlds.github.io/the-loud-lie-economy.html",
-      "date": "January 15, 2026",
-      "dateISO": "2026-01-15",
-      "author": "Mr Spock",
-      "authorRole": "student",
-      "blogUrl": "https://buildlittleworlds.github.io/"
-    },
-    {
       "title": "The Fluency Illusion",
       "url": "https://buildlittleworlds.github.io/plate-composition-blog/the-fluency-illusion.html",
       "date": "January 14, 2026",
@@ -176,15 +167,6 @@
       "author": "Gabriel Bell",
       "authorRole": "student",
       "blogUrl": "https://gabriel-bell.github.io"
-    },
-    {
-      "title": "Welcome to My Space Blog",
-      "url": "https://buildlittleworlds.github.io/first-post.html",
-      "date": "January 14, 2026",
-      "dateISO": "2026-01-14",
-      "author": "Mr Spock",
-      "authorRole": "student",
-      "blogUrl": "https://buildlittleworlds.github.io/"
     },
     {
       "title": "What We Outsource To",
