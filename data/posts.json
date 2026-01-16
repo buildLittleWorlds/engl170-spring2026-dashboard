@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-01-16T13:09:10.295Z",
+  "lastUpdated": "2026-01-16T13:28:55.020Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 23,
+  "totalPosts": 24,
   "totalBlogs": 11,
   "blogsWithErrors": [],
   "posts": [
@@ -23,6 +23,15 @@
       "author": "Sam Levine",
       "authorRole": "student",
       "blogUrl": "https://samlevine277.github.io"
+    },
+    {
+      "title": "The Planning Is the Thinking",
+      "url": "https://buildlittleworlds.github.io/plate-composition-blog/the-planning-is-the-thinking.html",
+      "date": "January 16, 2026",
+      "dateISO": "2026-01-16",
+      "author": "Dr. Plate",
+      "authorRole": "instructor",
+      "blogUrl": "https://buildlittleworlds.github.io/plate-composition-blog"
     },
     {
       "title": "The Green Mask: What We’re Really Hiding Behind",
