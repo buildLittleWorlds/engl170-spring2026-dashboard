@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-16T19:56:16.943Z",
+  "lastUpdated": "2026-01-16T20:09:58.307Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
   "totalPosts": 31,
@@ -70,6 +70,15 @@
       "blogUrl": "https://emanigerdine7-ops.github.io"
     },
     {
+      "title": "Myths and Truths about AI and the Environment",
+      "url": "https://eliananodari.github.io/ai-and-the-environment.html",
+      "date": "January 16, 2026",
+      "dateISO": "2026-01-16",
+      "author": "Eliana Nodari",
+      "authorRole": "student",
+      "blogUrl": "https://eliananodari.github.io"
+    },
+    {
       "title": "The GPS and the Driver",
       "url": "https://qubitn.github.io/the-gps-and-the-driver.html",
       "date": "January 16, 2026",
@@ -113,15 +122,6 @@
       "author": "Jinx Hixson",
       "authorRole": "student",
       "blogUrl": "https://jinxxywrites.github.io/Psyched-for-Psychology"
-    },
-    {
-      "title": "Using AI to Elevate Thinking",
-      "url": "https://eliananodari.github.io/relocating-thinking.html",
-      "date": "January 15, 2026",
-      "dateISO": "2026-01-15",
-      "author": "Eliana Nodari",
-      "authorRole": "student",
-      "blogUrl": "https://eliananodari.github.io"
     },
     {
       "title": "My First ENGL 170 Blog Post",
