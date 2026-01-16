@@ -1,11 +1,20 @@
 {
-  "lastUpdated": "2026-01-16T16:38:37.107Z",
+  "lastUpdated": "2026-01-16T16:54:11.360Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 25,
+  "totalPosts": 29,
   "totalBlogs": 11,
   "blogsWithErrors": [],
   "posts": [
+    {
+      "title": "The Exaggeration Effect and the \"Loud Lie Economy\"",
+      "url": "https://jinxxywrites.github.io/Psyched-for-Psychology/social-media-exaggeration.html",
+      "date": "January 18, 2026",
+      "dateISO": "2026-01-18",
+      "author": "Jinx Hixson",
+      "authorRole": "student",
+      "blogUrl": "https://jinxxywrites.github.io/Psyched-for-Psychology"
+    },
     {
       "title": "Forklifts and fundamentals",
       "url": "https://samlevine277.github.io/forklift-and-fundamentals.html",
@@ -43,6 +52,15 @@
       "blogUrl": "https://buildlittleworlds.github.io/plate-composition-blog"
     },
     {
+      "title": "The Cost of Human Relevancy: Why Efficiency Isn't the Only Metric",
+      "url": "https://gabriel-bell.github.io/the-cost-of-human-relevancy.html",
+      "date": "January 16, 2026",
+      "dateISO": "2026-01-16",
+      "author": "Gabriel Bell",
+      "authorRole": "student",
+      "blogUrl": "https://gabriel-bell.github.io"
+    },
+    {
       "title": "AI as a Cognitive Partner, Not a Shortcut",
       "url": "https://emanigerdine7-ops.github.io/ai-as-a-resource.html",
       "date": "January 16, 2026",
@@ -50,6 +68,15 @@
       "author": "Emani Gerdine",
       "authorRole": "student",
       "blogUrl": "https://emanigerdine7-ops.github.io"
+    },
+    {
+      "title": "AI Balancing Act",
+      "url": "https://qubitn.github.io/ai-balancing-act.html",
+      "date": "January 16, 2026",
+      "dateISO": "2026-01-16",
+      "author": "Jonas Rodrigues",
+      "authorRole": "student",
+      "blogUrl": "https://qubitn.github.io"
     },
     {
       "title": "The Green Mask: What We’re Really Hiding Behind",
@@ -86,6 +113,15 @@
       "author": "Eliana Nodari",
       "authorRole": "student",
       "blogUrl": "https://eliananodari.github.io"
+    },
+    {
+      "title": "My First ENGL 170 Blog Post",
+      "url": "https://lukesum.github.io/first-post.html",
+      "date": "January 15, 2026",
+      "dateISO": "2026-01-15",
+      "author": "Luke Sumner",
+      "authorRole": "student",
+      "blogUrl": "https://lukesum.github.io"
     },
     {
       "title": "The Loud Lie Economy: Why Exaggeration Goes Viral and Truth Doesn't",
