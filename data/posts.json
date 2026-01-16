@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-01-16T18:33:08.639Z",
+  "lastUpdated": "2026-01-16T18:50:38.618Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 30,
+  "totalPosts": 31,
   "totalBlogs": 14,
   "blogsWithErrors": [],
   "posts": [
@@ -68,6 +68,15 @@
       "author": "Emani Gerdine",
       "authorRole": "student",
       "blogUrl": "https://emanigerdine7-ops.github.io"
+    },
+    {
+      "title": "The GPS and the Driver",
+      "url": "https://qubitn.github.io/the-gps-and-the-driver.html",
+      "date": "January 16, 2026",
+      "dateISO": "2026-01-16",
+      "author": "Jonas Rodrigues",
+      "authorRole": "student",
+      "blogUrl": "https://qubitn.github.io"
     },
     {
       "title": "AI Balancing Act",
