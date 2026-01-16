@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-01-16T16:54:11.360Z",
+  "lastUpdated": "2026-01-16T17:03:49.947Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 29,
-  "totalBlogs": 11,
+  "totalPosts": 31,
+  "totalBlogs": 14,
   "blogsWithErrors": [],
   "posts": [
     {
@@ -122,6 +122,15 @@
       "author": "Luke Sumner",
       "authorRole": "student",
       "blogUrl": "https://lukesum.github.io"
+    },
+    {
+      "title": "The Architect of Intent: Why Higher-Level Thinking Demands a New Kind of Presence",
+      "url": "https://dominicdebro.github.io/architect-of-intent.html",
+      "date": "January 15, 2026",
+      "dateISO": "2026-01-15",
+      "author": "Dominic Debro",
+      "authorRole": "student",
+      "blogUrl": "https://dominicdebro.github.io"
     },
     {
       "title": "The Loud Lie Economy: Why Exaggeration Goes Viral and Truth Doesn't",
@@ -266,6 +275,15 @@
       "author": "Olivia Andresen",
       "authorRole": "student",
       "blogUrl": "https://olliebear2006ya-dotcom.github.io/Olivias-Disney-Blog"
+    },
+    {
+      "title": "My First Post",
+      "url": "https://tombishop4.github.io/my-first-post.html",
+      "date": null,
+      "dateISO": null,
+      "author": "Tom Bishop",
+      "authorRole": "student",
+      "blogUrl": "https://tombishop4.github.io"
     }
   ]
 }
