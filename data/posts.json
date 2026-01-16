@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-01-16T21:10:52.711Z",
+  "lastUpdated": "2026-01-16T21:11:09.205Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 31,
-  "totalBlogs": 14,
+  "totalPosts": 32,
+  "totalBlogs": 15,
   "blogsWithErrors": [],
   "posts": [
     {
@@ -86,6 +86,15 @@
       "author": "Jonas Rodrigues",
       "authorRole": "student",
       "blogUrl": "https://qubitn.github.io"
+    },
+    {
+      "title": "My First Blog Post",
+      "url": "https://braydenwilson22.github.io/my-first-post.html",
+      "date": "January 16, 2026",
+      "dateISO": "2026-01-16",
+      "author": "Brayden Wilson",
+      "authorRole": "student",
+      "blogUrl": "https://braydenwilson22.github.io"
     },
     {
       "title": "The Green Mask: What We’re Really Hiding Behind",
