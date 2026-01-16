@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-01-16T17:08:41.026Z",
+  "lastUpdated": "2026-01-16T17:24:06.385Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 31,
+  "totalPosts": 30,
   "totalBlogs": 14,
   "blogsWithErrors": [],
   "posts": [
@@ -158,15 +158,6 @@
       "author": "Gabriel Bell",
       "authorRole": "student",
       "blogUrl": "https://gabriel-bell.github.io"
-    },
-    {
-      "title": "First Post Test",
-      "url": "https://qubitn.github.io/first-post-test.html",
-      "date": "January 14, 2026",
-      "dateISO": "2026-01-14",
-      "author": "Jonas Rodrigues",
-      "authorRole": "student",
-      "blogUrl": "https://qubitn.github.io"
     },
     {
       "title": "Welcome to My Space Blog",
