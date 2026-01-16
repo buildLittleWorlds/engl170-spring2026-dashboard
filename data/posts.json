@@ -1,11 +1,20 @@
 {
-  "lastUpdated": "2026-01-16T16:19:13.979Z",
+  "lastUpdated": "2026-01-16T16:38:37.107Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 23,
+  "totalPosts": 25,
   "totalBlogs": 11,
   "blogsWithErrors": [],
   "posts": [
+    {
+      "title": "Forklifts and fundamentals",
+      "url": "https://samlevine277.github.io/forklift-and-fundamentals.html",
+      "date": "January 18, 2026",
+      "dateISO": "2026-01-18",
+      "author": "Sam Levine",
+      "authorRole": "student",
+      "blogUrl": "https://samlevine277.github.io"
+    },
     {
       "title": "My Thoughts on AI Affecting The Ocean",
       "url": "https://samlevine277.github.io/responding-to-dr-plate.html",
@@ -32,6 +41,15 @@
       "author": "Dr. Plate",
       "authorRole": "instructor",
       "blogUrl": "https://buildlittleworlds.github.io/plate-composition-blog"
+    },
+    {
+      "title": "AI as a Cognitive Partner, Not a Shortcut",
+      "url": "https://emanigerdine7-ops.github.io/ai-as-a-resource.html",
+      "date": "January 16, 2026",
+      "dateISO": "2026-01-16",
+      "author": "Emani Gerdine",
+      "authorRole": "student",
+      "blogUrl": "https://emanigerdine7-ops.github.io"
     },
     {
       "title": "The Green Mask: What We’re Really Hiding Behind",
@@ -70,13 +88,13 @@
       "blogUrl": "https://eliananodari.github.io"
     },
     {
-      "title": "Banning AI in the Classroom: Helpful or Not?",
-      "url": "https://lukesum.github.io/banning-ai-in-the-classroom.html",
+      "title": "The Loud Lie Economy: Why Exaggeration Goes Viral and Truth Doesn't",
+      "url": "https://buildlittleworlds.github.io/the-loud-lie-economy.html",
       "date": "January 15, 2026",
       "dateISO": "2026-01-15",
-      "author": "Luke Sumner",
+      "author": "Mr Spock",
       "authorRole": "student",
-      "blogUrl": "https://lukesum.github.io"
+      "blogUrl": "https://buildlittleworlds.github.io/"
     },
     {
       "title": "The Fluency Illusion",
