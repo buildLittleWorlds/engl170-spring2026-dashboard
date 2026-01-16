@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-01-16T15:52:55.698Z",
+  "lastUpdated": "2026-01-16T16:04:30.619Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 24,
+  "totalPosts": 23,
   "totalBlogs": 11,
   "blogsWithErrors": [],
   "posts": [
@@ -77,15 +77,6 @@
       "author": "Luke Sumner",
       "authorRole": "student",
       "blogUrl": "https://lukesum.github.io"
-    },
-    {
-      "title": "The Loud Lie Economy: Why Exaggeration Goes Viral and Truth Doesn't",
-      "url": "https://buildlittleworlds.github.io/loud-lie-economy.html",
-      "date": "January 15, 2026",
-      "dateISO": "2026-01-15",
-      "author": "Mr Spock",
-      "authorRole": "student",
-      "blogUrl": "https://buildlittleworlds.github.io/"
     },
     {
       "title": "The Fluency Illusion",
