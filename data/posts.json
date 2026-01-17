@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-01-17T20:34:24.191Z",
+  "lastUpdated": "2026-01-17T20:45:35.177Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 30,
+  "totalPosts": 31,
   "totalBlogs": 15,
   "blogsWithErrors": [],
   "posts": [
@@ -230,6 +230,15 @@
       "author": "Dr. Plate",
       "authorRole": "instructor",
       "blogUrl": "https://buildlittleworlds.github.io/plate-composition-blog"
+    },
+    {
+      "title": "What If Writers Built Specs Like Coders Do?",
+      "url": "https://buildlittleworlds.github.io/specs-for-writing.html",
+      "date": "January 12, 2026",
+      "dateISO": "2026-01-12",
+      "author": "Mr Spock",
+      "authorRole": "student",
+      "blogUrl": "https://buildlittleworlds.github.io/"
     },
     {
       "title": "Thinking at a Higher Level",
