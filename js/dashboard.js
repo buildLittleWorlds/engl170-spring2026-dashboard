@@ -133,7 +133,6 @@
 
   // Render featured post
   function renderFeatured(post) {
-    const isInstructor = post.authorRole === 'instructor';
     const dateDisplay = post.date || 'Date unknown';
 
     featuredSection.innerHTML = `
@@ -146,7 +145,6 @@
           <div class="featured-meta">
             <p class="featured-author">
               by <span class="name">${escapeHtml(post.author)}</span>
-              ${isInstructor ? '<span class="instructor-tag">Instructor</span>' : ''}
             </p>
             <p class="featured-date">${escapeHtml(dateDisplay)}</p>
           </div>
@@ -158,12 +156,10 @@
 
   // Render a single post card
   function renderPostCard(post, index) {
-    const isInstructor = post.authorRole === 'instructor';
-    const cardClass = isInstructor ? 'post-card instructor' : 'post-card';
     const dateDisplay = post.date || 'Date unknown';
 
     return `
-      <article class="${cardClass}" style="animation-delay: ${0.05 + (index * 0.05)}s">
+      <article class="post-card" style="animation-delay: ${0.05 + (index * 0.05)}s">
         <h2 class="post-title">
           <a href="${escapeHtml(post.url)}" target="_blank" rel="noopener">${escapeHtml(post.title)}</a>
         </h2>
@@ -171,7 +167,6 @@
           <span class="post-author">
             <span class="author-indicator"></span>
             <span class="post-author-name">${escapeHtml(post.author)}</span>
-            ${isInstructor ? '<span class="instructor-tag">Instructor</span>' : ''}
           </span>
           <span class="post-date">${escapeHtml(dateDisplay)}</span>
         </div>
@@ -184,9 +179,6 @@
 
   // Render network statistics
   function renderStats() {
-    const studentPosts = allPosts.filter(p => p.authorRole !== 'instructor').length;
-    const instructorPosts = allPosts.filter(p => p.authorRole === 'instructor').length;
-
     networkStats.innerHTML = `
       <div class="stat-item">
         <span class="stat-value">${allPosts.length}</span>
