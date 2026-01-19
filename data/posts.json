@@ -1,11 +1,20 @@
 {
-  "lastUpdated": "2026-01-18T23:59:11.650Z",
+  "lastUpdated": "2026-01-19T00:43:43.136Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 33,
+  "totalPosts": 34,
   "totalBlogs": 15,
   "blogsWithErrors": [],
   "posts": [
+    {
+      "title": "The Friction of Fluency: Why \"Easy\" AI is a Myth",
+      "url": "https://jrbrunts.github.io/friction-of-fluency.html",
+      "date": "January 18, 2026",
+      "dateISO": "2026-01-18",
+      "author": "Jacob Brunts",
+      "authorRole": "student",
+      "blogUrl": "https://jrbrunts.github.io"
+    },
     {
       "title": "The Exaggeration Effect and the \"Loud Lie Economy\"",
       "url": "https://jinxxywrites.github.io/Psyched-for-Psychology/social-media-exaggeration.html",
