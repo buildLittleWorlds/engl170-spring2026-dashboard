@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-01-19T04:39:59.738Z",
+  "lastUpdated": "2026-01-19T05:02:41.501Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 36,
+  "totalPosts": 37,
   "totalBlogs": 15,
   "blogsWithErrors": [],
   "posts": [
@@ -50,6 +50,15 @@
       "author": "Sam Levine",
       "authorRole": "student",
       "blogUrl": "https://samlevine277.github.io"
+    },
+    {
+      "title": "The Dopamine Ceiling: Mental Health in the Loud Lie Economy",
+      "url": "https://dominicdebro.github.io/dopamine-ceiling.html",
+      "date": "January 18, 2026",
+      "dateISO": "2026-01-18",
+      "author": "Dominic Debro",
+      "authorRole": "student",
+      "blogUrl": "https://dominicdebro.github.io"
     },
     {
       "title": "Blood on the Ice: The St. Louis Blues and Chicago Blackhawks Rivalry",
