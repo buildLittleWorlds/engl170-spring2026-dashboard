@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-01-19T16:48:29.812Z",
+  "lastUpdated": "2026-01-19T16:55:56.963Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 38,
-  "totalBlogs": 15,
+  "totalPosts": 43,
+  "totalBlogs": 17,
   "blogsWithErrors": [],
   "posts": [
     {
@@ -77,6 +77,15 @@
       "author": "Brayden Wilson",
       "authorRole": "student",
       "blogUrl": "https://braydenwilson22.github.io"
+    },
+    {
+      "title": "The Digital Whistle: How AI is Changing Basketball Officiating",
+      "url": "https://kevionmilton.github.io/ai-in-sports.html",
+      "date": "January 18, 2026",
+      "dateISO": "2026-01-18",
+      "author": "Kevion Milton",
+      "authorRole": "student",
+      "blogUrl": "https://kevionmilton.github.io"
     },
     {
       "title": "The Planning Is the Thinking",
@@ -196,6 +205,24 @@
       "blogUrl": "https://braydenwilson22.github.io"
     },
     {
+      "title": "AI Tools for College Essays",
+      "url": "https://bellacalmetjanssen-cell.github.io/isabella-calmet-.github.io/post3.html",
+      "date": "January 15, 2026",
+      "dateISO": "2026-01-15",
+      "author": "Isabella Calmet",
+      "authorRole": "student",
+      "blogUrl": "https://bellacalmetjanssen-cell.github.io/isabella-calmet-.github.io"
+    },
+    {
+      "title": "Welcome to My Blog",
+      "url": "https://kevionmilton.github.io/first-post.html",
+      "date": "January 15, 2026",
+      "dateISO": "2026-01-15",
+      "author": "Kevion Milton",
+      "authorRole": "student",
+      "blogUrl": "https://kevionmilton.github.io"
+    },
+    {
       "title": "The Fluency Illusion",
       "url": "https://buildlittleworlds.github.io/plate-composition-blog/the-fluency-illusion.html",
       "date": "January 14, 2026",
@@ -304,6 +331,15 @@
       "blogUrl": "https://buildlittleworlds.github.io/"
     },
     {
+      "title": "Ethics of AI-generated Content",
+      "url": "https://bellacalmetjanssen-cell.github.io/isabella-calmet-.github.io/post2.html",
+      "date": "January 12, 2026",
+      "dateISO": "2026-01-12",
+      "author": "Isabella Calmet",
+      "authorRole": "student",
+      "blogUrl": "https://bellacalmetjanssen-cell.github.io/isabella-calmet-.github.io"
+    },
+    {
       "title": "Thinking at a Higher Level",
       "url": "https://buildlittleworlds.github.io/plate-composition-blog/thinking-at-a-higher-level.html",
       "date": "January 11, 2026",
@@ -311,6 +347,15 @@
       "author": "Dr. Plate",
       "authorRole": "instructor",
       "blogUrl": "https://buildlittleworlds.github.io/plate-composition-blog"
+    },
+    {
+      "title": "Understanding AI in Writing",
+      "url": "https://bellacalmetjanssen-cell.github.io/isabella-calmet-.github.io/post1.html",
+      "date": "January 10, 2026",
+      "dateISO": "2026-01-10",
+      "author": "Isabella Calmet",
+      "authorRole": "student",
+      "blogUrl": "https://bellacalmetjanssen-cell.github.io/isabella-calmet-.github.io"
     },
     {
       "title": "What a Ban Can't Teach",
