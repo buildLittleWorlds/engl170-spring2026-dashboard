@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-01-19T05:02:41.501Z",
+  "lastUpdated": "2026-01-19T05:20:46.067Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 37,
+  "totalPosts": 38,
   "totalBlogs": 15,
   "blogsWithErrors": [],
   "posts": [
@@ -50,6 +50,15 @@
       "author": "Sam Levine",
       "authorRole": "student",
       "blogUrl": "https://samlevine277.github.io"
+    },
+    {
+      "title": "The Efficiency Paradox: Why Some Struggles Aren't Worth the Cost",
+      "url": "https://dominicdebro.github.io/efficiency-paradox.html",
+      "date": "January 18, 2026",
+      "dateISO": "2026-01-18",
+      "author": "Dominic Debro",
+      "authorRole": "student",
+      "blogUrl": "https://dominicdebro.github.io"
     },
     {
       "title": "The Dopamine Ceiling: Mental Health in the Loud Lie Economy",
