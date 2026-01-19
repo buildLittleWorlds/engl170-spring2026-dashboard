@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-01-19T03:41:34.871Z",
+  "lastUpdated": "2026-01-19T04:12:50.965Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 35,
+  "totalPosts": 36,
   "totalBlogs": 15,
   "blogsWithErrors": [],
   "posts": [
@@ -86,6 +86,15 @@
       "author": "Emani Gerdine",
       "authorRole": "student",
       "blogUrl": "https://emanigerdine7-ops.github.io"
+    },
+    {
+      "title": "How Artificial Intelligence is Resurrecting Ancient Rome",
+      "url": "https://qubitn.github.io/silicon-caesars-ai-rome.html",
+      "date": "January 16, 2026",
+      "dateISO": "2026-01-16",
+      "author": "Jonas Rodrigues",
+      "authorRole": "student",
+      "blogUrl": "https://qubitn.github.io"
     },
     {
       "title": "The GPS and the Driver",
