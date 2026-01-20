@@ -1,0 +1,29 @@
+The Ocean in the Chatbot
+January 12, 2026 · Response to: Scroll Deep, "Instagram's war on slop"
+In a recent video about Instagram head Adam Mosseri's statement on AI and authenticity, Benedict Townsend of Scroll Deep makes a passing remark about AI's environmental costs. It's the kind of comment that slides by almost unnoticed—a quick rhetorical jab that assumes everyone already agrees:
+Apparently AI is good if you're like coding or like sorting a database. Fine. Must we use enough water to fill the oceans to do that? I don't think so.
+— Benedict Townsend, Scroll Deep
+No citation. No pause. No acknowledgment that this might be a claim worth examining. The ocean hyperbole signals that AI's water consumption is so obviously catastrophic that even gesturing at the scale is sufficient. We all know this, right?
+Where This "Knowledge" Came From
+The claim that AI consumes shocking amounts of water—often expressed as "a bottle of water per ChatGPT query"—spread widely through 2024 and 2025. Andy Masley, who has done some of the best independent analysis of AI's resource demands, traced the origins of this claim on the Cognitive Revolution podcast. The source was a Washington Post article that, as Masley puts it, "took this really wild estimate" based on questionable assumptions:
+It seems to assume like 10 to 20 prompts to write a single email. And like, you know, I'm a power user of chatbots, but I don't use that many. And like even there, it assumes all these other wild things like chips hadn't gained any efficiency in like 5 years since before they were commercialized... like specific things about training and evaporating water from like hydroelectric plants. Like all these things that together just tell this really I think misleading story.
+— Andy Masley, Cognitive Revolution
+The actual amount? About 2 milliliters per prompt—roughly 1/200th of the bottle-of-water claim. You'd need to send around 200 ChatGPT queries to use one bottle of water.
+What Careful Thinking Reveals
+Once you start putting AI's water use in context, the "obvious" catastrophe dissolves into something far more mundane. Masley walks through the comparisons:
+A hot shower uses roughly 5,000 to 10,000 chatbot queries' worth of water
+A single pair of jeans (due to irrigated cotton) uses about a million queries' worth
+Irrigated alfalfa farms in the U.S. use approximately 1,000 times as much water as all AI used in 2023
+Arizona golf courses use about 30 times as much water as Arizona data centers, while generating 1/50th the tax revenue per gallon
+There's also the question of what "using water" even means. When people hear that AI will use "50% as much water as the UK by 2027," they imagine half of Britain's water flowing through server rooms. But about 90% of that figure is water withdrawn by power plants and then returned—not consumed. Only about 3% flows through data centers themselves.
+None of this means AI has zero environmental impact. Masley is quite clear that air pollution from new gas turbines and coal plants powering data centers is a legitimate concern—one that "air pollution is actually already a much bigger disaster than climate change will be in the medium term." But water? The numbers just don't support the catastrophe narrative.
+The Epistemology of "Obvious"
+What interests me here isn't really AI or water. It's the intellectual move of treating a contested empirical claim as self-evident.
+Townsend's ocean comment works rhetorically precisely because the "bottle of water" statistic had already saturated public discourse. By 2025, you didn't need to cite it. You could just gesture at it with hyperbole—"enough water to fill the oceans"—and trust that your audience would nod along. The claim had graduated from contested to obvious without anyone noticing the transition.
+This is how bad arguments metastasize. A questionable study gets reported. The report gets simplified. The simplification gets repeated. The repetition creates consensus. The consensus makes citation unnecessary. And suddenly you can invoke "the oceans" as though you're stating something as uncontroversial as the boiling point of water.
+The irony is that Townsend is critiquing Mosseri for possibly using ChatGPT to write his statement—while deploying exactly the kind of unchecked claim that two minutes with ChatGPT could have fact-checked. The tools for careful thinking are right there. But careful thinking requires the suspicion that what feels obvious might not be true.
+What This Asks of Us
+I'm not arguing that AI criticism is wrong or that we shouldn't scrutinize technology's environmental costs. I'm arguing that criticism is weakened, not strengthened, by leaning on claims that collapse under examination.
+Masley makes this point directly: "I'm pretty worried that a lot of my fellow AI critics and warriors are like potentially diluting a lot of the points that they make by just adding on like oh this thing could make surveillance so much more effective and every time it does that it uses like a drop of water. Isn't that terrible? Like the second point just takes away from the first."
+If you want to argue that AI poses risks—to privacy, to labor, to truth itself—those arguments deserve better than to be bundled with empirical claims that don't hold up. Every weak argument you include gives your opponent an easy target while making your strong arguments look guilty by association.
+The ocean isn't in the chatbot. But the willingness to assume it is—without checking—tells us something about how we argue in 2026. And that might be worth worrying about more than the water.

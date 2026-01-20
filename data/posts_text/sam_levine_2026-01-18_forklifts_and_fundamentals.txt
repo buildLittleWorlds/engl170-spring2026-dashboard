@@ -1,0 +1,78 @@
+The Forklift and the Fundamentals: AI, Guidance, and Learning
+January 16, 2026
+In her recent blog post, Eliana Nodari examines the role of artificial intelligence in education
+through Ted Chiang’s metaphor of AI as a “forklift in the weight room.” Her central concern is
+not that AI exists, but that it may allow students to bypass the mental effort required for
+genuine learning. According to Nodari, the process of writing itself is a form of intellectual
+training; outsourcing any portion of that process risks weakening the development of critical
+thinking skills.
+“Writing is thinking. If we outsource that thinking to AI, we risk losing the struggle that
+actually helps ideas form.” — Eliana Nodari
+Nodari emphasizes that writing is not merely a way to display knowledge, but the process through
+which knowledge is created. If AI performs the challenging parts of writing—choosing words,
+structuring sentences, maintaining flow—students may produce polished work without ever
+developing the cognitive and analytical skills that writing is meant to teach. Her concern
+highlights the educational value of effort, reflection, and sustained engagement with ideas.
+Why This Concern Matters
+Nodari’s critique is especially persuasive in a Gen Z media environment characterized by speed,
+multitasking, and constant consumption. Students today are immersed in content that is immediate
+and polished—social media posts, TikToks, or short-form articles dominate attention spans.
+In this context, AI-generated writing can easily blend in, giving the appearance of understanding
+without actual engagement. Nodari’s warning reminds us that fluency without comprehension is
+not learning; polished output is only meaningful if it reflects genuine thought.
+I agree with Nodari that AI used with no thinking is not educational. If a student simply copies
+AI output, learning is effectively bypassed. However, her argument also assumes that all AI
+assistance inherently undermines education. I want to extend her claim by exploring how AI can
+be used thoughtfully as guidance, scaffolding, and a tool to cultivate curiosity.
+When AI Becomes Guidance, Not a Shortcut
+Many students do not turn to AI because they want to avoid effort; they turn to it because they
+are uncertain or lack the foundational knowledge to begin. In these situations, AI can function
+less as a shortcut and more as a guide—prompting questions, clarifying confusion, and supporting
+the development of critical skills. A student struggling to frame an argument or identify evidence
+can use AI to explore possibilities and learn the mechanics of writing while still engaging
+mentally with the ideas themselves.
+Ethan Mollick, a professor at the Wharton School, makes this distinction clear in his book
+Co-Intelligence. He argues that AI becomes harmful when it replaces thinking students
+could perform themselves. However, when students are still learning, AI can act as a tutor:
+helping them test ideas, explore alternatives, and gain feedback while remaining intellectually
+engaged.
+“The danger is not using AI to help you think, but using AI instead of thinking.” — Ethan
+Mollick, Co-Intelligence
+This perspective refines the forklift metaphor. Using a forklift to lift for someone else
+entirely prevents growth. But using it to teach proper form, demonstrate technique, or safely
+engage with the “weights” before strength develops can foster understanding and build foundational
+skills. In the classroom, AI can function in the same way: supporting students to understand
+concepts before they are ready to independently manipulate them.
+Curiosity and Learning in a Media-Saturated World
+The distinction between harmful and productive AI use is particularly important given how
+Gen Z interacts with information. Students have grown up in an environment dominated by rapid
+media consumption. Attention is fragmented, and instant answers are expected. In this context,
+AI can either reinforce passive consumption or encourage active learning. When students use AI
+to ask questions, test ideas, or explore material they do not yet understand, it becomes a tool
+that cultivates curiosity and supports learning rather than replacing effort.
+Intent is the key factor. If AI merely supplies answers that students could already generate,
+it undermines thinking. But when used to explore, question, and experiment, AI can help students
+build the mental “muscles” required for deeper understanding. The cognitive work shifts from
+mechanical drafting to strategic problem-solving, pattern recognition, and evaluative thinking—
+all of which are essential for long-term intellectual development.
+Balancing Struggle and Support
+The challenge, then, is balancing productive struggle with guided learning. Nodari rightly
+emphasizes that thinking must happen in the act of writing itself; students cannot learn
+purely through observation or copying. However, providing structured guidance through AI allows
+learners to safely engage with material beyond their current level of expertise. In other words,
+support and challenge are not mutually exclusive—they can coexist in ways that promote growth.
+Just as athletes use equipment to learn proper form before lifting heavy weights, students can
+use AI to explore frameworks, clarify ideas, and practice fundamentals before independently
+generating polished writing. In both cases, the tool becomes a scaffold, not a replacement.
+Conclusion
+Eliana Nodari’s caution about AI removing effort from learning is valid and essential. Writing
+should remain a space where thinking occurs, reflection matters, and ideas are wrestled with.
+At the same time, thoughtful use of AI can provide guidance, foster curiosity, and support students
+as they develop foundational skills necessary for independent critical thinking.
+The central question is not whether students use the forklift, but whether they are learning
+how to lift. When AI is used intentionally to support exploration and learning, it can serve
+as an educational tool rather than an intellectual shortcut. By framing AI as guidance rather
+than a replacement, students can cultivate curiosity, engage deeply with ideas, and develop
+the higher-order thinking skills that Nodari and other scholars value.
+References
+Mollick, E. (2024). Co-Intelligence: Living and Working with AI. Portfolio.

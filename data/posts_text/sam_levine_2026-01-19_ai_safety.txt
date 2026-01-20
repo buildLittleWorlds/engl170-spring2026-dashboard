@@ -1,0 +1,84 @@
+AI Safety Before Release: Why Customers Deserve Choice
+January 20, 2026
+Artificial intelligence is being released faster than ever, and companies often claim they
+are improving safety through user feedback. But I believe there is a dangerous assumption
+behind that idea: that it’s okay to use real customers as unpaid testers. When AI systems
+are released without proper testing, people can be exposed to serious harms—misinformation,
+bias, privacy violations, and emotional manipulation. Safety should not be something we
+“learn” by watching users get harmed.
+In Dr. Plate’s post “Two Theories of Safety,” he explains that OpenAI and Anthropic
+disagree not on whether safety matters, but on how safety is discovered. One founder
+believes safety emerges through deployment, while the other believes safety must be
+proven before release. I think this disagreement matters because it reveals a deeper
+question: should the public be forced to test dangerous technology?
+“Both founders believe AI should be safe. Neither is lying about this. But they hold
+different theories about how safety is achieved — and those theories trace back to
+their backgrounds, their training, what they learned before they ever touched
+artificial intelligence.”
+— Dr. Plate, “Two Theories of Safety”
+I agree with Dr. Plate that both founders care about safety. But caring is not enough.
+The question is whether it is ethical to release a product before its risks are fully
+understood. My position is simple: AI should be tested and proven safe before it is
+released to the public. If a company wants to launch an AI tool early, they must
+clearly tell customers that it is still in testing and allow them to choose whether to
+use it.
+A company that releases an untested AI system is essentially saying, “We don’t know what
+could go wrong, but you can find out for us.” This is unfair because users are not
+paid testers, and many don’t understand the risks. If an AI system is flawed, the harm
+can be immediate and irreversible. A customer might rely on AI for medical advice, mental
+health support, or financial decisions. If the AI fails, the consequences are real and
+dangerous.
+If this happened to me as a paying customer, I would be extremely upset. I would feel like
+the company used me as a test subject without consent. I would lose trust in that company
+forever. Knowing that a product was released without testing, and that the company still
+charged users for it, would feel like a betrayal. Trust is not something companies can
+regain easily once it is broken.
+Some argue that AI must be released to discover flaws that internal testing misses.
+But the reality is that real users shouldn’t be the ones discovering those flaws.
+That’s why high-risk industries don’t operate this way. Cars, airplanes, and medical
+devices must be tested before they hit the market. Why should AI be treated differently?
+The potential harm is just as serious.
+Evidence That Safety Must Be Proven First
+Researchers in AI safety have proposed formal frameworks that require evidence of safety
+before deployment. One such approach is called “affirmative safety,” which argues that
+high-risk AI systems should provide proof that their risks remain below acceptable levels
+before being released. This model emphasizes evidence and accountability, rather than
+relying on users to discover problems after deployment.
+“Entities developing or deploying high-risk AI systems should be required to present
+evidence of affirmative safety: a proactive case that their activities keep risks
+below acceptable thresholds.”
+— Akash R. Wasil et al., Affirmative Safety: An Approach to Risk Management for High-Risk AI (2024)
+This quote supports my argument that AI companies should prove safety first. If a system
+cannot show that it meets safety standards, it should not be released to the public.
+Releasing it anyway is not innovation—it’s risk shifting. The company is shifting the
+burden of testing onto customers who did not consent to being part of a dangerous experiment.
+There is also a trust issue. When companies release AI before testing, they break trust
+with users. People should be able to use technology without fear of being harmed or
+manipulated. If a company is transparent about its safety status, users can choose a
+safer alternative or wait for a better version. This transparency protects consumer
+rights and forces companies to be responsible.
+Why Customers Must Have Choice
+If an AI product is still in testing, customers should be told clearly and given the option
+to opt out. The problem is that many companies hide this information or bury it in legal
+terms. That is not consent. Real consent means customers understand the risk and choose
+freely.
+I believe the public should not be treated as a testing ground. If AI companies want to
+use real users for testing, they must pay them and inform them clearly. Otherwise, the
+public is being exploited. And that is not safe, ethical, or fair.
+In addition, testing before release does not mean companies cannot innovate quickly. They
+can still iterate in controlled environments. They can use staged rollouts, private beta
+testing, and independent safety audits. These methods allow innovation without exposing
+the public to unnecessary harm.
+Conclusion
+AI has the potential to change the world, but that power comes with responsibility. The
+debate between “deploy first” and “prove safety first” is not just a technical argument;
+it is an ethical one. I believe companies should not release AI systems without proven
+safety. If they choose to release early, they must be transparent and give customers a
+real choice. Otherwise, they are using the public as unpaid testers, which is unfair and
+dangerous.
+Safety is not just a buzzword — it is a requirement. The public deserves technology that
+is both powerful and safe. If AI companies want to be trusted, they must prove that their
+products are safe before asking users to risk their lives, privacy, and well-being.
+Bibliography
+Plate, Dr. “Two Theories of Safety.” January 12, 2026.
+Wasil, Akash R., et al. Affirmative Safety: An Approach to Risk Management for High-Risk AI. 2024.

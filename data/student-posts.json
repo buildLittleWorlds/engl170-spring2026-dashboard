@@ -1,0 +1,220 @@
+{
+  "lastUpdated": "2026-01-20T23:53:48.843Z",
+  "students": {
+    "Olivia Andresen": {
+      "url": "https://olliebear2006ya-dotcom.github.io/Olivias-Disney-Blog",
+      "posts": []
+    },
+    "Gabriel Bell": {
+      "url": "https://gabriel-bell.github.io",
+      "posts": [
+        {
+          "date": "2026-01-16",
+          "title": "The Cost of Human Relevancy: Why Efficiency Isn't the Only Metric",
+          "file": "gabriel_bell_2026-01-16_the_cost_of_human_relevancy__why_efficiency_isn_t_.txt"
+        },
+        {
+          "date": "2026-01-14",
+          "title": "Setting Up My ENGL 170 Blog",
+          "file": "gabriel_bell_2026-01-14_setting_up_my_engl_170_blog.txt"
+        }
+      ]
+    },
+    "Jacob Brunts": {
+      "url": "https://jrbrunts.github.io",
+      "posts": [
+        {
+          "date": "2026-01-18",
+          "title": "The Friction of Fluency: Why \"Easy\" AI is a Myth",
+          "file": "jacob_brunts_2026-01-18_the_friction_of_fluency__why__easy__ai_is_a_myth.txt"
+        },
+        {
+          "date": "2026-01-15",
+          "title": "The Green Mask: What We’re Really Hiding Behind",
+          "file": "jacob_brunts_2026-01-15_the_green_mask__what_we_re_really_hiding_behind.txt"
+        },
+        {
+          "date": "2026-01-13",
+          "title": "The Obsolescence Trap: Why \"Choice\" Is Not Enough",
+          "file": "jacob_brunts_2026-01-13_the_obsolescence_trap__why__choice__is_not_enough.txt"
+        }
+      ]
+    },
+    "Emani Gerdine": {
+      "url": "https://emanigerdine7-ops.github.io",
+      "posts": [
+        {
+          "date": "2026-01-16",
+          "title": "AI as a Cognitive Partner, Not a Shortcut",
+          "file": "emani_gerdine_2026-01-16_ai_as_a_cognitive_partner__not_a_shortcut.txt"
+        },
+        {
+          "date": "2026-01-15",
+          "title": "My First Post Title",
+          "file": "emani_gerdine_2026-01-15_my_first_post_title.txt"
+        }
+      ]
+    },
+    "Jinx Hixson": {
+      "url": "https://jinxxywrites.github.io/Psyched-for-Psychology",
+      "posts": [
+        {
+          "date": "2026-01-18",
+          "title": "The Exaggeration Effect and the \"Loud Lie Economy\"",
+          "file": "jinx_hixson_2026-01-18_the_exaggeration_effect_and_the__loud_lie_economy_.txt"
+        },
+        {
+          "date": "2026-01-15",
+          "title": "The Fluency Illusion: AI-Induced Learned Helplessness",
+          "file": "jinx_hixson_2026-01-15_the_fluency_illusion__ai_induced_learned_helplessn.txt"
+        },
+        {
+          "date": "2026-01-13",
+          "title": "\"Mastermind\" Machinery: AI, Agency, and Mental Health",
+          "file": "jinx_hixson_2026-01-13__mastermind__machinery__ai__agency__and_mental_hea.txt"
+        }
+      ]
+    },
+    "Sam Levine": {
+      "url": "https://samlevine277.github.io",
+      "posts": [
+        {
+          "date": "2026-01-19",
+          "title": "AI Safety",
+          "file": "sam_levine_2026-01-19_ai_safety.txt"
+        },
+        {
+          "date": "2026-01-19",
+          "title": "AI officiatings",
+          "file": "sam_levine_2026-01-19_ai_officiatings.txt"
+        },
+        {
+          "date": "2026-01-18",
+          "title": "Forklifts and fundamentals",
+          "file": "sam_levine_2026-01-18_forklifts_and_fundamentals.txt"
+        },
+        {
+          "date": "2026-01-18",
+          "title": "My Thoughts on AI Affecting The Ocean",
+          "file": "sam_levine_2026-01-18_my_thoughts_on_ai_affecting_the_ocean.txt"
+        },
+        {
+          "date": "2026-01-18",
+          "title": "My Thoughts on AI Writing Tools",
+          "file": "sam_levine_2026-01-18_my_thoughts_on_ai_writing_tools.txt"
+        }
+      ]
+    },
+    "Eliana Nodari": {
+      "url": "https://eliananodari.github.io",
+      "posts": [
+        {
+          "date": "2026-01-15",
+          "title": "Myths and Truths about AI and the Environment",
+          "file": "eliana_nodari_2026-01-15_myths_and_truths_about_ai_and_the_environment.txt"
+        },
+        {
+          "date": "2026-01-14",
+          "title": "Using AI to Elevate Thinking",
+          "file": "eliana_nodari_2026-01-14_using_ai_to_elevate_thinking.txt"
+        },
+        {
+          "date": "2026-01-13",
+          "title": "Expanding on the Effects of Banning AI",
+          "file": "eliana_nodari_2026-01-13_expanding_on_the_effects_of_banning_ai.txt"
+        }
+      ]
+    },
+    "Jonas Rodrigues": {
+      "url": "https://qubitn.github.io",
+      "posts": [
+        {
+          "date": "2026-01-16",
+          "title": "How Artificial Intelligence is Resurrecting Ancient Rome",
+          "file": "jonas_rodrigues_2026-01-16_how_artificial_intelligence_is_resurrecting_ancien.txt"
+        },
+        {
+          "date": "2026-01-16",
+          "title": "The GPS and the Driver",
+          "file": "jonas_rodrigues_2026-01-16_the_gps_and_the_driver.txt"
+        },
+        {
+          "date": "2026-01-16",
+          "title": "AI Balancing Act",
+          "file": "jonas_rodrigues_2026-01-16_ai_balancing_act.txt"
+        }
+      ]
+    },
+    "Luke Sumner": {
+      "url": "https://lukesum.github.io",
+      "posts": []
+    },
+    "Ben Teismann": {
+      "url": "https://blt279.github.io",
+      "posts": []
+    },
+    "Tom Bishop": {
+      "url": "https://tombishop4.github.io",
+      "posts": []
+    },
+    "Dominic Debro": {
+      "url": "https://dominicdebro.github.io",
+      "posts": [
+        {
+          "date": "2026-01-18",
+          "title": "The Efficiency Paradox: Why Some Struggles Aren't Worth the Cost",
+          "file": "dominic_debro_2026-01-18_the_efficiency_paradox__why_some_struggles_aren_t_.txt"
+        },
+        {
+          "date": "2026-01-18",
+          "title": "The Dopamine Ceiling: Mental Health in the Loud Lie Economy",
+          "file": "dominic_debro_2026-01-18_the_dopamine_ceiling__mental_health_in_the_loud_li.txt"
+        },
+        {
+          "date": "2026-01-15",
+          "title": "The Architect of Intent: Why Higher-Level Thinking Demands a New Kind of Presence",
+          "file": "dominic_debro_2026-01-15_the_architect_of_intent__why_higher_level_thinking.txt"
+        }
+      ]
+    },
+    "Mr Spock": {
+      "url": "https://buildlittleworlds.github.io/",
+      "posts": [
+        {
+          "date": "2026-01-12",
+          "title": "What If Writers Built Specs Like Coders Do?",
+          "file": "mr_spock_2026-01-12_what_if_writers_built_specs_like_coders_do_.txt"
+        }
+      ]
+    },
+    "Brayden Wilson": {
+      "url": "https://braydenwilson22.github.io",
+      "posts": [
+        {
+          "date": "2026-01-18",
+          "title": "Blood on the Ice: The St. Louis Blues and Chicago Blackhawks Rivalry",
+          "file": "brayden_wilson_2026-01-18_blood_on_the_ice__the_st__louis_blues_and_chicago_.txt"
+        }
+      ]
+    },
+    "Isabella Calmet": {
+      "url": "https://bellacalmetjanssen-cell.github.io/isabella-calmet-.github.io",
+      "posts": []
+    },
+    "Kevion Milton": {
+      "url": "https://kevionmilton.github.io",
+      "posts": [
+        {
+          "date": "2026-01-18",
+          "title": "The Digital Whistle: How AI is Changing Basketball Officiating",
+          "file": "kevion_milton_2026-01-18_the_digital_whistle__how_ai_is_changing_basketball.txt"
+        },
+        {
+          "date": "2026-01-15",
+          "title": "Welcome to My Blog",
+          "file": "kevion_milton_2026-01-15_welcome_to_my_blog.txt"
+        }
+      ]
+    }
+  }
+}

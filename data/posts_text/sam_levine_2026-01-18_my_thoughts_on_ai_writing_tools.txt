@@ -1,0 +1,76 @@
+Agency, AI, and Intellectual Work
+January 8, 2026
+In a post responding to Rob Lively’s presentation “Resisting AI for Writing Assignments,”
+Daniel Plate
+argues that banning AI in the name of student agency produces a paradox. Lively claims that
+AI threatens agency by removing struggle, reflection, and rhetorical choice from writing.
+Plate counters that eliminating AI entirely removes students’ ability to choose how they
+work, thereby undermining agency rather than preserving it. I agree with Plate’s critique
+and extend it by arguing that AI can function as a form of cognitive support that enables
+exploration—particularly in how students identify interests and possible career paths—
+without replacing intellectual work.
+Fair Representation of Lively’s Argument
+Lively’s concern is grounded in established composition theory. He argues that writing is
+not merely a way to express thought but a process through which thought is formed. Activities
+such as prewriting, revising, and adapting to disciplinary conventions require students to
+engage metacognitively with ideas. When AI performs these tasks, Lively suggests, students
+“learn neither of these things,” losing opportunities to develop professional identities
+through writing.
+“Developing some thoughtful reflective writers who make choices is the purpose of creating
+writing choices in the first place.”
+This is a genuine strength of Lively’s argument. Writing does involve productive struggle,
+and a classroom that encourages students to bypass thinking entirely would fail its
+pedagogical mission. Lively is right to worry about forms of AI use that substitute output
+for understanding.
+The Agency Paradox Plate Identifies
+Plate’s critique does not deny the value of struggle. Instead, it focuses on the internal
+contradiction of Lively’s proposed solution. Lively celebrates students who voluntarily
+resist AI use, presenting their resistance as evidence of maturity and agency. Yet he
+ultimately recommends banning AI for “any writing task” at the institutional level.
+As Plate points out, the significance of student resistance lies in the fact that it is
+chosen. A student who decides not to use AI after weighing its limitations has exercised
+judgment. A student who avoids AI because it is prohibited has merely complied with a rule.
+By removing the option to choose, bans eliminate the very condition that makes agency
+possible.
+I agree with Plate that agency cannot be developed through restriction alone. If students
+are trusted to make rhetorical decisions about audience, tone, and evidence, they must also
+be trusted to make decisions about tools.
+External Evidence: AI as Cognitive Support
+Research in cognitive science supports Plate’s position that tools do not inherently
+eliminate thinking. Studies on intelligent tutoring systems and adaptive learning tools
+suggest that well-designed AI can scaffold thinking rather than replace it. Danielle
+McNamara and colleagues argue that effective AI systems support learners by prompting
+reflection, self-explanation, and strategic decision-making rather than providing finished
+answers.
+McNamara et al. note that cognitive support technologies are most effective when they
+“encourage active processing and metacognitive monitoring rather than passive reception”
+(McNamara et al.).
+This distinction matters for the AI debate in writing classrooms. AI does not have to
+function as a shortcut. When used as a prompt, counterargument generator, or exploratory
+aid, it can require students to evaluate, reject, and revise suggestions. That evaluative
+work is itself intellectual labor.
+Extending the Argument: Exploration and Interests
+Plate’s argument becomes even more compelling when considered beyond writing assignments.
+Students increasingly use AI to explore academic interests, research industries, and
+understand possible career paths. These activities involve judgment, not automation.
+In my own experience, using AI to explore job options has helped clarify interests rather
+than replace reflection. AI can generate possibilities, but deciding which paths align with
+my values, skills, and goals requires interpretation and choice. The tool initiates inquiry;
+it does not complete it.
+This process mirrors the rhetorical decision-making emphasized in composition pedagogy.
+Students must assess relevance, credibility, and usefulness. Far from undermining agency,
+this kind of AI use exercises it.
+Agency as Practice, Not Protection
+Plate’s response reframes agency as something students must practice rather than something
+institutions can preserve by prohibition. Banning AI assumes misuse is inevitable.
+Teaching students how to evaluate AI assumes misuse is a risk worth confronting.
+Traditional academic integrity policies evaluate outcomes rather than regulating process.
+A blanket ban on AI shifts writing instruction toward surveillance of method rather than
+assessment of understanding. This risks producing compliance rather than judgment.
+Conclusion
+I agree with Plate that banning AI in the name of agency ultimately undermines it. Lively’s
+concerns about struggle and learning are valid, but prohibition is not the solution. Agency
+requires the possibility of choosing otherwise.
+When students learn to decide how, when, and whether to use AI, they develop intellectual
+judgment that extends beyond writing classrooms to professional and exploratory contexts.
+Trusting students with those choices is not a threat to education; it is its foundation.

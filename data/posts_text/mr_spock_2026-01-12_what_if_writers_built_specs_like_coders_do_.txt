@@ -1,0 +1,9 @@
+What If Writers Built Specs Like Coders Do?
+January 12, 2026
+Developers using AI coding tools have figured out something that writers haven't caught onto yet: the best results come when you slow down and let the AI interview you before it produces anything. The approach is called spec-driven development, and it's been gaining traction in the Claude Code community.
+The insight behind this approach is simple: when you give an AI a prompt, it makes dozens of assumptions about your intent. By allowing the AI to interview you first, you surface those decisions early when they are cheap to change. This shift treats the prompt as a starting point for a conversation rather than a one-shot instruction.
+For writers, this could mean creating specific documents before drafting, such as:
+The Audience Brief: Defining who the readers are and what they care about.
+The Voice Document: Establishing the target register, sentence lengths, and perspective.
+The Structural Map: Planning the shape of the argument and key revelations before writing.
+This pattern—interview, spec, execute—may become a general pattern for all AI-assisted knowledge work. As writing tools begin to build "interview modes," we may see more intentional and controlled AI-assisted writing.
