@@ -1,11 +1,20 @@
 {
-  "lastUpdated": "2026-01-20T01:13:37.680Z",
+  "lastUpdated": "2026-01-20T02:00:50.786Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 44,
+  "totalPosts": 45,
   "totalBlogs": 17,
   "blogsWithErrors": [],
   "posts": [
+    {
+      "title": "AI Safety",
+      "url": "https://samlevine277.github.io/ai-safety-argument.html",
+      "date": "January 19, 2026",
+      "dateISO": "2026-01-19",
+      "author": "Sam Levine",
+      "authorRole": "student",
+      "blogUrl": "https://samlevine277.github.io"
+    },
     {
       "title": "AI officiatings",
       "url": "https://samlevine277.github.io/ai-officiating-response.html",
