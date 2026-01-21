@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-01-21T16:39:32.237Z",
+  "lastUpdated": "2026-01-21T17:01:25.320Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 49,
-  "totalBlogs": 17,
+  "totalPosts": 50,
+  "totalBlogs": 18,
   "blogsWithErrors": [],
   "posts": [
     {
@@ -446,6 +446,15 @@
       "author": "Tom Bishop",
       "authorRole": "student",
       "blogUrl": "https://tombishop4.github.io"
+    },
+    {
+      "title": "The concerns of AI in schools",
+      "url": "https://jake3143.github.io/jake3143/Ai-concerns.html",
+      "date": null,
+      "dateISO": null,
+      "author": "Jaden Walker",
+      "authorRole": "student",
+      "blogUrl": "https://jake3143.github.io/jake3143"
     }
   ]
 }
