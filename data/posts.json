@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-01-21T16:00:07.907Z",
+  "lastUpdated": "2026-01-21T16:17:43.205Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 46,
+  "totalPosts": 49,
   "totalBlogs": 17,
   "blogsWithErrors": [],
   "posts": [
@@ -79,6 +79,24 @@
       "blogUrl": "https://samlevine277.github.io"
     },
     {
+      "title": "How Artificial Intelligence is Resurrecting Ancient Rome",
+      "url": "https://qubitn.github.io/silicon-caesars-ai-rome.html",
+      "date": "January 18, 2026",
+      "dateISO": "2026-01-18",
+      "author": "Jonas Rodrigues",
+      "authorRole": "student",
+      "blogUrl": "https://qubitn.github.io"
+    },
+    {
+      "title": "AI Designing Cars",
+      "url": "https://blt279.github.io/the-dying-automotive-soul.html",
+      "date": "January 18, 2026",
+      "dateISO": "2026-01-18",
+      "author": "Ben Teismann",
+      "authorRole": "student",
+      "blogUrl": "https://blt279.github.io"
+    },
+    {
       "title": "The Efficiency Paradox: Why Some Struggles Aren't Worth the Cost",
       "url": "https://dominicdebro.github.io/efficiency-paradox.html",
       "date": "January 18, 2026",
@@ -142,15 +160,6 @@
       "blogUrl": "https://emanigerdine7-ops.github.io"
     },
     {
-      "title": "How Artificial Intelligence is Resurrecting Ancient Rome",
-      "url": "https://qubitn.github.io/silicon-caesars-ai-rome.html",
-      "date": "January 16, 2026",
-      "dateISO": "2026-01-16",
-      "author": "Jonas Rodrigues",
-      "authorRole": "student",
-      "blogUrl": "https://qubitn.github.io"
-    },
-    {
       "title": "The GPS and the Driver",
       "url": "https://qubitn.github.io/the-gps-and-the-driver.html",
       "date": "January 16, 2026",
@@ -167,6 +176,15 @@
       "author": "Jonas Rodrigues",
       "authorRole": "student",
       "blogUrl": "https://qubitn.github.io"
+    },
+    {
+      "title": "The Illusion of Autonomy",
+      "url": "https://blt279.github.io/the-illusion-of-autonomy.html",
+      "date": "January 16, 2026",
+      "dateISO": "2026-01-16",
+      "author": "Ben Teismann",
+      "authorRole": "student",
+      "blogUrl": "https://blt279.github.io"
     },
     {
       "title": "The Green Mask: What We’re Really Hiding Behind",
@@ -212,6 +230,15 @@
       "author": "Luke Sumner",
       "authorRole": "student",
       "blogUrl": "https://lukesum.github.io"
+    },
+    {
+      "title": "Welcome To My Blog",
+      "url": "https://blt279.github.io/welcome-to-my-blog.html",
+      "date": "January 15, 2026",
+      "dateISO": "2026-01-15",
+      "author": "Ben Teismann",
+      "authorRole": "student",
+      "blogUrl": "https://blt279.github.io"
     },
     {
       "title": "The Architect of Intent: Why Higher-Level Thinking Demands a New Kind of Presence",
