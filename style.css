@@ -772,6 +772,140 @@ a:hover {
 }
 
 /* ========================================
+   Header Navigation Link
+   ======================================== */
+.header-nav-link {
+  display: inline-flex;
+  align-items: center;
+  font-size: 0.875rem;
+  font-weight: 500;
+  color: var(--text-secondary);
+  padding: var(--space-sm) var(--space-md);
+  background: var(--bg-elevated);
+  border: 1px solid var(--border-subtle);
+  border-radius: 6px;
+  transition: all 0.2s ease;
+}
+
+.header-nav-link:hover {
+  color: var(--accent-warm);
+  border-color: var(--border-accent);
+  background: var(--bg-hover);
+}
+
+/* ========================================
+   Directory Page
+   ======================================== */
+.directory-content {
+  padding-top: var(--space-xl);
+}
+
+.directory-section {
+  margin-bottom: var(--space-3xl);
+}
+
+.section-heading {
+  font-family: var(--font-body);
+  font-size: 0.75rem;
+  font-weight: 600;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  color: var(--text-tertiary);
+  padding-bottom: var(--space-md);
+  margin-bottom: var(--space-lg);
+  border-bottom: 1px solid var(--border-subtle);
+}
+
+.directory-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: var(--space-lg);
+}
+
+.person-card {
+  padding: var(--space-lg);
+  background: var(--bg-surface);
+  border: 1px solid var(--border-subtle);
+  border-radius: 10px;
+  transition: all 0.25s ease;
+}
+
+.person-card:hover {
+  border-color: var(--border-accent);
+  background: var(--bg-elevated);
+  transform: translateY(-2px);
+  box-shadow: 0 8px 24px -8px rgba(0, 0, 0, 0.3);
+}
+
+.instructor-card {
+  border-left: 3px solid var(--accent-warm);
+}
+
+.person-name {
+  font-family: var(--font-display);
+  font-size: 1.25rem;
+  font-weight: 400;
+  color: var(--text-primary);
+  margin-bottom: var(--space-md);
+}
+
+.person-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-sm);
+}
+
+.link-blog,
+.link-repo {
+  display: inline-flex;
+  align-items: center;
+  gap: var(--space-xs);
+  font-size: 0.8rem;
+  font-weight: 500;
+  padding: var(--space-xs) var(--space-sm);
+  border-radius: 4px;
+  transition: all 0.2s ease;
+}
+
+.link-blog {
+  color: var(--accent-warm);
+  background: var(--accent-glow);
+}
+
+.link-blog:hover {
+  color: var(--accent-highlight);
+  background: rgba(196, 149, 106, 0.25);
+}
+
+.link-repo {
+  color: var(--text-secondary);
+  background: var(--bg-elevated);
+  border: 1px solid var(--border-subtle);
+}
+
+.link-repo:hover {
+  color: var(--text-primary);
+  border-color: var(--border-medium);
+  background: var(--bg-hover);
+}
+
+.link-icon {
+  font-size: 0.9em;
+}
+
+/* Directory page responsive */
+@media (max-width: 768px) {
+  .header-nav-link {
+    order: 3;
+    margin-top: var(--space-sm);
+  }
+
+  .directory-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* ========================================
    Print Styles
    ======================================== */
 @media print {
