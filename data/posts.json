@@ -1,11 +1,20 @@
 {
-  "lastUpdated": "2026-01-21T18:25:42.824Z",
+  "lastUpdated": "2026-01-21T18:49:23.588Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 51,
+  "totalPosts": 52,
   "totalBlogs": 18,
   "blogsWithErrors": [],
   "posts": [
+    {
+      "title": "Digital Age Compulsions: AI, OCD, and the \"Dopamine Ceiling\"",
+      "url": "https://jinxxywrites.github.io/Psyched-for-Psychology/ai-ocd-and-dopamine.html",
+      "date": "January 21, 2026",
+      "dateISO": "2026-01-21",
+      "author": "Jinx Hixson",
+      "authorRole": "student",
+      "blogUrl": "https://jinxxywrites.github.io/Psyched-for-Psychology"
+    },
     {
       "title": "AI autonomy",
       "url": "https://samlevine277.github.io/ai-autonomy.html",
@@ -17,7 +26,7 @@
     },
     {
       "title": "Theories of Safety: AI-Encouraged Self-Injury",
-      "url": "https://jinxxywrites.github.io/Psyched-for-Psychology/ai-safety-and-self-harm.html",
+      "url": "https://jinxxywrites.github.io/Psyched-for-Psychology/safety.html",
       "date": "January 20, 2026",
       "dateISO": "2026-01-20",
       "author": "Jinx Hixson",
