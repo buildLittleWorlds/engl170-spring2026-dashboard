@@ -27,7 +27,7 @@ Because every post must engage with another class blog, students need an easy wa
 1. Aggregates all posts from all course blogs in one place
 2. Shows newest posts first so students can find recent content to respond to
 3. Filters by author or date range
-4. Updates automatically every hour
+4. Updates automatically every 5 minutes
 
 ### The Instructor's Blog
 
@@ -41,7 +41,7 @@ The instructor (Dr. Plate) maintains a blog at `https://buildlittleworlds.github
 ┌─────────────────┐     ┌──────────────────┐     ┌─────────────────┐
 │  Student Blogs  │     │  GitHub Action   │     │   Dashboard     │
 │  (GitHub Pages) │────▶│  (scraper.js)    │────▶│  (index.html)   │
-│                 │     │  runs hourly     │     │                 │
+│                 │     │  runs every 5min │     │                 │
 └─────────────────┘     └──────────────────┘     └─────────────────┘
                                │
                                ▼
@@ -55,7 +55,7 @@ The instructor (Dr. Plate) maintains a blog at `https://buildlittleworlds.github
 
 1. **Scraper** (`scripts/scraper.js`): A Node.js script that fetches each blog's `index.html`, parses the HTML to extract post titles, dates, and URLs, then writes everything to `data/posts.json`.
 
-2. **GitHub Action** (`.github/workflows/scrape.yml`): Runs the scraper every hour on the hour. If new posts are found, it commits and pushes the updated `posts.json`.
+2. **GitHub Action** (`.github/workflows/scrape.yml`): Runs the scraper every 5 minutes. If new posts are found, it commits and pushes the updated `posts.json`.
 
 3. **Dashboard** (`index.html` + `js/dashboard.js`): A static page that loads `posts.json` and displays posts with filtering options. Hosted on GitHub Pages.
 
@@ -125,7 +125,7 @@ Contains the list of all blogs to scrape:
 1. Edit `config.json`
 2. Add a new entry with `author`, `url`, and `role` ("student" or "instructor")
 3. Commit and push
-4. The next hourly scrape will pick up the new blog
+4. The next scrape (within 5 minutes) will pick up the new blog
 
 ## Data Format
 
@@ -168,7 +168,7 @@ Posts are sorted by date, newest first.
 - **By Date**: "Window" dropdown for This week / Last 2 weeks / Last month / All time
 
 ### Automatic Updates
-- Scraper runs every hour via GitHub Actions
+- Scraper runs every 5 minutes via GitHub Actions
 - Dashboard shows "Last collected: X minutes ago"
 
 ## Scraper Details
