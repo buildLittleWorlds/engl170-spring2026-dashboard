@@ -1,11 +1,20 @@
 {
-  "lastUpdated": "2026-01-21T03:26:58.649Z",
+  "lastUpdated": "2026-01-21T03:58:29.695Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 45,
+  "totalPosts": 46,
   "totalBlogs": 17,
   "blogsWithErrors": [],
   "posts": [
+    {
+      "title": "Theories of Safety: AI-Encouraged Self-Injury",
+      "url": "https://jinxxywrites.github.io/Psyched-for-Psychology/ai-safety-and-self-harm.html",
+      "date": "January 20, 2026",
+      "dateISO": "2026-01-20",
+      "author": "Jinx Hixson",
+      "authorRole": "student",
+      "blogUrl": "https://jinxxywrites.github.io/Psyched-for-Psychology"
+    },
     {
       "title": "AI Safety",
       "url": "https://samlevine277.github.io/ai-safety-argument.html",
