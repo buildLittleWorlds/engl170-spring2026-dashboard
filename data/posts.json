@@ -1,11 +1,20 @@
 {
-  "lastUpdated": "2026-01-21T17:01:25.320Z",
+  "lastUpdated": "2026-01-21T17:08:58.379Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 50,
+  "totalPosts": 51,
   "totalBlogs": 18,
   "blogsWithErrors": [],
   "posts": [
+    {
+      "title": "AI autonomy",
+      "url": "https://samlevine277.github.io/ai-autonomy.html",
+      "date": "January 21, 2026",
+      "dateISO": "2026-01-21",
+      "author": "Sam Levine",
+      "authorRole": "student",
+      "blogUrl": "https://samlevine277.github.io"
+    },
     {
       "title": "Theories of Safety: AI-Encouraged Self-Injury",
       "url": "https://jinxxywrites.github.io/Psyched-for-Psychology/ai-safety-and-self-harm.html",
