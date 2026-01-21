@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-01-21T22:59:24.097Z",
+  "lastUpdated": "2026-01-21T23:12:46.474Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 52,
+  "totalPosts": 53,
   "totalBlogs": 18,
   "blogsWithErrors": [],
   "posts": [
@@ -23,6 +23,15 @@
       "author": "Sam Levine",
       "authorRole": "student",
       "blogUrl": "https://samlevine277.github.io"
+    },
+    {
+      "title": "The Dopamine Ceiling and the Loud Lie Economy",
+      "url": "https://eliananodari.github.io/the-dopamine-ceiling.html",
+      "date": "January 21, 2026",
+      "dateISO": "2026-01-21",
+      "author": "Eliana Nodari",
+      "authorRole": "student",
+      "blogUrl": "https://eliananodari.github.io"
     },
     {
       "title": "Theories of Safety: AI-Encouraged Self-Injury",
