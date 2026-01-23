@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-01-23T16:31:34.635Z",
+  "lastUpdated": "2026-01-23T16:49:47.640Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 60,
+  "totalPosts": 61,
   "totalBlogs": 19,
   "blogsWithErrors": [],
   "posts": [
@@ -61,6 +61,15 @@
       "blogUrl": "https://qubitn.github.io"
     },
     {
+      "title": "The Stats Illusion: Why NFL Predictions Feel True",
+      "url": "https://zayamaro.github.io/stats-illusion.html",
+      "date": "January 23, 2026",
+      "dateISO": "2026-01-23",
+      "author": "Zay Amaro",
+      "authorRole": "student",
+      "blogUrl": "https://zayamaro.github.io"
+    },
+    {
       "title": "Sample Post Title 2",
       "url": "https://bellacalmetjanssen-cell.github.io/isabella-calmet-.github.io/post2.html",
       "date": "January 22, 2026",
@@ -68,15 +77,6 @@
       "author": "Isabella Calmet",
       "authorRole": "student",
       "blogUrl": "https://bellacalmetjanssen-cell.github.io/isabella-calmet-.github.io"
-    },
-    {
-      "title": "Day 1: Getting Started",
-      "url": "https://zayamaro.github.io/Day-1.html",
-      "date": "January 22, 2026",
-      "dateISO": "2026-01-22",
-      "author": "Zay Amaro",
-      "authorRole": "student",
-      "blogUrl": "https://zayamaro.github.io"
     },
     {
       "title": "Digital Age Compulsions: AI, OCD, and the \"Dopamine Ceiling\"",
@@ -113,6 +113,15 @@
       "author": "Dominic Debro",
       "authorRole": "student",
       "blogUrl": "https://dominicdebro.github.io"
+    },
+    {
+      "title": "Lifting Gear and AI: Tools vs. Crutches",
+      "url": "https://zayamaro.github.io/lifting-gear.html",
+      "date": "January 21, 2026",
+      "dateISO": "2026-01-21",
+      "author": "Zay Amaro",
+      "authorRole": "student",
+      "blogUrl": "https://zayamaro.github.io"
     },
     {
       "title": "Theories of Safety: AI-Encouraged Self-Injury",
