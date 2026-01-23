@@ -1,11 +1,20 @@
 {
-  "lastUpdated": "2026-01-23T17:57:41.041Z",
+  "lastUpdated": "2026-01-23T18:14:24.821Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 61,
+  "totalPosts": 62,
   "totalBlogs": 19,
   "blogsWithErrors": [],
   "posts": [
+    {
+      "title": "The Internal Loop: Treating \"Pure O\" with a \"Low-Ceiling Lifestyle\"",
+      "url": "https://jinxxywrites.github.io/Psyched-for-Psychology/pure-o-low-ceiling.html",
+      "date": "January 26, 2026",
+      "dateISO": "2026-01-26",
+      "author": "Jinx Hixson",
+      "authorRole": "student",
+      "blogUrl": "https://jinxxywrites.github.io/Psyched-for-Psychology"
+    },
     {
       "title": "Sample Post Title 3",
       "url": "https://bellacalmetjanssen-cell.github.io/isabella-calmet-.github.io/post3.html",
