@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-23T16:13:44.880Z",
+  "lastUpdated": "2026-01-23T16:31:34.635Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
   "totalPosts": 60,
@@ -43,13 +43,22 @@
       "blogUrl": "https://gabriel-bell.github.io"
     },
     {
-      "title": "The Stats Illusion: Why NFL Predictions Feel True",
-      "url": "https://zayamaro.github.io/the-stats-illusion.html",
+      "title": "Beyond Silicon Valley",
+      "url": "https://qubitn.github.io/non-western-ai-perspectives.html",
       "date": "January 23, 2026",
       "dateISO": "2026-01-23",
-      "author": "Zay Amaro",
+      "author": "Jonas Rodrigues",
       "authorRole": "student",
-      "blogUrl": "https://zayamaro.github.io"
+      "blogUrl": "https://qubitn.github.io"
+    },
+    {
+      "title": "The Double-Edged Sword",
+      "url": "https://qubitn.github.io/ai-hollywood-ethics.html",
+      "date": "January 23, 2026",
+      "dateISO": "2026-01-23",
+      "author": "Jonas Rodrigues",
+      "authorRole": "student",
+      "blogUrl": "https://qubitn.github.io"
     },
     {
       "title": "Sample Post Title 2",
@@ -61,8 +70,8 @@
       "blogUrl": "https://bellacalmetjanssen-cell.github.io/isabella-calmet-.github.io"
     },
     {
-      "title": "Discipline, Training, and Christian Faith",
-      "url": "https://zayamaro.github.io/discipline-and-belief.html",
+      "title": "Day 1: Getting Started",
+      "url": "https://zayamaro.github.io/Day-1.html",
       "date": "January 22, 2026",
       "dateISO": "2026-01-22",
       "author": "Zay Amaro",
@@ -374,15 +383,6 @@
       "author": "Kevion Milton",
       "authorRole": "student",
       "blogUrl": "https://kevionmilton.github.io"
-    },
-    {
-      "title": "Faith in Sports: Living for God Beyond the Game",
-      "url": "https://zayamaro.github.io/faith-in-sports.html",
-      "date": "January 15, 2026",
-      "dateISO": "2026-01-15",
-      "author": "Zay Amaro",
-      "authorRole": "student",
-      "blogUrl": "https://zayamaro.github.io"
     },
     {
       "title": "The Fluency Illusion",
