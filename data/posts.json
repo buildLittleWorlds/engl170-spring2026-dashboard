@@ -1,11 +1,20 @@
 {
-  "lastUpdated": "2026-01-23T15:15:56.136Z",
+  "lastUpdated": "2026-01-23T15:33:37.529Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
   "totalPosts": 60,
   "totalBlogs": 19,
   "blogsWithErrors": [],
   "posts": [
+    {
+      "title": "Sample Post Title 3",
+      "url": "https://bellacalmetjanssen-cell.github.io/isabella-calmet-.github.io/post3.html",
+      "date": "January 25, 2026",
+      "dateISO": "2026-01-25",
+      "author": "Isabella Calmet",
+      "authorRole": "student",
+      "blogUrl": "https://bellacalmetjanssen-cell.github.io/isabella-calmet-.github.io"
+    },
     {
       "title": "The Romanticized Ceiling",
       "url": "https://buildlittleworlds.github.io/plate-composition-blog/the-romanticized-ceiling.html",
@@ -41,6 +50,15 @@
       "author": "Zay Amaro",
       "authorRole": "student",
       "blogUrl": "https://zayamaro.github.io"
+    },
+    {
+      "title": "Sample Post Title 2",
+      "url": "https://bellacalmetjanssen-cell.github.io/isabella-calmet-.github.io/post2.html",
+      "date": "January 22, 2026",
+      "dateISO": "2026-01-22",
+      "author": "Isabella Calmet",
+      "authorRole": "student",
+      "blogUrl": "https://bellacalmetjanssen-cell.github.io/isabella-calmet-.github.io"
     },
     {
       "title": "Discipline, Training, and Christian Faith",
@@ -95,6 +113,15 @@
       "author": "Jinx Hixson",
       "authorRole": "student",
       "blogUrl": "https://jinxxywrites.github.io/Psyched-for-Psychology"
+    },
+    {
+      "title": "Sample Post Title 1",
+      "url": "https://bellacalmetjanssen-cell.github.io/isabella-calmet-.github.io/post1.html",
+      "date": "January 20, 2026",
+      "dateISO": "2026-01-20",
+      "author": "Isabella Calmet",
+      "authorRole": "student",
+      "blogUrl": "https://bellacalmetjanssen-cell.github.io/isabella-calmet-.github.io"
     },
     {
       "title": "AI Safety",
@@ -340,15 +367,6 @@
       "blogUrl": "https://braydenwilson22.github.io"
     },
     {
-      "title": "AI Tools for College Essays",
-      "url": "https://bellacalmetjanssen-cell.github.io/isabella-calmet-.github.io/post3.html",
-      "date": "January 15, 2026",
-      "dateISO": "2026-01-15",
-      "author": "Isabella Calmet",
-      "authorRole": "student",
-      "blogUrl": "https://bellacalmetjanssen-cell.github.io/isabella-calmet-.github.io"
-    },
-    {
       "title": "Welcome to My Blog",
       "url": "https://kevionmilton.github.io/first-post.html",
       "date": "January 15, 2026",
@@ -475,15 +493,6 @@
       "blogUrl": "https://buildlittleworlds.github.io/"
     },
     {
-      "title": "Ethics of AI-generated Content",
-      "url": "https://bellacalmetjanssen-cell.github.io/isabella-calmet-.github.io/post2.html",
-      "date": "January 12, 2026",
-      "dateISO": "2026-01-12",
-      "author": "Isabella Calmet",
-      "authorRole": "student",
-      "blogUrl": "https://bellacalmetjanssen-cell.github.io/isabella-calmet-.github.io"
-    },
-    {
       "title": "Thinking at a Higher Level",
       "url": "https://buildlittleworlds.github.io/plate-composition-blog/thinking-at-a-higher-level.html",
       "date": "January 11, 2026",
@@ -491,15 +500,6 @@
       "author": "Dr. Plate",
       "authorRole": "instructor",
       "blogUrl": "https://buildlittleworlds.github.io/plate-composition-blog"
-    },
-    {
-      "title": "Understanding AI in Writing",
-      "url": "https://bellacalmetjanssen-cell.github.io/isabella-calmet-.github.io/post1.html",
-      "date": "January 10, 2026",
-      "dateISO": "2026-01-10",
-      "author": "Isabella Calmet",
-      "authorRole": "student",
-      "blogUrl": "https://bellacalmetjanssen-cell.github.io/isabella-calmet-.github.io"
     },
     {
       "title": "What a Ban Can't Teach",
