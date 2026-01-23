@@ -1,11 +1,20 @@
 {
-  "lastUpdated": "2026-01-23T13:51:12.792Z",
+  "lastUpdated": "2026-01-23T14:03:08.629Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 59,
+  "totalPosts": 60,
   "totalBlogs": 19,
   "blogsWithErrors": [],
   "posts": [
+    {
+      "title": "The Romanticized Ceiling",
+      "url": "https://buildlittleworlds.github.io/plate-composition-blog/the-romanticized-ceiling.html",
+      "date": "January 23, 2026",
+      "dateISO": "2026-01-23",
+      "author": "Dr. Plate",
+      "authorRole": "instructor",
+      "blogUrl": "https://buildlittleworlds.github.io/plate-composition-blog"
+    },
     {
       "title": "What Concert Tickets Teach Us About Value",
       "url": "https://buildlittleworlds.github.io/plate-composition-blog/the-price-signal.html",
