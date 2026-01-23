@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-01-23T04:26:14.457Z",
+  "lastUpdated": "2026-01-23T04:49:06.800Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 56,
+  "totalPosts": 57,
   "totalBlogs": 19,
   "blogsWithErrors": [],
   "posts": [
@@ -50,6 +50,15 @@
       "author": "Eliana Nodari",
       "authorRole": "student",
       "blogUrl": "https://eliananodari.github.io"
+    },
+    {
+      "title": "Beyond the Screen: Cultivating a \"Low-Ceiling\" Lifestyle",
+      "url": "https://dominicdebro.github.io/low-ceiling-lifestyle.html",
+      "date": "January 21, 2026",
+      "dateISO": "2026-01-21",
+      "author": "Dominic Debro",
+      "authorRole": "student",
+      "blogUrl": "https://dominicdebro.github.io"
     },
     {
       "title": "Theories of Safety: AI-Encouraged Self-Injury",
