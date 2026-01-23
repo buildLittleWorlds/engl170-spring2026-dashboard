@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-01-23T18:14:24.821Z",
+  "lastUpdated": "2026-01-23T18:32:48.407Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 62,
+  "totalPosts": 63,
   "totalBlogs": 19,
   "blogsWithErrors": [],
   "posts": [
@@ -50,6 +50,15 @@
       "author": "Gabriel Bell",
       "authorRole": "student",
       "blogUrl": "https://gabriel-bell.github.io"
+    },
+    {
+      "title": "The Worth of Expression",
+      "url": "https://eliananodari.github.io/the-worth-of-expression.html",
+      "date": "January 23, 2026",
+      "dateISO": "2026-01-23",
+      "author": "Eliana Nodari",
+      "authorRole": "student",
+      "blogUrl": "https://eliananodari.github.io"
     },
     {
       "title": "Beyond Silicon Valley",
