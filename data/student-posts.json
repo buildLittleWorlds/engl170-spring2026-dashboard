@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-21T01:00:02.408Z",
+  "lastUpdated": "2026-01-23T12:30:02.379Z",
   "students": {
     "Olivia Andresen": {
       "url": "https://olliebear2006ya-dotcom.github.io/Olivias-Disney-Blog",
@@ -8,6 +8,11 @@
     "Gabriel Bell": {
       "url": "https://gabriel-bell.github.io",
       "posts": [
+        {
+          "date": "2026-01-23",
+          "title": "The Price of Everything and the Value of Nothing: Challenging the Monetary Monopoly",
+          "file": "gabriel_bell_2026-01-23_the_price_of_everything_and_the_value_of_nothing__.txt"
+        },
         {
           "date": "2026-01-16",
           "title": "The Cost of Human Relevancy: Why Efficiency Isn't the Only Metric",
@@ -59,6 +64,16 @@
       "url": "https://jinxxywrites.github.io/Psyched-for-Psychology",
       "posts": [
         {
+          "date": "2026-01-21",
+          "title": "Digital Age Compulsions: AI, OCD, and the \"Dopamine Ceiling\"",
+          "file": "jinx_hixson_2026-01-21_digital_age_compulsions__ai__ocd__and_the__dopamin.txt"
+        },
+        {
+          "date": "2026-01-20",
+          "title": "Theories of Safety: AI-Encouraged Self-Injury",
+          "file": "jinx_hixson_2026-01-20_theories_of_safety__ai_encouraged_self_injury.txt"
+        },
+        {
           "date": "2026-01-18",
           "title": "The Exaggeration Effect and the \"Loud Lie Economy\"",
           "file": "jinx_hixson_2026-01-18_the_exaggeration_effect_and_the__loud_lie_economy_.txt"
@@ -78,6 +93,11 @@
     "Sam Levine": {
       "url": "https://samlevine277.github.io",
       "posts": [
+        {
+          "date": "2026-01-21",
+          "title": "AI autonomy",
+          "file": "sam_levine_2026-01-21_ai_autonomy.txt"
+        },
         {
           "date": "2026-01-19",
           "title": "AI Safety",
@@ -109,6 +129,11 @@
       "url": "https://eliananodari.github.io",
       "posts": [
         {
+          "date": "2026-01-21",
+          "title": "The Dopamine Ceiling and the Loud Lie Economy",
+          "file": "eliana_nodari_2026-01-21_the_dopamine_ceiling_and_the_loud_lie_economy.txt"
+        },
+        {
           "date": "2026-01-15",
           "title": "Myths and Truths about AI and the Environment",
           "file": "eliana_nodari_2026-01-15_myths_and_truths_about_ai_and_the_environment.txt"
@@ -128,6 +153,11 @@
     "Jonas Rodrigues": {
       "url": "https://qubitn.github.io",
       "posts": [
+        {
+          "date": "2026-01-18",
+          "title": "How Artificial Intelligence is Resurrecting Ancient Rome",
+          "file": "jonas_rodrigues_2026-01-18_how_artificial_intelligence_is_resurrecting_ancien.txt"
+        },
         {
           "date": "2026-01-16",
           "title": "How Artificial Intelligence is Resurrecting Ancient Rome",
@@ -151,7 +181,23 @@
     },
     "Ben Teismann": {
       "url": "https://blt279.github.io",
-      "posts": []
+      "posts": [
+        {
+          "date": "2026-01-18",
+          "title": "AI Designing Cars",
+          "file": "ben_teismann_2026-01-18_ai_designing_cars.txt"
+        },
+        {
+          "date": "2026-01-16",
+          "title": "The Illusion of Autonomy",
+          "file": "ben_teismann_2026-01-16_the_illusion_of_autonomy.txt"
+        },
+        {
+          "date": "2026-01-15",
+          "title": "Welcome To My Blog",
+          "file": "ben_teismann_2026-01-15_welcome_to_my_blog.txt"
+        }
+      ]
     },
     "Tom Bishop": {
       "url": "https://tombishop4.github.io",
@@ -160,6 +206,11 @@
     "Dominic Debro": {
       "url": "https://dominicdebro.github.io",
       "posts": [
+        {
+          "date": "2026-01-21",
+          "title": "Beyond the Screen: Cultivating a \"Low-Ceiling\" Lifestyle",
+          "file": "dominic_debro_2026-01-21_beyond_the_screen__cultivating_a__low_ceiling__lif.txt"
+        },
         {
           "date": "2026-01-18",
           "title": "The Efficiency Paradox: Why Some Struggles Aren't Worth the Cost",
@@ -213,6 +264,16 @@
           "date": "2026-01-15",
           "title": "Welcome to My Blog",
           "file": "kevion_milton_2026-01-15_welcome_to_my_blog.txt"
+        }
+      ]
+    },
+    "Zay Amaro": {
+      "url": "",
+      "posts": [
+        {
+          "date": "2026-01-23",
+          "title": "The Stats Illusion: Why NFL Predictions Feel True",
+          "file": "zay_amaro_2026-01-23_the_stats_illusion__why_nfl_predictions_feel_true.txt"
         }
       ]
     }
