@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-01-24T19:33:19.384Z",
+  "lastUpdated": "2026-01-24T19:43:00.729Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 64,
+  "totalPosts": 66,
   "totalBlogs": 19,
   "blogsWithErrors": [],
   "posts": [
@@ -16,6 +16,15 @@
       "blogUrl": "https://jinxxywrites.github.io/Psyched-for-Psychology"
     },
     {
+      "title": "Markets, Metrics, and the Myth of Certainty",
+      "url": "https://zayamaro.github.io/markets-and-metrics.html",
+      "date": "January 26, 2026",
+      "dateISO": "2026-01-26",
+      "author": "Zay Amaro",
+      "authorRole": "student",
+      "blogUrl": "https://zayamaro.github.io"
+    },
+    {
       "title": "Sample Post Title 3",
       "url": "https://bellacalmetjanssen-cell.github.io/isabella-calmet-.github.io/post3.html",
       "date": "January 25, 2026",
@@ -23,6 +32,15 @@
       "author": "Isabella Calmet",
       "authorRole": "student",
       "blogUrl": "https://bellacalmetjanssen-cell.github.io/isabella-calmet-.github.io"
+    },
+    {
+      "title": "The Cost of Relevancy: Why We Still Need the Human Element in Sports",
+      "url": "https://zayamaro.github.io/relevancy-and-clutch.html",
+      "date": "January 25, 2026",
+      "dateISO": "2026-01-25",
+      "author": "Zay Amaro",
+      "authorRole": "student",
+      "blogUrl": "https://zayamaro.github.io"
     },
     {
       "title": "The Squared Circle and the Gridiron: Can AI Predict the Knockout?",
