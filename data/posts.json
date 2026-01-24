@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-01-24T19:23:46.288Z",
+  "lastUpdated": "2026-01-24T19:33:19.384Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 63,
+  "totalPosts": 64,
   "totalBlogs": 19,
   "blogsWithErrors": [],
   "posts": [
@@ -23,6 +23,15 @@
       "author": "Isabella Calmet",
       "authorRole": "student",
       "blogUrl": "https://bellacalmetjanssen-cell.github.io/isabella-calmet-.github.io"
+    },
+    {
+      "title": "The Squared Circle and the Gridiron: Can AI Predict the Knockout?",
+      "url": "https://zayamaro.github.io/boxing-and-randomness.html",
+      "date": "January 24, 2026",
+      "dateISO": "2026-01-24",
+      "author": "Zay Amaro",
+      "authorRole": "student",
+      "blogUrl": "https://zayamaro.github.io"
     },
     {
       "title": "The Romanticized Ceiling",
