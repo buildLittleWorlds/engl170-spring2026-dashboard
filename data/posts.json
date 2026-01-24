@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-01-24T19:52:00.408Z",
+  "lastUpdated": "2026-01-24T20:01:15.038Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 66,
+  "totalPosts": 67,
   "totalBlogs": 19,
   "blogsWithErrors": [],
   "posts": [
@@ -41,6 +41,15 @@
       "author": "Zay Amaro",
       "authorRole": "student",
       "blogUrl": "https://zayamaro.github.io"
+    },
+    {
+      "title": "The Ghost in the Machine: Why Sports Need the Romantic, Not Just the Rational",
+      "url": "https://gabriel-bell.github.io/the-ghost-in-the-machine.html",
+      "date": "January 24, 2026",
+      "dateISO": "2026-01-24",
+      "author": "Gabriel Bell",
+      "authorRole": "student",
+      "blogUrl": "https://gabriel-bell.github.io"
     },
     {
       "title": "The Squared Circle and the Gridiron: Can AI Predict the Knockout?",
