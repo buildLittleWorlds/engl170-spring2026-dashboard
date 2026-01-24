@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-24T01:12:11.263Z",
+  "lastUpdated": "2026-01-24T01:33:38.335Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
   "totalPosts": 63,
@@ -77,6 +77,15 @@
       "author": "Jonas Rodrigues",
       "authorRole": "student",
       "blogUrl": "https://qubitn.github.io"
+    },
+    {
+      "title": "How Artificial Intelligence Is Improving Boxing",
+      "url": "https://tombishop4.github.io/ai-improving-boxing.html",
+      "date": "January 23, 2026",
+      "dateISO": "2026-01-23",
+      "author": "Tom Bishop",
+      "authorRole": "student",
+      "blogUrl": "https://tombishop4.github.io"
     },
     {
       "title": "The Stats Illusion: Why NFL Predictions Feel True",
@@ -554,15 +563,6 @@
       "author": "Olivia Andresen",
       "authorRole": "student",
       "blogUrl": "https://olliebear2006ya-dotcom.github.io/Olivias-Disney-Blog"
-    },
-    {
-      "title": "My First Post",
-      "url": "https://tombishop4.github.io/my-first-post.html",
-      "date": null,
-      "dateISO": null,
-      "author": "Tom Bishop",
-      "authorRole": "student",
-      "blogUrl": "https://tombishop4.github.io"
     },
     {
       "title": "The concerns of AI in schools",
