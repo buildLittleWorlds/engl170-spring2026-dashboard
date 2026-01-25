@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-01-25T18:31:14.227Z",
+  "lastUpdated": "2026-01-25T18:47:37.642Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 68,
+  "totalPosts": 67,
   "totalBlogs": 19,
   "blogsWithErrors": [],
   "posts": [
@@ -25,8 +25,8 @@
       "blogUrl": "https://zayamaro.github.io"
     },
     {
-      "title": "The Moneyball of Algorithms: AI and Sports Numbers",
-      "url": "https://braydenwilson22.github.io/ai-and-sports-numbers.html",
+      "title": "Beyond the Goal Horn: The Hidden World of Hockey",
+      "url": "https://braydenwilson22.github.io/behind-the-scenes-hockey.html",
       "date": "January 25, 2026",
       "dateISO": "2026-01-25",
       "author": "Brayden Wilson",
@@ -446,15 +446,6 @@
       "author": "Dominic Debro",
       "authorRole": "student",
       "blogUrl": "https://dominicdebro.github.io"
-    },
-    {
-      "title": "My First Post Title",
-      "url": "https://braydenwilson22.github.io/my-first-post.html",
-      "date": "January 15, 2026",
-      "dateISO": "2026-01-15",
-      "author": "Brayden Wilson",
-      "authorRole": "student",
-      "blogUrl": "https://braydenwilson22.github.io"
     },
     {
       "title": "Welcome to My Blog",
