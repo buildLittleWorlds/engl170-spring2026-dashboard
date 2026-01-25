@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-01-25T19:34:59.452Z",
+  "lastUpdated": "2026-01-25T19:44:37.341Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 67,
+  "totalPosts": 68,
   "totalBlogs": 19,
   "blogsWithErrors": [],
   "posts": [
@@ -23,6 +23,15 @@
       "author": "Zay Amaro",
       "authorRole": "student",
       "blogUrl": "https://zayamaro.github.io"
+    },
+    {
+      "title": "The Silicon Equalizer: Can AI Solve the Coordination Problem?",
+      "url": "https://dominicdebro.github.io/the-silicon-equalizer.html",
+      "date": "January 25, 2026",
+      "dateISO": "2026-01-25",
+      "author": "Dominic Debro",
+      "authorRole": "student",
+      "blogUrl": "https://dominicdebro.github.io"
     },
     {
       "title": "Beyond the Goal Horn: The Hidden World of Hockey",
