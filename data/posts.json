@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-25T18:13:37.285Z",
+  "lastUpdated": "2026-01-25T18:31:14.227Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
   "totalPosts": 68,
@@ -23,6 +23,15 @@
       "author": "Zay Amaro",
       "authorRole": "student",
       "blogUrl": "https://zayamaro.github.io"
+    },
+    {
+      "title": "The Moneyball of Algorithms: AI and Sports Numbers",
+      "url": "https://braydenwilson22.github.io/ai-and-sports-numbers.html",
+      "date": "January 25, 2026",
+      "dateISO": "2026-01-25",
+      "author": "Brayden Wilson",
+      "authorRole": "student",
+      "blogUrl": "https://braydenwilson22.github.io"
     },
     {
       "title": "Sample Post Title 3",
@@ -313,15 +322,6 @@
       "blogUrl": "https://dominicdebro.github.io"
     },
     {
-      "title": "Blood on the Ice: The St. Louis Blues and Chicago Blackhawks Rivalry",
-      "url": "https://braydenwilson22.github.io/blues-blackhawks-rivalry.html",
-      "date": "January 18, 2026",
-      "dateISO": "2026-01-18",
-      "author": "Brayden Wilson",
-      "authorRole": "student",
-      "blogUrl": "https://braydenwilson22.github.io"
-    },
-    {
       "title": "The Digital Whistle: How AI is Changing Basketball Officiating",
       "url": "https://kevionmilton.github.io/ai-in-sports.html",
       "date": "January 18, 2026",
@@ -448,8 +448,8 @@
       "blogUrl": "https://dominicdebro.github.io"
     },
     {
-      "title": "The Rollercoaster in the Lou: Analyzing the St. Louis Blues’ Recent Surge and Struggles",
-      "url": "https://braydenwilson22.github.io/st-louis-blues-recent-performances.html",
+      "title": "My First Post Title",
+      "url": "https://braydenwilson22.github.io/my-first-post.html",
       "date": "January 15, 2026",
       "dateISO": "2026-01-15",
       "author": "Brayden Wilson",
