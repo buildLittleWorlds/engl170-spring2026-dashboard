@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-01-25T01:33:10.637Z",
+  "lastUpdated": "2026-01-25T02:29:31.033Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 67,
+  "totalPosts": 68,
   "totalBlogs": 19,
   "blogsWithErrors": [],
   "posts": [
@@ -50,6 +50,15 @@
       "author": "Gabriel Bell",
       "authorRole": "student",
       "blogUrl": "https://gabriel-bell.github.io"
+    },
+    {
+      "title": "Quiet the Noise: When AI Rewrites Our Biology",
+      "url": "https://jrbrunts.github.io/quiet-the-noise.html",
+      "date": "January 24, 2026",
+      "dateISO": "2026-01-24",
+      "author": "Jacob Brunts",
+      "authorRole": "student",
+      "blogUrl": "https://jrbrunts.github.io"
     },
     {
       "title": "The Squared Circle and the Gridiron: Can AI Predict the Knockout?",
