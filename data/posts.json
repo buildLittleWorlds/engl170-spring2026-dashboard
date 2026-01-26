@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-01-26T15:47:46.862Z",
+  "lastUpdated": "2026-01-26T16:00:03.690Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 77,
+  "totalPosts": 75,
   "totalBlogs": 20,
   "blogsWithErrors": [],
   "posts": [
@@ -23,6 +23,15 @@
       "author": "Jinx Hixson",
       "authorRole": "student",
       "blogUrl": "https://jinxxywrites.github.io/Psyched-for-Psychology"
+    },
+    {
+      "title": "Responding to \"The Romanticized Ceiling\": Why Data Still Needs Human Judgment",
+      "url": "https://bellacalmetjanssen-cell.github.io/isabella-calmet-.github.io/human-judgment-data.html",
+      "date": "January 26, 2026",
+      "dateISO": "2026-01-26",
+      "author": "Isabella Calmet",
+      "authorRole": "student",
+      "blogUrl": "https://bellacalmetjanssen-cell.github.io/isabella-calmet-.github.io"
     },
     {
       "title": "Markets, Metrics, and the Myth of Certainty",
@@ -662,33 +671,6 @@
       "author": "Olivia Andresen",
       "authorRole": "student",
       "blogUrl": "https://olliebear2006ya-dotcom.github.io/Olivias-Disney-Blog"
-    },
-    {
-      "title": "Título de tu primer ensayo o reflexión",
-      "url": "https://bellacalmetjanssen-cell.github.io/isabella-calmet-.github.io/#",
-      "date": null,
-      "dateISO": null,
-      "author": "Isabella Calmet",
-      "authorRole": "student",
-      "blogUrl": "https://bellacalmetjanssen-cell.github.io/isabella-calmet-.github.io"
-    },
-    {
-      "title": "Análisis literario semanal",
-      "url": "https://bellacalmetjanssen-cell.github.io/isabella-calmet-.github.io/#",
-      "date": null,
-      "dateISO": null,
-      "author": "Isabella Calmet",
-      "authorRole": "student",
-      "blogUrl": "https://bellacalmetjanssen-cell.github.io/isabella-calmet-.github.io"
-    },
-    {
-      "title": "Notas sobre retórica y composición",
-      "url": "https://bellacalmetjanssen-cell.github.io/isabella-calmet-.github.io/#",
-      "date": null,
-      "dateISO": null,
-      "author": "Isabella Calmet",
-      "authorRole": "student",
-      "blogUrl": "https://bellacalmetjanssen-cell.github.io/isabella-calmet-.github.io"
     },
     {
       "title": "The concerns of AI in schools",
