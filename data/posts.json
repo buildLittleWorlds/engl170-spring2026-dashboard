@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-01-26T16:15:30.401Z",
+  "lastUpdated": "2026-01-26T16:34:25.345Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 75,
+  "totalPosts": 76,
   "totalBlogs": 20,
   "blogsWithErrors": [],
   "posts": [
@@ -23,6 +23,15 @@
       "author": "Jinx Hixson",
       "authorRole": "student",
       "blogUrl": "https://jinxxywrites.github.io/Psyched-for-Psychology"
+    },
+    {
+      "title": "Responding to \"The Price of Everything\": How Market Value Reflects Collective Desire",
+      "url": "https://bellacalmetjanssen-cell.github.io/isabella-calmet-.github.io/price-of-everything-response.html",
+      "date": "January 26, 2026",
+      "dateISO": "2026-01-26",
+      "author": "Isabella Calmet",
+      "authorRole": "student",
+      "blogUrl": "https://bellacalmetjanssen-cell.github.io/isabella-calmet-.github.io"
     },
     {
       "title": "Responding to \"The Romanticized Ceiling\": Why Data Still Needs Human Judgment",
