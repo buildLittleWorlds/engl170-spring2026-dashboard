@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-26T14:22:16.468Z",
+  "lastUpdated": "2026-01-26T14:41:07.578Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
   "totalPosts": 71,
@@ -68,15 +68,6 @@
       "author": "Brayden Wilson",
       "authorRole": "student",
       "blogUrl": "https://braydenwilson22.github.io"
-    },
-    {
-      "title": "Sample Post Title 3",
-      "url": "https://bellacalmetjanssen-cell.github.io/isabella-calmet-.github.io/post3.html",
-      "date": "January 25, 2026",
-      "dateISO": "2026-01-25",
-      "author": "Isabella Calmet",
-      "authorRole": "student",
-      "blogUrl": "https://bellacalmetjanssen-cell.github.io/isabella-calmet-.github.io"
     },
     {
       "title": "The Cost of Relevancy: Why We Still Need the Human Element in Sports",
@@ -187,15 +178,6 @@
       "blogUrl": "https://zayamaro.github.io"
     },
     {
-      "title": "Sample Post Title 2",
-      "url": "https://bellacalmetjanssen-cell.github.io/isabella-calmet-.github.io/post2.html",
-      "date": "January 22, 2026",
-      "dateISO": "2026-01-22",
-      "author": "Isabella Calmet",
-      "authorRole": "student",
-      "blogUrl": "https://bellacalmetjanssen-cell.github.io/isabella-calmet-.github.io"
-    },
-    {
       "title": "Digital Age Compulsions: AI, OCD, and the \"Dopamine Ceiling\"",
       "url": "https://jinxxywrites.github.io/Psyched-for-Psychology/ai-ocd-and-dopamine.html",
       "date": "January 21, 2026",
@@ -248,15 +230,6 @@
       "author": "Jinx Hixson",
       "authorRole": "student",
       "blogUrl": "https://jinxxywrites.github.io/Psyched-for-Psychology"
-    },
-    {
-      "title": "Sample Post Title 1",
-      "url": "https://bellacalmetjanssen-cell.github.io/isabella-calmet-.github.io/post1.html",
-      "date": "January 20, 2026",
-      "dateISO": "2026-01-20",
-      "author": "Isabella Calmet",
-      "authorRole": "student",
-      "blogUrl": "https://bellacalmetjanssen-cell.github.io/isabella-calmet-.github.io"
     },
     {
       "title": "AI Safety",
@@ -635,6 +608,33 @@
       "author": "Olivia Andresen",
       "authorRole": "student",
       "blogUrl": "https://olliebear2006ya-dotcom.github.io/Olivias-Disney-Blog"
+    },
+    {
+      "title": "Título de tu primer ensayo o reflexión",
+      "url": "https://bellacalmetjanssen-cell.github.io/isabella-calmet-.github.io/#",
+      "date": null,
+      "dateISO": null,
+      "author": "Isabella Calmet",
+      "authorRole": "student",
+      "blogUrl": "https://bellacalmetjanssen-cell.github.io/isabella-calmet-.github.io"
+    },
+    {
+      "title": "Análisis literario semanal",
+      "url": "https://bellacalmetjanssen-cell.github.io/isabella-calmet-.github.io/#",
+      "date": null,
+      "dateISO": null,
+      "author": "Isabella Calmet",
+      "authorRole": "student",
+      "blogUrl": "https://bellacalmetjanssen-cell.github.io/isabella-calmet-.github.io"
+    },
+    {
+      "title": "Notas sobre retórica y composición",
+      "url": "https://bellacalmetjanssen-cell.github.io/isabella-calmet-.github.io/#",
+      "date": null,
+      "dateISO": null,
+      "author": "Isabella Calmet",
+      "authorRole": "student",
+      "blogUrl": "https://bellacalmetjanssen-cell.github.io/isabella-calmet-.github.io"
     },
     {
       "title": "The concerns of AI in schools",
