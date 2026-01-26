@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-01-26T17:11:23.724Z",
+  "lastUpdated": "2026-01-26T17:28:25.052Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 77,
+  "totalPosts": 78,
   "totalBlogs": 20,
   "blogsWithErrors": [],
   "posts": [
@@ -32,6 +32,15 @@
       "author": "Sam Levine",
       "authorRole": "student",
       "blogUrl": "https://samlevine277.github.io"
+    },
+    {
+      "title": "The Tomorrow Code: Between Genetic Healing and the Dilemma of \"Designer\" Humans",
+      "url": "https://bellacalmetjanssen-cell.github.io/isabella-calmet-.github.io/the-tomorrow-code.html",
+      "date": "January 26, 2026",
+      "dateISO": "2026-01-26",
+      "author": "Isabella Calmet",
+      "authorRole": "student",
+      "blogUrl": "https://bellacalmetjanssen-cell.github.io/isabella-calmet-.github.io"
     },
     {
       "title": "Responding to \"The Price of Everything\": How Market Value Reflects Collective Desire",
