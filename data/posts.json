@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-01-26T19:51:12.862Z",
+  "lastUpdated": "2026-01-26T20:00:15.876Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 79,
+  "totalPosts": 80,
   "totalBlogs": 20,
   "blogsWithErrors": [],
   "posts": [
@@ -32,6 +32,15 @@
       "author": "Sam Levine",
       "authorRole": "student",
       "blogUrl": "https://samlevine277.github.io"
+    },
+    {
+      "title": "The Evolution of the Architect: Professional Adaptation in the Age of Agentic AI",
+      "url": "https://eliananodari.github.io/evolution-of-the-architect.html",
+      "date": "January 26, 2026",
+      "dateISO": "2026-01-26",
+      "author": "Eliana Nodari",
+      "authorRole": "student",
+      "blogUrl": "https://eliananodari.github.io"
     },
     {
       "title": "Beyond the Laboratory: The Millennial History of Genetic Modification",
