@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-01-25T23:56:13.177Z",
+  "lastUpdated": "2026-01-26T00:43:19.780Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 68,
+  "totalPosts": 69,
   "totalBlogs": 19,
   "blogsWithErrors": [],
   "posts": [
@@ -23,6 +23,15 @@
       "author": "Zay Amaro",
       "authorRole": "student",
       "blogUrl": "https://zayamaro.github.io"
+    },
+    {
+      "title": "AI vs Humans (Sports)",
+      "url": "https://samlevine277.github.io/post1_human_vs_ai_sports.html",
+      "date": "January 25, 2026",
+      "dateISO": "2026-01-25",
+      "author": "Sam Levine",
+      "authorRole": "student",
+      "blogUrl": "https://samlevine277.github.io"
     },
     {
       "title": "The Silicon Equalizer: Can AI Solve the Coordination Problem?",
