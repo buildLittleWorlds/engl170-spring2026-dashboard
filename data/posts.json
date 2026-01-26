@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-01-26T16:54:18.899Z",
+  "lastUpdated": "2026-01-26T17:11:23.724Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 76,
+  "totalPosts": 77,
   "totalBlogs": 20,
   "blogsWithErrors": [],
   "posts": [
@@ -23,6 +23,15 @@
       "author": "Jinx Hixson",
       "authorRole": "student",
       "blogUrl": "https://jinxxywrites.github.io/Psyched-for-Psychology"
+    },
+    {
+      "title": "AI-Performance Partner (Sports)",
+      "url": "https://samlevine277.github.io/ai-as-a-performance-partner.html",
+      "date": "January 26, 2026",
+      "dateISO": "2026-01-26",
+      "author": "Sam Levine",
+      "authorRole": "student",
+      "blogUrl": "https://samlevine277.github.io"
     },
     {
       "title": "Responding to \"The Price of Everything\": How Market Value Reflects Collective Desire",
