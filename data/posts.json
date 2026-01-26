@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-01-26T02:06:28.589Z",
+  "lastUpdated": "2026-01-26T03:02:17.899Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 69,
+  "totalPosts": 70,
   "totalBlogs": 19,
   "blogsWithErrors": [],
   "posts": [
@@ -23,6 +23,15 @@
       "author": "Zay Amaro",
       "authorRole": "student",
       "blogUrl": "https://zayamaro.github.io"
+    },
+    {
+      "title": "The Silicon Mirage: Why AI Abundance May Be Our Newest Form of Scarcity",
+      "url": "https://gabriel-bell.github.io/the-silicon-mirage.html",
+      "date": "January 25, 2026",
+      "dateISO": "2026-01-25",
+      "author": "Gabriel Bell",
+      "authorRole": "student",
+      "blogUrl": "https://gabriel-bell.github.io"
     },
     {
       "title": "AI vs Humans (Sports)",
