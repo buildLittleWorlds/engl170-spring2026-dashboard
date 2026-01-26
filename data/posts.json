@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-01-26T17:58:14.063Z",
+  "lastUpdated": "2026-01-26T18:15:51.628Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 78,
+  "totalPosts": 79,
   "totalBlogs": 20,
   "blogsWithErrors": [],
   "posts": [
@@ -32,6 +32,15 @@
       "author": "Sam Levine",
       "authorRole": "student",
       "blogUrl": "https://samlevine277.github.io"
+    },
+    {
+      "title": "Beyond the Laboratory: The Millennial History of Genetic Modification",
+      "url": "https://bellacalmetjanssen-cell.github.io/isabella-calmet-.github.io/genetic-modification-history.html",
+      "date": "January 26, 2026",
+      "dateISO": "2026-01-26",
+      "author": "Isabella Calmet",
+      "authorRole": "student",
+      "blogUrl": "https://bellacalmetjanssen-cell.github.io/isabella-calmet-.github.io"
     },
     {
       "title": "The Tomorrow Code: Between Genetic Healing and the Dilemma of \"Designer\" Humans",
