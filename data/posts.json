@@ -1,11 +1,20 @@
 {
-  "lastUpdated": "2026-01-26T05:06:35.929Z",
+  "lastUpdated": "2026-01-26T05:23:52.852Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 70,
+  "totalPosts": 71,
   "totalBlogs": 19,
   "blogsWithErrors": [],
   "posts": [
+    {
+      "title": "The Quantified Athlete: How AI is Breaking the Human Limit",
+      "url": "https://jrbrunts.github.io/beyond-the-limit.html",
+      "date": "January 27, 2026",
+      "dateISO": "2026-01-27",
+      "author": "Jacob Brunts",
+      "authorRole": "student",
+      "blogUrl": "https://jrbrunts.github.io"
+    },
     {
       "title": "The Internal Loop: Treating \"Pure O\" with a \"Low-Ceiling Lifestyle\"",
       "url": "https://jinxxywrites.github.io/Psyched-for-Psychology/pure-o-low-ceiling.html",
