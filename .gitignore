@@ -1,5 +1,30 @@
-# Student private data
+# ===========================================
+# PRIVACY: Files that should NEVER be public
+# ===========================================
+
+# Student contact information
 student-emails-with-urls/
+
+# Compliance reports (contains who's missing/failing - grades-adjacent)
+data/compliance/
+
+# Local environment variables (contains webhook URLs, secrets)
+.env.local
+.env
+
+# Any future files with student PII
+*.pii.json
+*-private.json
+
+# ===========================================
+# Operational files (not sensitive, just noisy)
+# ===========================================
 
 # Log files
 update.log
+compliance.log
+*.log
+
+# Local development
+.DS_Store
+node_modules/
