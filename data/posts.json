@@ -1,11 +1,20 @@
 {
-  "lastUpdated": "2026-01-28T04:51:15.898Z",
+  "lastUpdated": "2026-01-28T05:05:30.354Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 80,
+  "totalPosts": 81,
   "totalBlogs": 20,
   "blogsWithErrors": [],
   "posts": [
+    {
+      "title": "The White Flag: Accepting the Efficiency Engine",
+      "url": "https://jrbrunts.github.io/the-white-flag.html",
+      "date": "January 30, 2026",
+      "dateISO": "2026-01-30",
+      "author": "Jacob Brunts",
+      "authorRole": "student",
+      "blogUrl": "https://jrbrunts.github.io"
+    },
     {
       "title": "The Quantified Athlete: How AI is Breaking the Human Limit",
       "url": "https://jrbrunts.github.io/beyond-the-limit.html",
