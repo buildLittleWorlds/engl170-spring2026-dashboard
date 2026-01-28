@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-01-28T20:31:43.068Z",
+  "lastUpdated": "2026-01-28T20:50:10.662Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 83,
+  "totalPosts": 84,
   "totalBlogs": 20,
   "blogsWithErrors": [],
   "posts": [
@@ -23,6 +23,15 @@
       "author": "Jinx Hixson",
       "authorRole": "student",
       "blogUrl": "https://jinxxywrites.github.io/Psyched-for-Psychology"
+    },
+    {
+      "title": "Coding Our Future",
+      "url": "https://eliananodari.github.io/coding-our-future.html",
+      "date": "January 28, 2026",
+      "dateISO": "2026-01-28",
+      "author": "Eliana Nodari",
+      "authorRole": "student",
+      "blogUrl": "https://eliananodari.github.io"
     },
     {
       "title": "The Quantified Athlete: How AI is Breaking the Human Limit",
