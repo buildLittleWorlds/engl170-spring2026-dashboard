@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-01-28T14:56:35.326Z",
+  "lastUpdated": "2026-01-28T15:15:13.129Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 81,
+  "totalPosts": 82,
   "totalBlogs": 20,
   "blogsWithErrors": [],
   "posts": [
@@ -23,6 +23,15 @@
       "author": "Jacob Brunts",
       "authorRole": "student",
       "blogUrl": "https://jrbrunts.github.io"
+    },
+    {
+      "title": "Hacking the Limit: Can AI Remove the 'Random' from the Athlete?",
+      "url": "https://zayamaro.github.io/hacking-the-limit.html",
+      "date": "January 27, 2026",
+      "dateISO": "2026-01-27",
+      "author": "Zay Amaro",
+      "authorRole": "student",
+      "blogUrl": "https://zayamaro.github.io"
     },
     {
       "title": "The Internal Loop: Treating \"Pure O\" with a \"Low-Ceiling Lifestyle\"",
