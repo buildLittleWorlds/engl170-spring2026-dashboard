@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-01-28T16:22:54.192Z",
+  "lastUpdated": "2026-01-28T16:44:38.150Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 82,
+  "totalPosts": 83,
   "totalBlogs": 20,
   "blogsWithErrors": [],
   "posts": [
@@ -14,6 +14,15 @@
       "author": "Jacob Brunts",
       "authorRole": "student",
       "blogUrl": "https://jrbrunts.github.io"
+    },
+    {
+      "title": "AI and the End of Human-Led Therapy",
+      "url": "https://jinxxywrites.github.io/Psyched-for-Psychology/ai-ending-human-therapy.html",
+      "date": "January 28, 2026",
+      "dateISO": "2026-01-28",
+      "author": "Jinx Hixson",
+      "authorRole": "student",
+      "blogUrl": "https://jinxxywrites.github.io/Psyched-for-Psychology"
     },
     {
       "title": "The Quantified Athlete: How AI is Breaking the Human Limit",
