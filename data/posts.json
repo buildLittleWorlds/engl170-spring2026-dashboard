@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-01-29T22:13:10.157Z",
+  "lastUpdated": "2026-01-29T22:30:17.051Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 84,
+  "totalPosts": 85,
   "totalBlogs": 20,
   "blogsWithErrors": [],
   "posts": [
@@ -14,6 +14,15 @@
       "author": "Jacob Brunts",
       "authorRole": "student",
       "blogUrl": "https://jrbrunts.github.io"
+    },
+    {
+      "title": "The Moral Agency That Lives Outside the Therapist",
+      "url": "https://buildlittleworlds.github.io/plate-composition-blog/moral-agency-outside-the-therapist.html",
+      "date": "January 29, 2026",
+      "dateISO": "2026-01-29",
+      "author": "Dr. Plate",
+      "authorRole": "instructor",
+      "blogUrl": "https://buildlittleworlds.github.io/plate-composition-blog"
     },
     {
       "title": "AI and the End of Human-Led Therapy",
