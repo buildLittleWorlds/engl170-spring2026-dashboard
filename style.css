@@ -133,8 +133,21 @@ a:hover {
   max-width: var(--max-width);
   margin: 0 auto;
   display: flex;
+  flex-direction: column;
+  gap: var(--space-lg);
+}
+
+.header-top {
+  display: flex;
   justify-content: space-between;
-  align-items: flex-end;
+  align-items: flex-start;
+}
+
+.header-nav {
+  display: flex;
+  gap: var(--space-md);
+  padding-top: var(--space-md);
+  border-top: 1px solid var(--border-subtle);
 }
 
 .masthead {
@@ -701,10 +714,14 @@ a:hover {
     --space-3xl: 2.5rem;
   }
 
-  .header-content {
+  .header-top {
     flex-direction: column;
     align-items: flex-start;
-    gap: var(--space-lg);
+    gap: var(--space-md);
+  }
+
+  .header-nav {
+    flex-wrap: wrap;
   }
 
   .network-pulse {
@@ -896,8 +913,8 @@ a:hover {
 /* Directory page responsive */
 @media (max-width: 768px) {
   .header-nav-link {
-    order: 3;
-    margin-top: var(--space-sm);
+    font-size: 0.8rem;
+    padding: var(--space-xs) var(--space-sm);
   }
 
   .directory-grid {
