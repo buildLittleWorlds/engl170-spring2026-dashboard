@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-01-30T15:57:13.513Z",
+  "lastUpdated": "2026-01-30T16:17:35.420Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 90,
+  "totalPosts": 91,
   "totalBlogs": 20,
   "blogsWithErrors": [],
   "posts": [
@@ -14,6 +14,15 @@
       "author": "Jacob Brunts",
       "authorRole": "student",
       "blogUrl": "https://jrbrunts.github.io"
+    },
+    {
+      "title": "The Human Variable in Boxing: A Reply to Tom",
+      "url": "https://calebmurphy01.github.io/reply-to-tom-boxing.html",
+      "date": "January 30, 2026",
+      "dateISO": "2026-01-30",
+      "author": "Caleb Murphy",
+      "authorRole": "student",
+      "blogUrl": "https://calebmurphy01.github.io"
     },
     {
       "title": "The Human Element in Prediction Markets",
