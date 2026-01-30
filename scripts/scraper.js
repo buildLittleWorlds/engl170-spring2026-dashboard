@@ -5,6 +5,9 @@
  *
  * Fetches index pages from all course blogs and extracts post metadata.
  * Outputs aggregated data to data/posts.json
+ *
+ * For instructor blogs: reads posts.json manifest file
+ * For student blogs: parses index.html post-list
  */
 
 const fs = require('fs');
@@ -88,7 +91,56 @@ function parseDate(dateStr) {
   return null;
 }
 
-async function fetchBlog(blog) {
+/**
+ * Fetch instructor blog using posts.json manifest
+ */
+async function fetchInstructorBlog(blog) {
+  const manifestUrl = blog.url.endsWith('/') ? `${blog.url}posts.json` : `${blog.url}/posts.json`;
+
+  try {
+    console.log(`Fetching manifest: ${manifestUrl}`);
+    const response = await fetch(manifestUrl, {
+      headers: {
+        'User-Agent': 'ENGL170-Blog-Aggregator/1.0'
+      }
+    });
+
+    if (!response.ok) {
+      console.error(`  Error: HTTP ${response.status} for ${blog.author} manifest`);
+      // Fall back to HTML parsing
+      console.log(`  Falling back to HTML parsing for ${blog.author}`);
+      return fetchStudentBlog(blog);
+    }
+
+    const manifest = await response.json();
+    const posts = manifest.posts.map(post => ({
+      title: post.title,
+      url: `${blog.url}/posts/${post.slug}/`,
+      date: post.dateDisplay,
+      dateISO: post.date,
+      author: blog.author,
+      authorRole: blog.role,
+      blogUrl: blog.url
+    }));
+
+    console.log(`  Found ${posts.length} posts from ${blog.author} (manifest)`);
+
+    return {
+      blog,
+      posts
+    };
+  } catch (error) {
+    console.error(`  Error fetching ${blog.author} manifest: ${error.message}`);
+    // Fall back to HTML parsing
+    console.log(`  Falling back to HTML parsing for ${blog.author}`);
+    return fetchStudentBlog(blog);
+  }
+}
+
+/**
+ * Fetch student blog by parsing index.html
+ */
+async function fetchStudentBlog(blog) {
   const indexUrl = blog.url.endsWith('/') ? `${blog.url}index.html` : `${blog.url}/index.html`;
 
   try {
@@ -121,6 +173,17 @@ async function fetchBlog(blog) {
   } catch (error) {
     console.error(`  Error fetching ${blog.author}: ${error.message}`);
     return { blog, posts: [], error: error.message };
+  }
+}
+
+/**
+ * Fetch a blog - uses manifest for instructors, HTML parsing for students
+ */
+async function fetchBlog(blog) {
+  if (blog.role === 'instructor') {
+    return fetchInstructorBlog(blog);
+  } else {
+    return fetchStudentBlog(blog);
   }
 }
 
