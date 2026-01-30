@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-01-30T15:40:03.535Z",
+  "lastUpdated": "2026-01-30T15:57:13.513Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 88,
+  "totalPosts": 90,
   "totalBlogs": 20,
   "blogsWithErrors": [],
   "posts": [
@@ -14,6 +14,24 @@
       "author": "Jacob Brunts",
       "authorRole": "student",
       "blogUrl": "https://jrbrunts.github.io"
+    },
+    {
+      "title": "The Human Element in Prediction Markets",
+      "url": "https://calebmurphy01.github.io/human-element-markets.html",
+      "date": "January 30, 2026",
+      "dateISO": "2026-01-30",
+      "author": "Caleb Murphy",
+      "authorRole": "student",
+      "blogUrl": "https://calebmurphy01.github.io"
+    },
+    {
+      "title": "Trading Strategies and Market Logic",
+      "url": "https://calebmurphy01.github.io/trading-strategies.html",
+      "date": "January 30, 2026",
+      "dateISO": "2026-01-30",
+      "author": "Caleb Murphy",
+      "authorRole": "student",
+      "blogUrl": "https://calebmurphy01.github.io"
     },
     {
       "title": "The Moral Agency That Lives Outside the Therapist",
