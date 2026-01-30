@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-01-30T01:21:58.269Z",
+  "lastUpdated": "2026-01-30T02:13:48.158Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 88,
+  "totalPosts": 89,
   "totalBlogs": 20,
   "blogsWithErrors": [],
   "posts": [
@@ -23,6 +23,15 @@
       "author": "Dr. Plate",
       "authorRole": "instructor",
       "blogUrl": "https://buildlittleworlds.github.io/plate-composition-blog"
+    },
+    {
+      "title": "AI-Injury Prevention (Sports)",
+      "url": "https://samlevine277.github.io/injury-prevention-ai-sports-blog-post.html",
+      "date": "January 29, 2026",
+      "dateISO": "2026-01-29",
+      "author": "Sam Levine",
+      "authorRole": "student",
+      "blogUrl": "https://samlevine277.github.io"
     },
     {
       "title": "Mastermind In The Machine",
