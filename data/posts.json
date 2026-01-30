@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-01-30T15:02:43.099Z",
+  "lastUpdated": "2026-01-30T15:19:52.357Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 84,
+  "totalPosts": 88,
   "totalBlogs": 20,
   "blogsWithErrors": [],
   "posts": [
@@ -68,6 +68,15 @@
       "author": "Zay Amaro",
       "authorRole": "student",
       "blogUrl": "https://zayamaro.github.io"
+    },
+    {
+      "title": "The Ghost in the Dashboard: A Reply to Zay",
+      "url": "https://calebmurphy01.github.io/ghost-in-the-dashboard.html",
+      "date": "January 29, 2026",
+      "dateISO": "2026-01-29",
+      "author": "Caleb Murphy",
+      "authorRole": "student",
+      "blogUrl": "https://calebmurphy01.github.io"
     },
     {
       "title": "AI and the End of Human-Led Therapy",
@@ -176,6 +185,24 @@
       "author": "Zay Amaro",
       "authorRole": "student",
       "blogUrl": "https://zayamaro.github.io"
+    },
+    {
+      "title": "Markets and Metrics",
+      "url": "https://calebmurphy01.github.io/markets-and-metrics.html",
+      "date": "January 26, 2026",
+      "dateISO": "2026-01-26",
+      "author": "Caleb Murphy",
+      "authorRole": "student",
+      "blogUrl": "https://calebmurphy01.github.io"
+    },
+    {
+      "title": "The Speed of Truth",
+      "url": "https://calebmurphy01.github.io/the-speed-of-truth.html",
+      "date": "January 26, 2026",
+      "dateISO": "2026-01-26",
+      "author": "Caleb Murphy",
+      "authorRole": "student",
+      "blogUrl": "https://calebmurphy01.github.io"
     },
     {
       "title": "The Silicon Mirage: Why AI Abundance May Be Our Newest Form of Scarcity",
@@ -365,6 +392,15 @@
       "author": "Zay Amaro",
       "authorRole": "student",
       "blogUrl": "https://zayamaro.github.io"
+    },
+    {
+      "title": "The Gambler’s Pivot",
+      "url": "https://calebmurphy01.github.io/gamblers-pivot.html",
+      "date": "January 21, 2026",
+      "dateISO": "2026-01-21",
+      "author": "Caleb Murphy",
+      "authorRole": "student",
+      "blogUrl": "https://calebmurphy01.github.io"
     },
     {
       "title": "Theories of Safety: AI-Encouraged Self-Injury",
