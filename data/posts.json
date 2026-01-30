@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-01-30T02:13:48.158Z",
+  "lastUpdated": "2026-01-30T03:13:53.558Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 89,
+  "totalPosts": 90,
   "totalBlogs": 20,
   "blogsWithErrors": [],
   "posts": [
@@ -59,6 +59,15 @@
       "author": "Jonas Rodrigues",
       "authorRole": "student",
       "blogUrl": "https://qubitn.github.io"
+    },
+    {
+      "title": "The Safety Algorithm: Risk, Reward, and the AI Guardrail",
+      "url": "https://zayamaro.github.io/the-safety-algorithm.html",
+      "date": "January 29, 2026",
+      "dateISO": "2026-01-29",
+      "author": "Zay Amaro",
+      "authorRole": "student",
+      "blogUrl": "https://zayamaro.github.io"
     },
     {
       "title": "AI and the End of Human-Led Therapy",
