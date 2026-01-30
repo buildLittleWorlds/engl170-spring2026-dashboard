@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-01-30T20:25:42.148Z",
+  "lastUpdated": "2026-01-30T20:45:47.792Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 91,
+  "totalPosts": 92,
   "totalBlogs": 20,
   "blogsWithErrors": [],
   "posts": [
@@ -14,6 +14,15 @@
       "author": "Jacob Brunts",
       "authorRole": "student",
       "blogUrl": "https://jrbrunts.github.io"
+    },
+    {
+      "title": "The Pulse of the Machine: Balancing Human Creativity and Artificial Intelligence",
+      "url": "https://eliananodari.github.io/pulse-of-the-machine.html",
+      "date": "January 30, 2026",
+      "dateISO": "2026-01-30",
+      "author": "Eliana Nodari",
+      "authorRole": "student",
+      "blogUrl": "https://eliananodari.github.io"
     },
     {
       "title": "The Human Variable in Boxing: A Reply to Tom",
