@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-01-30T18:19:40.838Z",
+  "lastUpdated": "2026-01-30T18:40:56.176Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 93,
+  "totalPosts": 91,
   "totalBlogs": 20,
   "blogsWithErrors": [],
   "posts": [
@@ -718,15 +718,6 @@
       "blogUrl": "https://buildlittleworlds.github.io/plate-composition-blog"
     },
     {
-      "title": "Post 1: Introduction to Disney Analysis",
-      "url": "https://olliebear2006ya-dotcom.github.io/Olivias-Disney-Blog/#",
-      "date": "January 13, 2026",
-      "dateISO": "2026-01-13",
-      "author": "Olivia Andresen",
-      "authorRole": "student",
-      "blogUrl": "https://olliebear2006ya-dotcom.github.io/Olivias-Disney-Blog"
-    },
-    {
       "title": "The Obsolescence Trap: Why \"Choice\" Is Not Enough",
       "url": "https://jrbrunts.github.io/obsolescence-trap.html",
       "date": "January 13, 2026",
@@ -824,15 +815,6 @@
       "author": "Dr. Plate",
       "authorRole": "instructor",
       "blogUrl": "https://buildlittleworlds.github.io/plate-composition-blog"
-    },
-    {
-      "title": "Post 2: Coming Soon...",
-      "url": "https://olliebear2006ya-dotcom.github.io/Olivias-Disney-Blog/#",
-      "date": null,
-      "dateISO": null,
-      "author": "Olivia Andresen",
-      "authorRole": "student",
-      "blogUrl": "https://olliebear2006ya-dotcom.github.io/Olivias-Disney-Blog"
     },
     {
       "title": "The concerns of AI in schools",
