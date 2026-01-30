@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-01-30T16:37:48.548Z",
+  "lastUpdated": "2026-01-30T16:59:37.349Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 91,
+  "totalPosts": 93,
   "totalBlogs": 20,
   "blogsWithErrors": [],
   "posts": [
@@ -131,6 +131,15 @@
       "author": "Jacob Brunts",
       "authorRole": "student",
       "blogUrl": "https://jrbrunts.github.io"
+    },
+    {
+      "title": "Kinesiology and Human Movement",
+      "url": "https://emanigerdine7-ops.github.io/post4.html",
+      "date": "January 27, 2026",
+      "dateISO": "2026-01-27",
+      "author": "Emani Gerdine",
+      "authorRole": "student",
+      "blogUrl": "https://emanigerdine7-ops.github.io"
     },
     {
       "title": "Hacking the Limit: Can AI Remove the 'Random' from the Athlete?",
@@ -331,6 +340,15 @@
       "blogUrl": "https://gabriel-bell.github.io"
     },
     {
+      "title": "AI as a Tool for Learning",
+      "url": "https://emanigerdine7-ops.github.io/post3.html",
+      "date": "January 23, 2026",
+      "dateISO": "2026-01-23",
+      "author": "Emani Gerdine",
+      "authorRole": "student",
+      "blogUrl": "https://emanigerdine7-ops.github.io"
+    },
+    {
       "title": "The Worth of Expression",
       "url": "https://eliananodari.github.io/the-worth-of-expression.html",
       "date": "January 23, 2026",
@@ -437,6 +455,15 @@
       "author": "Jinx Hixson",
       "authorRole": "student",
       "blogUrl": "https://jinxxywrites.github.io/Psyched-for-Psychology"
+    },
+    {
+      "title": "Physical Therapy and Personal Motivation",
+      "url": "https://emanigerdine7-ops.github.io/post2.html",
+      "date": "January 19, 2026",
+      "dateISO": "2026-01-19",
+      "author": "Emani Gerdine",
+      "authorRole": "student",
+      "blogUrl": "https://emanigerdine7-ops.github.io"
     },
     {
       "title": "AI Safety",
@@ -565,15 +592,6 @@
       "blogUrl": "https://gabriel-bell.github.io"
     },
     {
-      "title": "AI as a Cognitive Partner, Not a Shortcut",
-      "url": "https://emanigerdine7-ops.github.io/ai-as-a-resource.html",
-      "date": "January 16, 2026",
-      "dateISO": "2026-01-16",
-      "author": "Emani Gerdine",
-      "authorRole": "student",
-      "blogUrl": "https://emanigerdine7-ops.github.io"
-    },
-    {
       "title": "The GPS and the Driver",
       "url": "https://qubitn.github.io/the-gps-and-the-driver.html",
       "date": "January 16, 2026",
@@ -608,15 +626,6 @@
       "author": "Jacob Brunts",
       "authorRole": "student",
       "blogUrl": "https://jrbrunts.github.io"
-    },
-    {
-      "title": "My First Post Title",
-      "url": "https://emanigerdine7-ops.github.io/my-first-post.html",
-      "date": "January 15, 2026",
-      "dateISO": "2026-01-15",
-      "author": "Emani Gerdine",
-      "authorRole": "student",
-      "blogUrl": "https://emanigerdine7-ops.github.io"
     },
     {
       "title": "The Fluency Illusion: AI-Induced Learned Helplessness",
@@ -770,6 +779,15 @@
       "author": "Dr. Plate",
       "authorRole": "instructor",
       "blogUrl": "https://buildlittleworlds.github.io/plate-composition-blog"
+    },
+    {
+      "title": "The Agency Paradox: Introduction",
+      "url": "https://emanigerdine7-ops.github.io/post1.html",
+      "date": "January 12, 2026",
+      "dateISO": "2026-01-12",
+      "author": "Emani Gerdine",
+      "authorRole": "student",
+      "blogUrl": "https://emanigerdine7-ops.github.io"
     },
     {
       "title": "What If Writers Built Specs Like Coders Do?",
