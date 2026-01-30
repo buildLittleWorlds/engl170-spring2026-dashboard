@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-01-30T00:46:19.577Z",
+  "lastUpdated": "2026-01-30T01:21:58.269Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 87,
+  "totalPosts": 88,
   "totalBlogs": 20,
   "blogsWithErrors": [],
   "posts": [
@@ -23,6 +23,15 @@
       "author": "Dr. Plate",
       "authorRole": "instructor",
       "blogUrl": "https://buildlittleworlds.github.io/plate-composition-blog"
+    },
+    {
+      "title": "Mastermind In The Machine",
+      "url": "https://qubitn.github.io/mastermind-in-the-machine.html",
+      "date": "January 29, 2026",
+      "dateISO": "2026-01-29",
+      "author": "Jonas Rodrigues",
+      "authorRole": "student",
+      "blogUrl": "https://qubitn.github.io"
     },
     {
       "title": "AI In Civil Engineering",
