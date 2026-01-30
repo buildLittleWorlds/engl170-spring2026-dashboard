@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-01-30T05:13:31.159Z",
+  "lastUpdated": "2026-01-30T05:37:16.135Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 90,
+  "totalPosts": 84,
   "totalBlogs": 20,
   "blogsWithErrors": [],
   "posts": [
@@ -178,42 +178,6 @@
       "blogUrl": "https://zayamaro.github.io"
     },
     {
-      "title": "The Market for Conviction: Putting a Price on Belief",
-      "url": "https://calebmurphy01.github.io/market-conviction.html",
-      "date": "January 26, 2026",
-      "dateISO": "2026-01-26",
-      "author": "Caleb Murphy",
-      "authorRole": "student",
-      "blogUrl": "https://calebmurphy01.github.io"
-    },
-    {
-      "title": "The Speed of Truth: Information Asymmetry in Prediction Markets",
-      "url": "https://calebmurphy01.github.io/information-asymmetry.html",
-      "date": "January 26, 2026",
-      "dateISO": "2026-01-26",
-      "author": "Caleb Murphy",
-      "authorRole": "student",
-      "blogUrl": "https://calebmurphy01.github.io"
-    },
-    {
-      "title": "The Human Element: Responding to Zay Amaro on Market Certainty",
-      "url": "https://calebmurphy01.github.io/human-element-markets.html",
-      "date": "January 26, 2026",
-      "dateISO": "2026-01-26",
-      "author": "Caleb Murphy",
-      "authorRole": "student",
-      "blogUrl": "https://calebmurphy01.github.io"
-    },
-    {
-      "title": "Reading the Tape: Mastering Tendencies on Kalshi and Polymarket",
-      "url": "https://calebmurphy01.github.io/reading-the-tape.html",
-      "date": "January 26, 2026",
-      "dateISO": "2026-01-26",
-      "author": "Caleb Murphy",
-      "authorRole": "student",
-      "blogUrl": "https://calebmurphy01.github.io"
-    },
-    {
       "title": "The Silicon Mirage: Why AI Abundance May Be Our Newest Form of Scarcity",
       "url": "https://gabriel-bell.github.io/the-silicon-mirage.html",
       "date": "January 25, 2026",
@@ -358,15 +322,6 @@
       "blogUrl": "https://zayamaro.github.io"
     },
     {
-      "title": "Prediction Markets: A New Way to See Reality",
-      "url": "https://calebmurphy01.github.io/first-post.html",
-      "date": "January 22, 2026",
-      "dateISO": "2026-01-22",
-      "author": "Caleb Murphy",
-      "authorRole": "student",
-      "blogUrl": "https://calebmurphy01.github.io"
-    },
-    {
       "title": "Digital Age Compulsions: AI, OCD, and the \"Dopamine Ceiling\"",
       "url": "https://jinxxywrites.github.io/Psyched-for-Psychology/ai-ocd-and-dopamine.html",
       "date": "January 21, 2026",
@@ -410,15 +365,6 @@
       "author": "Zay Amaro",
       "authorRole": "student",
       "blogUrl": "https://zayamaro.github.io"
-    },
-    {
-      "title": "The Gambler’s Pivot: How Kalshi Turns Sports Betting into Day Trading",
-      "url": "https://calebmurphy01.github.io/gamblers-pivot.html",
-      "date": "January 21, 2026",
-      "dateISO": "2026-01-21",
-      "author": "Caleb Murphy",
-      "authorRole": "student",
-      "blogUrl": "https://calebmurphy01.github.io"
     },
     {
       "title": "Theories of Safety: AI-Encouraged Self-Injury",
