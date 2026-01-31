@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-01-31T23:24:59.139Z",
+  "lastUpdated": "2026-01-31T23:39:15.025Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 94,
+  "totalPosts": 95,
   "totalBlogs": 20,
   "blogsWithErrors": [],
   "posts": [
@@ -14,6 +14,15 @@
       "author": "Jacob Brunts",
       "authorRole": "student",
       "blogUrl": "https://jrbrunts.github.io"
+    },
+    {
+      "title": "The End of Line-by-Line: A Reply to Jeffrey Way",
+      "url": "https://calebmurphy01.github.io/the-end-of-line-by-line.html",
+      "date": "January 31, 2026",
+      "dateISO": "2026-01-31",
+      "author": "Caleb Murphy",
+      "authorRole": "student",
+      "blogUrl": "https://calebmurphy01.github.io"
     },
     {
       "title": "The White Flag: Accepting the Efficiency Engine",
