@@ -1,11 +1,20 @@
 {
-  "lastUpdated": "2026-01-31T03:06:14.963Z",
+  "lastUpdated": "2026-01-31T03:54:13.678Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 92,
+  "totalPosts": 94,
   "totalBlogs": 20,
   "blogsWithErrors": [],
   "posts": [
+    {
+      "title": "The Lazarus Protocol: Beyond Injury Prevention",
+      "url": "https://jrbrunts.github.io/the-lazarus-protocol.html",
+      "date": "February 2, 2026",
+      "dateISO": "2026-02-02",
+      "author": "Jacob Brunts",
+      "authorRole": "student",
+      "blogUrl": "https://jrbrunts.github.io"
+    },
     {
       "title": "The White Flag: Accepting the Efficiency Engine",
       "url": "https://jrbrunts.github.io/the-white-flag.html",
@@ -14,6 +23,15 @@
       "author": "Jacob Brunts",
       "authorRole": "student",
       "blogUrl": "https://jrbrunts.github.io"
+    },
+    {
+      "title": "Moral Agency and the Machine: Why AI Companies are Failing the History of Care",
+      "url": "https://jinxxywrites.github.io/Psyched-for-Psychology/moral-history-of-care.html",
+      "date": "January 30, 2026",
+      "dateISO": "2026-01-30",
+      "author": "Jinx Hixson",
+      "authorRole": "student",
+      "blogUrl": "https://jinxxywrites.github.io/Psyched-for-Psychology"
     },
     {
       "title": "The Pulse of the Machine: Balancing Human Creativity and Artificial Intelligence",
