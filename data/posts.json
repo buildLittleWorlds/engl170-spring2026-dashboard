@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-02-01T17:32:41.309Z",
+  "lastUpdated": "2026-02-01T17:47:24.445Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 95,
+  "totalPosts": 96,
   "totalBlogs": 20,
   "blogsWithErrors": [],
   "posts": [
@@ -14,6 +14,15 @@
       "author": "Jacob Brunts",
       "authorRole": "student",
       "blogUrl": "https://jrbrunts.github.io"
+    },
+    {
+      "title": "The Sentinel in the Locker Room (and the Living Room): When Safety Becomes Surveillance",
+      "url": "https://dominicdebro.github.io/safety-becomes-surveillance.html",
+      "date": "February 1, 2026",
+      "dateISO": "2026-02-01",
+      "author": "Dominic Debro",
+      "authorRole": "student",
+      "blogUrl": "https://dominicdebro.github.io"
     },
     {
       "title": "The End of Line-by-Line: A Reply to Jeffrey Way",
