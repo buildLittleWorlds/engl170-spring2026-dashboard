@@ -1,10 +1,15 @@
 {
-  "lastUpdated": "2026-02-01T03:45:08.161Z",
+  "lastUpdated": "2026-02-01T04:38:13.833Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 95,
+  "totalPosts": 90,
   "totalBlogs": 20,
-  "blogsWithErrors": [],
+  "blogsWithErrors": [
+    {
+      "author": "Gabriel Bell",
+      "error": "HTTP 503"
+    }
+  ],
   "posts": [
     {
       "title": "The Lazarus Protocol: Beyond Injury Prevention",
@@ -277,15 +282,6 @@
       "blogUrl": "https://calebmurphy01.github.io"
     },
     {
-      "title": "The Silicon Mirage: Why AI Abundance May Be Our Newest Form of Scarcity",
-      "url": "https://gabriel-bell.github.io/the-silicon-mirage.html",
-      "date": "January 25, 2026",
-      "dateISO": "2026-01-25",
-      "author": "Gabriel Bell",
-      "authorRole": "student",
-      "blogUrl": "https://gabriel-bell.github.io"
-    },
-    {
       "title": "AI vs Humans (Sports)",
       "url": "https://samlevine277.github.io/post1_human_vs_ai_sports.html",
       "date": "January 25, 2026",
@@ -322,15 +318,6 @@
       "blogUrl": "https://zayamaro.github.io"
     },
     {
-      "title": "The Ghost in the Machine: Why Sports Need the Romantic, Not Just the Rational",
-      "url": "https://gabriel-bell.github.io/the-ghost-in-the-machine.html",
-      "date": "January 24, 2026",
-      "dateISO": "2026-01-24",
-      "author": "Gabriel Bell",
-      "authorRole": "student",
-      "blogUrl": "https://gabriel-bell.github.io"
-    },
-    {
       "title": "Quiet the Noise: When AI Rewrites Our Biology",
       "url": "https://jrbrunts.github.io/quiet-the-noise.html",
       "date": "January 24, 2026",
@@ -365,15 +352,6 @@
       "author": "Dr. Plate",
       "authorRole": "instructor",
       "blogUrl": "https://buildlittleworlds.github.io/plate-composition-blog"
-    },
-    {
-      "title": "The Price of Everything and the Value of Nothing: Challenging the Monetary Monopoly",
-      "url": "https://gabriel-bell.github.io/defining-value.html",
-      "date": "January 23, 2026",
-      "dateISO": "2026-01-23",
-      "author": "Gabriel Bell",
-      "authorRole": "student",
-      "blogUrl": "https://gabriel-bell.github.io"
     },
     {
       "title": "AI as a Tool for Learning",
@@ -619,15 +597,6 @@
       "blogUrl": "https://buildlittleworlds.github.io/plate-composition-blog"
     },
     {
-      "title": "The Cost of Human Relevancy: Why Efficiency Isn't the Only Metric",
-      "url": "https://gabriel-bell.github.io/the-cost-of-human-relevancy.html",
-      "date": "January 16, 2026",
-      "dateISO": "2026-01-16",
-      "author": "Gabriel Bell",
-      "authorRole": "student",
-      "blogUrl": "https://gabriel-bell.github.io"
-    },
-    {
       "title": "The GPS and the Driver",
       "url": "https://qubitn.github.io/the-gps-and-the-driver.html",
       "date": "January 16, 2026",
@@ -725,15 +694,6 @@
       "author": "Dr. Plate",
       "authorRole": "instructor",
       "blogUrl": "https://buildlittleworlds.github.io/plate-composition-blog"
-    },
-    {
-      "title": "Setting Up My ENGL 170 Blog",
-      "url": "https://gabriel-bell.github.io/my-first-post.html",
-      "date": "January 14, 2026",
-      "dateISO": "2026-01-14",
-      "author": "Gabriel Bell",
-      "authorRole": "student",
-      "blogUrl": "https://gabriel-bell.github.io"
     },
     {
       "title": "Using AI to Elevate Thinking",
