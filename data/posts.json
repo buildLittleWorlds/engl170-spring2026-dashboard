@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-02-01T18:53:40.675Z",
+  "lastUpdated": "2026-02-01T19:09:19.717Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 97,
+  "totalPosts": 98,
   "totalBlogs": 20,
   "blogsWithErrors": [],
   "posts": [
@@ -14,6 +14,15 @@
       "author": "Jacob Brunts",
       "authorRole": "student",
       "blogUrl": "https://jrbrunts.github.io"
+    },
+    {
+      "title": "The Employment Trap: Rethinking Productivity in the Age of AI",
+      "url": "https://dominicdebro.github.io/the-employment-trap.html",
+      "date": "February 1, 2026",
+      "dateISO": "2026-02-01",
+      "author": "Dominic Debro",
+      "authorRole": "student",
+      "blogUrl": "https://dominicdebro.github.io"
     },
     {
       "title": "From Architect to Visionary: Finding Human Purpose in a World of Autonomous Code",
