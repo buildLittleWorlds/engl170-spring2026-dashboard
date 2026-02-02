@@ -27,7 +27,9 @@
     {
       "author": "Emani Gerdine",
       "url": "https://emanigerdine7-ops.github.io",
-      "role": "student"
+      "role": "student",
+      "active": false,
+      "note": "Homepage links to post1-4.html which 404. Posts come from manual-posts.json"
     },
     {
       "author": "Jinx Hixson",
@@ -52,7 +54,9 @@
     {
       "author": "Luke Sumner",
       "url": "https://lukesum.github.io",
-      "role": "student"
+      "role": "student",
+      "active": false,
+      "note": "Homepage links to first-post.html which doesn't exist. No posts uploaded yet."
     },
     {
       "author": "Ben Teismann",

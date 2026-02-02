@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-02-02T11:18:28.812Z",
+  "lastUpdated": "2026-02-02T11:26:07.699Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 128,
-  "totalBlogs": 20,
+  "totalPosts": 123,
+  "totalBlogs": 18,
   "blogsWithErrors": [],
   "posts": [
     {
@@ -289,15 +289,6 @@
       "blogUrl": "https://jrbrunts.github.io"
     },
     {
-      "title": "Kinesiology and Human Movement",
-      "url": "https://emanigerdine7-ops.github.io/post4.html",
-      "date": "January 27, 2026",
-      "dateISO": "2026-01-27",
-      "author": "Emani Gerdine",
-      "authorRole": "student",
-      "blogUrl": "https://emanigerdine7-ops.github.io"
-    },
-    {
       "title": "Hacking the Limit: Can AI Remove the 'Random' from the Athlete?",
       "url": "https://zayamaro.github.io/hacking-the-limit.html",
       "date": "January 27, 2026",
@@ -581,15 +572,6 @@
       "blogUrl": "https://gabriel-bell.github.io"
     },
     {
-      "title": "AI as a Tool for Learning",
-      "url": "https://emanigerdine7-ops.github.io/post3.html",
-      "date": "January 23, 2026",
-      "dateISO": "2026-01-23",
-      "author": "Emani Gerdine",
-      "authorRole": "student",
-      "blogUrl": "https://emanigerdine7-ops.github.io"
-    },
-    {
       "title": "The Worth of Expression",
       "url": "https://eliananodari.github.io/the-worth-of-expression.html",
       "date": "January 23, 2026",
@@ -744,15 +726,6 @@
       "author": "Jinx Hixson",
       "authorRole": "student",
       "blogUrl": "https://jinxxywrites.github.io/Psyched-for-Psychology"
-    },
-    {
-      "title": "Physical Therapy and Personal Motivation",
-      "url": "https://emanigerdine7-ops.github.io/post2.html",
-      "date": "January 19, 2026",
-      "dateISO": "2026-01-19",
-      "author": "Emani Gerdine",
-      "authorRole": "student",
-      "blogUrl": "https://emanigerdine7-ops.github.io"
     },
     {
       "title": "AI Safety",
@@ -975,15 +948,6 @@
       "blogUrl": "https://eliananodari.github.io"
     },
     {
-      "title": "My First ENGL 170 Blog Post",
-      "url": "https://lukesum.github.io/first-post.html",
-      "date": "January 15, 2026",
-      "dateISO": "2026-01-15",
-      "author": "Luke Sumner",
-      "authorRole": "student",
-      "blogUrl": "https://lukesum.github.io"
-    },
-    {
       "title": "Welcome To My Blog",
       "url": "https://blt279.github.io/welcome-to-my-blog.html",
       "date": "January 15, 2026",
@@ -1119,15 +1083,6 @@
       "author": "Dr. Plate",
       "authorRole": "instructor",
       "blogUrl": "https://buildlittleworlds.github.io/plate-composition-blog"
-    },
-    {
-      "title": "The Agency Paradox: Introduction",
-      "url": "https://emanigerdine7-ops.github.io/post1.html",
-      "date": "January 12, 2026",
-      "dateISO": "2026-01-12",
-      "author": "Emani Gerdine",
-      "authorRole": "student",
-      "blogUrl": "https://emanigerdine7-ops.github.io"
     },
     {
       "title": "What If Writers Built Specs Like Coders Do?",
