@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-02-02T17:00:50.933Z",
+  "lastUpdated": "2026-02-02T17:04:37.493Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 130,
-  "totalBlogs": 19,
+  "totalPosts": 131,
+  "totalBlogs": 20,
   "blogsWithErrors": [],
   "posts": [
     {
@@ -77,6 +77,15 @@
       "author": "Jonas Rodrigues",
       "authorRole": "student",
       "blogUrl": "https://qubitn.github.io"
+    },
+    {
+      "title": "The Mastermind in the Machine: Why \"Vibe Coding\" Still Needs a Captain",
+      "url": "https://tombishop4.github.io/mastermind-in-the-machine.html",
+      "date": "February 2, 2026",
+      "dateISO": "2026-02-02",
+      "author": "Tom Bishop",
+      "authorRole": "student",
+      "blogUrl": "https://tombishop4.github.io"
     },
     {
       "title": "The 50/50 Rule: Balancing Human Agency and AI Safety in Modern Athletics",
