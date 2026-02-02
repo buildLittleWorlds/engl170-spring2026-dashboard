@@ -1,16 +1,25 @@
 {
-  "lastUpdated": "2026-02-02T17:04:37.493Z",
+  "lastUpdated": "2026-02-02T17:22:36.706Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 131,
+  "totalPosts": 134,
   "totalBlogs": 20,
   "blogsWithErrors": [],
   "posts": [
     {
+      "title": "The Restoration Window: A Framework for Fair Healing",
+      "url": "https://jrbrunts.github.io/restoration-window.html",
+      "date": "February 2, 2026",
+      "dateISO": "2026-02-02",
+      "author": "Jacob Brunts",
+      "authorRole": "student",
+      "blogUrl": "https://jrbrunts.github.io"
+    },
+    {
       "title": "The Infinite Therapist: Democratizing the Mind",
       "url": "https://jrbrunts.github.io/infinite-therapist.html",
-      "date": "February 4, 2026",
-      "dateISO": "2026-02-04",
+      "date": "February 2, 2026",
+      "dateISO": "2026-02-02",
       "author": "Jacob Brunts",
       "authorRole": "student",
       "blogUrl": "https://jrbrunts.github.io"
@@ -106,6 +115,24 @@
       "blogUrl": "https://zayamaro.github.io"
     },
     {
+      "title": "The Guardian in the Machine: Why AI is the Next Great Revolution in Sports Safety",
+      "url": "https://terryrozier1267.github.io/guardian-in-the-machine.html",
+      "date": "February 2, 2026",
+      "dateISO": "2026-02-02",
+      "author": "Donovan Campbell",
+      "authorRole": "student",
+      "blogUrl": "https://terryrozier1267.github.io"
+    },
+    {
+      "title": "The Heroism of \"Enough\"",
+      "url": "https://olliebear2006ya-dotcom.github.io/Olivias-Disney-Blog/the-heroism.html",
+      "date": "February 1, 2026",
+      "dateISO": "2026-02-01",
+      "author": "Olivia Andresen",
+      "authorRole": "student",
+      "blogUrl": "https://olliebear2006ya-dotcom.github.io/Olivias-Disney-Blog"
+    },
+    {
       "title": "AI-Sports Response (Sports)",
       "url": "https://samlevine277.github.io/ai_in_sports_response.html",
       "date": "Feburary 1, 2026",
@@ -176,16 +203,6 @@
       "author": "Zay Amaro",
       "authorRole": "student",
       "blogUrl": "https://zayamaro.github.io"
-    },
-    {
-      "title": "The Heroism of \"Enough\": Why Surrender is the New Magic",
-      "url": "https://olliebear2006ya-dotcom.github.io/Olivias-Disney-Blog/the-heroism.html",
-      "date": "February 1, 2026",
-      "dateISO": "2026-02-01",
-      "author": "Olivia Andresen",
-      "authorRole": "student",
-      "blogUrl": "https://olliebear2006ya-dotcom.github.io/Olivias-Disney-Blog",
-      "source": "manual"
     },
     {
       "title": "The End of Line-by-Line: A Reply to Jeffrey Way",
@@ -314,6 +331,15 @@
       "blogUrl": "https://calebmurphy01.github.io"
     },
     {
+      "title": "The Happily Ever After Project",
+      "url": "https://olliebear2006ya-dotcom.github.io/Olivias-Disney-Blog/the-happily-project.html",
+      "date": "January 28, 2026",
+      "dateISO": "2026-01-28",
+      "author": "Olivia Andresen",
+      "authorRole": "student",
+      "blogUrl": "https://olliebear2006ya-dotcom.github.io/Olivias-Disney-Blog"
+    },
+    {
       "title": "AI and the End of Human-Led Therapy",
       "url": "https://jinxxywrites.github.io/Psyched-for-Psychology/ai-ending-human-therapy.html",
       "date": "January 28, 2026",
@@ -330,16 +356,6 @@
       "author": "Eliana Nodari",
       "authorRole": "student",
       "blogUrl": "https://eliananodari.github.io"
-    },
-    {
-      "title": "The Happily Ever After Project",
-      "url": "https://olliebear2006ya-dotcom.github.io/Olivias-Disney-Blog/the-happily-project.html",
-      "date": "January 28, 2026",
-      "dateISO": "2026-01-28",
-      "author": "Olivia Andresen",
-      "authorRole": "student",
-      "blogUrl": "https://olliebear2006ya-dotcom.github.io/Olivias-Disney-Blog",
-      "source": "manual"
     },
     {
       "title": "The Quantified Athlete: How AI is Breaking the Human Limit",
@@ -477,6 +493,15 @@
       "blogUrl": "https://calebmurphy01.github.io"
     },
     {
+      "title": "Comment on Mastermind in the Machine",
+      "url": "https://olliebear2006ya-dotcom.github.io/Olivias-Disney-Blog/comment-mastermind-machine.html",
+      "date": "January 25, 2026",
+      "dateISO": "2026-01-25",
+      "author": "Olivia Andresen",
+      "authorRole": "student",
+      "blogUrl": "https://olliebear2006ya-dotcom.github.io/Olivias-Disney-Blog"
+    },
+    {
       "title": "The Silicon Mirage: Why AI Abundance May Be Our Newest Form of Scarcity",
       "url": "https://gabriel-bell.github.io/the-silicon-mirage.html",
       "date": "January 25, 2026",
@@ -570,16 +595,6 @@
       "source": "manual-repo-scan"
     },
     {
-      "title": "Comment on Mastermind in the Machine",
-      "url": "https://olliebear2006ya-dotcom.github.io/Olivias-Disney-Blog/comment-mastermind-machine.html",
-      "date": "January 25, 2026",
-      "dateISO": "2026-01-25",
-      "author": "Olivia Andresen",
-      "authorRole": "student",
-      "blogUrl": "https://olliebear2006ya-dotcom.github.io/Olivias-Disney-Blog",
-      "source": "manual"
-    },
-    {
       "title": "The Ghost in the Machine: Why Sports Need the Romantic, Not Just the Rational",
       "url": "https://gabriel-bell.github.io/the-ghost-in-the-machine.html",
       "date": "January 24, 2026",
@@ -623,6 +638,15 @@
       "author": "Dr. Plate",
       "authorRole": "instructor",
       "blogUrl": "https://buildlittleworlds.github.io/plate-composition-blog"
+    },
+    {
+      "title": "From Magic Wands to Microchips",
+      "url": "https://olliebear2006ya-dotcom.github.io/Olivias-Disney-Blog/from-magic-wands.html",
+      "date": "January 23, 2026",
+      "dateISO": "2026-01-23",
+      "author": "Olivia Andresen",
+      "authorRole": "student",
+      "blogUrl": "https://olliebear2006ya-dotcom.github.io/Olivias-Disney-Blog"
     },
     {
       "title": "The Price of Everything and the Value of Nothing: Challenging the Monetary Monopoly",
@@ -706,14 +730,13 @@
       "blogUrl": "https://zayamaro.github.io"
     },
     {
-      "title": "From Magic Wands to Microchips",
-      "url": "https://olliebear2006ya-dotcom.github.io/Olivias-Disney-Blog/from-magic-wands.html",
-      "date": "January 23, 2026",
-      "dateISO": "2026-01-23",
+      "title": "The Cost of a Soul",
+      "url": "https://olliebear2006ya-dotcom.github.io/Olivias-Disney-Blog/the-cost-of-a-soul.html",
+      "date": "January 21, 2026",
+      "dateISO": "2026-01-21",
       "author": "Olivia Andresen",
       "authorRole": "student",
-      "blogUrl": "https://olliebear2006ya-dotcom.github.io/Olivias-Disney-Blog",
-      "source": "manual"
+      "blogUrl": "https://olliebear2006ya-dotcom.github.io/Olivias-Disney-Blog"
     },
     {
       "title": "Digital Age Compulsions: AI, OCD, and the \"Dopamine Ceiling\"",
@@ -779,14 +802,13 @@
       "blogUrl": "https://calebmurphy01.github.io"
     },
     {
-      "title": "The Cost of a Soul",
-      "url": "https://olliebear2006ya-dotcom.github.io/Olivias-Disney-Blog/the-cost-of-a-soul.html",
+      "title": "The Automation Anxiety: Is AI Really Taking Our Jobs?",
+      "url": "https://terryrozier1267.github.io/automation-anxiety.html",
       "date": "January 21, 2026",
       "dateISO": "2026-01-21",
-      "author": "Olivia Andresen",
+      "author": "Donovan Campbell",
       "authorRole": "student",
-      "blogUrl": "https://olliebear2006ya-dotcom.github.io/Olivias-Disney-Blog",
-      "source": "manual"
+      "blogUrl": "https://terryrozier1267.github.io"
     },
     {
       "title": "Theories of Safety: AI-Encouraged Self-Injury",
@@ -989,6 +1011,15 @@
       "blogUrl": "https://blt279.github.io"
     },
     {
+      "title": "The Sorcerer's Tool",
+      "url": "https://olliebear2006ya-dotcom.github.io/Olivias-Disney-Blog/the-sorcerers-tool.html",
+      "date": "January 15, 2026",
+      "dateISO": "2026-01-15",
+      "author": "Olivia Andresen",
+      "authorRole": "student",
+      "blogUrl": "https://olliebear2006ya-dotcom.github.io/Olivias-Disney-Blog"
+    },
+    {
       "title": "The Green Mask: What We’re Really Hiding Behind",
       "url": "https://jrbrunts.github.io/the-green-mask.html",
       "date": "January 15, 2026",
@@ -1034,16 +1065,6 @@
       "blogUrl": "https://kevionmilton.github.io"
     },
     {
-      "title": "The Sorcerer's Tool",
-      "url": "https://olliebear2006ya-dotcom.github.io/Olivias-Disney-Blog/the-sorcerers-tool.html",
-      "date": "January 15, 2026",
-      "dateISO": "2026-01-15",
-      "author": "Olivia Andresen",
-      "authorRole": "student",
-      "blogUrl": "https://olliebear2006ya-dotcom.github.io/Olivias-Disney-Blog",
-      "source": "manual"
-    },
-    {
       "title": "The Fluency Illusion",
       "url": "https://buildlittleworlds.github.io/plate-composition-blog/posts/the-fluency-illusion/",
       "date": "January 14, 2026",
@@ -1080,6 +1101,15 @@
       "blogUrl": "https://buildlittleworlds.github.io/plate-composition-blog"
     },
     {
+      "title": "The Higher Thinking Post",
+      "url": "https://olliebear2006ya-dotcom.github.io/Olivias-Disney-Blog/the-higher-thinking-post.html",
+      "date": "January 13, 2026",
+      "dateISO": "2026-01-13",
+      "author": "Olivia Andresen",
+      "authorRole": "student",
+      "blogUrl": "https://olliebear2006ya-dotcom.github.io/Olivias-Disney-Blog"
+    },
+    {
       "title": "The Obsolescence Trap: Why \"Choice\" Is Not Enough",
       "url": "https://jrbrunts.github.io/obsolescence-trap.html",
       "date": "January 13, 2026",
@@ -1105,16 +1135,6 @@
       "author": "Eliana Nodari",
       "authorRole": "student",
       "blogUrl": "https://eliananodari.github.io"
-    },
-    {
-      "title": "The Higher Thinking Post",
-      "url": "https://olliebear2006ya-dotcom.github.io/Olivias-Disney-Blog/the-higher-thinking-post.html",
-      "date": "January 13, 2026",
-      "dateISO": "2026-01-13",
-      "author": "Olivia Andresen",
-      "authorRole": "student",
-      "blogUrl": "https://olliebear2006ya-dotcom.github.io/Olivias-Disney-Blog",
-      "source": "manual"
     },
     {
       "title": "Two Theories of Safety",
