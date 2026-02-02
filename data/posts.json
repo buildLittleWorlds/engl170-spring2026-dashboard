@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-02T00:48:43.165Z",
+  "lastUpdated": "2026-02-02T01:25:31.567Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
   "totalPosts": 107,
@@ -50,6 +50,15 @@
       "author": "Dominic Debro",
       "authorRole": "student",
       "blogUrl": "https://dominicdebro.github.io"
+    },
+    {
+      "title": "The \"Glass Athlete\" Fallacy",
+      "url": "https://braydenwilson22.github.io/fragility-of-sport.html",
+      "date": "February 1, 2026",
+      "dateISO": "2026-02-01",
+      "author": "Brayden Wilson",
+      "authorRole": "student",
+      "blogUrl": "https://braydenwilson22.github.io"
     },
     {
       "title": "The Lazarus Effect: Can We Delete the Consequences of Randomness?",
@@ -392,15 +401,6 @@
       "author": "Dominic Debro",
       "authorRole": "student",
       "blogUrl": "https://dominicdebro.github.io"
-    },
-    {
-      "title": "Beyond the Goal Horn: The Hidden World of Hockey",
-      "url": "https://braydenwilson22.github.io/behind-the-scenes-hockey.html",
-      "date": "January 25, 2026",
-      "dateISO": "2026-01-25",
-      "author": "Brayden Wilson",
-      "authorRole": "student",
-      "blogUrl": "https://braydenwilson22.github.io"
     },
     {
       "title": "The Cost of Relevancy: Why We Still Need the Human Element in Sports",
