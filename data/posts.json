@@ -1,11 +1,20 @@
 {
-  "lastUpdated": "2026-02-02T06:40:23.244Z",
+  "lastUpdated": "2026-02-02T07:10:27.545Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 111,
+  "totalPosts": 112,
   "totalBlogs": 20,
   "blogsWithErrors": [],
   "posts": [
+    {
+      "title": "The Infinite Therapist: Democratizing the Mind",
+      "url": "https://jrbrunts.github.io/infinite-therapist.html",
+      "date": "February 4, 2026",
+      "dateISO": "2026-02-04",
+      "author": "Jacob Brunts",
+      "authorRole": "student",
+      "blogUrl": "https://jrbrunts.github.io"
+    },
     {
       "title": "The Lazarus Protocol: Beyond Injury Prevention",
       "url": "https://jrbrunts.github.io/the-lazarus-protocol.html",
