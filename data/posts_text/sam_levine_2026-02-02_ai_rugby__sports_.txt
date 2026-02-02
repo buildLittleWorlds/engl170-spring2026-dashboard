@@ -1,0 +1,111 @@
+AI in Rugby: Performance Partner or Threat to Autonomy?
+AI in Rugby: Performance Partner or Threat to Autonomy?
+February 2026
+In my previous blog post, “AI as a Performance Partner, Not a Replacement,”
+I explored the growing cultural anxiety that artificial intelligence will eventually replace
+human effort, creativity, and skill. In many conversations about AI, the technology is framed
+as something that removes meaning from work and makes people less capable. However, I argued
+that this perspective misses the more important truth: AI is not necessarily a substitute for
+human ability, but rather a tool that can amplify it.
+I was especially drawn to the idea that AI works best when it is treated as a collaborator.
+Instead of seeing it as a shortcut or a threat, I suggested that AI can function like a partner
+that reduces unnecessary friction and allows people to focus on higher-level decision-making.
+This idea applies not only to programming or academics, but also to athletics, where training
+has always involved tools designed to enhance performance.
+“I’m no longer trying to prove that I can do everything myself. I’m focused on what I can build
+when I work with AI instead of against it.”
+— Jeffrey Wei, quoted in my earlier post
+That quote captured what I found most compelling about AI: it does not erase human purpose,
+but shifts where human skill is applied. People remain responsible for judgment, creativity,
+and ethical decision-making. AI may accelerate repetitive tasks, but it does not decide what
+matters or what direction to take.
+This framework becomes even more complex when we move from the world of programming into the
+world of sport, especially a collision sport like rugby. Rugby is not simply about efficiency
+or output. It is a sport defined by instinct, physical courage, and split-second decision-making.
+In that context, the introduction of AI raises a deeper question: does using AI in sports training
+enhance human performance, or does it threaten human autonomy?
+AI Enters the Rugby World
+A recent external source that brings this question into focus is an article published by
+Trinity College Dublin describing an AI research project designed to improve rugby players’
+tackle technique. Tackling is one of the most essential skills in rugby, but it is also one
+of the most dangerous. Concussions and head injuries remain ongoing concerns across the sport,
+from youth rugby to the professional level.
+According to the Trinity College Dublin article, researchers are developing AI tools that can
+analyze video footage of tackles, identify patterns in technique, and provide insights that
+coaches or players may not easily recognize through observation alone.
+“AI research to improve players’ tackle technique” aims to support safer outcomes by analyzing
+tackle events through video and data-driven feedback.
+— Trinity College Dublin, School of Computer Science and Statistics
+The promise of this work is significant. Rugby tackling happens at high speed, often with
+bodies moving unpredictably. Even experienced coaches cannot always detect every subtle detail
+of head placement, shoulder position, or timing. AI systems, however, can process enormous
+amounts of footage and potentially recognize recurring risky habits much faster than a human
+analyst reviewing film manually.
+In this sense, AI is not being positioned as a replacement for athletes or coaches. Instead,
+it functions as a feedback tool—something that highlights patterns and supports improvement.
+This aligns with the broader argument I made in my earlier post: AI is most effective when it
+augments human ability rather than eliminating it.
+Why AI in Rugby Training Can Be Revolutionary
+One of the strongest arguments in favor of AI-driven rugby training is that it has the potential
+to make the sport safer. Rugby is a game of physical contact, and tackling will always be part
+of its identity. But reducing preventable injury is essential for the sport’s future.
+If AI can help identify dangerous tackle patterns early—especially among younger athletes—then
+it may protect players from long-term damage. In this way, AI could preserve careers, reduce
+concussions, and allow athletes to continue playing the sport they love.
+Additionally, AI may help athletes train smarter. Rather than relying purely on trial and error,
+players could receive more specific guidance about weaknesses in their technique. Coaches could
+use AI insights to tailor training sessions, focusing on areas where athletes are most at risk
+or most likely to improve.
+This is why I believe AI is revolutionary in sport: not because it removes the human element,
+but because it strengthens and protects it. Rugby will always require courage, discipline, and
+instinct. AI cannot replace those qualities. But it may help athletes refine them more safely
+and effectively.
+The Fear of Losing Human Autonomy
+Despite these benefits, it is understandable why some critics feel uneasy. Rugby is not simply
+a sport of mechanics. It is deeply tied to human instinct and decision-making. Tackles are not
+executed in controlled laboratory conditions—they happen in chaotic moments where athletes must
+react instantly.
+Because of this, some people worry that increased reliance on AI could reduce autonomy. If players
+begin training according to algorithmic feedback, does rugby become less creative and more
+standardized? Do athletes lose the ability to trust their own instincts?
+There is also the broader cultural fear that technology can slowly shift from being a tool into
+being an authority. Coaches might begin deferring too heavily to data-driven recommendations.
+Players might feel pressured to conform to an “ideal” movement model rather than developing their
+own style of play.
+These concerns are not irrational. Sport is meaningful partly because it is unpredictable, human,
+and emotionally charged. If AI becomes overly dominant, some fear rugby could lose part of its
+identity.
+Autonomy Is Not the Absence of Tools
+However, I would argue that these fears misunderstand what autonomy truly means. Autonomy does
+not require athletes to act without support. Rugby has never been a sport of pure independence.
+Players rely on teammates, coaches, trainers, nutrition plans, film review, and strength programs.
+All of these tools shape performance, yet none of them erase the athlete’s humanity.
+AI should be understood in the same way. It does not tackle for the player. It does not decide
+strategy. It does not replace courage or instinct. Instead, it provides information that athletes
+can choose to use. The athlete remains in control of the final outcome.
+In fact, AI may actually increase autonomy by giving players more knowledge about their own bodies
+and movements. With better feedback, athletes can make more informed decisions about how to train
+and how to protect themselves.
+Limitations and Open Questions
+At the same time, it is important to acknowledge limitations. The Trinity College Dublin article
+describes a research project rather than presenting completed results. The long-term impact will
+depend on whether these AI systems are accurate, widely accessible, and used responsibly.
+Another concern is inequality. If AI-based tackle analysis becomes available only to elite programs,
+it could widen the gap between professional rugby and grassroots levels. Community clubs may not
+have the same resources, meaning the benefits could be unevenly distributed.
+Ethical questions also remain about data privacy and how player footage is collected and used.
+These are issues the article does not address in detail, but they will matter as AI becomes more
+common in sport.
+Conclusion: Partnership Over Fear
+Ultimately, the Trinity College Dublin research reinforces the argument I made in my earlier post:
+AI is most powerful when it is treated as a performance partner, not a replacement. Rugby will
+always remain a deeply human sport, shaped by instinct, courage, and split-second decisions. AI
+cannot remove those qualities.
+Instead, AI has the potential to revolutionize rugby by making it safer and smarter. The real
+challenge is not whether AI eliminates autonomy, but whether humans remain intentional about how
+they use it. Autonomy is lost only when athletes stop making the final decisions. When AI is used
+responsibly, it becomes not a threat, but a tool that protects the very human element that makes
+sport meaningful.
+The future of rugby is not humans competing against machines. It is humans learning how to work
+alongside them—using technology to preserve both performance and humanity.
+© 2026 Sam Levine

@@ -1,0 +1,9 @@
+The Agency Paradox: When AI Starts Acting for Itself
+January 23, 2026
+In my exploration of "The Agency Paradox," I've been thinking about the line between tools we control and tools that act on their own. A recent article from TEKsystems perfectly captures this tension as we move into the era of Agentic AI.
+The paradox is simple: As we give AI more "agency" to solve our problems, we actually have to become more vigilant in how we monitor it.
+From Assistance to Autonomy
+We are moving away from tools that just answer questions toward "doers" that can interpret context and execute workflows. These agents can collaborate with each other to solve complex problems, potentially automating up to 70% of office tasks in the next decade.
+The Supervision Gap
+One of the biggest points in the article is that Agentic AI is not "set-it-and-forget-it." Because these tools can interact with databases and move data, the risk of error is higher. This is the heart of my blog's theme: to gain the freedom of automation, we must invest more in oversight.
+What do you think? Are we ready for AI that takes the next step for us?

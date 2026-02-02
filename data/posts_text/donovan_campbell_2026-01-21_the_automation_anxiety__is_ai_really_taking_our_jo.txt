@@ -1,0 +1,22 @@
+The Automation Anxiety: Is AI Really Taking Our Jobs?
+January 21, 2026
+The New Industrial Revolution
+As we sit in ENGL 170 discussing the implications of artificial intelligence, there is a recurring shadow that hangs over every conversation: the fear of replacement. For decades, science fiction warned us about robots taking over the world through physical force. The reality of 2026 is much subtler and, for many, much scarier. AI isn't coming for our lives; it's coming for our livelihoods. Or is it?
+The debate over AI and job displacement is often split into two extremes. On one side, we have the "techno-optimists" who believe AI will simply automate the boring parts of our jobs, freeing us to do more creative work. On the other side, we have the "doomers" who predict a permanent underclass of workers whose skills have been rendered obsolete by an algorithm that doesn't need to sleep, eat, or receive a paycheck.
+The Shift in White-Collar Labor
+Historically, automation affected manual labor—think of the assembly lines in the early 20th century. However, the current wave of Generative AI is different because it targets "knowledge work." Writing, coding, graphic design, and legal analysis are all tasks that we once thought were safely human.
+According to a recent report by Goldman Sachs, generative AI could automate the equivalent of 300 million full-time jobs. This doesn't necessarily mean 300 million people will be unemployed, but it does mean their jobs will change fundamentally. For a student in a writing-intensive course like this one, that statistic is personal. If an AI can write a technical manual or a basic news report in seconds, what happens to the professional writer?
+The "Lump of Labor" Fallacy
+Economists often point to the "Lump of Labor" fallacy to calm our fears. This is the mistaken idea that there is a fixed amount of work to be done in the world. In reality, as technology makes things cheaper and more efficient, new types of work are created. When the computer was invented, people feared the end of accounting and secretarial work. Instead, it gave birth to entire industries like software engineering, digital marketing, and data analysis.
+The challenge we face in 2026 is the speed of this transition. The Industrial Revolution took place over decades, giving society time to adapt. The AI revolution is happening over months. This creates a "skills gap" where people are displaced faster than they can be retrained.
+Intellectual Work in the Age of AI
+In ENGL 170, we focus on "intellectual work." This is the key to surviving the AI transition. AI is excellent at pattern recognition and synthesizing existing information, but it struggles with genuine innovation and deep empathy.
+For example, an AI can write a 1,000-word essay on the history of the steam engine by pulling from its training data. However, it cannot "know" what it feels like to be a worker in a factory, nor can it develop a truly original philosophical argument about the nature of human dignity in the face of machinery. Intellectual work isn't just about producing words; it's about the intent and responsibility behind those words.
+The Problem of Inequality
+While AI might increase the global GDP, the real concern is who captures that wealth. If AI replaces a department of twenty writers with two editors using an LLM (Large Language Model), the company saves money and increases profit. But those eighteen displaced workers now face economic instability.
+We must consider the social contract. If AI is "taking the jobs," then the productivity gains created by AI should, in theory, benefit society as a whole—perhaps through shorter work weeks or universal basic income. Without these policy changes, AI job displacement risks widening the gap between the "technological elite" and everyone else.
+Conclusion
+So, is AI taking our jobs? The answer is likely "some of them," but the more accurate answer is that AI is changing all of them. As we continue this semester, our goal shouldn't be to compete with AI on speed or volume—we will lose that race every time. Instead, we must lean into the things AI cannot do: complex ethical reasoning, genuine social connection, and the creation of new ideas that don't just mimic the past.
+The future of work isn't a battle of Human vs. Machine; it's a question of how humans use machines to redefine what "work" even means.
+Sources:
+Goldman Sachs Research, "Generative AI could raise global GDP by 7%."
