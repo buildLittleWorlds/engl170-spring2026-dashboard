@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-02-02T03:26:13.208Z",
+  "lastUpdated": "2026-02-02T04:21:10.478Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 107,
+  "totalPosts": 108,
   "totalBlogs": 20,
   "blogsWithErrors": [],
   "posts": [
@@ -275,6 +275,15 @@
       "author": "Tom Bishop",
       "authorRole": "student",
       "blogUrl": "https://tombishop4.github.io"
+    },
+    {
+      "title": "The Digital Pulse and the Human Heart: Why AI Needs Us as Much as We Need It",
+      "url": "https://bellacalmetjanssen-cell.github.io/isabella-calmet-.github.io/ai-mental-health.html",
+      "date": "January 26, 2026",
+      "dateISO": "2026-01-26",
+      "author": "Isabella Calmet",
+      "authorRole": "student",
+      "blogUrl": "https://bellacalmetjanssen-cell.github.io/isabella-calmet-.github.io"
     },
     {
       "title": "Beyond the Laboratory: The Millennial History of Genetic Modification",
