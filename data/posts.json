@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-02-02T19:14:43.476Z",
+  "lastUpdated": "2026-02-02T23:08:24.049Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 135,
+  "totalPosts": 130,
   "totalBlogs": 21,
   "blogsWithErrors": [
     {
@@ -579,36 +579,6 @@
       "blogUrl": "https://zayamaro.github.io"
     },
     {
-      "title": "The Moneyball of Algorithms: AI and Sports Numbers",
-      "url": "https://braydenwilson22.github.io/ai-and-sports-numbers.html",
-      "date": "January 25, 2026",
-      "dateISO": "2026-01-25",
-      "author": "Brayden Wilson",
-      "authorRole": "student",
-      "blogUrl": "https://braydenwilson22.github.io",
-      "source": "manual-repo-scan"
-    },
-    {
-      "title": "AI on Ice: The Digital Revolution of the NHL",
-      "url": "https://braydenwilson22.github.io/ai-in-hockey-revolution.html",
-      "date": "January 25, 2026",
-      "dateISO": "2026-01-25",
-      "author": "Brayden Wilson",
-      "authorRole": "student",
-      "blogUrl": "https://braydenwilson22.github.io",
-      "source": "manual-repo-scan"
-    },
-    {
-      "title": "Beyond the Goal Horn: The Hidden World of Hockey",
-      "url": "https://braydenwilson22.github.io/behind-the-scenes-hockey.html",
-      "date": "January 25, 2026",
-      "dateISO": "2026-01-25",
-      "author": "Brayden Wilson",
-      "authorRole": "student",
-      "blogUrl": "https://braydenwilson22.github.io",
-      "source": "manual-repo-scan"
-    },
-    {
       "title": "The Ghost in the Machine: Why Sports Need the Romantic, Not Just the Rational",
       "url": "https://gabriel-bell.github.io/the-ghost-in-the-machine.html",
       "date": "January 24, 2026",
@@ -940,26 +910,6 @@
       "author": "Kevion Milton",
       "authorRole": "student",
       "blogUrl": "https://kevionmilton.github.io"
-    },
-    {
-      "title": "Blood on the Ice: The St. Louis Blues and Chicago Blackhawks Rivalry",
-      "url": "https://braydenwilson22.github.io/blues-blackhawks-rivalry.html",
-      "date": "January 18, 2026",
-      "dateISO": "2026-01-18",
-      "author": "Brayden Wilson",
-      "authorRole": "student",
-      "blogUrl": "https://braydenwilson22.github.io",
-      "source": "manual-repo-scan"
-    },
-    {
-      "title": "The Rollercoaster in the Lou: The St. Louis Blues' Recent Surge and Struggles",
-      "url": "https://braydenwilson22.github.io/blues-midseason-2026.html",
-      "date": "January 18, 2026",
-      "dateISO": "2026-01-18",
-      "author": "Brayden Wilson",
-      "authorRole": "student",
-      "blogUrl": "https://braydenwilson22.github.io",
-      "source": "manual-repo-scan"
     },
     {
       "title": "The Planning Is the Thinking",
