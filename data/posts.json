@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-02-02T11:12:21.683Z",
+  "lastUpdated": "2026-02-02T11:13:47.119Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 120,
+  "totalPosts": 123,
   "totalBlogs": 20,
   "blogsWithErrors": [],
   "posts": [
@@ -614,6 +614,16 @@
       "blogUrl": "https://zayamaro.github.io"
     },
     {
+      "title": "The Choice Signal: Response to Dr. Plate",
+      "url": "https://emanigerdine7-ops.github.io/price-signal-response.html",
+      "date": "January 23, 2026",
+      "dateISO": "2026-01-23",
+      "author": "Emani Gerdine",
+      "authorRole": "student",
+      "blogUrl": "https://emanigerdine7-ops.github.io",
+      "source": "manual-repo-scan"
+    },
+    {
       "title": "From Magic Wands to Microchips",
       "url": "https://olliebear2006ya-dotcom.github.io/Olivias-Disney-Blog/from-magic-wands.html",
       "date": "January 23, 2026",
@@ -731,6 +741,16 @@
       "author": "Sam Levine",
       "authorRole": "student",
       "blogUrl": "https://samlevine277.github.io"
+    },
+    {
+      "title": "Why Physical Therapy?",
+      "url": "https://emanigerdine7-ops.github.io/physical-therapy.html",
+      "date": "January 19, 2026",
+      "dateISO": "2026-01-19",
+      "author": "Emani Gerdine",
+      "authorRole": "student",
+      "blogUrl": "https://emanigerdine7-ops.github.io",
+      "source": "manual-repo-scan"
     },
     {
       "title": "The Friction of Fluency: Why \"Easy\" AI is a Myth",
@@ -866,6 +886,16 @@
       "author": "Ben Teismann",
       "authorRole": "student",
       "blogUrl": "https://blt279.github.io"
+    },
+    {
+      "title": "AI as a Cognitive Partner",
+      "url": "https://emanigerdine7-ops.github.io/ai-as-a-resource.html",
+      "date": "January 16, 2026",
+      "dateISO": "2026-01-16",
+      "author": "Emani Gerdine",
+      "authorRole": "student",
+      "blogUrl": "https://emanigerdine7-ops.github.io",
+      "source": "manual-repo-scan"
     },
     {
       "title": "The Green Mask: What We’re Really Hiding Behind",

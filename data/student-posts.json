@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-02T11:12:08.422Z",
+  "lastUpdated": "2026-02-02T11:13:47.684Z",
   "students": {
     "Olivia Andresen": {
       "url": "https://olliebear2006ya-dotcom.github.io/Olivias-Disney-Blog",
@@ -120,9 +120,24 @@
       "url": "https://emanigerdine7-ops.github.io",
       "posts": [
         {
+          "date": "2026-01-23",
+          "title": "The Choice Signal: Response to Dr. Plate",
+          "file": "emani_gerdine_2026-01-23_the_choice_signal__response_to_dr__plate.txt"
+        },
+        {
+          "date": "2026-01-19",
+          "title": "Why Physical Therapy?",
+          "file": "emani_gerdine_2026-01-19_why_physical_therapy_.txt"
+        },
+        {
           "date": "2026-01-16",
           "title": "AI as a Cognitive Partner, Not a Shortcut",
           "file": "emani_gerdine_2026-01-16_ai_as_a_cognitive_partner__not_a_shortcut.txt"
+        },
+        {
+          "date": "2026-01-16",
+          "title": "AI as a Cognitive Partner",
+          "file": "emani_gerdine_2026-01-16_ai_as_a_cognitive_partner.txt"
         },
         {
           "date": "2026-01-15",
