@@ -27,9 +27,7 @@
     {
       "author": "Emani Gerdine",
       "url": "https://emanigerdine7-ops.github.io",
-      "role": "student",
-      "active": false,
-      "note": "Homepage links to post1-4.html which 404. Posts come from manual-posts.json"
+      "role": "student"
     },
     {
       "author": "Jinx Hixson",
