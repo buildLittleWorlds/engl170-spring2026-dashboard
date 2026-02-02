@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-02-02T05:42:03.800Z",
+  "lastUpdated": "2026-02-02T06:10:41.181Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 110,
+  "totalPosts": 111,
   "totalBlogs": 20,
   "blogsWithErrors": [],
   "posts": [
@@ -14,6 +14,15 @@
       "author": "Jacob Brunts",
       "authorRole": "student",
       "blogUrl": "https://jrbrunts.github.io"
+    },
+    {
+      "title": "The 50/50 Rule: Balancing Human Agency and AI Safety in Modern Athletics",
+      "url": "https://bellacalmetjanssen-cell.github.io/isabella-calmet-.github.io/ai-sports-safety.html",
+      "date": "February 2, 2026",
+      "dateISO": "2026-02-02",
+      "author": "Isabella Calmet",
+      "authorRole": "student",
+      "blogUrl": "https://bellacalmetjanssen-cell.github.io/isabella-calmet-.github.io"
     },
     {
       "title": "AI-Sports Response (Sports)",
@@ -59,6 +68,15 @@
       "author": "Brayden Wilson",
       "authorRole": "student",
       "blogUrl": "https://braydenwilson22.github.io"
+    },
+    {
+      "title": "The Genetic Continuum: From Ancient Corn to the CRISPR Revolution",
+      "url": "https://bellacalmetjanssen-cell.github.io/isabella-calmet-.github.io/genetic-continuum.html",
+      "date": "February 1, 2026",
+      "dateISO": "2026-02-01",
+      "author": "Isabella Calmet",
+      "authorRole": "student",
+      "blogUrl": "https://bellacalmetjanssen-cell.github.io/isabella-calmet-.github.io"
     },
     {
       "title": "The Infallible Diagnostician: How AI is Outperforming the Human Element in Medicine",
@@ -617,15 +635,6 @@
       "author": "Jinx Hixson",
       "authorRole": "student",
       "blogUrl": "https://jinxxywrites.github.io/Psyched-for-Psychology"
-    },
-    {
-      "title": "Defining Value",
-      "url": "https://bellacalmetjanssen-cell.github.io/isabella-calmet-.github.io/defining-value.html",
-      "date": "January 20, 2026",
-      "dateISO": "2026-01-20",
-      "author": "Isabella Calmet",
-      "authorRole": "student",
-      "blogUrl": "https://bellacalmetjanssen-cell.github.io/isabella-calmet-.github.io"
     },
     {
       "title": "Physical Therapy and Personal Motivation",
