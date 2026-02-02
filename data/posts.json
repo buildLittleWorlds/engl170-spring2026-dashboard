@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-02-02T05:06:38.641Z",
+  "lastUpdated": "2026-02-02T05:42:03.800Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 108,
+  "totalPosts": 110,
   "totalBlogs": 20,
   "blogsWithErrors": [],
   "posts": [
@@ -59,6 +59,15 @@
       "author": "Brayden Wilson",
       "authorRole": "student",
       "blogUrl": "https://braydenwilson22.github.io"
+    },
+    {
+      "title": "The Infallible Diagnostician: How AI is Outperforming the Human Element in Medicine",
+      "url": "https://bellacalmetjanssen-cell.github.io/isabella-calmet-.github.io/ai-medicine-diagnostics.html",
+      "date": "February 1, 2026",
+      "dateISO": "2026-02-01",
+      "author": "Isabella Calmet",
+      "authorRole": "student",
+      "blogUrl": "https://bellacalmetjanssen-cell.github.io/isabella-calmet-.github.io"
     },
     {
       "title": "The Lazarus Effect: Can We Delete the Consequences of Randomness?",
@@ -608,6 +617,15 @@
       "author": "Jinx Hixson",
       "authorRole": "student",
       "blogUrl": "https://jinxxywrites.github.io/Psyched-for-Psychology"
+    },
+    {
+      "title": "Defining Value",
+      "url": "https://bellacalmetjanssen-cell.github.io/isabella-calmet-.github.io/defining-value.html",
+      "date": "January 20, 2026",
+      "dateISO": "2026-01-20",
+      "author": "Isabella Calmet",
+      "authorRole": "student",
+      "blogUrl": "https://bellacalmetjanssen-cell.github.io/isabella-calmet-.github.io"
     },
     {
       "title": "Physical Therapy and Personal Motivation",
