@@ -15,7 +15,6 @@
   const postFeed = document.getElementById('post-feed');
   const featuredSection = document.getElementById('featured-section');
   const authorFilter = document.getElementById('author-filter');
-  const dateFilter = document.getElementById('date-filter');
   const statusText = document.getElementById('status-text');
   const lastUpdate = document.getElementById('last-update');
   const networkStats = document.getElementById('network-stats');
@@ -78,34 +77,19 @@
       authorFilter.appendChild(option);
     });
 
-    // Event listeners
+    // Event listener
     authorFilter.addEventListener('change', renderPosts);
-    dateFilter.addEventListener('change', renderPosts);
   }
 
   // Render posts based on current filters
   function renderPosts() {
     const selectedAuthor = authorFilter.value;
-    const selectedDays = dateFilter.value;
 
     let filtered = [...allPosts];
 
     // Filter by author
     if (selectedAuthor !== 'all') {
       filtered = filtered.filter(post => post.author === selectedAuthor);
-    }
-
-    // Filter by date
-    if (selectedDays !== 'all') {
-      const days = parseInt(selectedDays, 10);
-      const cutoff = new Date();
-      cutoff.setDate(cutoff.getDate() - days);
-
-      filtered = filtered.filter(post => {
-        if (!post.dateISO) return true; // Show posts without dates
-        const postDate = new Date(post.dateISO);
-        return postDate >= cutoff;
-      });
     }
 
     // Update status
