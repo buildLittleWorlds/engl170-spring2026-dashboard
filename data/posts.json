@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-02-01T23:56:51.129Z",
+  "lastUpdated": "2026-02-02T00:36:14.318Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 98,
+  "totalPosts": 107,
   "totalBlogs": 20,
   "blogsWithErrors": [],
   "posts": [
@@ -14,6 +14,15 @@
       "author": "Jacob Brunts",
       "authorRole": "student",
       "blogUrl": "https://jrbrunts.github.io"
+    },
+    {
+      "title": "AI-Sports Response (Sports)",
+      "url": "https://samlevine277.github.io/ai_in_sports_response.html",
+      "date": "Feburary 1, 2026",
+      "dateISO": "2026-02-01",
+      "author": "Sam Levine",
+      "authorRole": "student",
+      "blogUrl": "https://samlevine277.github.io"
     },
     {
       "title": "The Employment Trap: Rethinking Productivity in the Age of AI",
@@ -41,6 +50,15 @@
       "author": "Dominic Debro",
       "authorRole": "student",
       "blogUrl": "https://dominicdebro.github.io"
+    },
+    {
+      "title": "The Lazarus Effect: Can We Delete the Consequences of Randomness?",
+      "url": "https://zayamaro.github.io/the-lazarus-effect.html",
+      "date": "February 1, 2026",
+      "dateISO": "2026-02-01",
+      "author": "Zay Amaro",
+      "authorRole": "student",
+      "blogUrl": "https://zayamaro.github.io"
     },
     {
       "title": "The End of Line-by-Line: A Reply to Jeffrey Way",
@@ -241,6 +259,15 @@
       "blogUrl": "https://eliananodari.github.io"
     },
     {
+      "title": "Reading the Tape: Response to Caleb Murphy",
+      "url": "https://tombishop4.github.io/reading-the-tape-response.html",
+      "date": "January 26, 2026",
+      "dateISO": "2026-01-26",
+      "author": "Tom Bishop",
+      "authorRole": "student",
+      "blogUrl": "https://tombishop4.github.io"
+    },
+    {
       "title": "Beyond the Laboratory: The Millennial History of Genetic Modification",
       "url": "https://bellacalmetjanssen-cell.github.io/isabella-calmet-.github.io/genetic-modification-history.html",
       "date": "January 26, 2026",
@@ -275,6 +302,15 @@
       "author": "Isabella Calmet",
       "authorRole": "student",
       "blogUrl": "https://bellacalmetjanssen-cell.github.io/isabella-calmet-.github.io"
+    },
+    {
+      "title": "The \"You-First\" Era: From Mass Media to Personalized Reality",
+      "url": "https://kevionmilton.github.io/you-first-era.html",
+      "date": "January 26, 2026",
+      "dateISO": "2026-01-26",
+      "author": "Kevion Milton",
+      "authorRole": "student",
+      "blogUrl": "https://kevionmilton.github.io"
     },
     {
       "title": "Markets, Metrics, and the Myth of Certainty",
@@ -320,6 +356,33 @@
       "author": "Sam Levine",
       "authorRole": "student",
       "blogUrl": "https://samlevine277.github.io"
+    },
+    {
+      "title": "The Ghost in the Machine",
+      "url": "https://tombishop4.github.io/ghost-in-the-machine.html",
+      "date": "January 25, 2026",
+      "dateISO": "2026-01-25",
+      "author": "Tom Bishop",
+      "authorRole": "student",
+      "blogUrl": "https://tombishop4.github.io"
+    },
+    {
+      "title": "The Sovereign Writer vs. The Institutional Student",
+      "url": "https://tombishop4.github.io/sovereign-writer.html",
+      "date": "January 25, 2026",
+      "dateISO": "2026-01-25",
+      "author": "Tom Bishop",
+      "authorRole": "student",
+      "blogUrl": "https://tombishop4.github.io"
+    },
+    {
+      "title": "The Feedback Loop: When Efficiency Becomes Maladaptive",
+      "url": "https://tombishop4.github.io/feedback-loop.html",
+      "date": "January 25, 2026",
+      "dateISO": "2026-01-25",
+      "author": "Tom Bishop",
+      "authorRole": "student",
+      "blogUrl": "https://tombishop4.github.io"
     },
     {
       "title": "The Silicon Equalizer: Can AI Solve the Coordination Problem?",
@@ -448,6 +511,15 @@
       "blogUrl": "https://tombishop4.github.io"
     },
     {
+      "title": "The Genetic Playbook: Is Precision Nutrition the Final Frontier?",
+      "url": "https://kevionmilton.github.io/genetic-playbook.html",
+      "date": "January 23, 2026",
+      "dateISO": "2026-01-23",
+      "author": "Kevion Milton",
+      "authorRole": "student",
+      "blogUrl": "https://kevionmilton.github.io"
+    },
+    {
       "title": "The Stats Illusion: Why NFL Predictions Feel True",
       "url": "https://zayamaro.github.io/stats-illusion.html",
       "date": "January 23, 2026",
@@ -491,6 +563,15 @@
       "author": "Dominic Debro",
       "authorRole": "student",
       "blogUrl": "https://dominicdebro.github.io"
+    },
+    {
+      "title": "The 2026 Sports Convergence: 3D Avatars, Aero-Engineering, and the Agentic Scout",
+      "url": "https://kevionmilton.github.io/sports-convergence.html",
+      "date": "January 21, 2026",
+      "dateISO": "2026-01-21",
+      "author": "Kevion Milton",
+      "authorRole": "student",
+      "blogUrl": "https://kevionmilton.github.io"
     },
     {
       "title": "Lifting Gear and AI: Tools vs. Crutches",
