@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-02-02T16:16:34.930Z",
+  "lastUpdated": "2026-02-02T16:36:39.309Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 123,
+  "totalPosts": 125,
   "totalBlogs": 18,
   "blogsWithErrors": [],
   "posts": [
@@ -25,6 +25,15 @@
       "blogUrl": "https://jrbrunts.github.io"
     },
     {
+      "title": "Hollow Presence: The Parasocial Trap of AI Therapy",
+      "url": "https://jinxxywrites.github.io/Psyched-for-Psychology/parasocial-ai-therapy.html",
+      "date": "February 2, 2026",
+      "dateISO": "2026-02-02",
+      "author": "Jinx Hixson",
+      "authorRole": "student",
+      "blogUrl": "https://jinxxywrites.github.io/Psyched-for-Psychology"
+    },
+    {
       "title": "The 50/50 Rule: Balancing Human Agency and AI Safety in Modern Athletics",
       "url": "https://bellacalmetjanssen-cell.github.io/isabella-calmet-.github.io/ai-sports-safety.html",
       "date": "February 2, 2026",
@@ -32,6 +41,15 @@
       "author": "Isabella Calmet",
       "authorRole": "student",
       "blogUrl": "https://bellacalmetjanssen-cell.github.io/isabella-calmet-.github.io"
+    },
+    {
+      "title": "Beyond the Illusion: Why Data Hits a Ceiling",
+      "url": "https://zayamaro.github.io/the-seventy-percent-limit.html",
+      "date": "February 2, 2026",
+      "dateISO": "2026-02-02",
+      "author": "Zay Amaro",
+      "authorRole": "student",
+      "blogUrl": "https://zayamaro.github.io"
     },
     {
       "title": "AI-Sports Response (Sports)",
