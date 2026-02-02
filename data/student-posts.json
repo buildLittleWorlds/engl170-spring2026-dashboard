@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-02T11:26:27.505Z",
+  "lastUpdated": "2026-02-02T19:00:49.601Z",
   "students": {
     "Olivia Andresen": {
       "url": "https://olliebear2006ya-dotcom.github.io/Olivias-Disney-Blog",
@@ -8,6 +8,11 @@
           "date": "2026-02-01",
           "title": "The Heroism of \"Enough\": Why Surrender is the New Magic",
           "file": "olivia_andresen_2026-02-01_the_heroism_of__enough___why_surrender_is_the_new_.txt"
+        },
+        {
+          "date": "2026-02-01",
+          "title": "The Heroism of \"Enough\"",
+          "file": "olivia_andresen_2026-02-01_the_heroism_of__enough_.txt"
         },
         {
           "date": "2026-01-28",
@@ -85,6 +90,16 @@
           "file": "jacob_brunts_2026-02-02_the_lazarus_protocol__beyond_injury_prevention.txt"
         },
         {
+          "date": "2026-02-02",
+          "title": "The Restoration Window: A Framework for Fair Healing",
+          "file": "jacob_brunts_2026-02-02_the_restoration_window__a_framework_for_fair_heali.txt"
+        },
+        {
+          "date": "2026-02-02",
+          "title": "The Infinite Therapist: Democratizing the Mind",
+          "file": "jacob_brunts_2026-02-02_the_infinite_therapist__democratizing_the_mind.txt"
+        },
+        {
           "date": "2026-01-30",
           "title": "The White Flag: Accepting the Efficiency Engine",
           "file": "jacob_brunts_2026-01-30_the_white_flag__accepting_the_efficiency_engine.txt"
@@ -120,14 +135,39 @@
       "url": "https://emanigerdine7-ops.github.io",
       "posts": [
         {
+          "date": "2026-02-02",
+          "title": "The Rhetoric of Radiance: How CeraVe Shapes Our Choices",
+          "file": "emani_gerdine_2026-02-02_the_rhetoric_of_radiance__how_cerave_shapes_our_ch.txt"
+        },
+        {
+          "date": "2026-02-02",
+          "title": "The Recovery Room: Where Agency Meets Anatomy",
+          "file": "emani_gerdine_2026-02-02_the_recovery_room__where_agency_meets_anatomy.txt"
+        },
+        {
           "date": "2026-01-23",
           "title": "The Choice Signal: Response to Dr. Plate",
           "file": "emani_gerdine_2026-01-23_the_choice_signal__response_to_dr__plate.txt"
         },
         {
+          "date": "2026-01-23",
+          "title": "The Agency Paradox: When AI Starts Acting for Itself",
+          "file": "emani_gerdine_2026-01-23_the_agency_paradox__when_ai_starts_acting_for_itse.txt"
+        },
+        {
+          "date": "2026-01-23",
+          "title": "The Choice Signal: Who Really Sets the Price?",
+          "file": "emani_gerdine_2026-01-23_the_choice_signal__who_really_sets_the_price_.txt"
+        },
+        {
           "date": "2026-01-19",
           "title": "Why Physical Therapy?",
           "file": "emani_gerdine_2026-01-19_why_physical_therapy_.txt"
+        },
+        {
+          "date": "2026-01-19",
+          "title": "Why I Picked My Career: Physical Therapy",
+          "file": "emani_gerdine_2026-01-19_why_i_picked_my_career__physical_therapy.txt"
         },
         {
           "date": "2026-01-16",
@@ -140,6 +180,11 @@
           "file": "emani_gerdine_2026-01-16_ai_as_a_cognitive_partner.txt"
         },
         {
+          "date": "2026-01-16",
+          "title": "The Agency Paradox: Choosing My Path",
+          "file": "emani_gerdine_2026-01-16_the_agency_paradox__choosing_my_path.txt"
+        },
+        {
           "date": "2026-01-15",
           "title": "My First Post Title",
           "file": "emani_gerdine_2026-01-15_my_first_post_title.txt"
@@ -149,6 +194,11 @@
     "Jinx Hixson": {
       "url": "https://jinxxywrites.github.io/Psyched-for-Psychology",
       "posts": [
+        {
+          "date": "2026-02-02",
+          "title": "Hollow Presence: The Parasocial Trap of AI Therapy",
+          "file": "jinx_hixson_2026-02-02_hollow_presence__the_parasocial_trap_of_ai_therapy.txt"
+        },
         {
           "date": "2026-01-30",
           "title": "Moral Agency and the Machine: Why AI Companies are Failing the History of Care",
@@ -194,6 +244,11 @@
     "Sam Levine": {
       "url": "https://samlevine277.github.io",
       "posts": [
+        {
+          "date": "2026-02-02",
+          "title": "AI-Rugby (Sports)",
+          "file": "sam_levine_2026-02-02_ai_rugby__sports_.txt"
+        },
         {
           "date": "2026-02-01",
           "title": "AI-Sports Response (Sports)",
@@ -250,6 +305,11 @@
       "url": "https://eliananodari.github.io",
       "posts": [
         {
+          "date": "2026-02-02",
+          "title": "The Digital Heartbeat: Navigating the Symbiosis of Human Intuition and AI",
+          "file": "eliana_nodari_2026-02-02_the_digital_heartbeat__navigating_the_symbiosis_of.txt"
+        },
+        {
           "date": "2026-01-30",
           "title": "The Pulse of the Machine: Balancing Human Creativity and Artificial Intelligence",
           "file": "eliana_nodari_2026-01-30_the_pulse_of_the_machine__balancing_human_creativi.txt"
@@ -294,6 +354,11 @@
     "Jonas Rodrigues": {
       "url": "https://qubitn.github.io",
       "posts": [
+        {
+          "date": "2026-02-02",
+          "title": "Post AI Development",
+          "file": "jonas_rodrigues_2026-02-02_post_ai_development.txt"
+        },
         {
           "date": "2026-01-29",
           "title": "Mastermind In The Machine",
@@ -368,6 +433,11 @@
     "Tom Bishop": {
       "url": "https://tombishop4.github.io",
       "posts": [
+        {
+          "date": "2026-02-02",
+          "title": "The Mastermind in the Machine: Why \"Vibe Coding\" Still Needs a Captain",
+          "file": "tom_bishop_2026-02-02_the_mastermind_in_the_machine__why__vibe_coding__s.txt"
+        },
         {
           "date": "2026-01-26",
           "title": "Reading the Tape: Response to Caleb Murphy",
@@ -564,6 +634,11 @@
       "url": "",
       "posts": [
         {
+          "date": "2026-02-02",
+          "title": "Beyond the Illusion: Why Data Hits a Ceiling",
+          "file": "zay_amaro_2026-02-02_beyond_the_illusion__why_data_hits_a_ceiling.txt"
+        },
+        {
           "date": "2026-02-01",
           "title": "The Lazarus Effect: Can We Delete the Consequences of Randomness?",
           "file": "zay_amaro_2026-02-01_the_lazarus_effect__can_we_delete_the_consequences.txt"
@@ -657,6 +732,21 @@
           "date": "2026-01-28",
           "title": "What is Happening to OpenAI?",
           "file": "jaden_walker_2026-01-28_what_is_happening_to_openai_.txt"
+        }
+      ]
+    },
+    "Donovan Campbell": {
+      "url": "",
+      "posts": [
+        {
+          "date": "2026-02-02",
+          "title": "The Guardian in the Machine: Why AI is the Next Great Revolution in Sports Safety",
+          "file": "donovan_campbell_2026-02-02_the_guardian_in_the_machine__why_ai_is_the_next_gr.txt"
+        },
+        {
+          "date": "2026-01-21",
+          "title": "The Automation Anxiety: Is AI Really Taking Our Jobs?",
+          "file": "donovan_campbell_2026-01-21_the_automation_anxiety__is_ai_really_taking_our_jo.txt"
         }
       ]
     }
