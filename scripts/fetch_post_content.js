@@ -7,6 +7,7 @@ const path = require('path');
  * - Fetches full text of NEW posts only (skips existing)
  * - Saves text to data/posts_text/
  * - Updates data/student-posts.json with posting history
+ * - Uses URL-based manifest to prevent duplicates when titles change
  *
  * Run via cron every 15 minutes, or manually as needed.
  */
@@ -16,6 +17,7 @@ async function fetchPostContent() {
     const configPath = path.join(__dirname, '..', 'config.json');
     const outputDir = path.join(__dirname, '..', 'data', 'posts_text');
     const trackingPath = path.join(__dirname, '..', 'data', 'student-posts.json');
+    const manifestPath = path.join(__dirname, '..', 'data', 'posts_text_manifest.json');
 
     // Ensure output directory exists
     if (!fs.existsSync(outputDir)) {
@@ -30,8 +32,11 @@ async function fetchPostContent() {
     // Load or initialize tracking data
     let tracking = loadOrInitializeTracking(trackingPath, config);
 
+    // Load or initialize URL manifest (maps URLs to filenames)
+    let manifest = loadOrInitializeManifest(manifestPath, outputDir);
+
     // Backfill tracking from posts.json for posts we already have text for
-    backfillTracking(tracking, posts, outputDir);
+    backfillTracking(tracking, posts, outputDir, manifest);
 
     console.log(`Found ${posts.length} posts to check.`);
 
@@ -46,14 +51,21 @@ async function fetchPostContent() {
             continue;
         }
 
+        // Check if we already have this URL in the manifest
+        if (manifest.urls[post.url]) {
+            continue;
+        }
+
         const safeTitle = post.title.replace(/[^a-z0-9]/gi, '_').toLowerCase().substring(0, 50);
         const safeAuthor = post.author.replace(/[^a-z0-9]/gi, '_').toLowerCase();
         const dateStr = post.dateISO || 'unknown_date';
         const filename = `${safeAuthor}_${dateStr}_${safeTitle}.txt`;
         const filePath = path.join(outputDir, filename);
 
-        // Check if we already have this post
+        // Also skip if file exists (backwards compatibility)
         if (fs.existsSync(filePath)) {
+            // Add to manifest for future runs
+            manifest.urls[post.url] = filename;
             continue;
         }
 
@@ -69,6 +81,9 @@ async function fetchPostContent() {
             fs.writeFileSync(filePath, text);
             console.log(`  Saved to ${filename}`);
             newPostsCount++;
+
+            // Add to URL manifest
+            manifest.urls[post.url] = filename;
 
             // Update tracking for students
             if (isStudent && post.dateISO) {
@@ -88,8 +103,13 @@ async function fetchPostContent() {
     tracking.lastUpdated = new Date().toISOString();
     fs.writeFileSync(trackingPath, JSON.stringify(tracking, null, 2));
 
+    // Save manifest
+    manifest.lastUpdated = new Date().toISOString();
+    fs.writeFileSync(manifestPath, JSON.stringify(manifest, null, 2));
+
     console.log(`\nDone. ${newPostsCount} new posts fetched.`);
     console.log(`Tracking saved to: ${trackingPath}`);
+    console.log(`Manifest saved to: ${manifestPath}`);
 }
 
 /**
@@ -119,24 +139,50 @@ function loadOrInitializeTracking(trackingPath, config) {
 }
 
 /**
- * Backfill tracking from posts.json for posts we already have text files for
+ * Load existing manifest or initialize from existing files
+ * Maps URLs to filenames to prevent duplicates when titles change
  */
-function backfillTracking(tracking, posts, outputDir) {
+function loadOrInitializeManifest(manifestPath, outputDir) {
+    if (fs.existsSync(manifestPath)) {
+        return JSON.parse(fs.readFileSync(manifestPath, 'utf8'));
+    }
+
+    // Initialize empty manifest - will be populated by backfill
+    return {
+        description: "Maps post URLs to saved filenames. Prevents re-downloading when titles change.",
+        lastUpdated: new Date().toISOString(),
+        urls: {}
+    };
+}
+
+/**
+ * Backfill tracking from posts.json for posts we already have text files for
+ * Also populates the URL manifest for existing files
+ */
+function backfillTracking(tracking, posts, outputDir, manifest) {
     for (const post of posts) {
-        if (post.authorRole !== 'student' || !post.dateISO) continue;
+        if (!post.dateISO) continue;
 
         const safeTitle = post.title.replace(/[^a-z0-9]/gi, '_').toLowerCase().substring(0, 50);
         const safeAuthor = post.author.replace(/[^a-z0-9]/gi, '_').toLowerCase();
         const filename = `${safeAuthor}_${post.dateISO}_${safeTitle}.txt`;
         const filePath = path.join(outputDir, filename);
 
-        // If we have the text file, add to tracking
+        // If we have the text file, add to tracking and manifest
         if (fs.existsSync(filePath)) {
-            addPostToTracking(tracking, post.author, {
-                date: post.dateISO,
-                title: post.title,
-                file: filename
-            });
+            // Add URL to manifest (prevents re-download if title changes)
+            if (post.url && !manifest.urls[post.url]) {
+                manifest.urls[post.url] = filename;
+            }
+
+            // Add to tracking for students
+            if (post.authorRole === 'student') {
+                addPostToTracking(tracking, post.author, {
+                    date: post.dateISO,
+                    title: post.title,
+                    file: filename
+                });
+            }
         }
     }
 }
