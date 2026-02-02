@@ -1,10 +1,15 @@
 {
-  "lastUpdated": "2026-02-02T17:13:34.548Z",
+  "lastUpdated": "2026-02-02T19:14:43.476Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 134,
-  "totalBlogs": 20,
-  "blogsWithErrors": [],
+  "totalPosts": 135,
+  "totalBlogs": 21,
+  "blogsWithErrors": [
+    {
+      "author": "Isaiah Forbes",
+      "error": "HTTP 404"
+    }
+  ],
   "posts": [
     {
       "title": "The Restoration Window: A Framework for Fair Healing",
@@ -95,6 +100,15 @@
       "author": "Tom Bishop",
       "authorRole": "student",
       "blogUrl": "https://tombishop4.github.io"
+    },
+    {
+      "title": "The Genetic Fingerprint: AI and the End of Late-Stage Diagnosis",
+      "url": "https://bellacalmetjanssen-cell.github.io/isabella-calmet-.github.io/genetic-fingerprint-ai.html",
+      "date": "February 2, 2026",
+      "dateISO": "2026-02-02",
+      "author": "Isabella Calmet",
+      "authorRole": "student",
+      "blogUrl": "https://bellacalmetjanssen-cell.github.io/isabella-calmet-.github.io"
     },
     {
       "title": "The 50/50 Rule: Balancing Human Agency and AI Safety in Modern Athletics",
