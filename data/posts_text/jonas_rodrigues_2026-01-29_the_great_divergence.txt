@@ -1,0 +1,19 @@
+The Great Divergence: Why AI Needs Science to Catch Up to Technology
+January 29, 2026
+For much of human history, "science" and "technology" felt like two sides of the same coin. One was the pursuit of knowledge (the why and how), and the other was the practical application of that knowledge to build tools (the what). You studied electricity to understand the universe; you built a lightbulb to banish the dark. They were symbiotic.
+But somewhere along the timeline—accelerating rapidly during the Industrial Revolution—a fissure formed. Science remained largely rooted in curiosity, academia, and a slow, methodical search for truth. Technology, however, became increasingly tethered to industry, efficiency, and, crucially, profit.
+Today, that split is nowhere more visible, or more dangerous, than in the explosive rise of Artificial Intelligence.
+The Two Faces of AI
+When we talk about "AI" today, we are usually conflating two very different disciplines that are currently at war with one another.
+On one side, we have AI as Science. This is the realm of cognitive psychologists, ethicists, mathematicians, and theoretical computer scientists. Their goal is understanding. They want to know how neural networks actually make decisions, what the mathematical boundaries of machine "thought" are, and how these systems interface with human cognition and societal ethics. It is slow, rigorous, and often philosophical work.
+On the other side, we have AI as Technology. This is the realm of Silicon Valley giants, startups, and venture capitalists. Their primary drivers are scalability, market capture, user adoption, and shareholder value. The goal isn't necessarily to fully understand the "black box" of a large language model; the goal is to ship a product that works well enough to monetize.
+The current AI landscape is defined by the massive imbalance between these two forces.
+When the "How" Outpaces the "Why"
+We are currently living through a moment where the technology of AI is vastly outpacing the science of AI. We have built systems capable of incredible feats of generation and analysis, but we often lack a fundamental scientific understanding of how they achieve these results or what their long-term impacts will be.
+The cultural pressure to "move fast and break things"—an ethos inherited from the software boom—is fundamentally ill-suited for developing powerful, autonomous systems. When technology is captured entirely by profit motives, human well-being becomes a secondary concern to growth metrics.
+We see this in the rush to deploy chatbots that still hallucinate facts, in image generators trained on copyrighted data without consent, and in algorithmic feed optimizations that prioritize engagement over mental health. These are failures of science being outflanked by the imperative of technology. The engineers are building faster than the architects can draw the blueprints.
+Realigning the Partnership
+The danger isn't that technology is evil; it's that technology unmoored from scientific rigor and ethical frameworks is reckless.
+Ideally, science and technology should work in concert. Science should provide the guardrails, the theoretical understanding, and the ethical compass. Technology should then take those insights and build tools that solve real human problems.
+In the realm of AI, we need a culturally enforced pause—a moment to let the "science" side catch its breath. We need to value the researchers asking "should we build this?" just as much as the engineers asking "can we ship this by Q3?"
+If we allow the split to widen, with technology sprinting toward profit while science limps behind, we risk building a future on a foundation we don't understand. We need to reunite the curiosity of science with the power of technology, ensuring that as we build these incredible new tools, they remain in service of humanity, not just the bottom line.

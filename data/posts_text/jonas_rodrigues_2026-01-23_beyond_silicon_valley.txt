@@ -1,0 +1,36 @@
+Beyond Silicon Valley: What the Global South Can Teach Us About AI in the Classroom
+January 23, 2026
+If you read the dominant headlines about AI in education today, the conversation usually revolves around two poles: Efficiency (personalized learning, automated grading) and Integrity (cheating, plagiarism detection). This is a distinctly Western, industrial view of education. It treats learning as a transaction: information is transferred, skills are acquired, and output is measured.
+But for the majority of the world, education is not just about information transfer—it is about formation. It is about becoming a person within a community. When we step outside the Silicon Valley bubble and look at AI through the lenses of African Ubuntu, East Asian Confucianism, and Indigenous knowledge systems, the questions change entirely.
+Here is how the rest of the world is reimagining the relationship between machines and the human mind.
+1. The African Lens: Ubuntu and Communal Intelligence
+The Philosophy: Ubuntu is often translated as "I am because we are." It posits that a person is a person through other people. Intelligence and learning are not individual properties to be hoarded, but communal assets to be shared.
+The AI Conflict: Western AI tools (like ChatGPT) are often designed for the individual user. They promote a solitary loop: Student → Screen → Answer.
+The Risk: In an Ubuntu framework, an education system that isolates the student with a machine threatens the social fabric. It optimizes for individual grades at the expense of communal cohesion.
+The Opportunity: African scholars like Sabelo Mhlambi argue for AI that fosters relationality. Instead of an AI tutor that whispers answers to a single student, imagine AI tools designed to facilitate group problem-solving, mapping community resources, or preserving local oral histories.
+Key Takeaway: We should stop asking "How can AI help this student get an A?" and start asking "How can AI help this class solve a community problem together?"
+2. The East Asian Lens: Confucianism and the Moral Teacher
+The Philosophy: In Confucian traditions, the teacher (Laoshi or Sensei) is not merely a dispenser of facts. The teacher is a moral guide who models Ren (benevolence) and Yi (righteousness). Education is the process of cultivating character.
+The AI Conflict: Can a machine be a "teacher" if it has no moral character?
+The "Digital Confucius" Limit: While AI can personalize content (delivering the right math problem at the right time), it cannot model virtue. It cannot show a student what it means to be patient, kind, or intellectually humble.
+The Trap: If we offload too much of the teaching process to AI, we risk reducing education to mere data consumption, stripping it of its "soul-making" function.
+Key Takeaway: AI can handle the competence (skills/facts), but humans must double down on the character (ethics/modeling). The teacher's role shouldn't be to "manage" the AI, but to embody the humanity the AI lacks.
+3. The Indigenous Lens: Data Sovereignty vs. Extraction
+The Philosophy: For many Indigenous peoples (from the First Nations in Canada to the Māori in New Zealand), knowledge is relational and place-based. It belongs to the land and the people; it is not a "resource" to be mined.
+The AI Conflict: Generative AI is built on "scraping"—taking data from the internet without consent.
+Digital Colonialism: When an AI model scrapes Indigenous art, languages, or stories to train a chatbot owned by a US corporation, it is viewed as a form of extraction—similar to mining land without a treaty.
+The Paradox of Participation: Indigenous communities often face a catch-22. If they don't engage with AI, their languages may digitally go extinct. If they do engage, they risk losing control over their sacred knowledge to a "black box" algorithm.
+Grassroots Solutions: The Māori Example: Te Hiku Media in New Zealand built their own speech recognition model for the Māori language. Unlike Big Tech models, they own the data, ensuring the technology serves the language, not the other way around.
+4. Synthesis: A New Global Framework
+When we weave these perspectives together, a new set of principles for AI in education emerges. We can move from a "User-Centric" model to a "Human-Centric" one.
+Goal: Individual Skill Acquisition (Western) vs. Community Well-being & Character (Global)
+Data: A resource to be mined (Western) vs. A relationship to be honored (Global)
+Teacher: Facilitator of content (Western) vs. Moral role model (Global)
+AI Role: Efficiency & Speed (Western) vs. Preservation & Connection (Global)
+Actionable Steps for Educators
+You don't need to be an expert in these philosophies to apply their wisdom. Here is how you can shift your classroom approach tomorrow:
+Audit Your Tools: Are the AI tools you use extracting data from students, or empowering them to own their work?
+Group vs. Solo: Use AI for collaborative projects. Ask students to use AI to brainstorm solutions for a local community issue (Ubuntu).
+Teach the "Missing" Layer: When AI gives an answer, ask students: "What moral perspective is this answer missing? Whose voice is not included here?"
+Conclusion
+The "Western" way is not the only way. If we let Silicon Valley dictate the roadmap for education, we risk building a future that is efficient but hollow. By listening to the Global South, we are reminded that technology should not just make us smarter—it must help us become better relations to one another.

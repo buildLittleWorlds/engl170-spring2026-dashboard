@@ -190,10 +190,25 @@ async function fetchBlog(blog) {
 async function main() {
   const configPath = path.join(__dirname, '..', 'config.json');
   const outputPath = path.join(__dirname, '..', 'data', 'posts.json');
+  const manualPostsPath = path.join(__dirname, '..', 'data', 'manual-posts.json');
 
   // Read config
   console.log('Reading config...');
   const config = JSON.parse(fs.readFileSync(configPath, 'utf8'));
+
+  // Read manual posts (for students whose blogs don't follow expected structure)
+  let manualPosts = [];
+  try {
+    if (fs.existsSync(manualPostsPath)) {
+      const manualData = JSON.parse(fs.readFileSync(manualPostsPath, 'utf8'));
+      manualPosts = manualData.posts || [];
+      if (manualPosts.length > 0) {
+        console.log(`Loaded ${manualPosts.length} manual post(s) from manual-posts.json`);
+      }
+    }
+  } catch (error) {
+    console.error('Warning: Could not read manual-posts.json:', error.message);
+  }
 
   // Filter to only active blogs (active defaults to true if not specified)
   const activeBlogs = config.blogs.filter(blog => blog.active !== false);
@@ -202,8 +217,19 @@ async function main() {
   console.log(`\nFetching ${activeBlogs.length} active blog(s) (${config.blogs.length - activeBlogs.length} inactive)...\n`);
   const results = await Promise.all(activeBlogs.map(fetchBlog));
 
-  // Aggregate all posts
-  const allPosts = results.flatMap(r => r.posts);
+  // Aggregate all posts (scraped + manual)
+  const scrapedPosts = results.flatMap(r => r.posts);
+
+  // Create a set of scraped post URLs to avoid duplicates when merging manual posts
+  const scrapedUrls = new Set(scrapedPosts.map(p => p.url));
+
+  // Add manual posts that aren't already in scraped posts (avoid duplicates)
+  const uniqueManualPosts = manualPosts.filter(p => !scrapedUrls.has(p.url));
+  if (uniqueManualPosts.length > 0) {
+    console.log(`Adding ${uniqueManualPosts.length} unique manual post(s) to output`);
+  }
+
+  const allPosts = [...scrapedPosts, ...uniqueManualPosts];
 
   // Sort by date (newest first)
   allPosts.sort((a, b) => {

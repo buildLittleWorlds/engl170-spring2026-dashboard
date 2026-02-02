@@ -1,0 +1,30 @@
+In his blog post, Dominic Debro raises concerns about AI in sports. He argues that safety algorithms and wearable monitoring could turn athletes into passive actors, overly reliant on data, and possibly weaken their autonomy and resilience. While I understand his perspective, I strongly disagree that AI reduces effort or replaces the human drive that defines athletic performance.
+What Dominic Debro Argues
+Debro worries that AI monitoring isn’t just about keeping athletes safe—it’s a form of surveillance that can extend beyond sports into workplaces and daily life. He writes:
+“…employee might be passed over ... because an AI flagged their ‘engagement levels’ as declining” and that “Safety becomes a pretext for 24/7 surveillance.”
+He suggests that overreliance on AI could weaken personal agency, potentially turning athletes and workers into data points instead of humans. According to Debro, constant monitoring creates a risk-averse culture that may discourage personal initiative and resilience.
+Why I See AI Differently
+From my perspective as an athlete, AI is a tool—one of many—rather than a replacement for effort. Structured, data-driven training has always been part of sports. Reviewing game footage, practicing plays, and following detailed training plans are essentially algorithmic approaches. AI simply expands on that, providing more precise insights without replacing the human decision-making that drives motivation, grit, and performance.
+Even before AI, athletes have relied on feedback loops. Watching game film to see positioning errors, memorizing plays, and analyzing opponents’ tendencies are all forms of algorithmic thinking. In this sense, AI is just another resource for understanding performance trends, not a new way to reduce effort.
+Athletic Trainers and Human Judgment
+Athletic trainers (ATs) are a perfect example of how human expertise and AI can coexist. They combine AI data with knowledge of the athlete’s body, mindset, and fatigue. According to the Journal of Athletic Training:
+“Athletic trainers integrate objective data with subjective clinical assessment to make safe return-to-play decisions, acknowledging that metrics alone cannot define readiness.”
+This highlights that human expertise remains essential. AI informs decisions, but humans interpret the data and act on it. Many factors—mental preparation, experience, intuition—cannot be captured by sensors or algorithms.
+AI Does Not Reduce Effort
+Some critics argue that athletes might rely on AI and work less if they are flagged as “high risk.” However, AI is merely feedback. Athletes still choose how to respond. Pushing through challenges, deciding to train harder, and testing personal limits remain entirely in human control.
+Research supports this perspective. The MDPI article “Empowering the Sports Scientist with Artificial Intelligence in Training, Performance, and Health Management” notes:
+“While AI systems can process vast amounts of data, they often struggle with the unpredictable nature of sports… Therefore, sports scientists must strike a balance between relying on AI for data-driven insights and applying their expertise to make informed decisions.”
+AI provides information, but humans interpret it and make the final call. From my personal experience, just because an AI flags me as fatigued doesn’t mean I automatically rest. I weigh the AI data alongside my own feelings, how my body reacts, and my goals for the session.
+AI as a Tool, Not a Replacement
+AI is not a replacement for effort—it’s a support system. Tools like wearables, heart rate monitors, and motion sensors give athletes and coaches insights into performance and recovery. But AI never replaces human judgment. Even if AI suggests a bench day, athletic trainers perform their own assessments and speak with the athlete before making any decisions.
+This combination of AI and human evaluation is crucial. The human element—the AT, coach, or athlete themselves—is always the ultimate decision-maker. AI informs, humans execute. The athlete’s mindset, discipline, and personal drive remain at the center of success.
+AI Can Enhance Resilience
+Debro worries AI might reduce grit, but I see the opposite. By highlighting patterns in fatigue, movement, and performance, AI allows athletes to train smarter while still pushing their limits. Understanding how your body reacts and optimizing recovery doesn’t weaken determination—it strengthens long-term performance and safety.
+Even in high-pressure sports, unpredictability remains. Athletes still make split-second decisions, face competition, and experience real-world challenges. AI does not remove these experiences; it enhances preparation. Athletes can anticipate fatigue or risk without compromising the mental toughness required to perform at a high level.
+MDPI explains further:
+“AI empowers sports scientists to enhance athlete performance and health management without replacing human intuition and experience.”
+Conclusion
+AI should be seen as a decision-support tool in sports, not a replacement for human drive or effort. While Dominic Debro raises valid concerns about surveillance and autonomy, my experience shows that AI complements human judgment, insight, and resilience.
+AI provides guidance, tracks patterns, and helps optimize training, but effort, grit, and decision-making remain in the hands of athletes and professionals. Coaches, athletic trainers, and athletes themselves combine AI data with personal experience and intuition to make informed choices.
+For me, AI insights don’t dictate my effort—they enhance it. Used responsibly, AI allows athletes to train smarter, recover faster, and perform better. Human agency and resilience remain central. In 2026 and beyond, AI should empower athletes, not replace the drive that defines their success.
+Word count: 1,222

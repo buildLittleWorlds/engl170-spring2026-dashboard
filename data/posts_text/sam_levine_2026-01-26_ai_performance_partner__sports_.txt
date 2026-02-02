@@ -1,0 +1,63 @@
+AI as a Performance Partner, Not a Replacement
+January 8, 2026
+Artificial intelligence is often framed as something that will eventually replace human effort.
+In classrooms, workplaces, and creative fields, people worry that relying on AI means losing
+essential skills or becoming less capable. After watching a video by Jeffrey Wei, founder of
+Laracasts, I came away with a very different perspective. Rather than seeing AI as a shortcut or
+a threat, Wei presents it as a partner—one that enhances human performance without removing
+purpose or meaning.
+In the video, Wei explains how AI has changed the way he works as a programmer. Tasks that once
+took hours of manual effort can now be completed faster, allowing him to focus on higher-level
+thinking and creative problem-solving. What stood out most to me was his honesty about fear and
+acceptance. Instead of resisting AI, he chose to adapt—and in doing so, he rediscovered enjoyment
+in his work.
+“I’m no longer trying to prove that I can do everything myself. I’m focused on what I can
+build when I work with AI instead of against it.”
+— Jeffrey Wei, Laracasts (YouTube)
+This quote captures the core idea of the video: AI does not eliminate human skill; it shifts where
+that skill is applied. Wei still reviews code, makes decisions, and understands the systems he is
+building. AI handles repetitive or time-consuming steps, but the responsibility and creativity
+remain human.
+AI and Performance: A Sports Mindset
+As an athlete, this way of thinking feels familiar. Training tools, coaches, and technology
+have always existed to support performance. None of them replace the athlete. A strength coach
+cannot lift the weight for you, and a playbook cannot execute itself on the field. These tools
+exist to guide, refine, and enhance human effort.
+AI fits naturally into this framework. It is less like an opponent and more like a training
+partner—something that helps you improve faster, notice patterns, and recover energy so you can
+focus on execution. The work still requires discipline, judgment, and resilience. AI simply
+removes unnecessary friction.
+What Experts Say About AI and Human Judgment
+This idea of AI as a collaborator rather than a replacement is supported by experts studying how
+people actually use these tools. Ethan Mollick, a professor at the Wharton School who researches
+AI and work, argues that AI is most powerful when it amplifies human capability instead of
+replacing it.
+“The real promise of AI isn’t automation—it’s augmentation. The biggest gains come when
+humans stay in the loop and use AI as a partner.”
+— Ethan Mollick, Wharton School of Business
+This aligns closely with Wei’s experience. Both emphasize that humans remain responsible for
+judgment, creativity, and ethical decision-making. AI can suggest, generate, and accelerate, but
+it does not decide what matters. That role stays with people.
+Why the Human Element Still Matters
+One of the biggest fears surrounding AI is that it will make people lazy or less skilled. But
+that assumes people stop engaging critically with the tools they use. In reality, using AI well
+requires clarity, communication, and evaluation. You have to know what to ask, what to accept,
+and what to reject.
+In sports, performance often comes down to moments of pressure—split-second decisions that no
+system can fully predict. In work and learning, the same is true. AI can provide options, but
+humans choose direction. That choice is where growth happens.
+Another important point is that AI can also improve performance by allowing people to learn faster.
+When AI reduces repetitive tasks, it gives students and athletes more time to practice the skills
+that actually matter. For example, instead of spending hours on a single coding bug or studying
+one repetitive topic, AI can help summarize and organize information so the person can spend more
+time on higher-level thinking. In the same way, athletes can use AI to analyze training data and
+find patterns in their performance, then focus on improving specific weaknesses rather than wasting
+energy on guesswork.
+Conclusion: Choosing Partnership Over Fear
+Watching Jeffrey Wei’s video helped reframe how I think about AI. Instead of viewing it as a
+shortcut or a threat, I see it as a partner that can push me to perform at a higher level. Whether
+in programming, athletics, or everyday problem-solving, AI works best when it supports—not
+replaces—human effort.
+The future is not about humans competing against machines. It is about learning how to work
+alongside them. Like any good teammate or coach, AI is most effective when humans remain engaged,
+intentional, and in control of the final outcome.

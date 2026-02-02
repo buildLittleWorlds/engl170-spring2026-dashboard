@@ -1,0 +1,7 @@
+Reading the Tape: Mastering Tendencies on Kalshi and Polymarket
+January 26, 2026
+One of the most common questions I get is about the "exit strategy." In prediction markets, it’s easy to find an event you’re interested in, but it’s much harder to know when the market is trending in your favor versus when you’re being lured into a "bull trap."
+Identifying "The Drift"
+Unlike the stock market, prediction markets have a "terminal value." This creates unique price tendencies. For instance, the "No" Bias often sees contracts naturally drift toward $1.00 as a deadline approaches without news.
+"In prediction markets, pigs get fat, hogs get slaughtered. Taking profit is never a mistake."
+I’ve been following how others in the course network analyze these trends. For example, in his recent post, Zay Amaro argues that markets often ignore the human element[cite: 19, 308].

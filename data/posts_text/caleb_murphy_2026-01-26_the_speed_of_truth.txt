@@ -1,0 +1,15 @@
+Reading the Tape: Mastering Tendencies on Kalshi and Polymarket
+January 26, 2026
+One of the most common questions I get is about the "exit strategy." In prediction markets, it’s easy to find an event you’re interested in, but it’s much harder to know when the market is trending in your favor versus when you’re being lured into a "bull trap."
+Whether you are trading Fed rate cuts on Kalshi or election outcomes on Polymarket, success comes down to two things: identifying the market tendency and knowing your exit triggers.
+1. Identifying "The Drift" (Market Tendencies)
+Unlike the stock market, prediction markets have a "terminal value" (the contract eventually settles at $0 or $1). This creates unique price tendencies.
+The "No" Bias (Time Decay): On Kalshi, many traders have a natural tendency to bet "No" on unlikely events. As the deadline approaches without a major news catalyst, the "No" side will naturally "drift" upward toward $1.00. Professional traders often "pull out" at $0.90+ to recycle capital into higher-margin plays.
+The "Social Media Echo": On Polymarket, prices are often driven by Twitter/X sentiment. You will see "Vertical Spikes" where a single viral tweet causes a contract to jump. These spikes are almost always overreactions and signals to take partial profits.
+2. When to Stay In (The "Conviction" Hold)
+The Math beats the Price: If you believe there is an 80% chance of an event happening, but the market is trading at $0.65, stay in until the market catches up to your math.
+Volume is Thin: If the price drops on low volume, it’s likely just one small trader exiting. Don't let it scare you out of a good position.
+3. When to Pull Out (The "Emergency" Exit)
+The hardest part of trading is cutting the cord. You must pull out if the thesis breaks. If you bet on a rate hike and a banking crisis emerges, your reason for the bet is gone. Sell immediately.
+"In prediction markets, pigs get fat, hogs get slaughtered. Taking profit is never a mistake."
+For more insights on how these markets are evolving, check out the ENGL 170 Blog Network Dashboard to see how other students are tracking AI and market trends[cite: 313].

@@ -1,13 +1,59 @@
 {
-  "lastUpdated": "2026-01-23T12:30:02.379Z",
+  "lastUpdated": "2026-02-02T11:12:08.422Z",
   "students": {
     "Olivia Andresen": {
       "url": "https://olliebear2006ya-dotcom.github.io/Olivias-Disney-Blog",
-      "posts": []
+      "posts": [
+        {
+          "date": "2026-02-01",
+          "title": "The Heroism of \"Enough\": Why Surrender is the New Magic",
+          "file": "olivia_andresen_2026-02-01_the_heroism_of__enough___why_surrender_is_the_new_.txt"
+        },
+        {
+          "date": "2026-01-28",
+          "title": "The Happily Ever After Project",
+          "file": "olivia_andresen_2026-01-28_the_happily_ever_after_project.txt"
+        },
+        {
+          "date": "2026-01-25",
+          "title": "Comment on Mastermind in the Machine",
+          "file": "olivia_andresen_2026-01-25_comment_on_mastermind_in_the_machine.txt"
+        },
+        {
+          "date": "2026-01-23",
+          "title": "From Magic Wands to Microchips",
+          "file": "olivia_andresen_2026-01-23_from_magic_wands_to_microchips.txt"
+        },
+        {
+          "date": "2026-01-21",
+          "title": "The Cost of a Soul",
+          "file": "olivia_andresen_2026-01-21_the_cost_of_a_soul.txt"
+        },
+        {
+          "date": "2026-01-15",
+          "title": "The Sorcerer's Tool",
+          "file": "olivia_andresen_2026-01-15_the_sorcerer_s_tool.txt"
+        },
+        {
+          "date": "2026-01-13",
+          "title": "The Higher Thinking Post",
+          "file": "olivia_andresen_2026-01-13_the_higher_thinking_post.txt"
+        }
+      ]
     },
     "Gabriel Bell": {
       "url": "https://gabriel-bell.github.io",
       "posts": [
+        {
+          "date": "2026-01-25",
+          "title": "The Silicon Mirage: Why AI Abundance May Be Our Newest Form of Scarcity",
+          "file": "gabriel_bell_2026-01-25_the_silicon_mirage__why_ai_abundance_may_be_our_ne.txt"
+        },
+        {
+          "date": "2026-01-24",
+          "title": "The Ghost in the Machine: Why Sports Need the Romantic, Not Just the Rational",
+          "file": "gabriel_bell_2026-01-24_the_ghost_in_the_machine__why_sports_need_the_roma.txt"
+        },
         {
           "date": "2026-01-23",
           "title": "The Price of Everything and the Value of Nothing: Challenging the Monetary Monopoly",
@@ -28,6 +74,31 @@
     "Jacob Brunts": {
       "url": "https://jrbrunts.github.io",
       "posts": [
+        {
+          "date": "2026-02-04",
+          "title": "The Infinite Therapist: Democratizing the Mind",
+          "file": "jacob_brunts_2026-02-04_the_infinite_therapist__democratizing_the_mind.txt"
+        },
+        {
+          "date": "2026-02-02",
+          "title": "The Lazarus Protocol: Beyond Injury Prevention",
+          "file": "jacob_brunts_2026-02-02_the_lazarus_protocol__beyond_injury_prevention.txt"
+        },
+        {
+          "date": "2026-01-30",
+          "title": "The White Flag: Accepting the Efficiency Engine",
+          "file": "jacob_brunts_2026-01-30_the_white_flag__accepting_the_efficiency_engine.txt"
+        },
+        {
+          "date": "2026-01-27",
+          "title": "The Quantified Athlete: How AI is Breaking the Human Limit",
+          "file": "jacob_brunts_2026-01-27_the_quantified_athlete__how_ai_is_breaking_the_hum.txt"
+        },
+        {
+          "date": "2026-01-24",
+          "title": "Quiet the Noise: When AI Rewrites Our Biology",
+          "file": "jacob_brunts_2026-01-24_quiet_the_noise__when_ai_rewrites_our_biology.txt"
+        },
         {
           "date": "2026-01-18",
           "title": "The Friction of Fluency: Why \"Easy\" AI is a Myth",
@@ -64,6 +135,21 @@
       "url": "https://jinxxywrites.github.io/Psyched-for-Psychology",
       "posts": [
         {
+          "date": "2026-01-30",
+          "title": "Moral Agency and the Machine: Why AI Companies are Failing the History of Care",
+          "file": "jinx_hixson_2026-01-30_moral_agency_and_the_machine__why_ai_companies_are.txt"
+        },
+        {
+          "date": "2026-01-28",
+          "title": "AI and the End of Human-Led Therapy",
+          "file": "jinx_hixson_2026-01-28_ai_and_the_end_of_human_led_therapy.txt"
+        },
+        {
+          "date": "2026-01-26",
+          "title": "The Internal Loop: Treating \"Pure O\" with a \"Low-Ceiling Lifestyle\"",
+          "file": "jinx_hixson_2026-01-26_the_internal_loop__treating__pure_o__with_a__low_c.txt"
+        },
+        {
           "date": "2026-01-21",
           "title": "Digital Age Compulsions: AI, OCD, and the \"Dopamine Ceiling\"",
           "file": "jinx_hixson_2026-01-21_digital_age_compulsions__ai__ocd__and_the__dopamin.txt"
@@ -93,6 +179,26 @@
     "Sam Levine": {
       "url": "https://samlevine277.github.io",
       "posts": [
+        {
+          "date": "2026-02-01",
+          "title": "AI-Sports Response (Sports)",
+          "file": "sam_levine_2026-02-01_ai_sports_response__sports_.txt"
+        },
+        {
+          "date": "2026-01-29",
+          "title": "AI-Injury Prevention (Sports)",
+          "file": "sam_levine_2026-01-29_ai_injury_prevention__sports_.txt"
+        },
+        {
+          "date": "2026-01-26",
+          "title": "AI-Performance Partner (Sports)",
+          "file": "sam_levine_2026-01-26_ai_performance_partner__sports_.txt"
+        },
+        {
+          "date": "2026-01-25",
+          "title": "AI vs Humans (Sports)",
+          "file": "sam_levine_2026-01-25_ai_vs_humans__sports_.txt"
+        },
         {
           "date": "2026-01-21",
           "title": "AI autonomy",
@@ -129,6 +235,26 @@
       "url": "https://eliananodari.github.io",
       "posts": [
         {
+          "date": "2026-01-30",
+          "title": "The Pulse of the Machine: Balancing Human Creativity and Artificial Intelligence",
+          "file": "eliana_nodari_2026-01-30_the_pulse_of_the_machine__balancing_human_creativi.txt"
+        },
+        {
+          "date": "2026-01-28",
+          "title": "Coding Our Future",
+          "file": "eliana_nodari_2026-01-28_coding_our_future.txt"
+        },
+        {
+          "date": "2026-01-26",
+          "title": "The Evolution of the Architect: Professional Adaptation in the Age of Agentic AI",
+          "file": "eliana_nodari_2026-01-26_the_evolution_of_the_architect__professional_adapt.txt"
+        },
+        {
+          "date": "2026-01-23",
+          "title": "The Worth of Expression",
+          "file": "eliana_nodari_2026-01-23_the_worth_of_expression.txt"
+        },
+        {
           "date": "2026-01-21",
           "title": "The Dopamine Ceiling and the Loud Lie Economy",
           "file": "eliana_nodari_2026-01-21_the_dopamine_ceiling_and_the_loud_lie_economy.txt"
@@ -153,6 +279,31 @@
     "Jonas Rodrigues": {
       "url": "https://qubitn.github.io",
       "posts": [
+        {
+          "date": "2026-01-29",
+          "title": "Mastermind In The Machine",
+          "file": "jonas_rodrigues_2026-01-29_mastermind_in_the_machine.txt"
+        },
+        {
+          "date": "2026-01-29",
+          "title": "AI In Civil Engineering",
+          "file": "jonas_rodrigues_2026-01-29_ai_in_civil_engineering.txt"
+        },
+        {
+          "date": "2026-01-29",
+          "title": "The Great Divergence",
+          "file": "jonas_rodrigues_2026-01-29_the_great_divergence.txt"
+        },
+        {
+          "date": "2026-01-23",
+          "title": "Beyond Silicon Valley",
+          "file": "jonas_rodrigues_2026-01-23_beyond_silicon_valley.txt"
+        },
+        {
+          "date": "2026-01-23",
+          "title": "The Double-Edged Sword",
+          "file": "jonas_rodrigues_2026-01-23_the_double_edged_sword.txt"
+        },
         {
           "date": "2026-01-18",
           "title": "How Artificial Intelligence is Resurrecting Ancient Rome",
@@ -201,11 +352,57 @@
     },
     "Tom Bishop": {
       "url": "https://tombishop4.github.io",
-      "posts": []
+      "posts": [
+        {
+          "date": "2026-01-26",
+          "title": "Reading the Tape: Response to Caleb Murphy",
+          "file": "tom_bishop_2026-01-26_reading_the_tape__response_to_caleb_murphy.txt"
+        },
+        {
+          "date": "2026-01-25",
+          "title": "The Ghost in the Machine",
+          "file": "tom_bishop_2026-01-25_the_ghost_in_the_machine.txt"
+        },
+        {
+          "date": "2026-01-25",
+          "title": "The Sovereign Writer vs. The Institutional Student",
+          "file": "tom_bishop_2026-01-25_the_sovereign_writer_vs__the_institutional_student.txt"
+        },
+        {
+          "date": "2026-01-25",
+          "title": "The Feedback Loop: When Efficiency Becomes Maladaptive",
+          "file": "tom_bishop_2026-01-25_the_feedback_loop__when_efficiency_becomes_maladap.txt"
+        },
+        {
+          "date": "2026-01-23",
+          "title": "How Artificial Intelligence Is Improving Boxing",
+          "file": "tom_bishop_2026-01-23_how_artificial_intelligence_is_improving_boxing.txt"
+        }
+      ]
     },
     "Dominic Debro": {
       "url": "https://dominicdebro.github.io",
       "posts": [
+        {
+          "date": "2026-02-01",
+          "title": "The Employment Trap: Rethinking Productivity in the Age of AI",
+          "file": "dominic_debro_2026-02-01_the_employment_trap__rethinking_productivity_in_th.txt"
+        },
+        {
+          "date": "2026-02-01",
+          "title": "From Architect to Visionary: Finding Human Purpose in a World of Autonomous Code",
+          "file": "dominic_debro_2026-02-01_from_architect_to_visionary__finding_human_purpose.txt"
+        },
+        {
+          "date": "2026-02-01",
+          "title": "The Sentinel in the Locker Room (and the Living Room): When Safety Becomes Surveillance",
+          "file": "dominic_debro_2026-02-01_the_sentinel_in_the_locker_room__and_the_living_ro.txt"
+        },
+        {
+          "date": "2026-01-25",
+          "title": "The Silicon Equalizer: Can AI Solve the Coordination Problem?",
+          "file": "dominic_debro_2026-01-25_the_silicon_equalizer__can_ai_solve_the_coordinati.txt"
+        },
         {
           "date": "2026-01-21",
           "title": "Beyond the Screen: Cultivating a \"Low-Ceiling\" Lifestyle",
@@ -242,6 +439,11 @@
       "url": "https://braydenwilson22.github.io",
       "posts": [
         {
+          "date": "2026-02-01",
+          "title": "The \"Glass Athlete\" Fallacy",
+          "file": "brayden_wilson_2026-02-01_the__glass_athlete__fallacy.txt"
+        },
+        {
           "date": "2026-01-18",
           "title": "Blood on the Ice: The St. Louis Blues and Chicago Blackhawks Rivalry",
           "file": "brayden_wilson_2026-01-18_blood_on_the_ice__the_st__louis_blues_and_chicago_.txt"
@@ -250,11 +452,67 @@
     },
     "Isabella Calmet": {
       "url": "https://bellacalmetjanssen-cell.github.io/isabella-calmet-.github.io",
-      "posts": []
+      "posts": [
+        {
+          "date": "2026-02-02",
+          "title": "The 50/50 Rule: Balancing Human Agency and AI Safety in Modern Athletics",
+          "file": "isabella_calmet_2026-02-02_the_50_50_rule__balancing_human_agency_and_ai_safe.txt"
+        },
+        {
+          "date": "2026-02-01",
+          "title": "The Genetic Continuum: From Ancient Corn to the CRISPR Revolution",
+          "file": "isabella_calmet_2026-02-01_the_genetic_continuum__from_ancient_corn_to_the_cr.txt"
+        },
+        {
+          "date": "2026-02-01",
+          "title": "The Infallible Diagnostician: How AI is Outperforming the Human Element in Medicine",
+          "file": "isabella_calmet_2026-02-01_the_infallible_diagnostician__how_ai_is_outperform.txt"
+        },
+        {
+          "date": "2026-01-26",
+          "title": "The Digital Pulse and the Human Heart: Why AI Needs Us as Much as We Need It",
+          "file": "isabella_calmet_2026-01-26_the_digital_pulse_and_the_human_heart__why_ai_need.txt"
+        },
+        {
+          "date": "2026-01-26",
+          "title": "Beyond the Laboratory: The Millennial History of Genetic Modification",
+          "file": "isabella_calmet_2026-01-26_beyond_the_laboratory__the_millennial_history_of_g.txt"
+        },
+        {
+          "date": "2026-01-26",
+          "title": "The Tomorrow Code: Between Genetic Healing and the Dilemma of \"Designer\" Humans",
+          "file": "isabella_calmet_2026-01-26_the_tomorrow_code__between_genetic_healing_and_the.txt"
+        },
+        {
+          "date": "2026-01-26",
+          "title": "Responding to \"The Price of Everything\": How Market Value Reflects Collective Desire",
+          "file": "isabella_calmet_2026-01-26_responding_to__the_price_of_everything___how_marke.txt"
+        },
+        {
+          "date": "2026-01-26",
+          "title": "Responding to \"The Romanticized Ceiling\": Why Data Still Needs Human Judgment",
+          "file": "isabella_calmet_2026-01-26_responding_to__the_romanticized_ceiling___why_data.txt"
+        }
+      ]
     },
     "Kevion Milton": {
       "url": "https://kevionmilton.github.io",
       "posts": [
+        {
+          "date": "2026-01-26",
+          "title": "The \"You-First\" Era: From Mass Media to Personalized Reality",
+          "file": "kevion_milton_2026-01-26_the__you_first__era__from_mass_media_to_personaliz.txt"
+        },
+        {
+          "date": "2026-01-23",
+          "title": "The Genetic Playbook: Is Precision Nutrition the Final Frontier?",
+          "file": "kevion_milton_2026-01-23_the_genetic_playbook__is_precision_nutrition_the_f.txt"
+        },
+        {
+          "date": "2026-01-21",
+          "title": "The 2026 Sports Convergence: 3D Avatars, Aero-Engineering, and the Agentic Scout",
+          "file": "kevion_milton_2026-01-21_the_2026_sports_convergence__3d_avatars__aero_engi.txt"
+        },
         {
           "date": "2026-01-18",
           "title": "The Digital Whistle: How AI is Changing Basketball Officiating",
@@ -271,9 +529,99 @@
       "url": "",
       "posts": [
         {
+          "date": "2026-02-01",
+          "title": "The Lazarus Effect: Can We Delete the Consequences of Randomness?",
+          "file": "zay_amaro_2026-02-01_the_lazarus_effect__can_we_delete_the_consequences.txt"
+        },
+        {
+          "date": "2026-01-29",
+          "title": "The Safety Algorithm: Risk, Reward, and the AI Guardrail",
+          "file": "zay_amaro_2026-01-29_the_safety_algorithm__risk__reward__and_the_ai_gua.txt"
+        },
+        {
+          "date": "2026-01-27",
+          "title": "Hacking the Limit: Can AI Remove the 'Random' from the Athlete?",
+          "file": "zay_amaro_2026-01-27_hacking_the_limit__can_ai_remove_the__random__from.txt"
+        },
+        {
+          "date": "2026-01-26",
+          "title": "Markets, Metrics, and the Myth of Certainty",
+          "file": "zay_amaro_2026-01-26_markets__metrics__and_the_myth_of_certainty.txt"
+        },
+        {
+          "date": "2026-01-25",
+          "title": "The Cost of Relevancy: Why We Still Need the Human Element in Sports",
+          "file": "zay_amaro_2026-01-25_the_cost_of_relevancy__why_we_still_need_the_human.txt"
+        },
+        {
+          "date": "2026-01-24",
+          "title": "The Squared Circle and the Gridiron: Can AI Predict the Knockout?",
+          "file": "zay_amaro_2026-01-24_the_squared_circle_and_the_gridiron__can_ai_predic.txt"
+        },
+        {
           "date": "2026-01-23",
           "title": "The Stats Illusion: Why NFL Predictions Feel True",
           "file": "zay_amaro_2026-01-23_the_stats_illusion__why_nfl_predictions_feel_true.txt"
+        },
+        {
+          "date": "2026-01-21",
+          "title": "Lifting Gear and AI: Tools vs. Crutches",
+          "file": "zay_amaro_2026-01-21_lifting_gear_and_ai__tools_vs__crutches.txt"
+        }
+      ]
+    },
+    "Caleb Murphy": {
+      "url": "",
+      "posts": [
+        {
+          "date": "2026-01-31",
+          "title": "The End of Line-by-Line: A Reply to Jeffrey Way",
+          "file": "caleb_murphy_2026-01-31_the_end_of_line_by_line__a_reply_to_jeffrey_way.txt"
+        },
+        {
+          "date": "2026-01-30",
+          "title": "The Human Variable in Boxing: A Reply to Tom",
+          "file": "caleb_murphy_2026-01-30_the_human_variable_in_boxing__a_reply_to_tom.txt"
+        },
+        {
+          "date": "2026-01-30",
+          "title": "The Human Element in Prediction Markets",
+          "file": "caleb_murphy_2026-01-30_the_human_element_in_prediction_markets.txt"
+        },
+        {
+          "date": "2026-01-30",
+          "title": "Trading Strategies and Market Logic",
+          "file": "caleb_murphy_2026-01-30_trading_strategies_and_market_logic.txt"
+        },
+        {
+          "date": "2026-01-29",
+          "title": "The Ghost in the Dashboard: A Reply to Zay",
+          "file": "caleb_murphy_2026-01-29_the_ghost_in_the_dashboard__a_reply_to_zay.txt"
+        },
+        {
+          "date": "2026-01-26",
+          "title": "Markets and Metrics",
+          "file": "caleb_murphy_2026-01-26_markets_and_metrics.txt"
+        },
+        {
+          "date": "2026-01-26",
+          "title": "The Speed of Truth",
+          "file": "caleb_murphy_2026-01-26_the_speed_of_truth.txt"
+        },
+        {
+          "date": "2026-01-21",
+          "title": "The Gambler’s Pivot",
+          "file": "caleb_murphy_2026-01-21_the_gambler_s_pivot.txt"
+        }
+      ]
+    },
+    "Jaden Walker": {
+      "url": "",
+      "posts": [
+        {
+          "date": "2026-01-28",
+          "title": "What is Happening to OpenAI?",
+          "file": "jaden_walker_2026-01-28_what_is_happening_to_openai_.txt"
         }
       ]
     }

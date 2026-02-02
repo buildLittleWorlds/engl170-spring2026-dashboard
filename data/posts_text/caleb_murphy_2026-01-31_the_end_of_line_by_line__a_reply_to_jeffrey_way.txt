@@ -1,0 +1,7 @@
+The End of Line-by-Line: A Reply to Jeffrey Way
+January 31, 2026
+In a recent and vulnerable video titled "I'm Done," Jeffrey Way of Laracasts reflects on the devastating and exhilarating realities of AI in the software industry. He admits that while AI has forced excruciating 40% staff cuts at his company, it has also made him more productive and energized than ever before. Way’s transition from "sad that things have changed" to "done with the lamenting" offers a perfect case study for the "Ghost in the Dashboard" concept I’ve been exploring.
+The "10% Void" is the Ghost.
+Algorithms and markets are built on fluency—they want the world to be smooth, logical, and binary. But as Way discovers, the human element—the "developer-driven AI"—is what prevents the dashboard from becoming a pile of "junk" code.
+Way describes a shift from writing every "if statement" by hand to acting as a high-level architect. He notes that while an agent can execute a feature in 20 minutes, he still spends hours reviewing every line to ensure it isn't over-complicated or "junk". This is the human variable in action. Much like the Safety Algorithm discussion on Zay's blog, we see that precision tools are hollow without the "random" human intuition that questions the conventional path[cite: 363].
+Jeffrey Way’s conclusion is clear: we have to adapt because this isn't a trend; it's the next iteration of problem-solving. The dashboard has changed, but the ghost—the human behind the machine—is still the only thing keeping the system from collapsing into entropy.

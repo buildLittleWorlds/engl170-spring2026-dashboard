@@ -1,0 +1,16 @@
+The Sorcerer and the Architecture: Thinking at a Higher Level
+Posted on January 18, 2026
+The blog post "Thinking at a Higher Level" presents a compelling argument: as tools (like AI) automate the "low-level" craft—the individual sentences or lines of code—the true cognitive work moves up a level to architecture, intent, and judgment.
+To connect this to Disney, we can look at three specific areas where Disney has historically pioneered this exact "leveling up" of thinking.
+1. The "Multiplane Camera" as High-Level Architecture
+In the early days of animation, an animator's "sentence" was the individual, flat celluloid drawing. The "Thinking at a Higher Level" post argues that we shouldn't confuse the labor of the line with the thinking of the project.
+Walt Disney realized this when he developed the Multiplane Camera. Before this, animators struggled to create a sense of depth by manually drawing background elements shrinking—a low-level, laborious task. The Multiplane Camera automated that perspective by moving physical layers of glass. This allowed the "thinking" to move from how do I draw a shrinking tree? to how do I compose a three-dimensional world? Disney moved the creative focus from the stroke of the brush to the cinematic architecture of the scene.
+2. Imagineering and "Vibe Building"
+The blog post discusses Steve Yegge’s "vibe coding"—the idea that you use AI to generate the bulk of the work and then use your expertise to judge if the "vibe" is right.
+This is the core philosophy of Disney Imagineering. Imagineers don’t just build rides; they build "places." When they designed Star Wars: Galaxy’s Edge, they didn’t just hand-sculpt every bolt. They used advanced procedural tools and industrial automation.
+"The questions are where the thinking lives."
+The "thinking" was higher than ever: Does the "vibe" feel like a lived-in, war-torn outpost? Does the soundscape align with the visual rust? Imagineers focus on the "What if?" and "Yes, if..." (the high-level intent) while letting technology handle the "How."
+3. The "Sorcerer’s Apprentice" Warning
+The blog post references Ted Chiang’s fear that AI allows people to avoid the mental exertion necessary for growth. Disney gave us the perfect metaphor for this in Fantasia with The Sorcerer's Apprentice.
+Mickey Mouse is the ultimate "low-level" thinker. He wants the result (the water moved) without the struggle (carrying the buckets). He uses a "shortcut"—a magic spell (the AI)—to automate the labor. But because Mickey hasn't put in the "2,000 hours" of expertise that the blog post mentions, he cannot predict or evaluate the output. The brooms multiply into a disaster.
+The blog’s conclusion mirrors the lesson of the Sorcerer: The magic (AI) isn't the problem; the problem is when the user fails to "level up" their thinking to become the master of the system rather than just a victim of its automation.

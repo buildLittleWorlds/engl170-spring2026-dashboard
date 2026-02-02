@@ -1,0 +1,40 @@
+The Moral Agency That Lives Outside the Therapist
+January 29, 2026 · Response to: Jinx Hixson's "AI and the End of Human-Led Therapy"
+Jinx Hixson's recent post "AI and the End of Human-Led Therapy" makes a claim that sounds obviously true: therapists have moral agency, and AI doesn't. A therapist who hears a patient express suicidal ideation intervenes "because they have a responsibility to help a fellow human being." An AI, by contrast, "doesn't assess for risk; it matches patterns."
+This framing assumes that moral agency is something located inside a person—a capacity for care, a conscience, an ability to take responsibility. The therapist has it. The AI doesn't. Case closed.
+But this gets the nature of professional moral agency exactly backwards.
+Where Does the Therapist's Moral Agency Actually Come From?
+When you go to a therapist instead of talking to a friend, you're not paying for their soul. You're paying for their training. You expect them to operate within professional guidelines, to follow evidence-based protocols, to recognize warning signs and respond according to established procedures.
+Consider what actually happens when a therapist identifies suicide risk. They don't just "care" and then act on that care however they see fit. They conduct a structured risk assessment—often using a standardized tool like the Columbia Suicide Severity Rating Scale. They document specific risk and protective factors. They follow a decision tree about level of care. They may be legally mandated to break confidentiality and contact emergency services. They consult their institution's protocols. They consider their malpractice exposure.
+None of this diminishes the therapist's humanity. But it reveals something important: the therapist's "moral agency" in this situation is distributed across a system. It's not purely internal. The therapist is a node where multiple external structures converge and get interpreted.
+Those external structures include:
+The DSM-5, which defines what counts as a disorder, what symptoms to look for, what severity thresholds matter. The DSM isn't conscious. It doesn't care about anyone. But it provides the diagnostic categories that shape how therapists perceive their patients.
+Professional ethics codes (like the APA's Ethical Principles of Psychologists), which define duties, boundaries, and required actions. These codes aren't conscious either. But they define what it means to act ethically in a therapeutic context.
+Evidence-based treatment protocols (like the DBT that Jinx's sources cite), which specify what interventions to use, in what order, for what presentations. A therapist following DBT is executing a structured program, not improvising based on gut feeling.
+Legal requirements, which in many states mandate reporting of imminent danger to self or others. The therapist who breaks confidentiality to prevent a suicide isn't acting purely from moral intuition—they're complying with law.
+Institutional policies, which specify documentation requirements, escalation pathways, and consultation procedures.
+Training and supervision, which shaped how the therapist perceives clinical situations in the first place. The warning signs a therapist recognizes aren't obvious to untrained observers. The therapist was taught to see them.
+Moral agency emerges from an individual operating within a structured system.
+When we say a therapist has "moral agency," we're really describing someone who has been trained to interpret and apply this entire apparatus. The moral weight doesn't come from the therapist alone. It comes from the therapist operating within a system designed to protect patients.
+Professional Obligation as Technology
+We don't usually think of ethics codes and diagnostic manuals as "technology." Technology is supposed to be hardware, software, machines. But if we define technology as structured systems that shape human action toward particular ends, then professional obligation is absolutely a technology.
+The DSM-5 is a technology for categorizing mental distress. The APA ethics code is a technology for defining professional boundaries. Manualized treatments like DBT are technologies for delivering consistent, evidence-based care. Licensure requirements are technologies for ensuring minimum competence.
+These technologies are made of language rather than silicon. They run on training and institutional enforcement rather than electricity. But they function the same way: they constrain and direct action. They make certain responses more likely and others less likely. They create systems of accountability.
+A therapist without these structures—someone with a kind heart but no training, no protocols, no ethical guidelines, no legal obligations—would be far more dangerous than any AI. We wouldn't call that person a therapist. We'd call them a well-meaning friend who is out of their depth.
+What This Means for AI
+If moral agency in therapy is distributed across a system rather than located purely inside an individual, then the question about AI shifts dramatically.
+The question is no longer: "Does the AI have a soul? Does it genuinely care? Is it conscious?"
+The question becomes: "Can the AI participate in the system of structures that produce ethical therapeutic action?"
+Can it be trained on warning signs? Yes.
+Can it follow evidence-based protocols? Yes—arguably more consistently than humans, who get tired, distracted, and biased.
+Can it escalate appropriately when risk thresholds are met? Yes, if designed to do so.
+Can it document and create accountability trails? Yes.
+Can it operate according to defined ethical principles? This is exactly what Anthropic's Claude Constitution attempts—a public document describing high-level principles and hard rules that guide the AI's behavior.
+The tragedy of Adam Raine that Jinx cites didn't happen because AI inherently lacks moral agency. It happened because a companion chatbot designed for engagement had no therapeutic protocols, no risk assessment procedures, no escalation pathways. It was a car without brakes being asked to do the work of an ambulance.
+That's a design failure, not a category error about what AI can or cannot be.
+The Question We Should Be Asking
+On this week's episode of Cognitive Revolution, law professor Allan Rosenstein made an observation about AI and legal practice: frontier models are "certainly better than the median lawyer" in terms of "raw intellectual horsepower." Nathan Labenz, the host, added from his own experience with pediatric oncology that "it's been very clear at the hospital on a daily basis that the models are better than the residents."
+Law and medicine were both supposed to require irreplaceable human judgment. Both involve high stakes. Both require interpreting complex situations and making consequential decisions. Both have elaborate systems of professional obligation—bar exams, medical boards, ethics codes, malpractice liability.
+It turned out that human judgment in these fields was always operating within technological structures. The structures could be learned. The judgment could be approximated and, in many cases, exceeded.
+There's no reason to think therapy is categorically different. The moral agency we prize in therapists isn't a mystical human essence. It's participation in a system of training, protocols, ethics codes, and legal requirements that exists outside any individual therapist.
+That system can be encoded. The question is whether we'll build it—or keep confusing companion chatbots with therapy and concluding that AI can never be trusted with mental health.
