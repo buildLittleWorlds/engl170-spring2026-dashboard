@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-02-02T16:40:14.035Z",
+  "lastUpdated": "2026-02-02T17:00:50.933Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 127,
+  "totalPosts": 130,
   "totalBlogs": 19,
   "blogsWithErrors": [],
   "posts": [
@@ -25,6 +25,24 @@
       "blogUrl": "https://jrbrunts.github.io"
     },
     {
+      "title": "The Rhetoric of Radiance: How CeraVe Shapes Our Choices",
+      "url": "https://emanigerdine7-ops.github.io/rhetoric-of-radiance.html",
+      "date": "February 2, 2026",
+      "dateISO": "2026-02-02",
+      "author": "Emani Gerdine",
+      "authorRole": "student",
+      "blogUrl": "https://emanigerdine7-ops.github.io"
+    },
+    {
+      "title": "The Recovery Room: Where Agency Meets Anatomy",
+      "url": "https://emanigerdine7-ops.github.io/recovery-room.html",
+      "date": "February 2, 2026",
+      "dateISO": "2026-02-02",
+      "author": "Emani Gerdine",
+      "authorRole": "student",
+      "blogUrl": "https://emanigerdine7-ops.github.io"
+    },
+    {
       "title": "Hollow Presence: The Parasocial Trap of AI Therapy",
       "url": "https://jinxxywrites.github.io/Psyched-for-Psychology/parasocial-ai-therapy.html",
       "date": "February 2, 2026",
@@ -41,6 +59,15 @@
       "author": "Sam Levine",
       "authorRole": "student",
       "blogUrl": "https://samlevine277.github.io"
+    },
+    {
+      "title": "The Digital Heartbeat: Navigating the Symbiosis of Human Intuition and AI",
+      "url": "https://eliananodari.github.io/digital-heartbeat.html",
+      "date": "February 2, 2026",
+      "dateISO": "2026-02-02",
+      "author": "Eliana Nodari",
+      "authorRole": "student",
+      "blogUrl": "https://eliananodari.github.io"
     },
     {
       "title": "Post AI Development",
@@ -294,16 +321,6 @@
       "author": "Eliana Nodari",
       "authorRole": "student",
       "blogUrl": "https://eliananodari.github.io"
-    },
-    {
-      "title": "What is Happening to OpenAI?",
-      "url": "https://jake3143.github.io/jake3143/what-is-happening-to-openai.html",
-      "date": "January 28, 2026",
-      "dateISO": "2026-01-28",
-      "author": "Jaden Walker",
-      "authorRole": "student",
-      "blogUrl": "https://jake3143.github.io/jake3143",
-      "source": "manual"
     },
     {
       "title": "The Happily Ever After Project",
@@ -608,6 +625,15 @@
       "blogUrl": "https://gabriel-bell.github.io"
     },
     {
+      "title": "The Agency Paradox: When AI Starts Acting for Itself",
+      "url": "https://emanigerdine7-ops.github.io/agentic-ai.html",
+      "date": "January 23, 2026",
+      "dateISO": "2026-01-23",
+      "author": "Emani Gerdine",
+      "authorRole": "student",
+      "blogUrl": "https://emanigerdine7-ops.github.io"
+    },
+    {
       "title": "The Choice Signal: Who Really Sets the Price?",
       "url": "https://emanigerdine7-ops.github.io/price-signal-response.html",
       "date": "January 23, 2026",
@@ -862,15 +888,6 @@
       "blogUrl": "https://dominicdebro.github.io"
     },
     {
-      "title": "The Dopamine Ceiling: Mental Health in the Loud Lie Economy",
-      "url": "https://dominicdebro.github.io/dopamine-ceiling.html",
-      "date": "January 18, 2026",
-      "dateISO": "2026-01-18",
-      "author": "Dominic Debro",
-      "authorRole": "student",
-      "blogUrl": "https://dominicdebro.github.io"
-    },
-    {
       "title": "The Digital Whistle: How AI is Changing Basketball Officiating",
       "url": "https://kevionmilton.github.io/ai-in-sports.html",
       "date": "January 18, 2026",
@@ -916,6 +933,15 @@
       "author": "Gabriel Bell",
       "authorRole": "student",
       "blogUrl": "https://gabriel-bell.github.io"
+    },
+    {
+      "title": "The Agency Paradox: Choosing My Path",
+      "url": "https://emanigerdine7-ops.github.io/agency-paradox-intro.html",
+      "date": "January 16, 2026",
+      "dateISO": "2026-01-16",
+      "author": "Emani Gerdine",
+      "authorRole": "student",
+      "blogUrl": "https://emanigerdine7-ops.github.io"
     },
     {
       "title": "AI as a Cognitive Partner, Not a Shortcut",
@@ -988,15 +1014,6 @@
       "author": "Ben Teismann",
       "authorRole": "student",
       "blogUrl": "https://blt279.github.io"
-    },
-    {
-      "title": "The Architect of Intent: Why Higher-Level Thinking Demands a New Kind of Presence",
-      "url": "https://dominicdebro.github.io/architect-of-intent.html",
-      "date": "January 15, 2026",
-      "dateISO": "2026-01-15",
-      "author": "Dominic Debro",
-      "authorRole": "student",
-      "blogUrl": "https://dominicdebro.github.io"
     },
     {
       "title": "Welcome to My Blog",
@@ -1156,6 +1173,15 @@
     {
       "title": "The concerns of AI in schools",
       "url": "https://jake3143.github.io/jake3143/Ai-concerns.html",
+      "date": null,
+      "dateISO": null,
+      "author": "Jaden Walker",
+      "authorRole": "student",
+      "blogUrl": "https://jake3143.github.io/jake3143"
+    },
+    {
+      "title": "What Is Happening to OpenAI?",
+      "url": "https://jake3143.github.io/jake3143/what-is-happening-to-openai.html",
       "date": null,
       "dateISO": null,
       "author": "Jaden Walker",
