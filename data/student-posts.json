@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-02T11:13:47.684Z",
+  "lastUpdated": "2026-02-02T11:18:29.373Z",
   "students": {
     "Olivia Andresen": {
       "url": "https://olliebear2006ya-dotcom.github.io/Olivias-Disney-Blog",
@@ -459,9 +459,29 @@
           "file": "brayden_wilson_2026-02-01_the__glass_athlete__fallacy.txt"
         },
         {
+          "date": "2026-01-25",
+          "title": "The Moneyball of Algorithms: AI and Sports Numbers",
+          "file": "brayden_wilson_2026-01-25_the_moneyball_of_algorithms__ai_and_sports_numbers.txt"
+        },
+        {
+          "date": "2026-01-25",
+          "title": "AI on Ice: The Digital Revolution of the NHL",
+          "file": "brayden_wilson_2026-01-25_ai_on_ice__the_digital_revolution_of_the_nhl.txt"
+        },
+        {
+          "date": "2026-01-25",
+          "title": "Beyond the Goal Horn: The Hidden World of Hockey",
+          "file": "brayden_wilson_2026-01-25_beyond_the_goal_horn__the_hidden_world_of_hockey.txt"
+        },
+        {
           "date": "2026-01-18",
           "title": "Blood on the Ice: The St. Louis Blues and Chicago Blackhawks Rivalry",
           "file": "brayden_wilson_2026-01-18_blood_on_the_ice__the_st__louis_blues_and_chicago_.txt"
+        },
+        {
+          "date": "2026-01-18",
+          "title": "The Rollercoaster in the Lou: The St. Louis Blues' Recent Surge and Struggles",
+          "file": "brayden_wilson_2026-01-18_the_rollercoaster_in_the_lou__the_st__louis_blues_.txt"
         }
       ]
     },

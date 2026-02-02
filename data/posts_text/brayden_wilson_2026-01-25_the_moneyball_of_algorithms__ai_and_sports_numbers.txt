@@ -1,0 +1,7 @@
+The Moneyball of Algorithms: AI and Sports Numbers
+January 25, 2026
+The intersection of sports and statistics has always been about finding an edge, but AI is shifting the goalposts. Historically, we relied on human box scores to tell a story; today, predictive AI models process thousands of data points per second to forecast win probabilities in real-time.
+One major impact is on sports journalism. As noted in a recent article on the implications of AI on sports journalism, algorithms can now generate game summaries in seconds, allowing human writers to focus more on the emotional narratives that data alone cannot capture.
+"While the speed and efficiency of AI-generated content are undeniable, these recaps often lack the depth, nuance, and emotional resonance that define human-driven storytelling."
+In our course network, a fellow student's blog recently explored how AI affects our perception of "truth" in data. Their perspective on intellectual work reminds me that while AI handles the numbers, it is still the human's job to provide the meaning.
+As we move through 2026, the real differentiator won't be who has the best AI, but who asks the best questions of the data. In sports, as in writing, AI is a tool for expansion, not just a replacement for effort.
