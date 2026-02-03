@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-02-03T13:48:03.679Z",
+  "lastUpdated": "2026-02-03T14:11:54.838Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 130,
+  "totalPosts": 131,
   "totalBlogs": 21,
   "blogsWithErrors": [
     {
@@ -1175,6 +1175,15 @@
     {
       "title": "What Is Happening to OpenAI?",
       "url": "https://jake3143.github.io/jake3143/what-is-happening-to-openai.html",
+      "date": null,
+      "dateISO": null,
+      "author": "Jaden Walker",
+      "authorRole": "student",
+      "blogUrl": "https://jake3143.github.io/jake3143"
+    },
+    {
+      "title": "AI art is nothing of concern",
+      "url": "https://jake3143.github.io/jake3143/ai-art-is-nothing-of-concern.html",
       "date": null,
       "dateISO": null,
       "author": "Jaden Walker",
