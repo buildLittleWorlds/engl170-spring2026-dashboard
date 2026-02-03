@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-03T14:11:54.838Z",
+  "lastUpdated": "2026-02-03T14:33:15.492Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
   "totalPosts": 131,
@@ -120,6 +120,15 @@
       "blogUrl": "https://bellacalmetjanssen-cell.github.io/isabella-calmet-.github.io"
     },
     {
+      "title": "AI art is nothing of concern",
+      "url": "https://jake3143.github.io/jake3143/ai-art-is-nothing-of-concern.html",
+      "date": "February 2, 2026",
+      "dateISO": "2026-02-02",
+      "author": "Jaden Walker",
+      "authorRole": "student",
+      "blogUrl": "https://jake3143.github.io/jake3143"
+    },
+    {
       "title": "Beyond the Illusion: Why Data Hits a Ceiling",
       "url": "https://zayamaro.github.io/the-seventy-percent-limit.html",
       "date": "February 2, 2026",
@@ -208,6 +217,15 @@
       "author": "Isabella Calmet",
       "authorRole": "student",
       "blogUrl": "https://bellacalmetjanssen-cell.github.io/isabella-calmet-.github.io"
+    },
+    {
+      "title": "What Is Happening to OpenAI?",
+      "url": "https://jake3143.github.io/jake3143/what-is-happening-to-openai.html",
+      "date": "February 1, 2026",
+      "dateISO": "2026-02-01",
+      "author": "Jaden Walker",
+      "authorRole": "student",
+      "blogUrl": "https://jake3143.github.io/jake3143"
     },
     {
       "title": "The Lazarus Effect: Can We Delete the Consequences of Randomness?",
@@ -804,6 +822,15 @@
       "blogUrl": "https://jinxxywrites.github.io/Psyched-for-Psychology"
     },
     {
+      "title": "The concerns of AI in schools",
+      "url": "https://jake3143.github.io/jake3143/Ai-concerns.html",
+      "date": "January 20, 2026",
+      "dateISO": "2026-01-20",
+      "author": "Jaden Walker",
+      "authorRole": "student",
+      "blogUrl": "https://jake3143.github.io/jake3143"
+    },
+    {
       "title": "Why I Picked My Career: Physical Therapy",
       "url": "https://emanigerdine7-ops.github.io/physical-therapy.html",
       "date": "January 19, 2026",
@@ -1162,33 +1189,6 @@
       "author": "Dr. Plate",
       "authorRole": "instructor",
       "blogUrl": "https://buildlittleworlds.github.io/plate-composition-blog"
-    },
-    {
-      "title": "The concerns of AI in schools",
-      "url": "https://jake3143.github.io/jake3143/Ai-concerns.html",
-      "date": null,
-      "dateISO": null,
-      "author": "Jaden Walker",
-      "authorRole": "student",
-      "blogUrl": "https://jake3143.github.io/jake3143"
-    },
-    {
-      "title": "What Is Happening to OpenAI?",
-      "url": "https://jake3143.github.io/jake3143/what-is-happening-to-openai.html",
-      "date": null,
-      "dateISO": null,
-      "author": "Jaden Walker",
-      "authorRole": "student",
-      "blogUrl": "https://jake3143.github.io/jake3143"
-    },
-    {
-      "title": "AI art is nothing of concern",
-      "url": "https://jake3143.github.io/jake3143/ai-art-is-nothing-of-concern.html",
-      "date": null,
-      "dateISO": null,
-      "author": "Jaden Walker",
-      "authorRole": "student",
-      "blogUrl": "https://jake3143.github.io/jake3143"
     }
   ]
 }
