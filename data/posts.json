@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-02-04T12:23:41.005Z",
+  "lastUpdated": "2026-02-04T12:47:26.820Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 141,
+  "totalPosts": 142,
   "totalBlogs": 21,
   "blogsWithErrors": [
     {
@@ -11,6 +11,15 @@
     }
   ],
   "posts": [
+    {
+      "title": "Testing Moral Agency: The Umpire and the Therapist",
+      "url": "https://buildlittleworlds.github.io/plate-composition-blog/posts/testing-moral-agency/",
+      "date": "February 4, 2026",
+      "dateISO": "2026-02-04",
+      "author": "Dr. Plate",
+      "authorRole": "instructor",
+      "blogUrl": "https://buildlittleworlds.github.io/plate-composition-blog"
+    },
     {
       "title": "The Synthesis of Intelligence and Athletics: AI Integration in Global Sports via Podcasts",
       "url": "https://tombishop4.github.io/ai-synthesis-sports-podcasts.html",
