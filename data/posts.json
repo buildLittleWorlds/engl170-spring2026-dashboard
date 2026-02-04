@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-02-04T15:43:54.226Z",
+  "lastUpdated": "2026-02-04T16:04:25.626Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 143,
+  "totalPosts": 144,
   "totalBlogs": 21,
   "blogsWithErrors": [
     {
@@ -28,6 +28,15 @@
       "author": "Dr. Plate",
       "authorRole": "instructor",
       "blogUrl": "https://buildlittleworlds.github.io/plate-composition-blog"
+    },
+    {
+      "title": "The Data vs. The Drama: A Reply to Tom",
+      "url": "https://calebmurphy01.github.io/the-data-vs-the-drama.html",
+      "date": "February 4, 2026",
+      "dateISO": "2026-02-04",
+      "author": "Caleb Murphy",
+      "authorRole": "student",
+      "blogUrl": "https://calebmurphy01.github.io"
     },
     {
       "title": "The Synthesis of Intelligence and Athletics: AI Integration in Global Sports via Podcasts",
@@ -337,7 +346,7 @@
     },
     {
       "title": "The Human Variable in Boxing: A Reply to Tom",
-      "url": "https://calebmurphy01.github.io/reply-to-tom-boxing.html",
+      "url": "https://calebmurphy01.github.io/the-human-variable-in-boxing.html",
       "date": "January 30, 2026",
       "dateISO": "2026-01-30",
       "author": "Caleb Murphy",
@@ -346,7 +355,7 @@
     },
     {
       "title": "The Human Element in Prediction Markets",
-      "url": "https://calebmurphy01.github.io/human-element-markets.html",
+      "url": "https://calebmurphy01.github.io/the-human-element-in-prediction-markets.html",
       "date": "January 30, 2026",
       "dateISO": "2026-01-30",
       "author": "Caleb Murphy",
@@ -355,7 +364,7 @@
     },
     {
       "title": "Trading Strategies and Market Logic",
-      "url": "https://calebmurphy01.github.io/trading-strategies.html",
+      "url": "https://calebmurphy01.github.io/trading-strategies-and-market-logic.html",
       "date": "January 30, 2026",
       "dateISO": "2026-01-30",
       "author": "Caleb Murphy",
@@ -418,7 +427,7 @@
     },
     {
       "title": "The Ghost in the Dashboard: A Reply to Zay",
-      "url": "https://calebmurphy01.github.io/ghost-in-the-dashboard.html",
+      "url": "https://calebmurphy01.github.io/the-ghost-in-the-dashboard.html",
       "date": "January 29, 2026",
       "dateISO": "2026-01-29",
       "author": "Caleb Murphy",
@@ -886,7 +895,7 @@
     },
     {
       "title": "The Gambler’s Pivot",
-      "url": "https://calebmurphy01.github.io/gamblers-pivot.html",
+      "url": "https://calebmurphy01.github.io/the-gamblers-pivot.html",
       "date": "January 21, 2026",
       "dateISO": "2026-01-21",
       "author": "Caleb Murphy",
