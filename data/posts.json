@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-02-04T12:47:26.820Z",
+  "lastUpdated": "2026-02-04T13:20:29.993Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 142,
+  "totalPosts": 143,
   "totalBlogs": 21,
   "blogsWithErrors": [
     {
@@ -11,6 +11,15 @@
     }
   ],
   "posts": [
+    {
+      "title": "The Same Problem Twice: Sports AI and the Therapy Debate",
+      "url": "https://buildlittleworlds.github.io/plate-composition-blog/posts/the-same-problem-twice/",
+      "date": "February 4, 2026",
+      "dateISO": "2026-02-04",
+      "author": "Dr. Plate",
+      "authorRole": "instructor",
+      "blogUrl": "https://buildlittleworlds.github.io/plate-composition-blog"
+    },
     {
       "title": "Testing Moral Agency: The Umpire and the Therapist",
       "url": "https://buildlittleworlds.github.io/plate-composition-blog/posts/testing-moral-agency/",
