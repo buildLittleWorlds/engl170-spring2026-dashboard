@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-02-04T18:24:41.066Z",
+  "lastUpdated": "2026-02-04T18:49:04.535Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 148,
+  "totalPosts": 149,
   "totalBlogs": 21,
   "blogsWithErrors": [
     {
@@ -46,6 +46,15 @@
       "author": "Sam Levine",
       "authorRole": "student",
       "blogUrl": "https://samlevine277.github.io"
+    },
+    {
+      "title": "The Digital Dual-Threat: Why We’re Hooked on Feeds and Prompts",
+      "url": "https://eliananodari.github.io/digital-dual-threat.html",
+      "date": "February 4, 2026",
+      "dateISO": "2026-02-04",
+      "author": "Eliana Nodari",
+      "authorRole": "student",
+      "blogUrl": "https://eliananodari.github.io"
     },
     {
       "title": "How the \"Gamification\" of Music Rewires the Audience",
