@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-02-04T16:51:22.600Z",
+  "lastUpdated": "2026-02-04T17:13:48.798Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 147,
+  "totalPosts": 148,
   "totalBlogs": 21,
   "blogsWithErrors": [
     {
@@ -37,6 +37,15 @@
       "author": "Jinx Hixson",
       "authorRole": "student",
       "blogUrl": "https://jinxxywrites.github.io/Psyched-for-Psychology"
+    },
+    {
+      "title": "AI vs. Social Media",
+      "url": "https://samlevine277.github.io/social-media-vs-ai-addiction.html",
+      "date": "Feburary 4, 2026",
+      "dateISO": "2026-02-04",
+      "author": "Sam Levine",
+      "authorRole": "student",
+      "blogUrl": "https://samlevine277.github.io"
     },
     {
       "title": "How the \"Gamification\" of Music Rewires the Audience",
