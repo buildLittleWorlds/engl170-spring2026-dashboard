@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-02-04T03:12:41.823Z",
+  "lastUpdated": "2026-02-04T04:02:16.624Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 140,
+  "totalPosts": 141,
   "totalBlogs": 21,
   "blogsWithErrors": [
     {
@@ -46,6 +46,15 @@
       "author": "Brayden Wilson",
       "authorRole": "student",
       "blogUrl": "https://braydenwilson22.github.io"
+    },
+    {
+      "title": "The Simulation Trap: Can We Play the Game Before the Kickoff?",
+      "url": "https://zayamaro.github.io/the-simulation-trap.html",
+      "date": "February 3, 2026",
+      "dateISO": "2026-02-03",
+      "author": "Zay Amaro",
+      "authorRole": "student",
+      "blogUrl": "https://zayamaro.github.io"
     },
     {
       "title": "The Restoration Window: A Framework for Fair Healing",
