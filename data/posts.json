@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-02-04T16:26:47.380Z",
+  "lastUpdated": "2026-02-04T16:51:22.600Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 145,
+  "totalPosts": 147,
   "totalBlogs": 21,
   "blogsWithErrors": [
     {
@@ -28,6 +28,24 @@
       "author": "Dr. Plate",
       "authorRole": "instructor",
       "blogUrl": "https://buildlittleworlds.github.io/plate-composition-blog"
+    },
+    {
+      "title": "The Lasting Power of Connection: Why Human Therapy Still Matters",
+      "url": "https://jinxxywrites.github.io/Psyched-for-Psychology/cbct-human-connection.html",
+      "date": "February 4, 2026",
+      "dateISO": "2026-02-04",
+      "author": "Jinx Hixson",
+      "authorRole": "student",
+      "blogUrl": "https://jinxxywrites.github.io/Psyched-for-Psychology"
+    },
+    {
+      "title": "How the \"Gamification\" of Music Rewires the Audience",
+      "url": "https://qubitn.github.io/the-gamification-of-music.html",
+      "date": "February 4, 2026",
+      "dateISO": "2026-02-04",
+      "author": "Jonas Rodrigues",
+      "authorRole": "student",
+      "blogUrl": "https://qubitn.github.io"
     },
     {
       "title": "The Data vs. The Drama: A Reply to Tom",
