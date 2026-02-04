@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-02-04T16:04:25.626Z",
+  "lastUpdated": "2026-02-04T16:26:47.380Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 144,
+  "totalPosts": 145,
   "totalBlogs": 21,
   "blogsWithErrors": [
     {
@@ -109,6 +109,15 @@
       "author": "Jacob Brunts",
       "authorRole": "student",
       "blogUrl": "https://jrbrunts.github.io"
+    },
+    {
+      "title": "Beyond the Screen: Navigating the 10% Void",
+      "url": "https://emanigerdine7-ops.github.io/2026-02-02-beyond-the-screen.html",
+      "date": "February 2, 2026",
+      "dateISO": "2026-02-02",
+      "author": "Emani Gerdine",
+      "authorRole": "student",
+      "blogUrl": "https://emanigerdine7-ops.github.io"
     },
     {
       "title": "The Rhetoric of Radiance: How CeraVe Shapes Our Choices",
