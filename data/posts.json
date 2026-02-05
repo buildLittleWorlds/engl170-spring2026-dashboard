@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-02-05T13:52:30.426Z",
+  "lastUpdated": "2026-02-05T14:16:06.680Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 149,
+  "totalPosts": 150,
   "totalBlogs": 21,
   "blogsWithErrors": [
     {
@@ -11,6 +11,15 @@
     }
   ],
   "posts": [
+    {
+      "title": "The 70% Fallacy: A Counter-Perspective",
+      "url": "https://tombishop4.github.io/the-70-fallacy-a-counter-perspective.html",
+      "date": "February 5, 2026",
+      "dateISO": "2026-02-05",
+      "author": "Tom Bishop",
+      "authorRole": "student",
+      "blogUrl": "https://tombishop4.github.io"
+    },
     {
       "title": "The Same Problem Twice: Sports AI and the Therapy Debate",
       "url": "https://buildlittleworlds.github.io/plate-composition-blog/posts/the-same-problem-twice/",
