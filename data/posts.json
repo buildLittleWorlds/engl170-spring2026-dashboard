@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-02-06T04:05:47.472Z",
+  "lastUpdated": "2026-02-06T04:49:00.553Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 150,
+  "totalPosts": 151,
   "totalBlogs": 21,
   "blogsWithErrors": [
     {
@@ -11,6 +11,15 @@
     }
   ],
   "posts": [
+    {
+      "title": "The Unified Protocol: Silicon for the Soul and the Sinew",
+      "url": "https://jrbrunts.github.io/the-unified-protocol.html",
+      "date": "February 5, 2026",
+      "dateISO": "2026-02-05",
+      "author": "Jacob Brunts",
+      "authorRole": "student",
+      "blogUrl": "https://jrbrunts.github.io"
+    },
     {
       "title": "The 70% Fallacy: A Counter-Perspective",
       "url": "https://tombishop4.github.io/the-70-fallacy-a-counter-perspective.html",
