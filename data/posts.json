@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-02-06T16:27:32.003Z",
+  "lastUpdated": "2026-02-06T16:51:49.356Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 152,
+  "totalPosts": 154,
   "totalBlogs": 21,
   "blogsWithErrors": [
     {
@@ -12,6 +12,15 @@
   ],
   "posts": [
     {
+      "title": "The Off-Script Athlete: Why We Need Moral Agency in Sports",
+      "url": "https://zayamaro.github.io/the-off-script-athlete.html",
+      "date": "February 11, 2026",
+      "dateISO": "2026-02-11",
+      "author": "Zay Amaro",
+      "authorRole": "student",
+      "blogUrl": "https://zayamaro.github.io"
+    },
+    {
       "title": "The Biological Necessity of Connection: Mental and Physical Health in a Digital Era",
       "url": "https://jinxxywrites.github.io/Psyched-for-Psychology/health-and-connection.html",
       "date": "February 9, 2026",
@@ -19,6 +28,15 @@
       "author": "Jinx Hixson",
       "authorRole": "student",
       "blogUrl": "https://jinxxywrites.github.io/Psyched-for-Psychology"
+    },
+    {
+      "title": "The Biological Locker Room: Why Teams Can't Be Simulated",
+      "url": "https://zayamaro.github.io/the-biological-locker-room.html",
+      "date": "February 9, 2026",
+      "dateISO": "2026-02-09",
+      "author": "Zay Amaro",
+      "authorRole": "student",
+      "blogUrl": "https://zayamaro.github.io"
     },
     {
       "title": "The Unified Protocol: Silicon for the Soul and the Sinew",
