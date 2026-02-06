@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-02-06T21:10:55.707Z",
+  "lastUpdated": "2026-02-06T21:27:49.581Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 154,
+  "totalPosts": 155,
   "totalBlogs": 21,
   "blogsWithErrors": [
     {
@@ -37,6 +37,15 @@
       "author": "Zay Amaro",
       "authorRole": "student",
       "blogUrl": "https://zayamaro.github.io"
+    },
+    {
+      "title": "The Slot-Machine Symphony: Why Authenticity Matters in the Age of AI",
+      "url": "https://eliananodari.github.io/the-slot-machine-symphony.html",
+      "date": "February 6, 2026",
+      "dateISO": "2026-02-06",
+      "author": "Eliana Nodari",
+      "authorRole": "student",
+      "blogUrl": "https://eliananodari.github.io"
     },
     {
       "title": "The Unified Protocol: Silicon for the Soul and the Sinew",
