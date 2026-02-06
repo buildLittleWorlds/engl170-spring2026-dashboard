@@ -1,14 +1,10 @@
 {
-  "lastUpdated": "2026-02-06T15:50:47.398Z",
+  "lastUpdated": "2026-02-06T16:08:19.826Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 140,
+  "totalPosts": 152,
   "totalBlogs": 21,
   "blogsWithErrors": [
-    {
-      "author": "Sam Levine",
-      "error": "HTTP 503"
-    },
     {
       "author": "Isaiah Forbes",
       "error": "HTTP 404"
@@ -68,6 +64,15 @@
       "author": "Jinx Hixson",
       "authorRole": "student",
       "blogUrl": "https://jinxxywrites.github.io/Psyched-for-Psychology"
+    },
+    {
+      "title": "AI vs. Social Media",
+      "url": "https://samlevine277.github.io/social-media-vs-ai-addiction.html",
+      "date": "Feburary 4, 2026",
+      "dateISO": "2026-02-04",
+      "author": "Sam Levine",
+      "authorRole": "student",
+      "blogUrl": "https://samlevine277.github.io"
     },
     {
       "title": "The Digital Dual-Threat: Why We’re Hooked on Feeds and Prompts",
@@ -205,6 +210,15 @@
       "blogUrl": "https://jinxxywrites.github.io/Psyched-for-Psychology"
     },
     {
+      "title": "AI-Rugby (Sports)",
+      "url": "https://samlevine277.github.io/ai-in-rugby-training.html",
+      "date": "Feburary 2, 2026",
+      "dateISO": "2026-02-02",
+      "author": "Sam Levine",
+      "authorRole": "student",
+      "blogUrl": "https://samlevine277.github.io"
+    },
+    {
       "title": "The Digital Heartbeat: Navigating the Symbiosis of Human Intuition and AI",
       "url": "https://eliananodari.github.io/digital-heartbeat.html",
       "date": "February 2, 2026",
@@ -284,6 +298,15 @@
       "author": "Olivia Andresen",
       "authorRole": "student",
       "blogUrl": "https://olliebear2006ya-dotcom.github.io/Olivias-Disney-Blog"
+    },
+    {
+      "title": "AI-Sports Response (Sports)",
+      "url": "https://samlevine277.github.io/ai_in_sports_response.html",
+      "date": "Feburary 1, 2026",
+      "dateISO": "2026-02-01",
+      "author": "Sam Levine",
+      "authorRole": "student",
+      "blogUrl": "https://samlevine277.github.io"
     },
     {
       "title": "The Employment Trap: Rethinking Productivity in the Age of AI",
@@ -430,6 +453,15 @@
       "blogUrl": "https://buildlittleworlds.github.io/plate-composition-blog"
     },
     {
+      "title": "AI-Injury Prevention (Sports)",
+      "url": "https://samlevine277.github.io/injury-prevention-ai-sports-blog-post.html",
+      "date": "January 29, 2026",
+      "dateISO": "2026-01-29",
+      "author": "Sam Levine",
+      "authorRole": "student",
+      "blogUrl": "https://samlevine277.github.io"
+    },
+    {
       "title": "Mastermind In The Machine",
       "url": "https://qubitn.github.io/mastermind-in-the-machine.html",
       "date": "January 29, 2026",
@@ -527,6 +559,15 @@
       "author": "Jinx Hixson",
       "authorRole": "student",
       "blogUrl": "https://jinxxywrites.github.io/Psyched-for-Psychology"
+    },
+    {
+      "title": "AI-Performance Partner (Sports)",
+      "url": "https://samlevine277.github.io/ai-as-a-performance-partner.html",
+      "date": "January 26, 2026",
+      "dateISO": "2026-01-26",
+      "author": "Sam Levine",
+      "authorRole": "student",
+      "blogUrl": "https://samlevine277.github.io"
     },
     {
       "title": "The Evolution of the Architect: Professional Adaptation in the Age of Agentic AI",
@@ -644,6 +685,15 @@
       "author": "Gabriel Bell",
       "authorRole": "student",
       "blogUrl": "https://gabriel-bell.github.io"
+    },
+    {
+      "title": "AI vs Humans (Sports)",
+      "url": "https://samlevine277.github.io/post1_human_vs_ai_sports.html",
+      "date": "January 25, 2026",
+      "dateISO": "2026-01-25",
+      "author": "Sam Levine",
+      "authorRole": "student",
+      "blogUrl": "https://samlevine277.github.io"
     },
     {
       "title": "The Ghost in the Machine",
@@ -871,6 +921,15 @@
       "blogUrl": "https://jinxxywrites.github.io/Psyched-for-Psychology"
     },
     {
+      "title": "AI autonomy",
+      "url": "https://samlevine277.github.io/ai-autonomy.html",
+      "date": "January 21, 2026",
+      "dateISO": "2026-01-21",
+      "author": "Sam Levine",
+      "authorRole": "student",
+      "blogUrl": "https://samlevine277.github.io"
+    },
+    {
       "title": "The Dopamine Ceiling and the Loud Lie Economy",
       "url": "https://eliananodari.github.io/the-dopamine-ceiling.html",
       "date": "January 21, 2026",
@@ -952,6 +1011,24 @@
       "blogUrl": "https://emanigerdine7-ops.github.io"
     },
     {
+      "title": "AI Safety",
+      "url": "https://samlevine277.github.io/ai-safety-argument.html",
+      "date": "January 19, 2026",
+      "dateISO": "2026-01-19",
+      "author": "Sam Levine",
+      "authorRole": "student",
+      "blogUrl": "https://samlevine277.github.io"
+    },
+    {
+      "title": "AI officiatings",
+      "url": "https://samlevine277.github.io/ai-officiating-response.html",
+      "date": "January 19, 2026",
+      "dateISO": "2026-01-19",
+      "author": "Sam Levine",
+      "authorRole": "student",
+      "blogUrl": "https://samlevine277.github.io"
+    },
+    {
       "title": "The Friction of Fluency: Why \"Easy\" AI is a Myth",
       "url": "https://jrbrunts.github.io/friction-of-fluency.html",
       "date": "January 18, 2026",
@@ -968,6 +1045,33 @@
       "author": "Jinx Hixson",
       "authorRole": "student",
       "blogUrl": "https://jinxxywrites.github.io/Psyched-for-Psychology"
+    },
+    {
+      "title": "Forklifts and fundamentals",
+      "url": "https://samlevine277.github.io/forklift-and-fundamentals.html",
+      "date": "January 18, 2026",
+      "dateISO": "2026-01-18",
+      "author": "Sam Levine",
+      "authorRole": "student",
+      "blogUrl": "https://samlevine277.github.io"
+    },
+    {
+      "title": "My Thoughts on AI Affecting The Ocean",
+      "url": "https://samlevine277.github.io/responding-to-dr-plate.html",
+      "date": "January 18, 2026",
+      "dateISO": "2026-01-18",
+      "author": "Sam Levine",
+      "authorRole": "student",
+      "blogUrl": "https://samlevine277.github.io"
+    },
+    {
+      "title": "My Thoughts on AI Writing Tools",
+      "url": "https://samlevine277.github.io/my-first-post.html",
+      "date": "January 18, 2026",
+      "dateISO": "2026-01-18",
+      "author": "Sam Levine",
+      "authorRole": "student",
+      "blogUrl": "https://samlevine277.github.io"
     },
     {
       "title": "How Artificial Intelligence is Resurrecting Ancient Rome",
