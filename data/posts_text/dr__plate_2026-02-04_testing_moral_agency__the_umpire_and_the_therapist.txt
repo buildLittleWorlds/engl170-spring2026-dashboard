@@ -1,0 +1,57 @@
+Testing Moral Agency: The Umpire and the Therapist
+February 4, 2026 · Response to: Jinx Hixson's "Moral Agency and the History of Care"
+Here's a thought experiment for testing what we mean by "moral agency."
+Compare two professionals who might "go off-script": a baseball umpire and a clinical therapist. The umpire operates in what we might call a low-stakes environment—no one dies if they miss a call. The therapist operates in a high-stakes environment—a misjudgment about suicide risk can have irreversible consequences.
+The question: As stakes get higher, do we want more individual judgment or less? Does moral agency become more important when lives are on the line, or does it become more dangerous?
+The Initial Intuition
+The intuitive answer seems obvious. When stakes are low, let the rulebook govern. When stakes are high, we need a human who can recognize when the rules are failing.
+This is why we might accept "robot umpires" in baseball—the automated strike zone eliminates inconsistency, and if it makes a mistake, the consequences are minor. But we resist "robot therapists" because we want someone who can see the particular patient in front of them, not just pattern-match to a protocol.
+On this view, moral agency is what kicks in when the standard procedures aren't enough. It's the capacity to deviate from the script when deviation is necessary.
+Complicating the Umpire
+But the umpire case isn't as clean as it looks.
+First, many people do value the human element in officiating. The debate over automated strike zones is live precisely because it's contested. Fans, players, and umpires themselves argue about whether the "human element" is a bug to be eliminated or a feature to be preserved. If we obviously preferred procedural consistency over human judgment in low-stakes contexts, there would be no debate.
+Second, and more importantly: umpires aren't actually "going off-script" when they make judgment calls. The rulebook explicitly grants them discretion. The rules say things like "in the umpire's judgment" and "the decision of the umpire is final." The script itself authorizes the judgment. An umpire calling a borderline pitch isn't breaching the rules—they're exercising authority the rules grant them.
+This suggests that "individual judgment vs. the rulebook" may be a false opposition. The rulebook often includes provisions for judgment.
+Complicating the Therapist
+The therapist case is more complex, but a similar structure emerges.
+Consider what happens when a therapist deviates from protocol. Maybe they break confidentiality to prevent harm, or they extend a session beyond the scheduled time because they sense a crisis the standard assessment tools didn't catch.
+We might describe this as the therapist exercising "moral agency"—using individual judgment to override the script when a life is on the line.
+But here's the crucial question: How do we evaluate whether that deviation was justified?
+Not by asking whether the therapist felt it was right. Not by trusting some internal moral compass that transcends professional guidelines. We evaluate the deviation by appealing to the broader professional and institutional framework:
+Did the therapist's judgment align with the purpose of the protocols, even if it departed from their letter?
+Would a panel of peers, reviewing the case, consider the deviation reasonable?
+Does it meet the legal standard for "duty to warn" or the ethical standard for breaching confidentiality?
+Can the therapist document their reasoning in terms the profession would recognize?
+In other words: when someone goes off-script, the script is still the court of appeal.
+The Deeper Point
+This reveals something important about moral agency in professional contexts.
+We create professional guidelines, protocols, and procedures for a reason. They encode accumulated wisdom. They protect against bias, fatigue, and panic. They ensure that patients (or players, or clients) receive consistent treatment regardless of which individual professional they encounter.
+When we allow for individual judgment in extreme cases—the "conscientious breach"—we are not elevating the individual above the system. We are recognizing that the system itself includes mechanisms for deviation, and the system also includes mechanisms for evaluating those deviations.
+The umpire who makes a controversial call gets reviewed by the league office. The therapist who breaches protocol faces peer review, licensing boards, and potentially courts. The soldier who disobeys an order claims the "necessity defense"—adjudicated by a military tribunal applying legal standards.
+Individual judgment operates within and is accountable to collective procedural structures. It's not that the individual is the "final safeguard" standing heroically between a failing system and a human life. It's that individual judgment is one mechanism within a larger system, and the system determines whether that judgment was sound.
+What Kind of Judgment?
+This thought experiment also reveals that "judgment" isn't a single thing.
+The umpire exercises mostly perceptual judgment: Did the ball cross the plate? Was the runner safe? These are questions about what happened, and they can increasingly be answered by technology.
+The therapist exercises interpretive and predictive judgment: What does this patient's silence mean? Is this flat affect masking suicidal ideation, or is it just exhaustion? These require reading context, history, and particularity in ways that resist simple measurement.
+Both also exercise what we might call procedural judgment: Which rule applies here? What does the protocol require in this specific situation?
+When we ask about "moral agency," we need to be clear which kind of judgment we're discussing. The case for human judgment is strongest where interpretation and prediction are involved—not because humans have some mystical insight, but because these judgments require integrating context in ways our current systems can't fully capture.
+Reversibility and Stakes
+There's another variable the thought experiment exposes: reversibility.
+A blown call in baseball can be reviewed and overturned. Even if the replay system fails, the consequence is a game outcome—significant to players and fans, but bounded. The system can learn from errors and adjust.
+A therapeutic crisis that escalates may be beyond recall. A patient who dies by suicide cannot be brought back. The irreversibility of the consequence changes the character of the judgment.
+This might explain why we accept automation where decisions can be reviewed and corrected, but resist it where decisions have irreversible consequences. It's not just that the stakes are "higher" in some abstract sense. It's that certain errors cannot be undone, which changes what we demand from the decision-making process.
+The Test
+So what does this thought experiment tell us about moral agency?
+It suggests that moral agency in professional contexts is not a mystical internal capacity that allows individuals to transcend systems. It's the ability to exercise judgment within a system in ways that the system can recognize and evaluate.
+The therapist who "goes off-script" to save a life isn't operating outside the system of professional ethics. They're invoking one part of that system (the duty to protect life) to override another part (the standard protocol). Their judgment is still accountable to the system's own standards.
+This doesn't diminish the importance of individual judgment. It clarifies its nature. The courage to deviate from protocol isn't the courage to transcend the system—it's the willingness to be judged by the system for your deviation. It's accepting accountability to collective standards even when you act against the immediate script.
+If moral agency were purely internal—a "soul" or "conscience" that operates independently of professional structures—then the individual's sincere belief that they were right would be the end of the matter. But we don't treat it that way. We convene review boards. We examine documentation. We ask whether the deviation was justifiable, not just whether the individual felt justified.
+The system remains the court of appeal.
+An Open Question
+This leaves a genuine question unresolved.
+Jinx Hixson has argued that healing happens "in the space between two moral agents"—that the therapist's capacity for care and accountability is irreducibly human. I've argued that this moral agency is distributed across a system of training, protocols, and professional ethics that exists outside any individual.
+The thought experiment suggests these views may be less opposed than they appear.
+The individual therapist does exercise judgment that matters. That judgment does involve something like "care"—the attentiveness to a particular patient that protocols alone can't capture. But that judgment is formed by training, constrained by ethics codes, and evaluated by professional standards. It operates within, not above, the system.
+Perhaps moral agency is neither purely internal nor purely external. It's the capacity of an individual, shaped by collective structures, to act in ways those structures can recognize as responsible—even when the action departs from the immediate script.
+The umpire's judgment call and the therapist's intervention are different in stakes, in reversibility, in the kind of judgment involved. But in both cases, the individual acts within a system that will ultimately assess whether they acted well.
+That might be what moral agency actually is.

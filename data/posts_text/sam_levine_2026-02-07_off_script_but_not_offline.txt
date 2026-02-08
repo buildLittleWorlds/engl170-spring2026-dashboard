@@ -1,0 +1,67 @@
+Off-Script, But Not Offline
+In his post “The Off-Script Athlete: Why We Need Moral Agency in Sports,” Zay Amaro
+argues that automation threatens the meaning of sport by removing human accountability.
+According to Zay, when sports rely too heavily on systems and sensors, victories risk feeling
+calculated rather than earned.
+“When we replace a human umpire with a sensor, we gain accuracy but we lose ‘moral agency’—the
+human accountability that makes a victory feel earned rather than calculated.”
+— Zay Amaro
+I agree with Zay’s core concern. Sports matter because humans make choices, take risks, and live
+with consequences. But I want to push back on the idea that automation necessarily erases moral
+agency. In my view, automation can still be useful—even in high-stakes moments—when it
+works alongside human judgment rather than replacing it.
+When Human Error Overpowers Human Meaning
+Zay emphasizes the importance of humans going “off-script” when rules and patterns fall short.
+That improvisation is essential to sport. However, not every deviation adds meaning. When a
+championship game is decided by a call that replay clearly shows to be wrong, the focus shifts
+away from athletic excellence and toward officiating failure.
+In those moments, accountability feels less like moral agency and more like arbitrariness.
+This is where automation can serve as a fairness tool rather than a replacement for human
+judgment. By catching clear mistakes, technology ensures that the human story is about the
+athletes’ performance rather than preventable errors.
+For example, imagine a World Series game tied in the bottom of the ninth inning. A borderline
+pitch is called a strike when replays show it was outside. The batter strikes out, and the
+championship hinges on that single call. Even if the umpire acted with integrity, the result
+could feel unfair. In such moments, automation doesn’t remove human agency—it protects the
+fairness that makes human decisions meaningful.
+Automation as Assistance, Not Authority
+Major League Baseball’s upcoming Automated Ball-Strike (ABS) system provides
+a real-world example of how technology can enhance fairness without replacing humans. Beginning
+in the 2026 season, MLB will allow players to challenge ball-and-strike calls using automated
+pitch-tracking technology—while keeping human umpires on the field.
+“Human umpires will still call balls and strikes, but players will be able to challenge those
+calls using the automated system.”
+— Associated Press
+This system preserves human agency. Umpires make the initial call. Players decide when to
+challenge. Coaches manage strategy. Automation only intervenes when a human actively chooses
+to use it. This creates a hybrid model where technology improves accuracy but humans still
+control the narrative and moral responsibility.
+Hybrid systems like ABS also introduce strategic decision-making. Coaches and players must
+weigh when to use their limited challenges, adding layers of human judgment and risk
+management that automation alone cannot replicate. Far from erasing the “off-script” element,
+this approach makes strategic choices more deliberate and impactful.
+High Stakes Demand Both Precision and Judgment
+Zay suggests that high-stakes moments demand human discretion. I agree—but I would add that
+high stakes also demand higher standards of fairness. The more meaningful the moment, the more
+damaging an uncorrected error becomes. Automation in these scenarios ensures that the outcome
+reflects skill and performance rather than mistakes anyone could prevent.
+Beyond baseball, other sports already employ similar technology to balance fairness and
+agency. Tennis uses Hawk-Eye for line calls, soccer uses VAR for goal-line and penalty
+decisions, and football uses replay challenges to correct obvious errors. In all these cases,
+technology does not remove human responsibility—it supports it, ensuring that the story is
+about human skill.
+ABS in MLB follows this same principle. By correcting objectively wrong calls while leaving
+the initial call to the umpire and the decision to challenge to players, the system strengthens
+the legitimacy of high-stakes moments without reducing the human drama that makes sports
+meaningful.
+Conclusion: Agency With Assistance
+Fully automated sports would strip away dialogue, discretion, and accountability. But rejecting
+automation entirely risks preserving error in the name of tradition. Hybrid systems like MLB’s
+ABS offer a more promising path—one where automation supports precision while
+humans retain responsibility.
+Moral agency doesn’t disappear when technology enters the game. It disappears only when humans
+are removed from decision-making. As long as humans remain accountable for their choices, sports
+remain human—even in a world where technology can help prevent mistakes.
+In short, automation and human judgment don’t have to be enemies. When carefully designed to
+complement each other, they ensure that victories are both fair and earned, preserving the
+drama, strategy, and moral agency that make sports compelling.

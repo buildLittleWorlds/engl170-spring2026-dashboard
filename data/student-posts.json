@@ -1,9 +1,24 @@
 {
-  "lastUpdated": "2026-02-02T20:28:06.500Z",
+  "lastUpdated": "2026-02-08T23:47:44.210Z",
   "students": {
     "Olivia Andresen": {
       "url": "https://olliebear2006ya-dotcom.github.io/Olivias-Disney-Blog",
       "posts": [
+        {
+          "date": "2026-02-08",
+          "title": "The Mouse and the Mirror: How Disney Perfects the \"Beyond the Screen\" Philosophy",
+          "file": "olivia_andresen_2026-02-08_the_mouse_and_the_mirror__how_disney_perfects_the_.txt"
+        },
+        {
+          "date": "2026-02-04",
+          "title": "From High Scores to High Notes: What Disney Can Teach Us About the Gamification of Music",
+          "file": "olivia_andresen_2026-02-04_from_high_scores_to_high_notes__what_disney_can_te.txt"
+        },
+        {
+          "date": "2026-02-02",
+          "title": "The Digital Frontier and the Mouse: Bridging Reality and Simulation",
+          "file": "olivia_andresen_2026-02-02_the_digital_frontier_and_the_mouse__bridging_reali.txt"
+        },
         {
           "date": "2026-02-01",
           "title": "The Heroism of \"Enough\": Why Surrender is the New Magic",
@@ -80,6 +95,11 @@
       "url": "https://jrbrunts.github.io",
       "posts": [
         {
+          "date": "2026-02-05",
+          "title": "The Unified Protocol: Silicon for the Soul and the Sinew",
+          "file": "jacob_brunts_2026-02-05_the_unified_protocol__silicon_for_the_soul_and_the.txt"
+        },
+        {
           "date": "2026-02-04",
           "title": "The Infinite Therapist: Democratizing the Mind",
           "file": "jacob_brunts_2026-02-04_the_infinite_therapist__democratizing_the_mind.txt"
@@ -135,6 +155,21 @@
       "url": "https://emanigerdine7-ops.github.io",
       "posts": [
         {
+          "date": "2026-02-04",
+          "title": "Response: The Systemic Soul",
+          "file": "emani_gerdine_2026-02-04_response__the_systemic_soul.txt"
+        },
+        {
+          "date": "2026-02-04",
+          "title": "The Human Ear: Why Therapy Needs Humans",
+          "file": "emani_gerdine_2026-02-04_the_human_ear__why_therapy_needs_humans.txt"
+        },
+        {
+          "date": "2026-02-04",
+          "title": "The Boundary Paradox: Business vs. Friendship",
+          "file": "emani_gerdine_2026-02-04_the_boundary_paradox__business_vs__friendship.txt"
+        },
+        {
           "date": "2026-02-02",
           "title": "The Rhetoric of Radiance: How CeraVe Shapes Our Choices",
           "file": "emani_gerdine_2026-02-02_the_rhetoric_of_radiance__how_cerave_shapes_our_ch.txt"
@@ -143,6 +178,11 @@
           "date": "2026-02-02",
           "title": "The Recovery Room: Where Agency Meets Anatomy",
           "file": "emani_gerdine_2026-02-02_the_recovery_room__where_agency_meets_anatomy.txt"
+        },
+        {
+          "date": "2026-02-02",
+          "title": "Beyond the Screen: Navigating the 10% Void",
+          "file": "emani_gerdine_2026-02-02_beyond_the_screen__navigating_the_10__void.txt"
         },
         {
           "date": "2026-01-23",
@@ -185,6 +225,11 @@
           "file": "emani_gerdine_2026-01-16_the_agency_paradox__choosing_my_path.txt"
         },
         {
+          "date": "2026-01-16",
+          "title": "Response: The Efficiency Paradox",
+          "file": "emani_gerdine_2026-01-16_response__the_efficiency_paradox.txt"
+        },
+        {
           "date": "2026-01-15",
           "title": "My First Post Title",
           "file": "emani_gerdine_2026-01-15_my_first_post_title.txt"
@@ -194,6 +239,16 @@
     "Jinx Hixson": {
       "url": "https://jinxxywrites.github.io/Psyched-for-Psychology",
       "posts": [
+        {
+          "date": "2026-02-09",
+          "title": "The Biological Necessity of Connection: Mental and Physical Health in a Digital Era",
+          "file": "jinx_hixson_2026-02-09_the_biological_necessity_of_connection__mental_and.txt"
+        },
+        {
+          "date": "2026-02-04",
+          "title": "The Lasting Power of Connection: Why Human Therapy Still Matters",
+          "file": "jinx_hixson_2026-02-04_the_lasting_power_of_connection__why_human_therapy.txt"
+        },
         {
           "date": "2026-02-02",
           "title": "Hollow Presence: The Parasocial Trap of AI Therapy",
@@ -244,6 +299,16 @@
     "Sam Levine": {
       "url": "https://samlevine277.github.io",
       "posts": [
+        {
+          "date": "2026-02-07",
+          "title": "Off-script but not offline",
+          "file": "sam_levine_2026-02-07_off_script_but_not_offline.txt"
+        },
+        {
+          "date": "2026-02-04",
+          "title": "AI vs. Social Media",
+          "file": "sam_levine_2026-02-04_ai_vs__social_media.txt"
+        },
         {
           "date": "2026-02-02",
           "title": "AI-Rugby (Sports)",
@@ -305,6 +370,16 @@
       "url": "https://eliananodari.github.io",
       "posts": [
         {
+          "date": "2026-02-06",
+          "title": "The Slot-Machine Symphony: Why Authenticity Matters in the Age of AI",
+          "file": "eliana_nodari_2026-02-06_the_slot_machine_symphony__why_authenticity_matter.txt"
+        },
+        {
+          "date": "2026-02-04",
+          "title": "The Digital Dual-Threat: Why We’re Hooked on Feeds and Prompts",
+          "file": "eliana_nodari_2026-02-04_the_digital_dual_threat__why_we_re_hooked_on_feeds.txt"
+        },
+        {
           "date": "2026-02-02",
           "title": "The Digital Heartbeat: Navigating the Symbiosis of Human Intuition and AI",
           "file": "eliana_nodari_2026-02-02_the_digital_heartbeat__navigating_the_symbiosis_of.txt"
@@ -354,6 +429,11 @@
     "Jonas Rodrigues": {
       "url": "https://qubitn.github.io",
       "posts": [
+        {
+          "date": "2026-02-04",
+          "title": "How the \"Gamification\" of Music Rewires the Audience",
+          "file": "jonas_rodrigues_2026-02-04_how_the__gamification__of_music_rewires_the_audien.txt"
+        },
         {
           "date": "2026-02-02",
           "title": "Post AI Development",
@@ -433,6 +513,21 @@
     "Tom Bishop": {
       "url": "https://tombishop4.github.io",
       "posts": [
+        {
+          "date": "2026-02-08",
+          "title": "The Blueprint of a Champion: Decoding the \"Ideal\" Boxing Physique",
+          "file": "tom_bishop_2026-02-08_the_blueprint_of_a_champion__decoding_the__ideal__.txt"
+        },
+        {
+          "date": "2026-02-05",
+          "title": "The 70% Fallacy: A Counter-Perspective",
+          "file": "tom_bishop_2026-02-05_the_70__fallacy__a_counter_perspective.txt"
+        },
+        {
+          "date": "2026-02-03",
+          "title": "The Synthesis of Intelligence and Athletics: AI Integration in Global Sports via Podcasts",
+          "file": "tom_bishop_2026-02-03_the_synthesis_of_intelligence_and_athletics__ai_in.txt"
+        },
         {
           "date": "2026-02-02",
           "title": "The Mastermind in the Machine: Why \"Vibe Coding\" Still Needs a Captain",
@@ -524,6 +619,21 @@
       "url": "https://braydenwilson22.github.io",
       "posts": [
         {
+          "date": "2026-02-03",
+          "title": "AI as a Performance Partner: The New Architecture of Achievement",
+          "file": "brayden_wilson_2026-02-03_ai_as_a_performance_partner__the_new_architecture_.txt"
+        },
+        {
+          "date": "2026-02-03",
+          "title": "The Dopamine Ceiling: When Efficiency Becomes Exhaustion",
+          "file": "brayden_wilson_2026-02-03_the_dopamine_ceiling__when_efficiency_becomes_exha.txt"
+        },
+        {
+          "date": "2026-02-03",
+          "title": "The Sweet Science Gets Smarter: How AI is Improving Boxing",
+          "file": "brayden_wilson_2026-02-03_the_sweet_science_gets_smarter__how_ai_is_improvin.txt"
+        },
+        {
           "date": "2026-02-01",
           "title": "The \"Glass Athlete\" Fallacy",
           "file": "brayden_wilson_2026-02-01_the__glass_athlete__fallacy.txt"
@@ -609,6 +719,21 @@
       "url": "https://kevionmilton.github.io",
       "posts": [
         {
+          "date": "2026-02-08",
+          "title": "The Myth of Objective Perfection",
+          "file": "kevion_milton_2026-02-08_the_myth_of_objective_perfection.txt"
+        },
+        {
+          "date": "2026-02-08",
+          "title": "The 2026 Playbook: Why AI Predictions are No Longer Just Science Fiction",
+          "file": "kevion_milton_2026-02-08_the_2026_playbook__why_ai_predictions_are_no_longe.txt"
+        },
+        {
+          "date": "2026-02-08",
+          "title": "Mastering the \"Digital Tape\": What Jacob Burrell Taught Me About Prediction Markets",
+          "file": "kevion_milton_2026-02-08_mastering_the__digital_tape___what_jacob_burrell_t.txt"
+        },
+        {
           "date": "2026-01-26",
           "title": "The \"You-First\" Era: From Mass Media to Personalized Reality",
           "file": "kevion_milton_2026-01-26_the__you_first__era__from_mass_media_to_personaliz.txt"
@@ -638,6 +763,21 @@
     "Zay Amaro": {
       "url": "",
       "posts": [
+        {
+          "date": "2026-02-11",
+          "title": "The Off-Script Athlete: Why We Need Moral Agency in Sports",
+          "file": "zay_amaro_2026-02-11_the_off_script_athlete__why_we_need_moral_agency_i.txt"
+        },
+        {
+          "date": "2026-02-09",
+          "title": "The Biological Locker Room: Why Teams Can't Be Simulated",
+          "file": "zay_amaro_2026-02-09_the_biological_locker_room__why_teams_can_t_be_sim.txt"
+        },
+        {
+          "date": "2026-02-03",
+          "title": "The Simulation Trap: Can We Play the Game Before the Kickoff?",
+          "file": "zay_amaro_2026-02-03_the_simulation_trap__can_we_play_the_game_before_t.txt"
+        },
         {
           "date": "2026-02-02",
           "title": "Beyond the Illusion: Why Data Hits a Ceiling",
@@ -688,6 +828,11 @@
     "Caleb Murphy": {
       "url": "",
       "posts": [
+        {
+          "date": "2026-02-04",
+          "title": "The Data vs. The Drama: A Reply to Tom",
+          "file": "caleb_murphy_2026-02-04_the_data_vs__the_drama__a_reply_to_tom.txt"
+        },
         {
           "date": "2026-01-31",
           "title": "The End of Line-by-Line: A Reply to Jeffrey Way",
