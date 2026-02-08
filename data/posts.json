@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-02-08T23:35:34.281Z",
+  "lastUpdated": "2026-02-08T23:51:00.695Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 159,
+  "totalPosts": 167,
   "totalBlogs": 21,
   "blogsWithErrors": [
     {
@@ -46,6 +46,42 @@
       "author": "Olivia Andresen",
       "authorRole": "student",
       "blogUrl": "https://olliebear2006ya-dotcom.github.io/Olivias-Disney-Blog"
+    },
+    {
+      "title": "The Blueprint of a Champion: Decoding the \"Ideal\" Boxing Physique",
+      "url": "https://tombishop4.github.io/blueprint-champion-boxing-physique.html",
+      "date": "February 8, 2026",
+      "dateISO": "2026-02-08",
+      "author": "Tom Bishop",
+      "authorRole": "student",
+      "blogUrl": "https://tombishop4.github.io"
+    },
+    {
+      "title": "The Myth of Objective Perfection",
+      "url": "https://kevionmilton.github.io/myth-of-objective-perfection.html",
+      "date": "February 8, 2026",
+      "dateISO": "2026-02-08",
+      "author": "Kevion Milton",
+      "authorRole": "student",
+      "blogUrl": "https://kevionmilton.github.io"
+    },
+    {
+      "title": "The 2026 Playbook: Why AI Predictions are No Longer Just Science Fiction",
+      "url": "https://kevionmilton.github.io/2026-playbook-ai-predictions.html",
+      "date": "February 8, 2026",
+      "dateISO": "2026-02-08",
+      "author": "Kevion Milton",
+      "authorRole": "student",
+      "blogUrl": "https://kevionmilton.github.io"
+    },
+    {
+      "title": "Mastering the \"Digital Tape\": What Jacob Burrell Taught Me About Prediction Markets",
+      "url": "https://kevionmilton.github.io/digital-tape-prediction-markets.html",
+      "date": "February 8, 2026",
+      "dateISO": "2026-02-08",
+      "author": "Kevion Milton",
+      "authorRole": "student",
+      "blogUrl": "https://kevionmilton.github.io"
     },
     {
       "title": "Off-script but not offline",
@@ -154,6 +190,36 @@
       "author": "Caleb Murphy",
       "authorRole": "student",
       "blogUrl": "https://calebmurphy01.github.io"
+    },
+    {
+      "title": "Response: The Systemic Soul",
+      "url": "https://emanigerdine7-ops.github.io/the-systemic-soul.html",
+      "date": "February 4, 2026",
+      "dateISO": "2026-02-04",
+      "author": "Emani Gerdine",
+      "authorRole": "student",
+      "blogUrl": "https://emanigerdine7-ops.github.io",
+      "source": "manual"
+    },
+    {
+      "title": "The Human Ear: Why Therapy Needs Humans",
+      "url": "https://emanigerdine7-ops.github.io/human-ear.html",
+      "date": "February 4, 2026",
+      "dateISO": "2026-02-04",
+      "author": "Emani Gerdine",
+      "authorRole": "student",
+      "blogUrl": "https://emanigerdine7-ops.github.io",
+      "source": "manual"
+    },
+    {
+      "title": "The Boundary Paradox: Business vs. Friendship",
+      "url": "https://emanigerdine7-ops.github.io/business-vs-friendship.html",
+      "date": "February 4, 2026",
+      "dateISO": "2026-02-04",
+      "author": "Emani Gerdine",
+      "authorRole": "student",
+      "blogUrl": "https://emanigerdine7-ops.github.io",
+      "source": "manual"
     },
     {
       "title": "The Synthesis of Intelligence and Athletics: AI Integration in Global Sports via Podcasts",
@@ -1252,6 +1318,16 @@
       "author": "Ben Teismann",
       "authorRole": "student",
       "blogUrl": "https://blt279.github.io"
+    },
+    {
+      "title": "Response: The Efficiency Paradox",
+      "url": "https://emanigerdine7-ops.github.io/the-efficiency-paradox.html",
+      "date": "January 16, 2026",
+      "dateISO": "2026-01-16",
+      "author": "Emani Gerdine",
+      "authorRole": "student",
+      "blogUrl": "https://emanigerdine7-ops.github.io",
+      "source": "manual"
     },
     {
       "title": "The Sorcerer's Tool",
