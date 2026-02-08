@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-02-08T21:57:54.541Z",
+  "lastUpdated": "2026-02-08T22:12:18.803Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 156,
+  "totalPosts": 159,
   "totalBlogs": 21,
   "blogsWithErrors": [
     {
@@ -37,6 +37,15 @@
       "author": "Zay Amaro",
       "authorRole": "student",
       "blogUrl": "https://zayamaro.github.io"
+    },
+    {
+      "title": "The Mouse and the Mirror: How Disney Perfects the \"Beyond the Screen\" Philosophy",
+      "url": "https://olliebear2006ya-dotcom.github.io/Olivias-Disney-Blog/the-mouse.html",
+      "date": "Februrary 8, 2026",
+      "dateISO": "2026-02-08",
+      "author": "Olivia Andresen",
+      "authorRole": "student",
+      "blogUrl": "https://olliebear2006ya-dotcom.github.io/Olivias-Disney-Blog"
     },
     {
       "title": "Off-script but not offline",
@@ -91,6 +100,15 @@
       "author": "Dr. Plate",
       "authorRole": "instructor",
       "blogUrl": "https://buildlittleworlds.github.io/plate-composition-blog"
+    },
+    {
+      "title": "From High Scores to High Notes: What Disney Can Teach Us About the Gamification of Music",
+      "url": "https://olliebear2006ya-dotcom.github.io/Olivias-Disney-Blog/from-highscores.html",
+      "date": "Februrary 4, 2026",
+      "dateISO": "2026-02-04",
+      "author": "Olivia Andresen",
+      "authorRole": "student",
+      "blogUrl": "https://olliebear2006ya-dotcom.github.io/Olivias-Disney-Blog"
     },
     {
       "title": "The Lasting Power of Connection: Why Human Therapy Still Matters",
@@ -181,6 +199,15 @@
       "author": "Zay Amaro",
       "authorRole": "student",
       "blogUrl": "https://zayamaro.github.io"
+    },
+    {
+      "title": "The Digital Frontier and the Mouse: Bridging Reality and Simulation",
+      "url": "https://olliebear2006ya-dotcom.github.io/Olivias-Disney-Blog/the-digital-frontier.html",
+      "date": "Februrary 2, 2026",
+      "dateISO": "2026-02-02",
+      "author": "Olivia Andresen",
+      "authorRole": "student",
+      "blogUrl": "https://olliebear2006ya-dotcom.github.io/Olivias-Disney-Blog"
     },
     {
       "title": "The Restoration Window: A Framework for Fair Healing",
