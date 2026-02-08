@@ -1,7 +1,47 @@
 {
   "description": "Manually-specified posts for students whose blogs don't follow the expected structure. These are merged into posts.json by the scraper.",
-  "lastUpdated": "2026-02-02T15:00:00.000Z",
+  "lastUpdated": "2026-02-08T12:00:00.000Z",
   "posts": [
+    {
+      "title": "Response: The Systemic Soul",
+      "url": "https://emanigerdine7-ops.github.io/the-systemic-soul.html",
+      "date": "February 4, 2026",
+      "dateISO": "2026-02-04",
+      "author": "Emani Gerdine",
+      "authorRole": "student",
+      "blogUrl": "https://emanigerdine7-ops.github.io",
+      "source": "manual"
+    },
+    {
+      "title": "The Human Ear: Why Therapy Needs Humans",
+      "url": "https://emanigerdine7-ops.github.io/human-ear.html",
+      "date": "February 4, 2026",
+      "dateISO": "2026-02-04",
+      "author": "Emani Gerdine",
+      "authorRole": "student",
+      "blogUrl": "https://emanigerdine7-ops.github.io",
+      "source": "manual"
+    },
+    {
+      "title": "The Boundary Paradox: Business vs. Friendship",
+      "url": "https://emanigerdine7-ops.github.io/business-vs-friendship.html",
+      "date": "February 4, 2026",
+      "dateISO": "2026-02-04",
+      "author": "Emani Gerdine",
+      "authorRole": "student",
+      "blogUrl": "https://emanigerdine7-ops.github.io",
+      "source": "manual"
+    },
+    {
+      "title": "Response: The Efficiency Paradox",
+      "url": "https://emanigerdine7-ops.github.io/the-efficiency-paradox.html",
+      "date": "January 16, 2026",
+      "dateISO": "2026-01-16",
+      "author": "Emani Gerdine",
+      "authorRole": "student",
+      "blogUrl": "https://emanigerdine7-ops.github.io",
+      "source": "manual"
+    },
     {
       "title": "What is Happening to OpenAI?",
       "url": "https://jake3143.github.io/jake3143/what-is-happening-to-openai.html",
