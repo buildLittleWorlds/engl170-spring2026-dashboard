@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-02-08T05:25:34.168Z",
+  "lastUpdated": "2026-02-08T05:53:24.519Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 155,
+  "totalPosts": 156,
   "totalBlogs": 21,
   "blogsWithErrors": [
     {
@@ -37,6 +37,15 @@
       "author": "Zay Amaro",
       "authorRole": "student",
       "blogUrl": "https://zayamaro.github.io"
+    },
+    {
+      "title": "Off-script but not offline",
+      "url": "https://samlevine277.github.io/off-script-but-not-offline.html",
+      "date": "Feburary 7, 2026",
+      "dateISO": "2026-02-07",
+      "author": "Sam Levine",
+      "authorRole": "student",
+      "blogUrl": "https://samlevine277.github.io"
     },
     {
       "title": "The Slot-Machine Symphony: Why Authenticity Matters in the Age of AI",
