@@ -1,7 +1,27 @@
 {
   "description": "Manually-specified posts for students whose blogs don't follow the expected structure. These are merged into posts.json by the scraper.",
-  "lastUpdated": "2026-02-08T12:00:00.000Z",
+  "lastUpdated": "2026-02-08T14:00:00.000Z",
   "posts": [
+    {
+      "title": "Beyond the Ink: Why the Digital Pen is the Key to Unlocking Creative Potential",
+      "url": "https://iforbes07.github.io/Pablowanye.github.io/beyond-the-ink.html",
+      "date": "February 2, 2026",
+      "dateISO": "2026-02-02",
+      "author": "Isaiah Forbes",
+      "authorRole": "student",
+      "blogUrl": "https://iforbes07.github.io/Pablowanye.github.io",
+      "source": "manual"
+    },
+    {
+      "title": "The Digital Detective: How AI is Finding Out About Murders",
+      "url": "https://iforbes07.github.io/Pablowanye.github.io/ai-investigations.html",
+      "date": "January 21, 2026",
+      "dateISO": "2026-01-21",
+      "author": "Isaiah Forbes",
+      "authorRole": "student",
+      "blogUrl": "https://iforbes07.github.io/Pablowanye.github.io",
+      "source": "manual"
+    },
     {
       "title": "Response: The Systemic Soul",
       "url": "https://emanigerdine7-ops.github.io/the-systemic-soul.html",
