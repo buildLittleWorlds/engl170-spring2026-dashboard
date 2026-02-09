@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-02-09T11:09:22.782Z",
+  "lastUpdated": "2026-02-09T11:32:31.954Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 176,
+  "totalPosts": 179,
   "totalBlogs": 21,
   "blogsWithErrors": [
     {
@@ -28,6 +28,33 @@
       "author": "Jinx Hixson",
       "authorRole": "student",
       "blogUrl": "https://jinxxywrites.github.io/Psyched-for-Psychology"
+    },
+    {
+      "title": "The Digital Scout: How AI is Picking the Next Generation of Stars",
+      "url": "https://kevionmilton.github.io/digital-scout-ai-next-generation.html",
+      "date": "February 9, 2026",
+      "dateISO": "2026-02-09",
+      "author": "Kevion Milton",
+      "authorRole": "student",
+      "blogUrl": "https://kevionmilton.github.io"
+    },
+    {
+      "title": "Health vs. Hype: Is AI a Bodyguard or a Performance Enhancer?",
+      "url": "https://kevionmilton.github.io/health-vs-hype-ai-bodyguard.html",
+      "date": "February 9, 2026",
+      "dateISO": "2026-02-09",
+      "author": "Kevion Milton",
+      "authorRole": "student",
+      "blogUrl": "https://kevionmilton.github.io"
+    },
+    {
+      "title": "RE: \"The Cold Doctor\" (AI in Healthcare)",
+      "url": "https://kevionmilton.github.io/the-cold-doctor-ai-healthcare.html",
+      "date": "February 9, 2026",
+      "dateISO": "2026-02-09",
+      "author": "Kevion Milton",
+      "authorRole": "student",
+      "blogUrl": "https://kevionmilton.github.io"
     },
     {
       "title": "The Biological Locker Room: Why Teams Can't Be Simulated",
