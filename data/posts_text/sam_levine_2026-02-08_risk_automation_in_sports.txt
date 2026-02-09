@@ -1,0 +1,31 @@
+Clarifying Risk: Why Automation Enhances Human Agency in Sport
+&larr; Back to Home
+Clarifying Risk: Why Automation Enhances Human Agency in Sport
+In his post, Gabriel Bell argues that automation in sport risks draining games of their humanity by removing the “soul” that comes from error. He emphasizes that officiating mistakes, while technically flaws, generate drama and narrative:
+“Error creates friction, and friction creates heat, light, and story. A game without mistakes is a game without a soul.”
+-- Gabriel Bell
+I agree that human drama is central to sport. However, Bell’s argument conflates all error with meaningful risk, and in doing so, overlooks how automation can actually preserve human agency and creativity rather than erode it. By distinguishing between errors that emerge from player choice and errors that emerge from procedural arbitrariness, we can see that automation does not reduce risk — it makes it more intentional, accountable, and impactful.
+Risk Requires Knowable Constraints
+Bell treats all unpredictability as a source of meaning. But meaningful risk arises only under legible constraints. Athletes cannot make purposeful choices if outcomes are determined by inconsistent officiating. Random calls do not challenge skill or strategy; they create noise, not drama.
+When rules are applied consistently — through automation like VAR, ABS, or sensor-based adjudication — athletes still face uncertainty about outcomes, but the framework is stable. This stability does not remove challenge; it relocates responsibility directly onto the players. They are no longer competing against arbitrary mistakes — they are competing against each other, the environment, and themselves.
+Rugby, AI, and Intentional Risk
+My own experience as a rugby player illustrates this principle. Teammates often laugh when I ask AI tools how to optimize recovery, improve efficiency, or manage injuries strategically. The assumption is that this reduces grit, making the game less “human.”
+In reality, it does the opposite. AI doesn’t remove risk from my game; it makes risk deliberate. Knowing how to recover properly doesn’t stop me from committing to hard tackles or fast breaks — it ensures the risks I take are calculated, not careless. Understanding my limits shifts responsibility back to me, forcing me to decide what I am willing to endure for success.
+Automation in officiating works the same way. By removing arbitrary errors, athletes confront the consequences of their own choices, not those imposed by inconsistent systems. Precision does not eliminate risk; it clarifies the stakes.
+Constraints Don’t Kill Creativity — They Produce It
+This perspective is supported by sports science. Karl Newell, in his foundational work on motor learning, argues that skill and creativity emerge because of constraints, not in spite of them:
+“Movement coordination patterns emerge as a function of constraints imposed by the task, the environment, and the organism.”
+-- Karl M. Newell, Constraints on the Development of Coordination (1986)
+Clear rules, structured training, and automated adjudication are all forms of constraints. Rather than sterilizing play, they focus creativity. Players cannot rely on randomness or luck — they must adapt, improvise, and innovate within well-defined parameters. Consistent enforcement of rules makes risk heavier and more meaningful, not weaker.
+Drama Migrates Rather Than Disappears
+Bell suggests that automation removes drama, but in fact, drama merely shifts its focus. Before automation, tension often arises from procedural unpredictability — who made the call, rather than who played the game. After automation, drama emerges from human execution under clear, high-stakes conditions.
+Precision forces athletes to face real consequences for their choices.
+Performance, strategy, and decision-making become the center of suspense, not arbitrariness.
+Players must adapt in real time, improvising within stable rules — a purer form of risk.
+In my rugby experience, clear guidelines on recovery and performance monitoring do not reduce the stakes; they amplify them. Every high-speed decision and every physical commitment is deliberate, intentional, and accountable.
+Reframing the Magic Circle
+Bell invokes Huizinga’s “magic circle” to argue that automation punctures the human space of play. But the circle has always been permeable — with money, media, and technology influencing sport. What sustains the circle is trust, not imperfection. Automated systems ensure consistency, preserving that trust while keeping the human elements — judgment, strategy, creativity, and courage — central.
+Automation doesn’t destroy the soul of sport. It protects the human story by ensuring that the friction players experience comes from the challenges they choose, not from procedural failures outside their control.
+Conclusion: Intentional Risk is Human Risk
+Error in sport matters when it is answerable, not when it is arbitrary. Automation and AI clarify boundaries, remove meaningless randomness, and allow athletes to take risks with full knowledge and responsibility. My own experience in rugby shows that tools designed to optimize recovery or strategy do not reduce risk — they amplify the consequences of the risks players choose to take.
+Bell is correct that human drama is essential, but he overestimates the role of arbitrary error. Real risk and real creativity persist — and are often enhanced — under automation. By clarifying the playing field, we make risk more human, not less.

@@ -1,6 +1,6 @@
 {
   "description": "Maps post URLs to saved filenames. Prevents re-downloading when titles change.",
-  "lastUpdated": "2026-02-09T11:00:02.989Z",
+  "lastUpdated": "2026-02-09T11:30:02.918Z",
   "urls": {
     "https://jrbrunts.github.io/restoration-window.html": "jacob_brunts_2026-02-02_the_restoration_window__a_framework_for_fair_heali.txt",
     "https://jrbrunts.github.io/infinite-therapist.html": "jacob_brunts_2026-02-02_the_infinite_therapist__democratizing_the_mind.txt",
@@ -174,6 +174,14 @@
     "https://emanigerdine7-ops.github.io/human-ear.html": "emani_gerdine_2026-02-04_the_human_ear__why_therapy_needs_humans.txt",
     "https://emanigerdine7-ops.github.io/business-vs-friendship.html": "emani_gerdine_2026-02-04_the_boundary_paradox__business_vs__friendship.txt",
     "https://emanigerdine7-ops.github.io/the-efficiency-paradox.html": "emani_gerdine_2026-01-16_response__the_efficiency_paradox.txt",
-    "https://calebmurphy01.github.io/athlete-intuition.html": "caleb_murphy_2026-02-08_the_human_edge_in_the_arena__responding_to_zay.txt"
+    "https://calebmurphy01.github.io/athlete-intuition.html": "caleb_murphy_2026-02-08_the_human_edge_in_the_arena__responding_to_zay.txt",
+    "https://gabriel-bell.github.io/the-ghost-in-the-canvas.html": "gabriel_bell_2026-02-08_the_ghost_in_the_canvas__why_creativity_requires_t.txt",
+    "https://gabriel-bell.github.io/error-is-the-soul.html": "gabriel_bell_2026-02-08_the_friction_of_the_human__why_error_is_the_soul_o.txt",
+    "https://samlevine277.github.io/clarifying-risk-automation-sport.html": "sam_levine_2026-02-08_risk_automation_in_sports.txt",
+    "https://qubitn.github.io/the-vibe-schism.html": "jonas_rodrigues_2026-02-08_the_vibe_schism.txt",
+    "https://dominicdebro.github.io/the-human-premium.html": "dominic_debro_2026-02-08_the_human_premium__why_ai_is_the_greatest_catalyst.txt",
+    "https://bellacalmetjanssen-cell.github.io/isabella-calmet-.github.io/architectural-agency-ai.html": "isabella_calmet_2026-02-08_beyond_the_vibe__why__architectural_agency__is_the.txt",
+    "https://bellacalmetjanssen-cell.github.io/isabella-calmet-.github.io/athletic-autonomy-ai.html": "isabella_calmet_2026-02-08_informed_instinct__why_data_sovereignty_is_the_fut.txt",
+    "https://dominicdebro.github.io/great-decoupling-ai.html": "dominic_debro_2026-02-02_the_great_decoupling__why_ai_is_the_key_to_escapin.txt"
   }
 }

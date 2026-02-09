@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-09T11:00:02.986Z",
+  "lastUpdated": "2026-02-09T11:30:02.910Z",
   "students": {
     "Olivia Andresen": {
       "url": "https://olliebear2006ya-dotcom.github.io/Olivias-Disney-Blog",
@@ -64,6 +64,16 @@
     "Gabriel Bell": {
       "url": "https://gabriel-bell.github.io",
       "posts": [
+        {
+          "date": "2026-02-08",
+          "title": "The Ghost in the Canvas: Why Creativity Requires the Risk of Failure",
+          "file": "gabriel_bell_2026-02-08_the_ghost_in_the_canvas__why_creativity_requires_t.txt"
+        },
+        {
+          "date": "2026-02-08",
+          "title": "The Friction of the Human: Why Error is the Soul of the Game",
+          "file": "gabriel_bell_2026-02-08_the_friction_of_the_human__why_error_is_the_soul_o.txt"
+        },
         {
           "date": "2026-01-25",
           "title": "The Silicon Mirage: Why AI Abundance May Be Our Newest Form of Scarcity",
@@ -300,6 +310,11 @@
       "url": "https://samlevine277.github.io",
       "posts": [
         {
+          "date": "2026-02-08",
+          "title": "risk automation in sports",
+          "file": "sam_levine_2026-02-08_risk_automation_in_sports.txt"
+        },
+        {
           "date": "2026-02-07",
           "title": "Off-script but not offline",
           "file": "sam_levine_2026-02-07_off_script_but_not_offline.txt"
@@ -429,6 +444,11 @@
     "Jonas Rodrigues": {
       "url": "https://qubitn.github.io",
       "posts": [
+        {
+          "date": "2026-02-08",
+          "title": "The Vibe Schism",
+          "file": "jonas_rodrigues_2026-02-08_the_vibe_schism.txt"
+        },
         {
           "date": "2026-02-04",
           "title": "How the \"Gamification\" of Music Rewires the Audience",
@@ -564,6 +584,16 @@
       "url": "https://dominicdebro.github.io",
       "posts": [
         {
+          "date": "2026-02-08",
+          "title": "The Human Premium: Why AI is the Greatest Catalyst for Artistry",
+          "file": "dominic_debro_2026-02-08_the_human_premium__why_ai_is_the_greatest_catalyst.txt"
+        },
+        {
+          "date": "2026-02-02",
+          "title": "The Great Decoupling: Why AI is the Key to Escaping the Productivity Trap",
+          "file": "dominic_debro_2026-02-02_the_great_decoupling__why_ai_is_the_key_to_escapin.txt"
+        },
+        {
           "date": "2026-02-01",
           "title": "The Employment Trap: Rethinking Productivity in the Age of AI",
           "file": "dominic_debro_2026-02-01_the_employment_trap__rethinking_productivity_in_th.txt"
@@ -668,6 +698,16 @@
     "Isabella Calmet": {
       "url": "https://bellacalmetjanssen-cell.github.io/isabella-calmet-.github.io",
       "posts": [
+        {
+          "date": "2026-02-08",
+          "title": "Beyond the Vibe: Why \"Architectural Agency\" is the Human Anchor in an AI World",
+          "file": "isabella_calmet_2026-02-08_beyond_the_vibe__why__architectural_agency__is_the.txt"
+        },
+        {
+          "date": "2026-02-08",
+          "title": "Informed Instinct: Why Data Sovereignty is the Future of Athletic Autonomy",
+          "file": "isabella_calmet_2026-02-08_informed_instinct__why_data_sovereignty_is_the_fut.txt"
+        },
         {
           "date": "2026-02-02",
           "title": "The 50/50 Rule: Balancing Human Agency and AI Safety in Modern Athletics",
