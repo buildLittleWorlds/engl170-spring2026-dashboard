@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-08T23:47:44.210Z",
+  "lastUpdated": "2026-02-09T11:00:02.986Z",
   "students": {
     "Olivia Andresen": {
       "url": "https://olliebear2006ya-dotcom.github.io/Olivias-Disney-Blog",
@@ -828,6 +828,11 @@
     "Caleb Murphy": {
       "url": "",
       "posts": [
+        {
+          "date": "2026-02-08",
+          "title": "The Human Edge in the Arena: Responding to Zay",
+          "file": "caleb_murphy_2026-02-08_the_human_edge_in_the_arena__responding_to_zay.txt"
+        },
         {
           "date": "2026-02-04",
           "title": "The Data vs. The Drama: A Reply to Tom",

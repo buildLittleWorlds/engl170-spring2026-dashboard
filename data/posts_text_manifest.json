@@ -1,6 +1,6 @@
 {
   "description": "Maps post URLs to saved filenames. Prevents re-downloading when titles change.",
-  "lastUpdated": "2026-02-08T23:47:44.211Z",
+  "lastUpdated": "2026-02-09T11:00:02.989Z",
   "urls": {
     "https://jrbrunts.github.io/restoration-window.html": "jacob_brunts_2026-02-02_the_restoration_window__a_framework_for_fair_heali.txt",
     "https://jrbrunts.github.io/infinite-therapist.html": "jacob_brunts_2026-02-02_the_infinite_therapist__democratizing_the_mind.txt",
@@ -173,6 +173,7 @@
     "https://emanigerdine7-ops.github.io/the-systemic-soul.html": "emani_gerdine_2026-02-04_response__the_systemic_soul.txt",
     "https://emanigerdine7-ops.github.io/human-ear.html": "emani_gerdine_2026-02-04_the_human_ear__why_therapy_needs_humans.txt",
     "https://emanigerdine7-ops.github.io/business-vs-friendship.html": "emani_gerdine_2026-02-04_the_boundary_paradox__business_vs__friendship.txt",
-    "https://emanigerdine7-ops.github.io/the-efficiency-paradox.html": "emani_gerdine_2026-01-16_response__the_efficiency_paradox.txt"
+    "https://emanigerdine7-ops.github.io/the-efficiency-paradox.html": "emani_gerdine_2026-01-16_response__the_efficiency_paradox.txt",
+    "https://calebmurphy01.github.io/athlete-intuition.html": "caleb_murphy_2026-02-08_the_human_edge_in_the_arena__responding_to_zay.txt"
   }
 }

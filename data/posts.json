@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-02-09T10:42:44.045Z",
+  "lastUpdated": "2026-02-09T00:10:56.538Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 176,
+  "totalPosts": 170,
   "totalBlogs": 21,
   "blogsWithErrors": [
     {
@@ -48,42 +48,6 @@
       "blogUrl": "https://olliebear2006ya-dotcom.github.io/Olivias-Disney-Blog"
     },
     {
-      "title": "The Ghost in the Canvas: Why Creativity Requires the Risk of Failure",
-      "url": "https://gabriel-bell.github.io/the-ghost-in-the-canvas.html",
-      "date": "February 8, 2026",
-      "dateISO": "2026-02-08",
-      "author": "Gabriel Bell",
-      "authorRole": "student",
-      "blogUrl": "https://gabriel-bell.github.io"
-    },
-    {
-      "title": "The Friction of the Human: Why Error is the Soul of the Game",
-      "url": "https://gabriel-bell.github.io/error-is-the-soul.html",
-      "date": "February 8, 2026",
-      "dateISO": "2026-02-08",
-      "author": "Gabriel Bell",
-      "authorRole": "student",
-      "blogUrl": "https://gabriel-bell.github.io"
-    },
-    {
-      "title": "risk automation in sports",
-      "url": "https://samlevine277.github.io/clarifying-risk-automation-sport.html",
-      "date": "Feburary 8, 2026",
-      "dateISO": "2026-02-08",
-      "author": "Sam Levine",
-      "authorRole": "student",
-      "blogUrl": "https://samlevine277.github.io"
-    },
-    {
-      "title": "The Vibe Schism",
-      "url": "https://qubitn.github.io/the-vibe-schism.html",
-      "date": "February 8, 2026",
-      "dateISO": "2026-02-08",
-      "author": "Jonas Rodrigues",
-      "authorRole": "student",
-      "blogUrl": "https://qubitn.github.io"
-    },
-    {
       "title": "The Blueprint of a Champion: Decoding the \"Ideal\" Boxing Physique",
       "url": "https://tombishop4.github.io/blueprint-champion-boxing-physique.html",
       "date": "February 8, 2026",
@@ -91,42 +55,6 @@
       "author": "Tom Bishop",
       "authorRole": "student",
       "blogUrl": "https://tombishop4.github.io"
-    },
-    {
-      "title": "The Human Premium: Why AI is the Greatest Catalyst for Artistry",
-      "url": "https://dominicdebro.github.io/the-human-premium.html",
-      "date": "February 8, 2026",
-      "dateISO": "2026-02-08",
-      "author": "Dominic Debro",
-      "authorRole": "student",
-      "blogUrl": "https://dominicdebro.github.io"
-    },
-    {
-      "title": "Beyond the Vibe: Why \"Architectural Agency\" is the Human Anchor in an AI World",
-      "url": "https://bellacalmetjanssen-cell.github.io/isabella-calmet-.github.io/architectural-agency-ai.html",
-      "date": "February 8, 2026",
-      "dateISO": "2026-02-08",
-      "author": "Isabella Calmet",
-      "authorRole": "student",
-      "blogUrl": "https://bellacalmetjanssen-cell.github.io/isabella-calmet-.github.io"
-    },
-    {
-      "title": "Informed Instinct: Why Data Sovereignty is the Future of Athletic Autonomy",
-      "url": "https://bellacalmetjanssen-cell.github.io/isabella-calmet-.github.io/athletic-autonomy-ai.html",
-      "date": "February 8, 2026",
-      "dateISO": "2026-02-08",
-      "author": "Isabella Calmet",
-      "authorRole": "student",
-      "blogUrl": "https://bellacalmetjanssen-cell.github.io/isabella-calmet-.github.io"
-    },
-    {
-      "title": "The Genetic Fingerprint: AI and the End of Late-Stage Diagnosis",
-      "url": "https://bellacalmetjanssen-cell.github.io/isabella-calmet-.github.io/genetic-fingerprint-ai.html",
-      "date": "February 8, 2026",
-      "dateISO": "2026-02-08",
-      "author": "Isabella Calmet",
-      "authorRole": "student",
-      "blogUrl": "https://bellacalmetjanssen-cell.github.io/isabella-calmet-.github.io"
     },
     {
       "title": "The Myth of Objective Perfection",
@@ -456,13 +384,13 @@
       "blogUrl": "https://tombishop4.github.io"
     },
     {
-      "title": "The Great Decoupling: Why AI is the Key to Escaping the Productivity Trap",
-      "url": "https://dominicdebro.github.io/great-decoupling-ai.html",
+      "title": "The Genetic Fingerprint: AI and the End of Late-Stage Diagnosis",
+      "url": "https://bellacalmetjanssen-cell.github.io/isabella-calmet-.github.io/genetic-fingerprint-ai.html",
       "date": "February 2, 2026",
       "dateISO": "2026-02-02",
-      "author": "Dominic Debro",
+      "author": "Isabella Calmet",
       "authorRole": "student",
-      "blogUrl": "https://dominicdebro.github.io"
+      "blogUrl": "https://bellacalmetjanssen-cell.github.io/isabella-calmet-.github.io"
     },
     {
       "title": "The 50/50 Rule: Balancing Human Agency and AI Safety in Modern Athletics",
@@ -1159,6 +1087,15 @@
       "blogUrl": "https://eliananodari.github.io"
     },
     {
+      "title": "Beyond the Screen: Cultivating a \"Low-Ceiling\" Lifestyle",
+      "url": "https://dominicdebro.github.io/low-ceiling-lifestyle.html",
+      "date": "January 21, 2026",
+      "dateISO": "2026-01-21",
+      "author": "Dominic Debro",
+      "authorRole": "student",
+      "blogUrl": "https://dominicdebro.github.io"
+    },
+    {
       "title": "The 2026 Sports Convergence: 3D Avatars, Aero-Engineering, and the Agentic Scout",
       "url": "https://kevionmilton.github.io/sports-convergence.html",
       "date": "January 21, 2026",
@@ -1311,6 +1248,15 @@
       "author": "Ben Teismann",
       "authorRole": "student",
       "blogUrl": "https://blt279.github.io"
+    },
+    {
+      "title": "The Efficiency Paradox: Why Some Struggles Aren't Worth the Cost",
+      "url": "https://dominicdebro.github.io/efficiency-paradox.html",
+      "date": "January 18, 2026",
+      "dateISO": "2026-01-18",
+      "author": "Dominic Debro",
+      "authorRole": "student",
+      "blogUrl": "https://dominicdebro.github.io"
     },
     {
       "title": "Blood on the Ice: The St. Louis Blues and Chicago Blackhawks Rivalry",
