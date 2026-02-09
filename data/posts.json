@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-02-09T18:36:25.554Z",
+  "lastUpdated": "2026-02-09T19:13:40.707Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 185,
+  "totalPosts": 186,
   "totalBlogs": 21,
   "blogsWithErrors": [
     {
@@ -46,6 +46,15 @@
       "author": "Dr. Plate",
       "authorRole": "instructor",
       "blogUrl": "https://buildlittleworlds.github.io/plate-composition-blog"
+    },
+    {
+      "title": "New Dangers",
+      "url": "https://gabriel-bell.github.io/new-dangers.html",
+      "date": "February 9, 2026",
+      "dateISO": "2026-02-09",
+      "author": "Gabriel Bell",
+      "authorRole": "student",
+      "blogUrl": "https://gabriel-bell.github.io"
     },
     {
       "title": "Fostering Healthy Relationship Skills: A Psychological Blueprint",
