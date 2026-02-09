@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-02-09T06:17:11.992Z",
+  "lastUpdated": "2026-02-09T07:18:18.160Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 179,
+  "totalPosts": 176,
   "totalBlogs": 21,
   "blogsWithErrors": [
     {
@@ -1159,15 +1159,6 @@
       "blogUrl": "https://eliananodari.github.io"
     },
     {
-      "title": "Beyond the Screen: Cultivating a \"Low-Ceiling\" Lifestyle",
-      "url": "https://dominicdebro.github.io/low-ceiling-lifestyle.html",
-      "date": "January 21, 2026",
-      "dateISO": "2026-01-21",
-      "author": "Dominic Debro",
-      "authorRole": "student",
-      "blogUrl": "https://dominicdebro.github.io"
-    },
-    {
       "title": "The 2026 Sports Convergence: 3D Avatars, Aero-Engineering, and the Agentic Scout",
       "url": "https://kevionmilton.github.io/sports-convergence.html",
       "date": "January 21, 2026",
@@ -1320,24 +1311,6 @@
       "author": "Ben Teismann",
       "authorRole": "student",
       "blogUrl": "https://blt279.github.io"
-    },
-    {
-      "title": "The Efficiency Paradox: Why Some Struggles Aren't Worth the Cost",
-      "url": "https://dominicdebro.github.io/efficiency-paradox.html",
-      "date": "January 18, 2026",
-      "dateISO": "2026-01-18",
-      "author": "Dominic Debro",
-      "authorRole": "student",
-      "blogUrl": "https://dominicdebro.github.io"
-    },
-    {
-      "title": "The Dopamine Ceiling: Mental Health in the Loud Lie Economy",
-      "url": "https://dominicdebro.github.io/dopamine-ceiling.html",
-      "date": "January 18, 2026",
-      "dateISO": "2026-01-18",
-      "author": "Dominic Debro",
-      "authorRole": "student",
-      "blogUrl": "https://dominicdebro.github.io"
     },
     {
       "title": "Blood on the Ice: The St. Louis Blues and Chicago Blackhawks Rivalry",
