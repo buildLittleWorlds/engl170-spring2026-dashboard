@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-02-09T05:14:04.607Z",
+  "lastUpdated": "2026-02-09T05:49:18.992Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 174,
+  "totalPosts": 177,
   "totalBlogs": 21,
   "blogsWithErrors": [
     {
@@ -91,6 +91,15 @@
       "author": "Tom Bishop",
       "authorRole": "student",
       "blogUrl": "https://tombishop4.github.io"
+    },
+    {
+      "title": "The Human Premium: Why AI is the Greatest Catalyst for Artistry",
+      "url": "https://dominicdebro.github.io/the-human-premium.html",
+      "date": "February 8, 2026",
+      "dateISO": "2026-02-08",
+      "author": "Dominic Debro",
+      "authorRole": "student",
+      "blogUrl": "https://dominicdebro.github.io"
     },
     {
       "title": "The Myth of Objective Perfection",
@@ -418,6 +427,15 @@
       "author": "Tom Bishop",
       "authorRole": "student",
       "blogUrl": "https://tombishop4.github.io"
+    },
+    {
+      "title": "The Great Decoupling: Why AI is the Key to Escaping the Productivity Trap",
+      "url": "https://dominicdebro.github.io/great-decoupling-ai.html",
+      "date": "February 2, 2026",
+      "dateISO": "2026-02-02",
+      "author": "Dominic Debro",
+      "authorRole": "student",
+      "blogUrl": "https://dominicdebro.github.io"
     },
     {
       "title": "The Genetic Fingerprint: AI and the End of Late-Stage Diagnosis",
@@ -1288,6 +1306,15 @@
     {
       "title": "The Efficiency Paradox: Why Some Struggles Aren't Worth the Cost",
       "url": "https://dominicdebro.github.io/efficiency-paradox.html",
+      "date": "January 18, 2026",
+      "dateISO": "2026-01-18",
+      "author": "Dominic Debro",
+      "authorRole": "student",
+      "blogUrl": "https://dominicdebro.github.io"
+    },
+    {
+      "title": "The Dopamine Ceiling: Mental Health in the Loud Lie Economy",
+      "url": "https://dominicdebro.github.io/dopamine-ceiling.html",
       "date": "January 18, 2026",
       "dateISO": "2026-01-18",
       "author": "Dominic Debro",
