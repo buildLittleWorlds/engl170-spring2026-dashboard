@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-02-09T17:00:13.214Z",
+  "lastUpdated": "2026-02-09T17:26:58.050Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 181,
+  "totalPosts": 183,
   "totalBlogs": 21,
   "blogsWithErrors": [
     {
@@ -46,6 +46,24 @@
       "author": "Jinx Hixson",
       "authorRole": "student",
       "blogUrl": "https://jinxxywrites.github.io/Psyched-for-Psychology"
+    },
+    {
+      "title": "automation in rugby",
+      "url": "https://samlevine277.github.io/automation_accountability_rugby_blog.html",
+      "date": "Feburary 9, 2026",
+      "dateISO": "2026-02-09",
+      "author": "Sam Levine",
+      "authorRole": "student",
+      "blogUrl": "https://samlevine277.github.io"
+    },
+    {
+      "title": "The Curated Self vs. The Beautiful Mess: Why We Must Reclaim Our Flaws",
+      "url": "https://eliananodari.github.io/curated-self-vs-beautiful-mess.html",
+      "date": "February 9, 2026",
+      "dateISO": "2026-02-09",
+      "author": "Eliana Nodari",
+      "authorRole": "student",
+      "blogUrl": "https://eliananodari.github.io"
     },
     {
       "title": "The Digital Scout: How AI is Picking the Next Generation of Stars",
