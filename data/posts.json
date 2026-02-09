@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-02-09T17:26:58.050Z",
+  "lastUpdated": "2026-02-09T17:51:24.611Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 183,
+  "totalPosts": 184,
   "totalBlogs": 21,
   "blogsWithErrors": [
     {
@@ -39,8 +39,8 @@
       "blogUrl": "https://buildlittleworlds.github.io/plate-composition-blog"
     },
     {
-      "title": "The Biological Necessity of Connection: Mental and Physical Health in a Digital Era",
-      "url": "https://jinxxywrites.github.io/Psyched-for-Psychology/health-and-connection.html",
+      "title": "Fostering Healthy Relationship Skills: A Psychological Blueprint",
+      "url": "https://jinxxywrites.github.io/Psyched-for-Psychology/healthy-relationship-skills.html",
       "date": "February 9, 2026",
       "dateISO": "2026-02-09",
       "author": "Jinx Hixson",
@@ -235,6 +235,15 @@
       "author": "Sam Levine",
       "authorRole": "student",
       "blogUrl": "https://samlevine277.github.io"
+    },
+    {
+      "title": "The Biological Necessity of Connection: Mental and Physical Health in a Digital Era",
+      "url": "https://jinxxywrites.github.io/Psyched-for-Psychology/health-and-connection.html",
+      "date": "February 6, 2026",
+      "dateISO": "2026-02-06",
+      "author": "Jinx Hixson",
+      "authorRole": "student",
+      "blogUrl": "https://jinxxywrites.github.io/Psyched-for-Psychology"
     },
     {
       "title": "The Slot-Machine Symphony: Why Authenticity Matters in the Age of AI",
