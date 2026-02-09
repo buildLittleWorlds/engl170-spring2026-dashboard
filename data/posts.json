@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-02-08T23:47:39.614Z",
+  "lastUpdated": "2026-02-09T00:01:59.801Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 167,
+  "totalPosts": 170,
   "totalBlogs": 21,
   "blogsWithErrors": [
     {
@@ -82,6 +82,15 @@
       "author": "Kevion Milton",
       "authorRole": "student",
       "blogUrl": "https://kevionmilton.github.io"
+    },
+    {
+      "title": "The Human Edge in the Arena: Responding to Zay",
+      "url": "https://calebmurphy01.github.io/athlete-intuition.html",
+      "date": "February 8, 2026",
+      "dateISO": "2026-02-08",
+      "author": "Caleb Murphy",
+      "authorRole": "student",
+      "blogUrl": "https://calebmurphy01.github.io"
     },
     {
       "title": "Off-script but not offline",
@@ -418,6 +427,16 @@
       "author": "Donovan Campbell",
       "authorRole": "student",
       "blogUrl": "https://terryrozier1267.github.io"
+    },
+    {
+      "title": "Beyond the Ink: Why the Digital Pen is the Key to Unlocking Creative Potential",
+      "url": "https://iforbes07.github.io/Pablowanye.github.io/beyond-the-ink.html",
+      "date": "February 2, 2026",
+      "dateISO": "2026-02-02",
+      "author": "Isaiah Forbes",
+      "authorRole": "student",
+      "blogUrl": "https://iforbes07.github.io/Pablowanye.github.io",
+      "source": "manual"
     },
     {
       "title": "The Heroism of \"Enough\"",
@@ -1111,6 +1130,16 @@
       "author": "Donovan Campbell",
       "authorRole": "student",
       "blogUrl": "https://terryrozier1267.github.io"
+    },
+    {
+      "title": "The Digital Detective: How AI is Finding Out About Murders",
+      "url": "https://iforbes07.github.io/Pablowanye.github.io/ai-investigations.html",
+      "date": "January 21, 2026",
+      "dateISO": "2026-01-21",
+      "author": "Isaiah Forbes",
+      "authorRole": "student",
+      "blogUrl": "https://iforbes07.github.io/Pablowanye.github.io",
+      "source": "manual"
     },
     {
       "title": "Theories of Safety: AI-Encouraged Self-Injury",
