@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-02-09T11:54:32.704Z",
+  "lastUpdated": "2026-02-09T12:21:22.169Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 180,
+  "totalPosts": 181,
   "totalBlogs": 21,
   "blogsWithErrors": [
     {
@@ -19,6 +19,15 @@
       "author": "Zay Amaro",
       "authorRole": "student",
       "blogUrl": "https://zayamaro.github.io"
+    },
+    {
+      "title": "New Vulnerabilities",
+      "url": "https://buildlittleworlds.github.io/plate-composition-blog/posts/new-vulnerabilities/",
+      "date": "February 9, 2026",
+      "dateISO": "2026-02-09",
+      "author": "Dr. Plate",
+      "authorRole": "instructor",
+      "blogUrl": "https://buildlittleworlds.github.io/plate-composition-blog"
     },
     {
       "title": "The Canary in the Codebase",
