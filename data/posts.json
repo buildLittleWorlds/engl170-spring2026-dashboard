@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-02-09T02:27:05.930Z",
+  "lastUpdated": "2026-02-09T03:33:17.405Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 172,
+  "totalPosts": 173,
   "totalBlogs": 21,
   "blogsWithErrors": [
     {
@@ -46,6 +46,15 @@
       "author": "Olivia Andresen",
       "authorRole": "student",
       "blogUrl": "https://olliebear2006ya-dotcom.github.io/Olivias-Disney-Blog"
+    },
+    {
+      "title": "The Ghost in the Canvas: Why Creativity Requires the Risk of Failure",
+      "url": "https://gabriel-bell.github.io/the-ghost-in-the-canvas.html",
+      "date": "February 8, 2026",
+      "dateISO": "2026-02-08",
+      "author": "Gabriel Bell",
+      "authorRole": "student",
+      "blogUrl": "https://gabriel-bell.github.io"
     },
     {
       "title": "The Friction of the Human: Why Error is the Soul of the Game",
