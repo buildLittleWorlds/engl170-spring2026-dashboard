@@ -1293,6 +1293,247 @@ a:hover {
   color: var(--accent-highlight);
 }
 
+/* ========================================
+   Writing Plan / Annotated Bibliography
+   ======================================== */
+.writing-plan-content {
+  padding-top: var(--space-xl);
+}
+
+.writing-plan-section {
+  margin-bottom: var(--space-3xl);
+}
+
+.prose-block {
+  font-size: 1rem;
+  line-height: 1.8;
+  color: var(--text-secondary);
+  max-width: 52rem;
+}
+
+.prose-block p {
+  margin-bottom: var(--space-lg);
+}
+
+/* Source entry cards */
+.source-entry {
+  padding: var(--space-xl);
+  background: var(--bg-surface);
+  border: 1px solid var(--border-subtle);
+  border-left: 3px solid var(--accent-warm);
+  border-radius: 10px;
+  margin-bottom: var(--space-xl);
+}
+
+.source-entry-title {
+  font-family: var(--font-display);
+  font-size: 1.5rem;
+  font-weight: 400;
+  color: var(--text-primary);
+  margin-bottom: var(--space-xs);
+}
+
+.source-entry-meta {
+  font-size: 0.85rem;
+  color: var(--text-tertiary);
+  margin-bottom: var(--space-lg);
+}
+
+.source-subsection-heading {
+  font-family: var(--font-body);
+  font-size: 0.7rem;
+  font-weight: 600;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  color: var(--accent-warm);
+  margin-top: var(--space-lg);
+  margin-bottom: var(--space-sm);
+}
+
+.source-subsection-text {
+  font-size: 0.95rem;
+  line-height: 1.7;
+  color: var(--text-secondary);
+}
+
+.source-subsection-text p {
+  margin-bottom: var(--space-md);
+}
+
+.source-student-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-sm);
+  margin-top: var(--space-sm);
+}
+
+/* Go Deeper grid */
+.go-deeper-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+  gap: var(--space-sm);
+  margin-top: var(--space-sm);
+}
+
+.go-deeper-link {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-xs);
+  padding: var(--space-sm) var(--space-md);
+  background: var(--bg-elevated);
+  border: 1px solid var(--border-subtle);
+  border-radius: 6px;
+  transition: all 0.2s ease;
+  font-size: 0.85rem;
+  color: var(--text-primary);
+}
+
+.go-deeper-link:hover {
+  border-color: var(--border-accent);
+  background: var(--bg-hover);
+  color: var(--accent-warm);
+}
+
+.go-deeper-link .link-category {
+  font-size: 0.65rem;
+  color: var(--text-tertiary);
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  font-weight: 500;
+}
+
+/* Dialogue entry cards */
+.dialogue-entry {
+  padding: var(--space-lg);
+  background: var(--bg-surface);
+  border: 1px solid var(--border-subtle);
+  border-radius: 10px;
+  margin-bottom: var(--space-md);
+  transition: all 0.2s ease;
+}
+
+.dialogue-entry:hover {
+  border-color: var(--border-accent);
+  background: var(--bg-elevated);
+}
+
+.dialogue-entry-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: var(--space-md);
+  margin-bottom: var(--space-sm);
+  flex-wrap: wrap;
+}
+
+.dialogue-entry-title {
+  font-family: var(--font-display);
+  font-size: 1.2rem;
+  font-weight: 400;
+}
+
+.dialogue-entry-title a {
+  color: var(--text-primary);
+  transition: color 0.2s ease;
+}
+
+.dialogue-entry-title a:hover {
+  color: var(--accent-warm);
+}
+
+.dialogue-entry-description {
+  font-size: 0.9rem;
+  color: var(--text-secondary);
+  line-height: 1.6;
+  margin-bottom: var(--space-sm);
+}
+
+.dialogue-entry-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-xs);
+  margin-top: var(--space-sm);
+}
+
+.source-tag {
+  font-size: 0.7rem;
+  font-weight: 500;
+  padding: 2px var(--space-sm);
+  background: var(--accent-glow);
+  border: 1px solid var(--border-accent);
+  border-radius: 4px;
+  color: var(--accent-warm);
+  transition: all 0.2s ease;
+}
+
+.source-tag:hover {
+  background: rgba(196, 149, 106, 0.25);
+  color: var(--accent-highlight);
+}
+
+.relation-label {
+  font-size: 0.75rem;
+  color: var(--text-tertiary);
+  font-style: italic;
+  margin-top: var(--space-sm);
+}
+
+/* Dystopia grid */
+.dystopia-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: var(--space-md);
+}
+
+.dystopia-card {
+  padding: var(--space-lg);
+  background: var(--bg-surface);
+  border: 1px solid var(--border-subtle);
+  border-radius: 10px;
+  transition: all 0.2s ease;
+}
+
+.dystopia-card:hover {
+  border-color: var(--border-accent);
+  background: var(--bg-elevated);
+}
+
+.dystopia-card-title {
+  font-family: var(--font-display);
+  font-size: 1.1rem;
+  font-weight: 400;
+  color: var(--text-primary);
+  margin-bottom: var(--space-xs);
+}
+
+.dystopia-card-meta {
+  font-size: 0.8rem;
+  color: var(--text-tertiary);
+  margin-bottom: var(--space-sm);
+}
+
+.dystopia-card-description {
+  font-size: 0.85rem;
+  color: var(--text-secondary);
+  line-height: 1.5;
+}
+
+/* Writing plan responsive */
+@media (max-width: 768px) {
+  .go-deeper-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .dystopia-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .dialogue-entry-header {
+    flex-direction: column;
+    gap: var(--space-xs);
+  }
+}
+
 /* Snapshot/Network responsive */
 @media (max-width: 768px) {
   .snapshot-header .header-nav-group {
