@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-02-11T11:22:18.964Z",
+  "lastUpdated": "2026-02-11T11:44:37.788Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 191,
+  "totalPosts": 192,
   "totalBlogs": 21,
   "blogsWithErrors": [
     {
@@ -28,6 +28,15 @@
       "author": "Jinx Hixson",
       "authorRole": "student",
       "blogUrl": "https://jinxxywrites.github.io/Psyched-for-Psychology"
+    },
+    {
+      "title": "Faster, Higher, Stronger… Smarter? The AI Revolution at the Olympic Games",
+      "url": "https://braydenwilson22.github.io/faster-higher-stronger-smarter-ai-olympics.html",
+      "date": "February 11, 2026",
+      "dateISO": "2026-02-11",
+      "author": "Brayden Wilson",
+      "authorRole": "student",
+      "blogUrl": "https://braydenwilson22.github.io"
     },
     {
       "title": "The Off-Script Athlete: Why We Need Moral Agency in Sports",
