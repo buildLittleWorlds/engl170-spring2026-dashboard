@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-02-11T01:42:04.413Z",
+  "lastUpdated": "2026-02-11T02:43:18.611Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 189,
+  "totalPosts": 191,
   "totalBlogs": 21,
   "blogsWithErrors": [
     {
@@ -37,6 +37,24 @@
       "author": "Zay Amaro",
       "authorRole": "student",
       "blogUrl": "https://zayamaro.github.io"
+    },
+    {
+      "title": "The Algo-Parlay: Can AI Actually Predict the Win?",
+      "url": "https://calebmurphy01.github.io/ai-betting-trust.html",
+      "date": "February 10, 2026",
+      "dateISO": "2026-02-10",
+      "author": "Caleb Murphy",
+      "authorRole": "student",
+      "blogUrl": "https://calebmurphy01.github.io"
+    },
+    {
+      "title": "The 1-Yard Conspiracy: Kyren Williams and the Parlay Killer",
+      "url": "https://calebmurphy01.github.io/kyren-williams-conspiracy.html",
+      "date": "February 10, 2026",
+      "dateISO": "2026-02-10",
+      "author": "Caleb Murphy",
+      "authorRole": "student",
+      "blogUrl": "https://calebmurphy01.github.io"
     },
     {
       "title": "New Vulnerabilities",
