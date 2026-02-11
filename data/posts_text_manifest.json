@@ -1,6 +1,6 @@
 {
   "description": "Maps post URLs to saved filenames. Prevents re-downloading when titles change.",
-  "lastUpdated": "2026-02-09T11:30:02.918Z",
+  "lastUpdated": "2026-02-11T12:45:03.050Z",
   "urls": {
     "https://jrbrunts.github.io/restoration-window.html": "jacob_brunts_2026-02-02_the_restoration_window__a_framework_for_fair_heali.txt",
     "https://jrbrunts.github.io/infinite-therapist.html": "jacob_brunts_2026-02-02_the_infinite_therapist__democratizing_the_mind.txt",
@@ -182,6 +182,22 @@
     "https://dominicdebro.github.io/the-human-premium.html": "dominic_debro_2026-02-08_the_human_premium__why_ai_is_the_greatest_catalyst.txt",
     "https://bellacalmetjanssen-cell.github.io/isabella-calmet-.github.io/architectural-agency-ai.html": "isabella_calmet_2026-02-08_beyond_the_vibe__why__architectural_agency__is_the.txt",
     "https://bellacalmetjanssen-cell.github.io/isabella-calmet-.github.io/athletic-autonomy-ai.html": "isabella_calmet_2026-02-08_informed_instinct__why_data_sovereignty_is_the_fut.txt",
-    "https://dominicdebro.github.io/great-decoupling-ai.html": "dominic_debro_2026-02-02_the_great_decoupling__why_ai_is_the_key_to_escapin.txt"
+    "https://dominicdebro.github.io/great-decoupling-ai.html": "dominic_debro_2026-02-02_the_great_decoupling__why_ai_is_the_key_to_escapin.txt",
+    "https://kevionmilton.github.io/digital-scout-ai-next-generation.html": "kevion_milton_2026-02-09_the_digital_scout__how_ai_is_picking_the_next_gene.txt",
+    "https://kevionmilton.github.io/health-vs-hype-ai-bodyguard.html": "kevion_milton_2026-02-09_health_vs__hype__is_ai_a_bodyguard_or_a_performanc.txt",
+    "https://kevionmilton.github.io/the-cold-doctor-ai-healthcare.html": "kevion_milton_2026-02-09_re___the_cold_doctor___ai_in_healthcare_.txt",
+    "https://buildlittleworlds.github.io/plate-composition-blog/posts/the-canary-in-the-codebase/": "dr__plate_2026-02-09_the_canary_in_the_codebase.txt",
+    "https://buildlittleworlds.github.io/plate-composition-blog/posts/new-vulnerabilities/": "dr__plate_2026-02-09_new_vulnerabilities.txt",
+    "https://samlevine277.github.io/automation_accountability_rugby_blog.html": "sam_levine_2026-02-09_automation_in_rugby.txt",
+    "https://eliananodari.github.io/curated-self-vs-beautiful-mess.html": "eliana_nodari_2026-02-09_the_curated_self_vs__the_beautiful_mess__why_we_mu.txt",
+    "https://jinxxywrites.github.io/Psyched-for-Psychology/healthy-relationship-skills.html": "jinx_hixson_2026-02-09_fostering_healthy_relationship_skills__a_psycholog.txt",
+    "https://jinxxywrites.github.io/Psyched-for-Psychology/healthy-vs-unhealthy.html": "jinx_hixson_2026-02-11_defining_healthy_vs__unhealthy_relationship_dynami.txt",
+    "https://gabriel-bell.github.io/new-dangers.html": "gabriel_bell_2026-02-09_new_dangers.txt",
+    "https://jinxxywrites.github.io/Psyched-for-Psychology/domestic-violence-signs.html": "jinx_hixson_2026-02-13_the_warning_signs_of_abuse_and_their_psychological.txt",
+    "https://tombishop4.github.io/beyond-touchline-relationships-rugby.html": "tom_bishop_2026-02-09_beyond_the_touchline__the_invisible_impact_of_rela.txt",
+    "https://tombishop4.github.io/digital-scrum-analytics-rugby.html": "tom_bishop_2026-02-09_the_digital_scrum__how_analytics_rewrote_the_rugby.txt",
+    "https://calebmurphy01.github.io/ai-betting-trust.html": "caleb_murphy_2026-02-10_the_algo_parlay__can_ai_actually_predict_the_win_.txt",
+    "https://calebmurphy01.github.io/kyren-williams-conspiracy.html": "caleb_murphy_2026-02-10_the_1_yard_conspiracy__kyren_williams_and_the_parl.txt",
+    "https://braydenwilson22.github.io/faster-higher-stronger-smarter-ai-olympics.html": "brayden_wilson_2026-02-11_faster__higher__stronger__smarter__the_ai_revoluti.txt"
   }
 }

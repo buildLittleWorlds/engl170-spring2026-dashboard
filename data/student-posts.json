@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-09T11:30:02.910Z",
+  "lastUpdated": "2026-02-11T12:45:03.038Z",
   "students": {
     "Olivia Andresen": {
       "url": "https://olliebear2006ya-dotcom.github.io/Olivias-Disney-Blog",
@@ -64,6 +64,11 @@
     "Gabriel Bell": {
       "url": "https://gabriel-bell.github.io",
       "posts": [
+        {
+          "date": "2026-02-09",
+          "title": "New Dangers",
+          "file": "gabriel_bell_2026-02-09_new_dangers.txt"
+        },
         {
           "date": "2026-02-08",
           "title": "The Ghost in the Canvas: Why Creativity Requires the Risk of Failure",
@@ -250,9 +255,24 @@
       "url": "https://jinxxywrites.github.io/Psyched-for-Psychology",
       "posts": [
         {
+          "date": "2026-02-13",
+          "title": "The Warning Signs of Abuse and Their Psychological Toll",
+          "file": "jinx_hixson_2026-02-13_the_warning_signs_of_abuse_and_their_psychological.txt"
+        },
+        {
+          "date": "2026-02-11",
+          "title": "Defining Healthy vs. Unhealthy Relationship Dynamics",
+          "file": "jinx_hixson_2026-02-11_defining_healthy_vs__unhealthy_relationship_dynami.txt"
+        },
+        {
           "date": "2026-02-09",
           "title": "The Biological Necessity of Connection: Mental and Physical Health in a Digital Era",
           "file": "jinx_hixson_2026-02-09_the_biological_necessity_of_connection__mental_and.txt"
+        },
+        {
+          "date": "2026-02-09",
+          "title": "Fostering Healthy Relationship Skills: A Psychological Blueprint",
+          "file": "jinx_hixson_2026-02-09_fostering_healthy_relationship_skills__a_psycholog.txt"
         },
         {
           "date": "2026-02-04",
@@ -309,6 +329,11 @@
     "Sam Levine": {
       "url": "https://samlevine277.github.io",
       "posts": [
+        {
+          "date": "2026-02-09",
+          "title": "automation in rugby",
+          "file": "sam_levine_2026-02-09_automation_in_rugby.txt"
+        },
         {
           "date": "2026-02-08",
           "title": "risk automation in sports",
@@ -384,6 +409,11 @@
     "Eliana Nodari": {
       "url": "https://eliananodari.github.io",
       "posts": [
+        {
+          "date": "2026-02-09",
+          "title": "The Curated Self vs. The Beautiful Mess: Why We Must Reclaim Our Flaws",
+          "file": "eliana_nodari_2026-02-09_the_curated_self_vs__the_beautiful_mess__why_we_mu.txt"
+        },
         {
           "date": "2026-02-06",
           "title": "The Slot-Machine Symphony: Why Authenticity Matters in the Age of AI",
@@ -534,6 +564,16 @@
       "url": "https://tombishop4.github.io",
       "posts": [
         {
+          "date": "2026-02-09",
+          "title": "Beyond the Touchline: The Invisible Impact of Relationships on Professional Rugby",
+          "file": "tom_bishop_2026-02-09_beyond_the_touchline__the_invisible_impact_of_rela.txt"
+        },
+        {
+          "date": "2026-02-09",
+          "title": "The Digital Scrum: How Analytics Rewrote the Rugby Playbook",
+          "file": "tom_bishop_2026-02-09_the_digital_scrum__how_analytics_rewrote_the_rugby.txt"
+        },
+        {
           "date": "2026-02-08",
           "title": "The Blueprint of a Champion: Decoding the \"Ideal\" Boxing Physique",
           "file": "tom_bishop_2026-02-08_the_blueprint_of_a_champion__decoding_the__ideal__.txt"
@@ -649,6 +689,11 @@
       "url": "https://braydenwilson22.github.io",
       "posts": [
         {
+          "date": "2026-02-11",
+          "title": "Faster, Higher, Stronger… Smarter? The AI Revolution at the Olympic Games",
+          "file": "brayden_wilson_2026-02-11_faster__higher__stronger__smarter__the_ai_revoluti.txt"
+        },
+        {
           "date": "2026-02-03",
           "title": "AI as a Performance Partner: The New Architecture of Achievement",
           "file": "brayden_wilson_2026-02-03_ai_as_a_performance_partner__the_new_architecture_.txt"
@@ -759,6 +804,21 @@
       "url": "https://kevionmilton.github.io",
       "posts": [
         {
+          "date": "2026-02-09",
+          "title": "The Digital Scout: How AI is Picking the Next Generation of Stars",
+          "file": "kevion_milton_2026-02-09_the_digital_scout__how_ai_is_picking_the_next_gene.txt"
+        },
+        {
+          "date": "2026-02-09",
+          "title": "Health vs. Hype: Is AI a Bodyguard or a Performance Enhancer?",
+          "file": "kevion_milton_2026-02-09_health_vs__hype__is_ai_a_bodyguard_or_a_performanc.txt"
+        },
+        {
+          "date": "2026-02-09",
+          "title": "RE: \"The Cold Doctor\" (AI in Healthcare)",
+          "file": "kevion_milton_2026-02-09_re___the_cold_doctor___ai_in_healthcare_.txt"
+        },
+        {
           "date": "2026-02-08",
           "title": "The Myth of Objective Perfection",
           "file": "kevion_milton_2026-02-08_the_myth_of_objective_perfection.txt"
@@ -868,6 +928,16 @@
     "Caleb Murphy": {
       "url": "",
       "posts": [
+        {
+          "date": "2026-02-10",
+          "title": "The Algo-Parlay: Can AI Actually Predict the Win?",
+          "file": "caleb_murphy_2026-02-10_the_algo_parlay__can_ai_actually_predict_the_win_.txt"
+        },
+        {
+          "date": "2026-02-10",
+          "title": "The 1-Yard Conspiracy: Kyren Williams and the Parlay Killer",
+          "file": "caleb_murphy_2026-02-10_the_1_yard_conspiracy__kyren_williams_and_the_parl.txt"
+        },
         {
           "date": "2026-02-08",
           "title": "The Human Edge in the Arena: Responding to Zay",

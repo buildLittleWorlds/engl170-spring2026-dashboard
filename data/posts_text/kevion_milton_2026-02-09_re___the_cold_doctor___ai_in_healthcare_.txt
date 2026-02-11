@@ -1,0 +1,18 @@
+RE: "The Cold Doctor" (AI in Healthcare)
+February 9, 2026
+I read a post about AI doctors diagnosing cancer faster than humans, and I completely agree that for diagnosis, the machine is king. If I have a tumor, I want the AI to find it. I don't care about its bedside manner.
+But the point about the "loss of care" really resonated with me because we are seeing the exact same thing happen in sports medicine, and it's causing a weird psychological crisis for athletes.
+The "Green Light" Problem
+In the NFL right now, we use a system called the "Return to Play Protocol." It used to be a doctor moving your knee around and asking, "Does this hurt?"
+Now, it's a dashboard. The player runs on a force-plate treadmill. The AI analyzes their gait asymmetry. It checks their muscle firing rates. If the numbers are within 5% of the baseline, the screen turns Green. You are cleared to play.
+But here is the issue: The computer says the knee is fixed, but the brain doesn't believe it.
+I have a teammate who tore his ACL last year. The AI cleared him in 8 months. The data said he was stronger than before the injury. But every time he cut to the left, he hesitated. He was terrified.
+The Machine Can't Measure Fear
+The team doctors—who rely heavily on the dashboard—kept showing him the charts. "Look," they'd say, "The structural integrity is 100%. You are fine."
+But he wasn't fine. He was suffering from what psychologists call "kinesiophobia" (fear of movement). The AI couldn't measure his confidence. It couldn't measure the trauma of remembering the pop.
+Because the data said he was "healthy," the coaches pushed him hard. They thought he was "soft" because the machine said he was fixed. He ended up compensating, running weirdly to protect the "healthy" knee, and blew out his other hamstring a week later.
+The Placebo (and Nocebo) Effect
+A doctor's reassurance is part of the cure. I think that's scientifically true. If a human doctor looks you in the eye and says, "I've got you, you're strong, you're ready," your brain releases chemicals that actually help you perform.
+When a screen just flashes "READY," you don't get that biochemical boost.
+We are treating bodies like cars. If the mechanic says the engine is fixed, the car drives fine. But humans aren't cars. We have software (minds) that runs the hardware (bodies). AI is great at fixing the hardware, but it ignores the software completely.
+Until AI can learn to give a pep talk, I think we still need the human doctors.
