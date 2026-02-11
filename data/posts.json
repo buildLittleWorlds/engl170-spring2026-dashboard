@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-02-11T00:54:23.957Z",
+  "lastUpdated": "2026-02-11T01:42:04.413Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 187,
+  "totalPosts": 189,
   "totalBlogs": 21,
   "blogsWithErrors": [
     {
@@ -91,6 +91,24 @@
       "author": "Eliana Nodari",
       "authorRole": "student",
       "blogUrl": "https://eliananodari.github.io"
+    },
+    {
+      "title": "Beyond the Touchline: The Invisible Impact of Relationships on Professional Rugby",
+      "url": "https://tombishop4.github.io/beyond-touchline-relationships-rugby.html",
+      "date": "February 9, 2026",
+      "dateISO": "2026-02-09",
+      "author": "Tom Bishop",
+      "authorRole": "student",
+      "blogUrl": "https://tombishop4.github.io"
+    },
+    {
+      "title": "The Digital Scrum: How Analytics Rewrote the Rugby Playbook",
+      "url": "https://tombishop4.github.io/digital-scrum-analytics-rugby.html",
+      "date": "February 9, 2026",
+      "dateISO": "2026-02-09",
+      "author": "Tom Bishop",
+      "authorRole": "student",
+      "blogUrl": "https://tombishop4.github.io"
     },
     {
       "title": "The Digital Scout: How AI is Picking the Next Generation of Stars",
