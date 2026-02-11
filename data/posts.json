@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-02-11T16:03:20.759Z",
+  "lastUpdated": "2026-02-11T16:33:55.050Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 192,
+  "totalPosts": 198,
   "totalBlogs": 21,
   "blogsWithErrors": [
     {
@@ -28,6 +28,15 @@
       "author": "Jinx Hixson",
       "authorRole": "student",
       "blogUrl": "https://jinxxywrites.github.io/Psyched-for-Psychology"
+    },
+    {
+      "title": "AI in olympics vs. workforce",
+      "url": "https://samlevine277.github.io/response-to-brayden-ai-olympics.html",
+      "date": "Feburary 11, 2026",
+      "dateISO": "2026-02-11",
+      "author": "Sam Levine",
+      "authorRole": "student",
+      "blogUrl": "https://samlevine277.github.io"
     },
     {
       "title": "Faster, Higher, Stronger… Smarter? The AI Revolution at the Olympic Games",
@@ -136,6 +145,15 @@
       "author": "Tom Bishop",
       "authorRole": "student",
       "blogUrl": "https://tombishop4.github.io"
+    },
+    {
+      "title": "The Human Backlash: We All Knew This Was Coming",
+      "url": "https://dominicdebro.github.io/human-backlash.html",
+      "date": "February 9, 2026",
+      "dateISO": "2026-02-09",
+      "author": "Dominic Debro",
+      "authorRole": "student",
+      "blogUrl": "https://dominicdebro.github.io"
     },
     {
       "title": "The Digital Scout: How AI is Picking the Next Generation of Stars",
@@ -691,7 +709,7 @@
       "blogUrl": "https://dominicdebro.github.io"
     },
     {
-      "title": "The Sentinel in the Locker Room (and the Living Room): When Safety Becomes Surveillance",
+      "title": "The Sentinel in the Locker Room: When Safety Becomes Surveillance",
       "url": "https://dominicdebro.github.io/safety-becomes-surveillance.html",
       "date": "February 1, 2026",
       "dateISO": "2026-02-01",
@@ -1267,6 +1285,15 @@
       "blogUrl": "https://zayamaro.github.io"
     },
     {
+      "title": "The Dopamine Ceiling: Escaping the Infinite Scroll",
+      "url": "https://dominicdebro.github.io/dopamine-ceiling.html",
+      "date": "January 22, 2026",
+      "dateISO": "2026-01-22",
+      "author": "Dominic Debro",
+      "authorRole": "student",
+      "blogUrl": "https://dominicdebro.github.io"
+    },
+    {
       "title": "The Cost of a Soul",
       "url": "https://olliebear2006ya-dotcom.github.io/Olivias-Disney-Blog/the-cost-of-a-soul.html",
       "date": "January 21, 2026",
@@ -1301,6 +1328,15 @@
       "author": "Eliana Nodari",
       "authorRole": "student",
       "blogUrl": "https://eliananodari.github.io"
+    },
+    {
+      "title": "The Efficiency Paradox: Why Faster Isn't Always Better",
+      "url": "https://dominicdebro.github.io/efficiency-paradox.html",
+      "date": "January 21, 2026",
+      "dateISO": "2026-01-21",
+      "author": "Dominic Debro",
+      "authorRole": "student",
+      "blogUrl": "https://dominicdebro.github.io"
     },
     {
       "title": "The 2026 Sports Convergence: 3D Avatars, Aero-Engineering, and the Agentic Scout",
@@ -1356,6 +1392,15 @@
       "author": "Jinx Hixson",
       "authorRole": "student",
       "blogUrl": "https://jinxxywrites.github.io/Psyched-for-Psychology"
+    },
+    {
+      "title": "Beyond the Screen: Cultivating a \"Low-Ceiling\" Lifestyle",
+      "url": "https://dominicdebro.github.io/low-ceiling-lifestyle.html",
+      "date": "January 20, 2026",
+      "dateISO": "2026-01-20",
+      "author": "Dominic Debro",
+      "authorRole": "student",
+      "blogUrl": "https://dominicdebro.github.io"
     },
     {
       "title": "The concerns of AI in schools",
@@ -1600,6 +1645,15 @@
       "author": "Ben Teismann",
       "authorRole": "student",
       "blogUrl": "https://blt279.github.io"
+    },
+    {
+      "title": "The Architect of Intent: Why Higher-Level Thinking Demands a New Kind of Presence",
+      "url": "https://dominicdebro.github.io/architect-of-intent.html",
+      "date": "January 15, 2026",
+      "dateISO": "2026-01-15",
+      "author": "Dominic Debro",
+      "authorRole": "student",
+      "blogUrl": "https://dominicdebro.github.io"
     },
     {
       "title": "Welcome to My Blog",
