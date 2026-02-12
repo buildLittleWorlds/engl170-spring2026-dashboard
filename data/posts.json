@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-02-12T20:58:20.561Z",
+  "lastUpdated": "2026-02-12T21:16:53.255Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 200,
+  "totalPosts": 201,
   "totalBlogs": 21,
   "blogsWithErrors": [
     {
@@ -19,6 +19,15 @@
       "author": "Jinx Hixson",
       "authorRole": "student",
       "blogUrl": "https://jinxxywrites.github.io/Psyched-for-Psychology"
+    },
+    {
+      "title": "Prompt To Root",
+      "url": "https://qubitn.github.io/prompt-to-root.html",
+      "date": "February 12, 2026",
+      "dateISO": "2026-02-12",
+      "author": "Jonas Rodrigues",
+      "authorRole": "student",
+      "blogUrl": "https://qubitn.github.io"
     },
     {
       "title": "Defining Healthy vs. Unhealthy Relationship Dynamics",
