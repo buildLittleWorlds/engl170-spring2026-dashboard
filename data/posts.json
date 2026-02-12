@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-02-12T06:22:37.502Z",
+  "lastUpdated": "2026-02-12T06:47:13.401Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 199,
+  "totalPosts": 200,
   "totalBlogs": 21,
   "blogsWithErrors": [
     {
@@ -55,6 +55,15 @@
       "author": "Brayden Wilson",
       "authorRole": "student",
       "blogUrl": "https://braydenwilson22.github.io"
+    },
+    {
+      "title": "Game Review - Star Birds",
+      "url": "https://jake3143.github.io/jake3143/game-review-star-birds.html",
+      "date": "February 11, 2026",
+      "dateISO": "2026-02-11",
+      "author": "Jaden Walker",
+      "authorRole": "student",
+      "blogUrl": "https://jake3143.github.io/jake3143"
     },
     {
       "title": "The Off-Script Athlete: Why We Need Moral Agency in Sports",
