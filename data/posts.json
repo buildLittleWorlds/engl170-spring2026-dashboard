@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-02-12T21:53:19.206Z",
+  "lastUpdated": "2026-02-12T22:07:44.430Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 201,
+  "totalPosts": 202,
   "totalBlogs": 21,
   "blogsWithErrors": [
     {
@@ -19,6 +19,15 @@
       "author": "Jinx Hixson",
       "authorRole": "student",
       "blogUrl": "https://jinxxywrites.github.io/Psyched-for-Psychology"
+    },
+    {
+      "title": "The Great Phase Change",
+      "url": "https://qubitn.github.io/the-great-phase-change.html",
+      "date": "February 12, 2026",
+      "dateISO": "2026-02-12",
+      "author": "Jonas Rodrigues",
+      "authorRole": "student",
+      "blogUrl": "https://qubitn.github.io"
     },
     {
       "title": "Prompt To Root",
