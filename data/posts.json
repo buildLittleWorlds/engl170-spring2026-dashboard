@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-02-13T01:32:55.621Z",
+  "lastUpdated": "2026-02-13T02:30:10.604Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 202,
+  "totalPosts": 203,
   "totalBlogs": 21,
   "blogsWithErrors": [
     {
@@ -37,6 +37,15 @@
       "author": "Jonas Rodrigues",
       "authorRole": "student",
       "blogUrl": "https://qubitn.github.io"
+    },
+    {
+      "title": "The Rhetoric of the Script: Responding to Zaya Maro",
+      "url": "https://calebmurphy01.github.io/off-script-rhetoric.html",
+      "date": "February 12, 2026",
+      "dateISO": "2026-02-12",
+      "author": "Caleb Murphy",
+      "authorRole": "student",
+      "blogUrl": "https://calebmurphy01.github.io"
     },
     {
       "title": "Defining Healthy vs. Unhealthy Relationship Dynamics",
