@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-02-13T03:33:37.278Z",
+  "lastUpdated": "2026-02-13T04:27:47.288Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 203,
+  "totalPosts": 204,
   "totalBlogs": 21,
   "blogsWithErrors": [
     {
@@ -37,6 +37,15 @@
       "author": "Jonas Rodrigues",
       "authorRole": "student",
       "blogUrl": "https://qubitn.github.io"
+    },
+    {
+      "title": "The New Sincerity: Being \"Too Much\" in a World of Not Enough",
+      "url": "https://dominicdebro.github.io/the-new-sincerity.html",
+      "date": "February 12, 2026",
+      "dateISO": "2026-02-12",
+      "author": "Dominic Debro",
+      "authorRole": "student",
+      "blogUrl": "https://dominicdebro.github.io"
     },
     {
       "title": "The Rhetoric of the Script: Responding to Zaya Maro",
