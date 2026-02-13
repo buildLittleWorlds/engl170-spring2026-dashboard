@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-02-13T04:27:47.288Z",
+  "lastUpdated": "2026-02-13T05:08:34.200Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 204,
+  "totalPosts": 208,
   "totalBlogs": 21,
   "blogsWithErrors": [
     {
@@ -12,6 +12,15 @@
   ],
   "posts": [
     {
+      "title": "The Ghost of the Watercooler: Why the Monoculture is Dying (And Why it Matters)",
+      "url": "https://dominicdebro.github.io/ghost-of-the-watercooler.html",
+      "date": "February 15, 2026",
+      "dateISO": "2026-02-15",
+      "author": "Dominic Debro",
+      "authorRole": "student",
+      "blogUrl": "https://dominicdebro.github.io"
+    },
+    {
       "title": "The Warning Signs of Abuse and Their Psychological Toll",
       "url": "https://jinxxywrites.github.io/Psyched-for-Psychology/domestic-violence-signs.html",
       "date": "February 13, 2026",
@@ -19,6 +28,15 @@
       "author": "Jinx Hixson",
       "authorRole": "student",
       "blogUrl": "https://jinxxywrites.github.io/Psyched-for-Psychology"
+    },
+    {
+      "title": "The Biological Commons: Data as the New Public Utility",
+      "url": "https://jrbrunts.github.io/biological-commons.html",
+      "date": "February 12, 2026",
+      "dateISO": "2026-02-12",
+      "author": "Jacob Brunts",
+      "authorRole": "student",
+      "blogUrl": "https://jrbrunts.github.io"
     },
     {
       "title": "The Great Phase Change",
@@ -109,6 +127,15 @@
       "author": "Zay Amaro",
       "authorRole": "student",
       "blogUrl": "https://zayamaro.github.io"
+    },
+    {
+      "title": "The Zero-Failure Protocol: Why Prediction Demands Intervention",
+      "url": "https://jrbrunts.github.io/zero-failure-protocol.html",
+      "date": "February 10, 2026",
+      "dateISO": "2026-02-10",
+      "author": "Jacob Brunts",
+      "authorRole": "student",
+      "blogUrl": "https://jrbrunts.github.io"
     },
     {
       "title": "The Algo-Parlay: Can AI Actually Predict the Win?",
@@ -271,6 +298,15 @@
       "author": "Gabriel Bell",
       "authorRole": "student",
       "blogUrl": "https://gabriel-bell.github.io"
+    },
+    {
+      "title": "The Neurochemistry of Connection: Optimizing the Social Signal",
+      "url": "https://jrbrunts.github.io/neurochemistry-connection.html",
+      "date": "February 8, 2026",
+      "dateISO": "2026-02-08",
+      "author": "Jacob Brunts",
+      "authorRole": "student",
+      "blogUrl": "https://jrbrunts.github.io"
     },
     {
       "title": "risk automation in sports",
