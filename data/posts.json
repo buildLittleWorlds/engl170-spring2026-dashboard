@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-02-13T16:49:00.918Z",
+  "lastUpdated": "2026-02-13T17:11:45.015Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 214,
+  "totalPosts": 215,
   "totalBlogs": 21,
   "blogsWithErrors": [
     {
@@ -28,6 +28,15 @@
       "author": "Jinx Hixson",
       "authorRole": "student",
       "blogUrl": "https://jinxxywrites.github.io/Psyched-for-Psychology"
+    },
+    {
+      "title": "The Digital Lifeboat and the Architecture of Silence",
+      "url": "https://eliananodari.github.io/digital-lifeboat-architecture.html",
+      "date": "February 13, 2026",
+      "dateISO": "2026-02-13",
+      "author": "Eliana Nodari",
+      "authorRole": "student",
+      "blogUrl": "https://eliananodari.github.io"
     },
     {
       "title": "The Moral Black Box: Death by Algorithm",
