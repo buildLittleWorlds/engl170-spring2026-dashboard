@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-02-14T04:04:29.681Z",
+  "lastUpdated": "2026-02-14T04:46:26.895Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 215,
+  "totalPosts": 218,
   "totalBlogs": 21,
   "blogsWithErrors": [
     {
@@ -12,6 +12,24 @@
   ],
   "posts": [
     {
+      "title": "Star Birds and the Strategy of Faith: Why Games Need the Human Choice",
+      "url": "https://zayamaro.github.io/star-birds-and-strategy.html",
+      "date": "February 22, 2026",
+      "dateISO": "2026-02-22",
+      "author": "Zay Amaro",
+      "authorRole": "student",
+      "blogUrl": "https://zayamaro.github.io"
+    },
+    {
+      "title": "The Efficiency Trap: Why Perfect Sports Might Be Boring",
+      "url": "https://zayamaro.github.io/efficiency-vs-drama.html",
+      "date": "February 18, 2026",
+      "dateISO": "2026-02-18",
+      "author": "Zay Amaro",
+      "authorRole": "student",
+      "blogUrl": "https://zayamaro.github.io"
+    },
+    {
       "title": "The Ghost of the Watercooler: Why the Monoculture is Dying (And Why it Matters)",
       "url": "https://dominicdebro.github.io/ghost-of-the-watercooler.html",
       "date": "February 15, 2026",
@@ -19,6 +37,15 @@
       "author": "Dominic Debro",
       "authorRole": "student",
       "blogUrl": "https://dominicdebro.github.io"
+    },
+    {
+      "title": "The Taste of the Game: Why Instinct Can't Be Automated",
+      "url": "https://zayamaro.github.io/the-taste-of-the-game.html",
+      "date": "February 15, 2026",
+      "dateISO": "2026-02-15",
+      "author": "Zay Amaro",
+      "authorRole": "student",
+      "blogUrl": "https://zayamaro.github.io"
     },
     {
       "title": "The Warning Signs of Abuse and Their Psychological Toll",
