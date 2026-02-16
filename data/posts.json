@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-02-16T16:04:49.910Z",
+  "lastUpdated": "2026-02-16T16:25:31.838Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 224,
+  "totalPosts": 225,
   "totalBlogs": 21,
   "blogsWithErrors": [
     {
@@ -28,6 +28,15 @@
       "author": "Zay Amaro",
       "authorRole": "student",
       "blogUrl": "https://zayamaro.github.io"
+    },
+    {
+      "title": "The 50/50 Rule Under Fire",
+      "url": "https://samlevine277.github.io/algorithmic-mirror-response.html",
+      "date": "Feburary 16, 2026",
+      "dateISO": "2026-02-16",
+      "author": "Sam Levine",
+      "authorRole": "student",
+      "blogUrl": "https://samlevine277.github.io"
     },
     {
       "title": "Who Pulls the Strings? Algorithmic Bias and the Erosion of Individual Sovereignty",
