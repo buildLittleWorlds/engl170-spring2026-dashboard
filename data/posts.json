@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-02-16T06:14:00.954Z",
+  "lastUpdated": "2026-02-16T06:43:21.808Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 217,
+  "totalPosts": 218,
   "totalBlogs": 21,
   "blogsWithErrors": [
     {
@@ -28,6 +28,15 @@
       "author": "Zay Amaro",
       "authorRole": "student",
       "blogUrl": "https://zayamaro.github.io"
+    },
+    {
+      "title": "The Algorithmic Mirror: Does AI Know Me Better Than I Know Myself?",
+      "url": "https://bellacalmetjanssen-cell.github.io/isabella-calmet-.github.io/algorithmic-mirror.html",
+      "date": "February 16, 2026",
+      "dateISO": "2026-02-16",
+      "author": "Isabella Calmet",
+      "authorRole": "student",
+      "blogUrl": "https://bellacalmetjanssen-cell.github.io/isabella-calmet-.github.io"
     },
     {
       "title": "AI in sports vs work",
@@ -336,6 +345,24 @@
       "blogUrl": "https://dominicdebro.github.io"
     },
     {
+      "title": "Beyond the Vibe: Why \"Architectural Agency\" is the Human Anchor in an AI World",
+      "url": "https://bellacalmetjanssen-cell.github.io/isabella-calmet-.github.io/architectural-agency.html",
+      "date": "February 9, 2026",
+      "dateISO": "2026-02-09",
+      "author": "Isabella Calmet",
+      "authorRole": "student",
+      "blogUrl": "https://bellacalmetjanssen-cell.github.io/isabella-calmet-.github.io"
+    },
+    {
+      "title": "Informed Instinct: Why Data Sovereignty is the Future of Athletic Autonomy",
+      "url": "https://bellacalmetjanssen-cell.github.io/isabella-calmet-.github.io/informed-instinct.html",
+      "date": "February 9, 2026",
+      "dateISO": "2026-02-09",
+      "author": "Isabella Calmet",
+      "authorRole": "student",
+      "blogUrl": "https://bellacalmetjanssen-cell.github.io/isabella-calmet-.github.io"
+    },
+    {
       "title": "The Digital Scout: How AI is Picking the Next Generation of Stars",
       "url": "https://kevionmilton.github.io/digital-scout-ai-next-generation.html",
       "date": "February 9, 2026",
@@ -442,33 +469,6 @@
       "author": "Dominic Debro",
       "authorRole": "student",
       "blogUrl": "https://dominicdebro.github.io"
-    },
-    {
-      "title": "Beyond the Vibe: Why \"Architectural Agency\" is the Human Anchor in an AI World",
-      "url": "https://bellacalmetjanssen-cell.github.io/isabella-calmet-.github.io/architectural-agency-ai.html",
-      "date": "February 8, 2026",
-      "dateISO": "2026-02-08",
-      "author": "Isabella Calmet",
-      "authorRole": "student",
-      "blogUrl": "https://bellacalmetjanssen-cell.github.io/isabella-calmet-.github.io"
-    },
-    {
-      "title": "Informed Instinct: Why Data Sovereignty is the Future of Athletic Autonomy",
-      "url": "https://bellacalmetjanssen-cell.github.io/isabella-calmet-.github.io/athletic-autonomy-ai.html",
-      "date": "February 8, 2026",
-      "dateISO": "2026-02-08",
-      "author": "Isabella Calmet",
-      "authorRole": "student",
-      "blogUrl": "https://bellacalmetjanssen-cell.github.io/isabella-calmet-.github.io"
-    },
-    {
-      "title": "The Genetic Fingerprint: AI and the End of Late-Stage Diagnosis",
-      "url": "https://bellacalmetjanssen-cell.github.io/isabella-calmet-.github.io/genetic-fingerprint-ai.html",
-      "date": "February 8, 2026",
-      "dateISO": "2026-02-08",
-      "author": "Isabella Calmet",
-      "authorRole": "student",
-      "blogUrl": "https://bellacalmetjanssen-cell.github.io/isabella-calmet-.github.io"
     },
     {
       "title": "The Myth of Objective Perfection",
@@ -816,8 +816,26 @@
       "blogUrl": "https://dominicdebro.github.io"
     },
     {
-      "title": "The 50/50 Rule: Balancing Human Agency and AI Safety in Modern Athletics",
-      "url": "https://bellacalmetjanssen-cell.github.io/isabella-calmet-.github.io/ai-sports-safety.html",
+      "title": "Balancing the Scales: AI, Ethics, and the Future of Justice",
+      "url": "https://bellacalmetjanssen-cell.github.io/isabella-calmet-.github.io/balancing-the-scales.html",
+      "date": "February 2, 2026",
+      "dateISO": "2026-02-02",
+      "author": "Isabella Calmet",
+      "authorRole": "student",
+      "blogUrl": "https://bellacalmetjanssen-cell.github.io/isabella-calmet-.github.io"
+    },
+    {
+      "title": "The Ghost in the Code: Creativity in the Age of Generative AI",
+      "url": "https://bellacalmetjanssen-cell.github.io/isabella-calmet-.github.io/ghost-in-the-code.html",
+      "date": "February 2, 2026",
+      "dateISO": "2026-02-02",
+      "author": "Isabella Calmet",
+      "authorRole": "student",
+      "blogUrl": "https://bellacalmetjanssen-cell.github.io/isabella-calmet-.github.io"
+    },
+    {
+      "title": "Digital Shadows: The Privacy Paradox of Personal AI",
+      "url": "https://bellacalmetjanssen-cell.github.io/isabella-calmet-.github.io/digital-shadows.html",
       "date": "February 2, 2026",
       "dateISO": "2026-02-02",
       "author": "Isabella Calmet",
@@ -914,24 +932,6 @@
       "author": "Brayden Wilson",
       "authorRole": "student",
       "blogUrl": "https://braydenwilson22.github.io"
-    },
-    {
-      "title": "The Genetic Continuum: From Ancient Corn to the CRISPR Revolution",
-      "url": "https://bellacalmetjanssen-cell.github.io/isabella-calmet-.github.io/genetic-continuum.html",
-      "date": "February 1, 2026",
-      "dateISO": "2026-02-01",
-      "author": "Isabella Calmet",
-      "authorRole": "student",
-      "blogUrl": "https://bellacalmetjanssen-cell.github.io/isabella-calmet-.github.io"
-    },
-    {
-      "title": "The Infallible Diagnostician: How AI is Outperforming the Human Element in Medicine",
-      "url": "https://bellacalmetjanssen-cell.github.io/isabella-calmet-.github.io/ai-medicine-diagnostics.html",
-      "date": "February 1, 2026",
-      "dateISO": "2026-02-01",
-      "author": "Isabella Calmet",
-      "authorRole": "student",
-      "blogUrl": "https://bellacalmetjanssen-cell.github.io/isabella-calmet-.github.io"
     },
     {
       "title": "What Is Happening to OpenAI?",
@@ -1159,8 +1159,8 @@
       "blogUrl": "https://tombishop4.github.io"
     },
     {
-      "title": "The Digital Pulse and the Human Heart: Why AI Needs Us as Much as We Need It",
-      "url": "https://bellacalmetjanssen-cell.github.io/isabella-calmet-.github.io/ai-mental-health.html",
+      "title": "The Hidden Cost: AI's Environmental Impact",
+      "url": "https://bellacalmetjanssen-cell.github.io/isabella-calmet-.github.io/the-carbon-footprint.html",
       "date": "January 26, 2026",
       "dateISO": "2026-01-26",
       "author": "Isabella Calmet",
@@ -1168,8 +1168,8 @@
       "blogUrl": "https://bellacalmetjanssen-cell.github.io/isabella-calmet-.github.io"
     },
     {
-      "title": "Beyond the Laboratory: The Millennial History of Genetic Modification",
-      "url": "https://bellacalmetjanssen-cell.github.io/isabella-calmet-.github.io/genetic-modification-history.html",
+      "title": "The Jobless Future? Reimagining Work in an Automated World",
+      "url": "https://bellacalmetjanssen-cell.github.io/isabella-calmet-.github.io/future-of-work.html",
       "date": "January 26, 2026",
       "dateISO": "2026-01-26",
       "author": "Isabella Calmet",
@@ -1177,26 +1177,8 @@
       "blogUrl": "https://bellacalmetjanssen-cell.github.io/isabella-calmet-.github.io"
     },
     {
-      "title": "The Tomorrow Code: Between Genetic Healing and the Dilemma of \"Designer\" Humans",
-      "url": "https://bellacalmetjanssen-cell.github.io/isabella-calmet-.github.io/the-tomorrow-code.html",
-      "date": "January 26, 2026",
-      "dateISO": "2026-01-26",
-      "author": "Isabella Calmet",
-      "authorRole": "student",
-      "blogUrl": "https://bellacalmetjanssen-cell.github.io/isabella-calmet-.github.io"
-    },
-    {
-      "title": "Responding to \"The Price of Everything\": How Market Value Reflects Collective Desire",
-      "url": "https://bellacalmetjanssen-cell.github.io/isabella-calmet-.github.io/price-of-everything-response.html",
-      "date": "January 26, 2026",
-      "dateISO": "2026-01-26",
-      "author": "Isabella Calmet",
-      "authorRole": "student",
-      "blogUrl": "https://bellacalmetjanssen-cell.github.io/isabella-calmet-.github.io"
-    },
-    {
-      "title": "Responding to \"The Romanticized Ceiling\": Why Data Still Needs Human Judgment",
-      "url": "https://bellacalmetjanssen-cell.github.io/isabella-calmet-.github.io/human-judgment-data.html",
+      "title": "CRISPR and AI: The Convergence of Biological and Digital Codes",
+      "url": "https://bellacalmetjanssen-cell.github.io/isabella-calmet-.github.io/biotech-revolution.html",
       "date": "January 26, 2026",
       "dateISO": "2026-01-26",
       "author": "Isabella Calmet",
@@ -1626,6 +1608,33 @@
       "author": "Sam Levine",
       "authorRole": "student",
       "blogUrl": "https://samlevine277.github.io"
+    },
+    {
+      "title": "Learning to Learn: AI’s Role in Modern Education",
+      "url": "https://bellacalmetjanssen-cell.github.io/isabella-calmet-.github.io/educational-frontiers.html",
+      "date": "January 19, 2026",
+      "dateISO": "2026-01-19",
+      "author": "Isabella Calmet",
+      "authorRole": "student",
+      "blogUrl": "https://bellacalmetjanssen-cell.github.io/isabella-calmet-.github.io"
+    },
+    {
+      "title": "The Bias in the Bot: Understanding Algorithmic Fairness",
+      "url": "https://bellacalmetjanssen-cell.github.io/isabella-calmet-.github.io/algorithmic-bias.html",
+      "date": "January 19, 2026",
+      "dateISO": "2026-01-19",
+      "author": "Isabella Calmet",
+      "authorRole": "student",
+      "blogUrl": "https://bellacalmetjanssen-cell.github.io/isabella-calmet-.github.io"
+    },
+    {
+      "title": "The Mastermind in the Machine: An Introduction",
+      "url": "https://bellacalmetjanssen-cell.github.io/isabella-calmet-.github.io/the-mastermind.html",
+      "date": "January 19, 2026",
+      "dateISO": "2026-01-19",
+      "author": "Isabella Calmet",
+      "authorRole": "student",
+      "blogUrl": "https://bellacalmetjanssen-cell.github.io/isabella-calmet-.github.io"
     },
     {
       "title": "The Friction of Fluency: Why \"Easy\" AI is a Myth",
