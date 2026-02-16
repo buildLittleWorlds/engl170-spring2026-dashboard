@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-02-16T15:00:45.006Z",
+  "lastUpdated": "2026-02-16T15:23:25.820Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 219,
+  "totalPosts": 224,
   "totalBlogs": 21,
   "blogsWithErrors": [
     {
@@ -73,6 +73,15 @@
       "author": "Zay Amaro",
       "authorRole": "student",
       "blogUrl": "https://zayamaro.github.io"
+    },
+    {
+      "title": "The Math Manifesto: Why We Need to Stop Overcomplicating Numbers",
+      "url": "https://emanigerdine7-ops.github.io/math-manifesto.html",
+      "date": "February 13, 2026",
+      "dateISO": "2026-02-13",
+      "author": "Emani Gerdine",
+      "authorRole": "student",
+      "blogUrl": "https://emanigerdine7-ops.github.io"
     },
     {
       "title": "The Warning Signs of Abuse and Their Psychological Toll",
@@ -192,6 +201,33 @@
       "blogUrl": "https://calebmurphy01.github.io"
     },
     {
+      "title": "The Roommate Reality: Why Boundaries and Safety Matter",
+      "url": "https://emanigerdine7-ops.github.io/roommate-reality.html",
+      "date": "February 11, 2026",
+      "dateISO": "2026-02-11",
+      "author": "Emani Gerdine",
+      "authorRole": "student",
+      "blogUrl": "https://emanigerdine7-ops.github.io"
+    },
+    {
+      "title": "Redesigning the Dorm: Why We Need Houses, Not Just Beds",
+      "url": "https://emanigerdine7-ops.github.io/redesigning-the-dorm.html",
+      "date": "February 11, 2026",
+      "dateISO": "2026-02-11",
+      "author": "Emani Gerdine",
+      "authorRole": "student",
+      "blogUrl": "https://emanigerdine7-ops.github.io"
+    },
+    {
+      "title": "When the Homework Gets Hard: Using AI as a 24/7 Tutor",
+      "url": "https://emanigerdine7-ops.github.io/ai-tutor.html",
+      "date": "February 11, 2026",
+      "dateISO": "2026-02-11",
+      "author": "Emani Gerdine",
+      "authorRole": "student",
+      "blogUrl": "https://emanigerdine7-ops.github.io"
+    },
+    {
       "title": "Defining Healthy vs. Unhealthy Relationship Dynamics",
       "url": "https://jinxxywrites.github.io/Psyched-for-Psychology/healthy-vs-unhealthy.html",
       "date": "February 11, 2026",
@@ -298,6 +334,15 @@
       "author": "Gabriel Bell",
       "authorRole": "student",
       "blogUrl": "https://gabriel-bell.github.io"
+    },
+    {
+      "title": "The \"Benito Bowl\" Was a Statement, Not a Translation",
+      "url": "https://emanigerdine7-ops.github.io/benito-bowl.html",
+      "date": "February 9, 2026",
+      "dateISO": "2026-02-09",
+      "author": "Emani Gerdine",
+      "authorRole": "student",
+      "blogUrl": "https://emanigerdine7-ops.github.io"
     },
     {
       "title": "Fostering Healthy Relationship Skills: A Psychological Blueprint",
@@ -588,6 +633,33 @@
       "blogUrl": "https://olliebear2006ya-dotcom.github.io/Olivias-Disney-Blog"
     },
     {
+      "title": "Response: The Systemic Soul",
+      "url": "https://emanigerdine7-ops.github.io/the-systemic-soul.html",
+      "date": "February 4, 2026",
+      "dateISO": "2026-02-04",
+      "author": "Emani Gerdine",
+      "authorRole": "student",
+      "blogUrl": "https://emanigerdine7-ops.github.io"
+    },
+    {
+      "title": "The Human Ear: Why Therapy Needs Humans",
+      "url": "https://emanigerdine7-ops.github.io/human-ear.html",
+      "date": "February 4, 2026",
+      "dateISO": "2026-02-04",
+      "author": "Emani Gerdine",
+      "authorRole": "student",
+      "blogUrl": "https://emanigerdine7-ops.github.io"
+    },
+    {
+      "title": "The Boundary Paradox: Business vs. Friendship",
+      "url": "https://emanigerdine7-ops.github.io/business-vs-friendship.html",
+      "date": "February 4, 2026",
+      "dateISO": "2026-02-04",
+      "author": "Emani Gerdine",
+      "authorRole": "student",
+      "blogUrl": "https://emanigerdine7-ops.github.io"
+    },
+    {
       "title": "The Lasting Power of Connection: Why Human Therapy Still Matters",
       "url": "https://jinxxywrites.github.io/Psyched-for-Psychology/cbct-human-connection.html",
       "date": "February 4, 2026",
@@ -631,36 +703,6 @@
       "author": "Caleb Murphy",
       "authorRole": "student",
       "blogUrl": "https://calebmurphy01.github.io"
-    },
-    {
-      "title": "Response: The Systemic Soul",
-      "url": "https://emanigerdine7-ops.github.io/the-systemic-soul.html",
-      "date": "February 4, 2026",
-      "dateISO": "2026-02-04",
-      "author": "Emani Gerdine",
-      "authorRole": "student",
-      "blogUrl": "https://emanigerdine7-ops.github.io",
-      "source": "manual"
-    },
-    {
-      "title": "The Human Ear: Why Therapy Needs Humans",
-      "url": "https://emanigerdine7-ops.github.io/human-ear.html",
-      "date": "February 4, 2026",
-      "dateISO": "2026-02-04",
-      "author": "Emani Gerdine",
-      "authorRole": "student",
-      "blogUrl": "https://emanigerdine7-ops.github.io",
-      "source": "manual"
-    },
-    {
-      "title": "The Boundary Paradox: Business vs. Friendship",
-      "url": "https://emanigerdine7-ops.github.io/business-vs-friendship.html",
-      "date": "February 4, 2026",
-      "dateISO": "2026-02-04",
-      "author": "Emani Gerdine",
-      "authorRole": "student",
-      "blogUrl": "https://emanigerdine7-ops.github.io",
-      "source": "manual"
     },
     {
       "title": "The Synthesis of Intelligence and Athletics: AI Integration in Global Sports via Podcasts",
@@ -1754,6 +1796,15 @@
       "blogUrl": "https://gabriel-bell.github.io"
     },
     {
+      "title": "Response: The Efficiency Paradox",
+      "url": "https://emanigerdine7-ops.github.io/the-efficiency-paradox.html",
+      "date": "January 16, 2026",
+      "dateISO": "2026-01-16",
+      "author": "Emani Gerdine",
+      "authorRole": "student",
+      "blogUrl": "https://emanigerdine7-ops.github.io"
+    },
+    {
       "title": "The Agency Paradox: Choosing My Path",
       "url": "https://emanigerdine7-ops.github.io/agency-paradox-intro.html",
       "date": "January 16, 2026",
@@ -1797,16 +1848,6 @@
       "author": "Ben Teismann",
       "authorRole": "student",
       "blogUrl": "https://blt279.github.io"
-    },
-    {
-      "title": "Response: The Efficiency Paradox",
-      "url": "https://emanigerdine7-ops.github.io/the-efficiency-paradox.html",
-      "date": "January 16, 2026",
-      "dateISO": "2026-01-16",
-      "author": "Emani Gerdine",
-      "authorRole": "student",
-      "blogUrl": "https://emanigerdine7-ops.github.io",
-      "source": "manual"
     },
     {
       "title": "The Sorcerer's Tool",
