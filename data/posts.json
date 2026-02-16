@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-02-16T17:09:44.016Z",
+  "lastUpdated": "2026-02-16T17:28:30.426Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 225,
+  "totalPosts": 226,
   "totalBlogs": 21,
   "blogsWithErrors": [
     {
@@ -37,6 +37,15 @@
       "author": "Sam Levine",
       "authorRole": "student",
       "blogUrl": "https://samlevine277.github.io"
+    },
+    {
+      "title": "Severing the Master Signal: Technical Sovereignty and the Ethics of Maintenance",
+      "url": "https://eliananodari.github.io/severing-master-signal.html",
+      "date": "February 16, 2026",
+      "dateISO": "2026-02-16",
+      "author": "Eliana Nodari",
+      "authorRole": "student",
+      "blogUrl": "https://eliananodari.github.io"
     },
     {
       "title": "Who Pulls the Strings? Algorithmic Bias and the Erosion of Individual Sovereignty",
