@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-02-16T17:50:17.282Z",
+  "lastUpdated": "2026-02-16T18:05:51.926Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 226,
+  "totalPosts": 227,
   "totalBlogs": 21,
   "blogsWithErrors": [
     {
@@ -28,6 +28,15 @@
       "author": "Zay Amaro",
       "authorRole": "student",
       "blogUrl": "https://zayamaro.github.io"
+    },
+    {
+      "title": "The Shadow of Control: The Toll of Intimate Partner Violence",
+      "url": "https://jinxxywrites.github.io/Psyched-for-Psychology/ipv.effects.html",
+      "date": "February 16, 2026",
+      "dateISO": "2026-02-16",
+      "author": "Jinx Hixson",
+      "authorRole": "student",
+      "blogUrl": "https://jinxxywrites.github.io/Psyched-for-Psychology"
     },
     {
       "title": "The 50/50 Rule Under Fire",
