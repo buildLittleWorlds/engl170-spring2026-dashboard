@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-02-16T05:08:40.633Z",
+  "lastUpdated": "2026-02-16T05:45:34.096Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 218,
+  "totalPosts": 216,
   "totalBlogs": 21,
   "blogsWithErrors": [
     {
@@ -1791,15 +1791,6 @@
       "blogUrl": "https://olliebear2006ya-dotcom.github.io/Olivias-Disney-Blog"
     },
     {
-      "title": "The Green Mask: What We’re Really Hiding Behind",
-      "url": "https://jrbrunts.github.io/the-green-mask.html",
-      "date": "January 15, 2026",
-      "dateISO": "2026-01-15",
-      "author": "Jacob Brunts",
-      "authorRole": "student",
-      "blogUrl": "https://jrbrunts.github.io"
-    },
-    {
       "title": "The Fluency Illusion: AI-Induced Learned Helplessness",
       "url": "https://jinxxywrites.github.io/Psyched-for-Psychology/fluency-illusion-helplessness.html",
       "date": "January 15, 2026",
@@ -1888,15 +1879,6 @@
       "author": "Olivia Andresen",
       "authorRole": "student",
       "blogUrl": "https://olliebear2006ya-dotcom.github.io/Olivias-Disney-Blog"
-    },
-    {
-      "title": "The Obsolescence Trap: Why \"Choice\" Is Not Enough",
-      "url": "https://jrbrunts.github.io/obsolescence-trap.html",
-      "date": "January 13, 2026",
-      "dateISO": "2026-01-13",
-      "author": "Jacob Brunts",
-      "authorRole": "student",
-      "blogUrl": "https://jrbrunts.github.io"
     },
     {
       "title": "\"Mastermind\" Machinery: AI, Agency, and Mental Health",
