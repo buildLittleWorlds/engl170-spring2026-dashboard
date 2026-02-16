@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-02-16T05:45:34.096Z",
+  "lastUpdated": "2026-02-16T06:14:00.954Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 216,
+  "totalPosts": 217,
   "totalBlogs": 21,
   "blogsWithErrors": [
     {
@@ -28,6 +28,15 @@
       "author": "Zay Amaro",
       "authorRole": "student",
       "blogUrl": "https://zayamaro.github.io"
+    },
+    {
+      "title": "AI in sports vs work",
+      "url": "https://samlevine277.github.io/ai-sports-vs-work.html",
+      "date": "Feburary 15, 2026",
+      "dateISO": "2026-02-15",
+      "author": "Sam Levine",
+      "authorRole": "student",
+      "blogUrl": "https://samlevine277.github.io"
     },
     {
       "title": "The Ghost of the Watercooler: Why the Monoculture is Dying (And Why it Matters)",
