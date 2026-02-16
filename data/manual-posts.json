@@ -1,6 +1,6 @@
 {
   "description": "Manually-specified posts for students whose blogs don't follow the expected structure. These are merged into posts.json by the scraper.",
-  "lastUpdated": "2026-02-08T14:00:00.000Z",
+  "lastUpdated": "2026-02-16T20:00:00.000Z",
   "posts": [
     {
       "title": "Beyond the Ink: Why the Digital Pen is the Key to Unlocking Creative Potential",
@@ -61,6 +61,16 @@
       "authorRole": "student",
       "blogUrl": "https://emanigerdine7-ops.github.io",
       "source": "manual"
+    },
+    {
+      "title": "The 'Benito Bowl' Was a Statement, Not a Translation",
+      "url": "https://emanigerdine7-ops.github.io/2026-02-09-benito-bowl",
+      "date": "February 9, 2026",
+      "dateISO": "2026-02-09",
+      "author": "Emani Gerdine",
+      "authorRole": "student",
+      "blogUrl": "https://emanigerdine7-ops.github.io",
+      "source": "manual-repo-scan"
     },
     {
       "title": "What is Happening to OpenAI?",
