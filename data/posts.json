@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-02-17T05:02:26.747Z",
+  "lastUpdated": "2026-02-17T05:37:04.071Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 227,
+  "totalPosts": 229,
   "totalBlogs": 21,
   "blogsWithErrors": [
     {
@@ -73,6 +73,15 @@
       "author": "Isabella Calmet",
       "authorRole": "student",
       "blogUrl": "https://bellacalmetjanssen-cell.github.io/isabella-calmet-.github.io"
+    },
+    {
+      "title": "The Last Watercooler: Can Disney Save the Monoculture?",
+      "url": "https://olliebear2006ya-dotcom.github.io/Olivias-Disney-Blog/watercooler.html",
+      "date": "Februrary 15, 2026",
+      "dateISO": "2026-02-15",
+      "author": "Olivia Andresen",
+      "authorRole": "student",
+      "blogUrl": "https://olliebear2006ya-dotcom.github.io/Olivias-Disney-Blog"
     },
     {
       "title": "AI in sports vs work",
@@ -309,6 +318,15 @@
       "blogUrl": "https://zayamaro.github.io"
     },
     {
+      "title": "The \"Standardized Human\" at the Turnstile",
+      "url": "https://olliebear2006ya-dotcom.github.io/Olivias-Disney-Blog/human.html",
+      "date": "Februrary 10, 2026",
+      "dateISO": "2026-02-10",
+      "author": "Olivia Andresen",
+      "authorRole": "student",
+      "blogUrl": "https://olliebear2006ya-dotcom.github.io/Olivias-Disney-Blog"
+    },
+    {
       "title": "The Zero-Failure Protocol: Why Prediction Demands Intervention",
       "url": "https://jrbrunts.github.io/zero-failure-protocol.html",
       "date": "February 10, 2026",
@@ -462,8 +480,8 @@
       "blogUrl": "https://zayamaro.github.io"
     },
     {
-      "title": "The Mouse and the Mirror: How Disney Perfects the \"Beyond the Screen\" Philosophy",
-      "url": "https://olliebear2006ya-dotcom.github.io/Olivias-Disney-Blog/the-mouse.html",
+      "title": "When \"Zero Failure\" Becomes the Show",
+      "url": "https://olliebear2006ya-dotcom.github.io/Olivias-Disney-Blog/zero.html",
       "date": "Februrary 8, 2026",
       "dateISO": "2026-02-08",
       "author": "Olivia Andresen",
