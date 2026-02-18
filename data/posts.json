@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-02-18T04:18:15.316Z",
+  "lastUpdated": "2026-02-18T05:02:48.238Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 241,
+  "totalPosts": 242,
   "totalBlogs": 22,
   "blogsWithErrors": [
     {
@@ -42,6 +42,15 @@
       "authorRole": "student",
       "blogUrl": "https://jrbrunts.github.io",
       "source": "manual-repo-scan"
+    },
+    {
+      "title": "Terraria vs Minecraft",
+      "url": "https://jake3143.github.io/jake3143/terraria-vs-minecraft.html",
+      "date": "February 17, 2026",
+      "dateISO": "2026-02-17",
+      "author": "Jaden Walker",
+      "authorRole": "student",
+      "blogUrl": "https://jake3143.github.io/jake3143"
     },
     {
       "title": "The Agency Paradox and Why Students Need Choice to Learn",
