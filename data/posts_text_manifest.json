@@ -1,6 +1,6 @@
 {
   "description": "Maps post URLs to saved filenames. Prevents re-downloading when titles change.",
-  "lastUpdated": "2026-02-18T01:07:14.983Z",
+  "lastUpdated": "2026-02-18T15:55:59.138Z",
   "urls": {
     "https://jrbrunts.github.io/restoration-window.html": "jacob_brunts_2026-02-02_the_restoration_window__a_framework_for_fair_heali.txt",
     "https://jrbrunts.github.io/infinite-therapist.html": "jacob_brunts_2026-02-02_the_infinite_therapist__democratizing_the_mind.txt",
@@ -240,6 +240,10 @@
     "https://braydenwilson22.github.io/invisible-coach-ai-sports-training.html": "brayden_wilson_2026-02-16_the_invisible_coach__how_artificial_intelligence_i.txt",
     "https://braydenwilson22.github.io/healing-algorithm-ai-medicine.html": "brayden_wilson_2026-02-13_the_healing_algorithm__how_artificial_intelligence.txt",
     "https://jrbrunts.github.io/aesthetics-of-algorithm.html": "jacob_brunts_2026-02-18_the_aesthetics_of_the_algorithm__why__drama__is_ju.txt",
-    "https://eliananodari.github.io/evering-master-signal.html": "eliana_nodari_2026-02-16_severing_the_master_signal__technical_sovereignty_.txt"
+    "https://eliananodari.github.io/evering-master-signal.html": "eliana_nodari_2026-02-16_severing_the_master_signal__technical_sovereignty_.txt",
+    "https://eliananodari.github.io/severing-master-signal.html": "eliana_nodari_2026-02-16_severing_the_master_signal__technical_sovereignty_.txt",
+    "https://jake3143.github.io/jake3143/terraria-vs-minecraft.html": "jaden_walker_2026-02-17_terraria_vs_minecraft.txt",
+    "https://jake3143.github.io/jake3143/why-fnaf-6-is-the-best-one.html": "jaden_walker_2026-02-17_why_fnaf_6_is_the_best_one.txt",
+    "https://buildlittleworlds.github.io/plate-composition-blog/posts/nobody-hired-you-because-you-needed-work/": "dr__plate_2026-02-18_nobody_hired_you_because_you_needed_work.txt"
   }
 }

@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-18T01:07:14.981Z",
+  "lastUpdated": "2026-02-18T15:55:59.131Z",
   "students": {
     "Olivia Andresen": {
       "url": "https://olliebear2006ya-dotcom.github.io/Olivias-Disney-Blog",
@@ -1198,6 +1198,16 @@
     "Jaden Walker": {
       "url": "",
       "posts": [
+        {
+          "date": "2026-02-17",
+          "title": "Terraria vs Minecraft",
+          "file": "jaden_walker_2026-02-17_terraria_vs_minecraft.txt"
+        },
+        {
+          "date": "2026-02-17",
+          "title": "Why FNAF 6 is the best one",
+          "file": "jaden_walker_2026-02-17_why_fnaf_6_is_the_best_one.txt"
+        },
         {
           "date": "2026-02-11",
           "title": "Game Review - Star Birds",
