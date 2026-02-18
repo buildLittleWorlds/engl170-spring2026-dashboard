@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-02-18T20:15:31.068Z",
+  "lastUpdated": "2026-02-18T20:35:29.106Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 248,
+  "totalPosts": 249,
   "totalBlogs": 22,
   "blogsWithErrors": [
     {
@@ -41,6 +41,15 @@
       "author": "Dr. Plate",
       "authorRole": "instructor",
       "blogUrl": "https://buildlittleworlds.github.io/plate-composition-blog"
+    },
+    {
+      "title": "CPTSD Rates After Intimate Partner Violence",
+      "url": "https://jinxxywrites.github.io/Psyched-for-Psychology/ipv-cptsd.html",
+      "date": "February 18, 2026",
+      "dateISO": "2026-02-18",
+      "author": "Jinx Hixson",
+      "authorRole": "student",
+      "blogUrl": "https://jinxxywrites.github.io/Psyched-for-Psychology"
     },
     {
       "title": "Error Is Entertainment",
