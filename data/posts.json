@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-02-18T15:35:32.347Z",
+  "lastUpdated": "2026-02-18T15:52:27.683Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 244,
+  "totalPosts": 245,
   "totalBlogs": 22,
   "blogsWithErrors": [
     {
@@ -23,6 +23,15 @@
       "author": "Zay Amaro",
       "authorRole": "student",
       "blogUrl": "https://zayamaro.github.io"
+    },
+    {
+      "title": "Nobody Hired You Because You Needed Work",
+      "url": "https://buildlittleworlds.github.io/plate-composition-blog/posts/nobody-hired-you-because-you-needed-work/",
+      "date": "February 18, 2026",
+      "dateISO": "2026-02-18",
+      "author": "Dr. Plate",
+      "authorRole": "instructor",
+      "blogUrl": "https://buildlittleworlds.github.io/plate-composition-blog"
     },
     {
       "title": "The Efficiency Trap: Why Perfect Sports Might Be Boring",
