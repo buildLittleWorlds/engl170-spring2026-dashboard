@@ -1,7 +1,87 @@
 {
   "description": "Manually-specified posts for students whose blogs don't follow the expected structure. These are merged into posts.json by the scraper.",
-  "lastUpdated": "2026-02-16T20:00:00.000Z",
+  "lastUpdated": "2026-02-18T12:00:00.000Z",
   "posts": [
+    {
+      "title": "The Agency Paradox and Why Students Need Choice to Learn",
+      "url": "https://connorgengle.github.io/AI-/agency-paradox-students-need-choice.html",
+      "date": "February 17, 2026",
+      "dateISO": "2026-02-17",
+      "author": "Connor Gengle",
+      "authorRole": "student",
+      "blogUrl": "https://connorgengle.github.io/AI-",
+      "source": "manual-repo-scan"
+    },
+    {
+      "title": "AI Does Not Replace Thinking, It Changes Where Thinking Happens",
+      "url": "https://connorgengle.github.io/AI-/ai-does-not-replace-thinking-it-changes-where-thinking-happens.html",
+      "date": "February 17, 2026",
+      "dateISO": "2026-02-17",
+      "author": "Connor Gengle",
+      "authorRole": "student",
+      "blogUrl": "https://connorgengle.github.io/AI-",
+      "source": "manual-repo-scan"
+    },
+    {
+      "title": "The Hidden Cost of Poor Sleep in Elite Performance",
+      "url": "https://connorgengle.github.io/AI-/hidden-cost-of-poor-sleep.html",
+      "date": "February 17, 2026",
+      "dateISO": "2026-02-17",
+      "author": "Connor Gengle",
+      "authorRole": "student",
+      "blogUrl": "https://connorgengle.github.io/AI-",
+      "source": "manual-repo-scan"
+    },
+    {
+      "title": "NIL Deals in College Sports — Restoring Fairness or Rewriting the Game?",
+      "url": "https://connorgengle.github.io/AI-/nil-deals-college-sports.html",
+      "date": "February 17, 2026",
+      "dateISO": "2026-02-17",
+      "author": "Connor Gengle",
+      "authorRole": "student",
+      "blogUrl": "https://connorgengle.github.io/AI-",
+      "source": "manual-repo-scan"
+    },
+    {
+      "title": "Performance Enhancing Drugs and the Pressure to Win",
+      "url": "https://connorgengle.github.io/AI-/performance-enhancing-drugs-pressure-to-win.html",
+      "date": "February 17, 2026",
+      "dateISO": "2026-02-17",
+      "author": "Connor Gengle",
+      "authorRole": "student",
+      "blogUrl": "https://connorgengle.github.io/AI-",
+      "source": "manual-repo-scan"
+    },
+    {
+      "title": "Poor Nutrition and Its Impact on Athletic Success",
+      "url": "https://connorgengle.github.io/AI-/poor-nutrition-athletic-success.html",
+      "date": "February 17, 2026",
+      "dateISO": "2026-02-17",
+      "author": "Connor Gengle",
+      "authorRole": "student",
+      "blogUrl": "https://connorgengle.github.io/AI-",
+      "source": "manual-repo-scan"
+    },
+    {
+      "title": "Why Banning AI Feels Like Avoiding the Real Problem",
+      "url": "https://connorgengle.github.io/AI-/why-banning-ai-avoids-the-real-problem.html",
+      "date": "February 17, 2026",
+      "dateISO": "2026-02-17",
+      "author": "Connor Gengle",
+      "authorRole": "student",
+      "blogUrl": "https://connorgengle.github.io/AI-",
+      "source": "manual-repo-scan"
+    },
+    {
+      "title": "AI Art Is Nothing of Concern",
+      "url": "https://jake3143.github.io/jake3143/ai-art-is-nothing-of-concern.html",
+      "date": "February 3, 2026",
+      "dateISO": "2026-02-03",
+      "author": "Jaden Walker",
+      "authorRole": "student",
+      "blogUrl": "https://jake3143.github.io/jake3143",
+      "source": "manual-repo-scan"
+    },
     {
       "title": "Beyond the Ink: Why the Digital Pen is the Key to Unlocking Creative Potential",
       "url": "https://iforbes07.github.io/Pablowanye.github.io/beyond-the-ink.html",
