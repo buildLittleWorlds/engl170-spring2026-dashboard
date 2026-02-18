@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-02-16T15:00:45.006Z",
+  "lastUpdated": "2026-02-16T15:15:45.117Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 219,
+  "totalPosts": 224,
   "totalBlogs": 21,
   "blogsWithErrors": [
     {
@@ -147,6 +147,16 @@
       "blogUrl": "https://blt279.github.io"
     },
     {
+      "title": "The Math Manifesto: Why We Need to Stop Overcomplicating Numbers",
+      "url": "https://emanigerdine7-ops.github.io/math-manifesto.html",
+      "date": "February 13, 2026",
+      "dateISO": "2026-02-13",
+      "author": "Emani Gerdine",
+      "authorRole": "student",
+      "blogUrl": "https://emanigerdine7-ops.github.io",
+      "source": "manual-repo-scan"
+    },
+    {
       "title": "The Biological Commons: Data as the New Public Utility",
       "url": "https://jrbrunts.github.io/biological-commons.html",
       "date": "February 12, 2026",
@@ -244,6 +254,36 @@
       "author": "Zay Amaro",
       "authorRole": "student",
       "blogUrl": "https://zayamaro.github.io"
+    },
+    {
+      "title": "The Roommate Reality: Why Boundaries and Safety Matter",
+      "url": "https://emanigerdine7-ops.github.io/roommate-reality.html",
+      "date": "February 11, 2026",
+      "dateISO": "2026-02-11",
+      "author": "Emani Gerdine",
+      "authorRole": "student",
+      "blogUrl": "https://emanigerdine7-ops.github.io",
+      "source": "manual-repo-scan"
+    },
+    {
+      "title": "Redesigning the Dorm: Why We Need Houses, Not Just Beds",
+      "url": "https://emanigerdine7-ops.github.io/redesigning-the-dorm.html",
+      "date": "February 11, 2026",
+      "dateISO": "2026-02-11",
+      "author": "Emani Gerdine",
+      "authorRole": "student",
+      "blogUrl": "https://emanigerdine7-ops.github.io",
+      "source": "manual-repo-scan"
+    },
+    {
+      "title": "When the Homework Gets Hard: Using AI as a 24/7 Tutor",
+      "url": "https://emanigerdine7-ops.github.io/ai-tutor.html",
+      "date": "February 11, 2026",
+      "dateISO": "2026-02-11",
+      "author": "Emani Gerdine",
+      "authorRole": "student",
+      "blogUrl": "https://emanigerdine7-ops.github.io",
+      "source": "manual-repo-scan"
     },
     {
       "title": "The Zero-Failure Protocol: Why Prediction Demands Intervention",
@@ -406,6 +446,16 @@
       "author": "Zay Amaro",
       "authorRole": "student",
       "blogUrl": "https://zayamaro.github.io"
+    },
+    {
+      "title": "The 'Benito Bowl' Was a Statement, Not a Translation",
+      "url": "https://emanigerdine7-ops.github.io/benito-bowl.html",
+      "date": "February 9, 2026",
+      "dateISO": "2026-02-09",
+      "author": "Emani Gerdine",
+      "authorRole": "student",
+      "blogUrl": "https://emanigerdine7-ops.github.io",
+      "source": "manual-repo-scan"
     },
     {
       "title": "The Mouse and the Mirror: How Disney Perfects the \"Beyond the Screen\" Philosophy",

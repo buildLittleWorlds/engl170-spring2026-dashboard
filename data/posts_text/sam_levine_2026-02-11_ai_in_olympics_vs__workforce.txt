@@ -1,0 +1,35 @@
+Response to Brayden Wilson: AI, The Olympics, and the Future of Work
+← Back to Home
+AI at the Olympics: Enhancement or Warning Sign?
+February 11, 2026 | Response by Sam Levine
+In his post, “Faster, Higher, Stronger… Smarter? The AI Revolution at the Olympic Games,” Brayden Wilson presents a thorough and optimistic view of how Artificial Intelligence is changing sport. He highlights AI’s role in improving fairness, preventing injuries, and enhancing the fan experience. He argues that AI amplifies human potential without replacing the athletes, coaches, or judges who make the Games meaningful.
+“This isn’t a sci-fi future where robots run the 100m dash. It’s a present reality where human potential is being augmented, analyzed, and amplified by algorithmic power.”
+— Brayden Wilson
+I agree that in the Olympics, AI functions primarily as a tool that supports rather than replaces humans. Coaches can use AI-generated data to refine training, referees can review calls with greater precision, and broadcasters can offer viewers personalized highlights. In these cases, AI amplifies human ability without undermining the human spirit that makes the Games compelling.
+AI Enhancing Sport
+Brayden illustrates several ways AI improves athletic performance. Markerless motion capture allows athletes to train without cumbersome suits covered in reflective markers, capturing joint angles, stride patterns, and rotational speeds in real time. Injury-prediction algorithms analyze training loads, sleep, and biomechanics to alert coaches before an athlete faces serious risk. In these ways, AI protects athletes while helping them reach peak performance.
+In officiating, AI ensures that results are more accurate and fair. Semi-Automated Offside Technology in soccer tracks every player and the ball 50 times per second, reducing the chance of human error. In gymnastics and diving, AI can verify rotations, splits, and precise angles, while judges focus on artistry and execution. Even in broadcasting, AI generates highlights and overlays statistics in real time, creating a richer experience for fans without removing the excitement or emotion from the Games.
+Overall, these examples show that AI in sports is assistive rather than replacement-oriented. It provides measurable benefits while maintaining human oversight and emotional connection.
+Expanding Beyond Sports: Workforce Concerns
+While AI enhances the Olympics, I worry about what this means outside the stadium. In the workplace, AI is increasingly performing tasks that were once uniquely human. A report from the Brookings Institution shows:
+“More than 30% of all workers could see at least 50% of their occupation’s tasks disrupted by generative AI.”
+— Brookings Institution, Generative AI, the American Worker, and the Future of Work
+This statistic does not mean immediate unemployment for millions, but it highlights a structural shift. Generative AI can draft reports, summarize research, generate code, and even produce creative content. While it assists workers today, it could gradually replace or reduce human roles, especially in white-collar sectors.
+Brayden’s post focuses on AI as a supportive tool, but I think it’s critical to consider the broader economic context. Companies face strong incentives to adopt AI not just for enhancement, but for cost reduction. Unlike the Olympics, where fairness and human achievement are core values, business decisions are often driven by profit. In this context, the line between assistance and replacement becomes blurry.
+Assistance vs. Automation
+Right now, AI is largely framed as productivity support. It can draft emails, organize data, and free humans to focus on higher-level reasoning. But Brookings warns that:
+“Currently, there are few guidelines or codes of conduct for how companies should ethically implement AI with respect to their workforce.”
+— Brookings Institution
+Without intentional oversight, assistance can evolve into replacement. Just as automated machinery reshaped factories and self-checkout systems reduced cashier roles, AI in offices, journalism, and finance could quietly reduce the need for human employees. The same technology that enriches the Olympics today could threaten livelihoods tomorrow.
+Balancing Progress and Protection
+I appreciate Brayden’s optimism because it reminds us that AI can amplify human potential. But I think we also need to address the risks. To ensure AI benefits workers as it does athletes, we need policies that protect human roles:
+Workforce retraining programs to adapt to AI-driven tasks.
+Ethical implementation guidelines to ensure AI assists rather than replaces unnecessarily.
+Transparency in algorithmic decisions so humans understand how AI impacts work.
+Policy interventions that align technological advancement with public benefit.
+The Olympics offer a model: AI as a partner that enhances human performance while preserving human judgment. Translating that model to the workforce will require conscious effort and regulation.
+Reflection and Personal Perspective
+As a student preparing to enter the workforce, I find this duality both exciting and concerning. On one hand, AI promises incredible efficiencies, support, and insight. On the other, the potential for job displacement is real. Brayden’s post illustrates that AI can enhance human potential, but my worry is whether society will choose to prioritize human roles when AI becomes capable of doing them faster, cheaper, and at scale.
+Ultimately, the Olympic motto ends with Communiter — together. AI has made the Games faster, stronger, and fairer, but we must ensure that the workforce and society can move forward together with AI, rather than being left behind.
+In sport, AI highlights human potential. In society, it must do the same. Brayden’s optimism is valuable, but it should also inspire thoughtful reflection on how to maintain fairness, opportunity, and human relevance outside the stadium.
+← Back to Home

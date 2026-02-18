@@ -1,0 +1,4 @@
+The Taste of the Game - Zay Amaro's Blog
+The Taste of the Game: Why Instinct Can't Be Automated
+February 15, 2026
+In a compelling look at the current state of software development, Jonas Rodrigues writes in "The Great Phase Change" that we have moved past the era of manual coding and into an era of "Agentic Orchestration." Jonas argues that in a world where AI can generate 100,000 lines of code in weeks, the most valuable human skill is no longer syntax—it’s **"Taste."** He defines taste as the ability to recognize when a solution is truly excellent rather than just "mathematically correct." As I read his analysis, I realized that "Taste" in tech is exactly what we call "Instinct" in sports. And just like a "mathematically correct" app can feel soulless, a "statistically correct" game plan can fail if it lacks the instinct of a leader.

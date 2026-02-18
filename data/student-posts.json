@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-11T12:45:03.038Z",
+  "lastUpdated": "2026-02-18T00:00:02.941Z",
   "students": {
     "Olivia Andresen": {
       "url": "https://olliebear2006ya-dotcom.github.io/Olivias-Disney-Blog",
@@ -110,6 +110,21 @@
       "url": "https://jrbrunts.github.io",
       "posts": [
         {
+          "date": "2026-02-12",
+          "title": "The Biological Commons: Data as the New Public Utility",
+          "file": "jacob_brunts_2026-02-12_the_biological_commons__data_as_the_new_public_uti.txt"
+        },
+        {
+          "date": "2026-02-10",
+          "title": "The Zero-Failure Protocol: Why Prediction Demands Intervention",
+          "file": "jacob_brunts_2026-02-10_the_zero_failure_protocol__why_prediction_demands_.txt"
+        },
+        {
+          "date": "2026-02-08",
+          "title": "The Neurochemistry of Connection: Optimizing the Social Signal",
+          "file": "jacob_brunts_2026-02-08_the_neurochemistry_of_connection__optimizing_the_s.txt"
+        },
+        {
           "date": "2026-02-05",
           "title": "The Unified Protocol: Silicon for the Soul and the Sinew",
           "file": "jacob_brunts_2026-02-05_the_unified_protocol__silicon_for_the_soul_and_the.txt"
@@ -169,6 +184,31 @@
     "Emani Gerdine": {
       "url": "https://emanigerdine7-ops.github.io",
       "posts": [
+        {
+          "date": "2026-02-13",
+          "title": "The Math Manifesto: Why We Need to Stop Overcomplicating Numbers",
+          "file": "emani_gerdine_2026-02-13_the_math_manifesto__why_we_need_to_stop_overcompli.txt"
+        },
+        {
+          "date": "2026-02-11",
+          "title": "The Roommate Reality: Why Boundaries and Safety Matter",
+          "file": "emani_gerdine_2026-02-11_the_roommate_reality__why_boundaries_and_safety_ma.txt"
+        },
+        {
+          "date": "2026-02-11",
+          "title": "Redesigning the Dorm: Why We Need Houses, Not Just Beds",
+          "file": "emani_gerdine_2026-02-11_redesigning_the_dorm__why_we_need_houses__not_just.txt"
+        },
+        {
+          "date": "2026-02-11",
+          "title": "When the Homework Gets Hard: Using AI as a 24/7 Tutor",
+          "file": "emani_gerdine_2026-02-11_when_the_homework_gets_hard__using_ai_as_a_24_7_tu.txt"
+        },
+        {
+          "date": "2026-02-09",
+          "title": "The 'Benito Bowl' Was a Statement, Not a Translation",
+          "file": "emani_gerdine_2026-02-09_the__benito_bowl__was_a_statement__not_a_translati.txt"
+        },
         {
           "date": "2026-02-04",
           "title": "Response: The Systemic Soul",
@@ -330,6 +370,16 @@
       "url": "https://samlevine277.github.io",
       "posts": [
         {
+          "date": "2026-02-15",
+          "title": "AI in sports vs work",
+          "file": "sam_levine_2026-02-15_ai_in_sports_vs_work.txt"
+        },
+        {
+          "date": "2026-02-11",
+          "title": "AI in olympics vs. workforce",
+          "file": "sam_levine_2026-02-11_ai_in_olympics_vs__workforce.txt"
+        },
+        {
           "date": "2026-02-09",
           "title": "automation in rugby",
           "file": "sam_levine_2026-02-09_automation_in_rugby.txt"
@@ -410,6 +460,16 @@
       "url": "https://eliananodari.github.io",
       "posts": [
         {
+          "date": "2026-02-13",
+          "title": "The Digital Lifeboat and the Architecture of Silence",
+          "file": "eliana_nodari_2026-02-13_the_digital_lifeboat_and_the_architecture_of_silen.txt"
+        },
+        {
+          "date": "2026-02-11",
+          "title": "The Digital Lifeboat: Why Technology Is Not the Villain",
+          "file": "eliana_nodari_2026-02-11_the_digital_lifeboat__why_technology_is_not_the_vi.txt"
+        },
+        {
           "date": "2026-02-09",
           "title": "The Curated Self vs. The Beautiful Mess: Why We Must Reclaim Our Flaws",
           "file": "eliana_nodari_2026-02-09_the_curated_self_vs__the_beautiful_mess__why_we_mu.txt"
@@ -474,6 +534,16 @@
     "Jonas Rodrigues": {
       "url": "https://qubitn.github.io",
       "posts": [
+        {
+          "date": "2026-02-12",
+          "title": "Prompt To Root",
+          "file": "jonas_rodrigues_2026-02-12_prompt_to_root.txt"
+        },
+        {
+          "date": "2026-02-12",
+          "title": "The Great Phase Change",
+          "file": "jonas_rodrigues_2026-02-12_the_great_phase_change.txt"
+        },
         {
           "date": "2026-02-08",
           "title": "The Vibe Schism",
@@ -543,6 +613,36 @@
     "Ben Teismann": {
       "url": "https://blt279.github.io",
       "posts": [
+        {
+          "date": "2026-02-13",
+          "title": "The Moral Black Box: Death by Algorithm",
+          "file": "ben_teismann_2026-02-13_the_moral_black_box__death_by_algorithm.txt"
+        },
+        {
+          "date": "2026-02-13",
+          "title": "Technical Fragility: The Sunk Cost of the AI Car",
+          "file": "ben_teismann_2026-02-13_technical_fragility__the_sunk_cost_of_the_ai_car.txt"
+        },
+        {
+          "date": "2026-02-13",
+          "title": "Cybersecurity and Remote Terror",
+          "file": "ben_teismann_2026-02-13_cybersecurity_and_remote_terror.txt"
+        },
+        {
+          "date": "2026-02-13",
+          "title": "The Death of the Blue-Collar Backbone",
+          "file": "ben_teismann_2026-02-13_the_death_of_the_blue_collar_backbone.txt"
+        },
+        {
+          "date": "2026-02-13",
+          "title": "The Algorithmic Bias",
+          "file": "ben_teismann_2026-02-13_the_algorithmic_bias.txt"
+        },
+        {
+          "date": "2026-02-13",
+          "title": "The Surveillance Cabin",
+          "file": "ben_teismann_2026-02-13_the_surveillance_cabin.txt"
+        },
         {
           "date": "2026-01-18",
           "title": "AI Designing Cars",
@@ -624,6 +724,21 @@
       "url": "https://dominicdebro.github.io",
       "posts": [
         {
+          "date": "2026-02-15",
+          "title": "The Ghost of the Watercooler: Why the Monoculture is Dying (And Why it Matters)",
+          "file": "dominic_debro_2026-02-15_the_ghost_of_the_watercooler__why_the_monoculture_.txt"
+        },
+        {
+          "date": "2026-02-12",
+          "title": "The New Sincerity: Being \"Too Much\" in a World of Not Enough",
+          "file": "dominic_debro_2026-02-12_the_new_sincerity__being__too_much__in_a_world_of_.txt"
+        },
+        {
+          "date": "2026-02-09",
+          "title": "The Human Backlash: We All Knew This Was Coming",
+          "file": "dominic_debro_2026-02-09_the_human_backlash__we_all_knew_this_was_coming.txt"
+        },
+        {
           "date": "2026-02-08",
           "title": "The Human Premium: Why AI is the Greatest Catalyst for Artistry",
           "file": "dominic_debro_2026-02-08_the_human_premium__why_ai_is_the_greatest_catalyst.txt"
@@ -652,6 +767,11 @@
           "date": "2026-01-25",
           "title": "The Silicon Equalizer: Can AI Solve the Coordination Problem?",
           "file": "dominic_debro_2026-01-25_the_silicon_equalizer__can_ai_solve_the_coordinati.txt"
+        },
+        {
+          "date": "2026-01-22",
+          "title": "The Dopamine Ceiling: Escaping the Infinite Scroll",
+          "file": "dominic_debro_2026-01-22_the_dopamine_ceiling__escaping_the_infinite_scroll.txt"
         },
         {
           "date": "2026-01-21",
@@ -743,6 +863,16 @@
     "Isabella Calmet": {
       "url": "https://bellacalmetjanssen-cell.github.io/isabella-calmet-.github.io",
       "posts": [
+        {
+          "date": "2026-02-16",
+          "title": "Who Pulls the Strings? Algorithmic Bias and the Erosion of Individual Sovereignty",
+          "file": "isabella_calmet_2026-02-16_who_pulls_the_strings__algorithmic_bias_and_the_er.txt"
+        },
+        {
+          "date": "2026-02-16",
+          "title": "The Algorithmic Mirror: Does AI Know Me Better Than I Know Myself?",
+          "file": "isabella_calmet_2026-02-16_the_algorithmic_mirror__does_ai_know_me_better_tha.txt"
+        },
         {
           "date": "2026-02-08",
           "title": "Beyond the Vibe: Why \"Architectural Agency\" is the Human Anchor in an AI World",
@@ -864,6 +994,21 @@
       "url": "",
       "posts": [
         {
+          "date": "2026-02-22",
+          "title": "Star Birds and the Strategy of Faith: Why Games Need the Human Choice",
+          "file": "zay_amaro_2026-02-22_star_birds_and_the_strategy_of_faith__why_games_ne.txt"
+        },
+        {
+          "date": "2026-02-18",
+          "title": "The Efficiency Trap: Why Perfect Sports Might Be Boring",
+          "file": "zay_amaro_2026-02-18_the_efficiency_trap__why_perfect_sports_might_be_b.txt"
+        },
+        {
+          "date": "2026-02-15",
+          "title": "The Taste of the Game: Why Instinct Can't Be Automated",
+          "file": "zay_amaro_2026-02-15_the_taste_of_the_game__why_instinct_can_t_be_autom.txt"
+        },
+        {
           "date": "2026-02-11",
           "title": "The Off-Script Athlete: Why We Need Moral Agency in Sports",
           "file": "zay_amaro_2026-02-11_the_off_script_athlete__why_we_need_moral_agency_i.txt"
@@ -929,6 +1074,11 @@
       "url": "",
       "posts": [
         {
+          "date": "2026-02-12",
+          "title": "The Rhetoric of the Script: Responding to Zaya Maro",
+          "file": "caleb_murphy_2026-02-12_the_rhetoric_of_the_script__responding_to_zaya_mar.txt"
+        },
+        {
           "date": "2026-02-10",
           "title": "The Algo-Parlay: Can AI Actually Predict the Win?",
           "file": "caleb_murphy_2026-02-10_the_algo_parlay__can_ai_actually_predict_the_win_.txt"
@@ -993,6 +1143,11 @@
     "Jaden Walker": {
       "url": "",
       "posts": [
+        {
+          "date": "2026-02-11",
+          "title": "Game Review - Star Birds",
+          "file": "jaden_walker_2026-02-11_game_review___star_birds.txt"
+        },
         {
           "date": "2026-01-28",
           "title": "What is Happening to OpenAI?",
