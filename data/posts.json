@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-02-18T00:09:44.684Z",
+  "lastUpdated": "2026-02-18T00:48:35.882Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 229,
+  "totalPosts": 231,
   "totalBlogs": 22,
   "blogsWithErrors": [
     {
@@ -59,6 +59,15 @@
       "author": "Eliana Nodari",
       "authorRole": "student",
       "blogUrl": "https://eliananodari.github.io"
+    },
+    {
+      "title": "The Invisible Coach: How Artificial Intelligence is Rewriting the Rules of Sports Training",
+      "url": "https://braydenwilson22.github.io/invisible-coach-ai-sports-training.html",
+      "date": "February 16, 2026",
+      "dateISO": "2026-02-16",
+      "author": "Brayden Wilson",
+      "authorRole": "student",
+      "blogUrl": "https://braydenwilson22.github.io"
     },
     {
       "title": "Who Pulls the Strings? Algorithmic Bias and the Erosion of Individual Sovereignty",
@@ -194,6 +203,15 @@
       "author": "Ben Teismann",
       "authorRole": "student",
       "blogUrl": "https://blt279.github.io"
+    },
+    {
+      "title": "The Healing Algorithm: How Artificial Intelligence is Rewriting the Future of Medicine",
+      "url": "https://braydenwilson22.github.io/healing-algorithm-ai-medicine.html",
+      "date": "February 13, 2026",
+      "dateISO": "2026-02-13",
+      "author": "Brayden Wilson",
+      "authorRole": "student",
+      "blogUrl": "https://braydenwilson22.github.io"
     },
     {
       "title": "The Biological Commons: Data as the New Public Utility",
