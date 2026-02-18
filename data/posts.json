@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-02-18T17:29:17.381Z",
+  "lastUpdated": "2026-02-18T17:54:01.279Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 247,
+  "totalPosts": 248,
   "totalBlogs": 22,
   "blogsWithErrors": [
     {
@@ -50,6 +50,15 @@
       "author": "Sam Levine",
       "authorRole": "student",
       "blogUrl": "https://samlevine277.github.io"
+    },
+    {
+      "title": "The Mercy of the Mundane: Why Art Needs the Boring Parts",
+      "url": "https://eliananodari.github.io/mercy-of-the-mundane.html",
+      "date": "February 18, 2026",
+      "dateISO": "2026-02-18",
+      "author": "Eliana Nodari",
+      "authorRole": "student",
+      "blogUrl": "https://eliananodari.github.io"
     },
     {
       "title": "The Efficiency Trap: Why Perfect Sports Might Be Boring",
