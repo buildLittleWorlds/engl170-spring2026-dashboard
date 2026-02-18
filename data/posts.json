@@ -1,12 +1,16 @@
 {
-  "lastUpdated": "2026-02-17T23:56:51.689Z",
+  "lastUpdated": "2026-02-18T00:09:44.684Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
   "totalPosts": 229,
-  "totalBlogs": 21,
+  "totalBlogs": 22,
   "blogsWithErrors": [
     {
       "author": "Isaiah Forbes",
+      "error": "HTTP 404"
+    },
+    {
+      "author": "Connor Gengle",
       "error": "HTTP 404"
     }
   ],
