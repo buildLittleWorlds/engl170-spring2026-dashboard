@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-02-18T16:01:51.390Z",
+  "lastUpdated": "2026-02-18T16:30:00.485Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 245,
+  "totalPosts": 246,
   "totalBlogs": 22,
   "blogsWithErrors": [
     {
@@ -15,6 +15,15 @@
     }
   ],
   "posts": [
+    {
+      "title": "The Dependency Trap: Why AI Should Be Your Compass, Not Your Pilot",
+      "url": "https://bellacalmetjanssen-cell.github.io/isabella-calmet-.github.io/the-dependency-trap.html",
+      "date": "February 23, 2026",
+      "dateISO": "2026-02-23",
+      "author": "Isabella Calmet",
+      "authorRole": "student",
+      "blogUrl": "https://bellacalmetjanssen-cell.github.io/isabella-calmet-.github.io"
+    },
     {
       "title": "Star Birds and the Strategy of Faith: Why Games Need the Human Choice",
       "url": "https://zayamaro.github.io/star-birds-and-strategy.html",
