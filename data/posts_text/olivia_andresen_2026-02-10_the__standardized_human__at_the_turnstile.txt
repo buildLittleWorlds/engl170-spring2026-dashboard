@@ -1,0 +1,7 @@
+The Standardized Human | ENGL 170 Blog
+The author of The Algorithmic Bias argues that AI-driven cars are optimized for "perfect" conditions and "average" people, often failing to recognize children, the elderly, or those with darker skin tones.
+Disney Imagineers face a similar, albeit less lethal, version of this problem. When Disney designs a ride like Avatar Flight of Passage or TRON Lightcycle / Run, they are designing for a global audience. If their sensors or restraint systems only account for the "average" body type, they don't just exclude people—they create safety hazards.
+The "Edge Case" as the Main Event
+In the blog post, the author highlights how AI struggles with "edge cases"—children chasing balls or non-standard pedestrian gaits. In the software world, these are often dismissed as outliers.
+At Disney, the "edge case" is the main event. Disney’s computer vision and sensor arrays (used in trackless ride vehicles like Mickey & Minnie’s Runaway Railway) have to account for:
+Children suddenly standing up.

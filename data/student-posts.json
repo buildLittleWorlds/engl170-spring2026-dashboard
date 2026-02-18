@@ -1,13 +1,28 @@
 {
-  "lastUpdated": "2026-02-18T00:00:02.941Z",
+  "lastUpdated": "2026-02-18T01:07:14.981Z",
   "students": {
     "Olivia Andresen": {
       "url": "https://olliebear2006ya-dotcom.github.io/Olivias-Disney-Blog",
       "posts": [
         {
+          "date": "2026-02-15",
+          "title": "The Last Watercooler: Can Disney Save the Monoculture?",
+          "file": "olivia_andresen_2026-02-15_the_last_watercooler__can_disney_save_the_monocult.txt"
+        },
+        {
+          "date": "2026-02-10",
+          "title": "The \"Standardized Human\" at the Turnstile",
+          "file": "olivia_andresen_2026-02-10_the__standardized_human__at_the_turnstile.txt"
+        },
+        {
           "date": "2026-02-08",
           "title": "The Mouse and the Mirror: How Disney Perfects the \"Beyond the Screen\" Philosophy",
           "file": "olivia_andresen_2026-02-08_the_mouse_and_the_mirror__how_disney_perfects_the_.txt"
+        },
+        {
+          "date": "2026-02-08",
+          "title": "When \"Zero Failure\" Becomes the Show",
+          "file": "olivia_andresen_2026-02-08_when__zero_failure__becomes_the_show.txt"
         },
         {
           "date": "2026-02-04",
@@ -110,6 +125,11 @@
       "url": "https://jrbrunts.github.io",
       "posts": [
         {
+          "date": "2026-02-18",
+          "title": "The Aesthetics of the Algorithm: Why \"Drama\" is Just Inefficiency",
+          "file": "jacob_brunts_2026-02-18_the_aesthetics_of_the_algorithm__why__drama__is_ju.txt"
+        },
+        {
           "date": "2026-02-12",
           "title": "The Biological Commons: Data as the New Public Utility",
           "file": "jacob_brunts_2026-02-12_the_biological_commons__data_as_the_new_public_uti.txt"
@@ -175,6 +195,11 @@
           "file": "jacob_brunts_2026-01-15_the_green_mask__what_we_re_really_hiding_behind.txt"
         },
         {
+          "date": "2026-01-15",
+          "title": "The Green Mask: What We're Really Hiding Behind",
+          "file": "jacob_brunts_2026-01-15_the_green_mask__what_we_re_really_hiding_behind.txt"
+        },
+        {
           "date": "2026-01-13",
           "title": "The Obsolescence Trap: Why \"Choice\" Is Not Enough",
           "file": "jacob_brunts_2026-01-13_the_obsolescence_trap__why__choice__is_not_enough.txt"
@@ -207,6 +232,11 @@
         {
           "date": "2026-02-09",
           "title": "The 'Benito Bowl' Was a Statement, Not a Translation",
+          "file": "emani_gerdine_2026-02-09_the__benito_bowl__was_a_statement__not_a_translati.txt"
+        },
+        {
+          "date": "2026-02-09",
+          "title": "The \"Benito Bowl\" Was a Statement, Not a Translation",
           "file": "emani_gerdine_2026-02-09_the__benito_bowl__was_a_statement__not_a_translati.txt"
         },
         {
@@ -295,6 +325,11 @@
       "url": "https://jinxxywrites.github.io/Psyched-for-Psychology",
       "posts": [
         {
+          "date": "2026-02-16",
+          "title": "The Shadow of Control: The Toll of Intimate Partner Violence",
+          "file": "jinx_hixson_2026-02-16_the_shadow_of_control__the_toll_of_intimate_partne.txt"
+        },
+        {
           "date": "2026-02-13",
           "title": "The Warning Signs of Abuse and Their Psychological Toll",
           "file": "jinx_hixson_2026-02-13_the_warning_signs_of_abuse_and_their_psychological.txt"
@@ -369,6 +404,11 @@
     "Sam Levine": {
       "url": "https://samlevine277.github.io",
       "posts": [
+        {
+          "date": "2026-02-16",
+          "title": "The 50/50 Rule Under Fire",
+          "file": "sam_levine_2026-02-16_the_50_50_rule_under_fire.txt"
+        },
         {
           "date": "2026-02-15",
           "title": "AI in sports vs work",
@@ -459,6 +499,11 @@
     "Eliana Nodari": {
       "url": "https://eliananodari.github.io",
       "posts": [
+        {
+          "date": "2026-02-16",
+          "title": "Severing the Master Signal: Technical Sovereignty and the Ethics of Maintenance",
+          "file": "eliana_nodari_2026-02-16_severing_the_master_signal__technical_sovereignty_.txt"
+        },
         {
           "date": "2026-02-13",
           "title": "The Digital Lifeboat and the Architecture of Silence",
@@ -808,6 +853,16 @@
     "Brayden Wilson": {
       "url": "https://braydenwilson22.github.io",
       "posts": [
+        {
+          "date": "2026-02-16",
+          "title": "The Invisible Coach: How Artificial Intelligence is Rewriting the Rules of Sports Training",
+          "file": "brayden_wilson_2026-02-16_the_invisible_coach__how_artificial_intelligence_i.txt"
+        },
+        {
+          "date": "2026-02-13",
+          "title": "The Healing Algorithm: How Artificial Intelligence is Rewriting the Future of Medicine",
+          "file": "brayden_wilson_2026-02-13_the_healing_algorithm__how_artificial_intelligence.txt"
+        },
         {
           "date": "2026-02-11",
           "title": "Faster, Higher, Stronger… Smarter? The AI Revolution at the Olympic Games",

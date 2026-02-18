@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-02-18T00:48:35.882Z",
+  "lastUpdated": "2026-02-18T01:07:07.017Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 231,
+  "totalPosts": 241,
   "totalBlogs": 22,
   "blogsWithErrors": [
     {
@@ -32,6 +32,86 @@
       "author": "Zay Amaro",
       "authorRole": "student",
       "blogUrl": "https://zayamaro.github.io"
+    },
+    {
+      "title": "The Aesthetics of the Algorithm: Why \"Drama\" is Just Inefficiency",
+      "url": "https://jrbrunts.github.io/aesthetics-of-algorithm.html",
+      "date": "February 18, 2026",
+      "dateISO": "2026-02-18",
+      "author": "Jacob Brunts",
+      "authorRole": "student",
+      "blogUrl": "https://jrbrunts.github.io",
+      "source": "manual-repo-scan"
+    },
+    {
+      "title": "The Agency Paradox and Why Students Need Choice to Learn",
+      "url": "https://connorgengle.github.io/AI-/agency-paradox-students-need-choice.html",
+      "date": "February 17, 2026",
+      "dateISO": "2026-02-17",
+      "author": "Connor Gengle",
+      "authorRole": "student",
+      "blogUrl": "https://connorgengle.github.io/AI-",
+      "source": "manual-repo-scan"
+    },
+    {
+      "title": "AI Does Not Replace Thinking, It Changes Where Thinking Happens",
+      "url": "https://connorgengle.github.io/AI-/ai-does-not-replace-thinking-it-changes-where-thinking-happens.html",
+      "date": "February 17, 2026",
+      "dateISO": "2026-02-17",
+      "author": "Connor Gengle",
+      "authorRole": "student",
+      "blogUrl": "https://connorgengle.github.io/AI-",
+      "source": "manual-repo-scan"
+    },
+    {
+      "title": "The Hidden Cost of Poor Sleep in Elite Performance",
+      "url": "https://connorgengle.github.io/AI-/hidden-cost-of-poor-sleep.html",
+      "date": "February 17, 2026",
+      "dateISO": "2026-02-17",
+      "author": "Connor Gengle",
+      "authorRole": "student",
+      "blogUrl": "https://connorgengle.github.io/AI-",
+      "source": "manual-repo-scan"
+    },
+    {
+      "title": "NIL Deals in College Sports — Restoring Fairness or Rewriting the Game?",
+      "url": "https://connorgengle.github.io/AI-/nil-deals-college-sports.html",
+      "date": "February 17, 2026",
+      "dateISO": "2026-02-17",
+      "author": "Connor Gengle",
+      "authorRole": "student",
+      "blogUrl": "https://connorgengle.github.io/AI-",
+      "source": "manual-repo-scan"
+    },
+    {
+      "title": "Performance Enhancing Drugs and the Pressure to Win",
+      "url": "https://connorgengle.github.io/AI-/performance-enhancing-drugs-pressure-to-win.html",
+      "date": "February 17, 2026",
+      "dateISO": "2026-02-17",
+      "author": "Connor Gengle",
+      "authorRole": "student",
+      "blogUrl": "https://connorgengle.github.io/AI-",
+      "source": "manual-repo-scan"
+    },
+    {
+      "title": "Poor Nutrition and Its Impact on Athletic Success",
+      "url": "https://connorgengle.github.io/AI-/poor-nutrition-athletic-success.html",
+      "date": "February 17, 2026",
+      "dateISO": "2026-02-17",
+      "author": "Connor Gengle",
+      "authorRole": "student",
+      "blogUrl": "https://connorgengle.github.io/AI-",
+      "source": "manual-repo-scan"
+    },
+    {
+      "title": "Why Banning AI Feels Like Avoiding the Real Problem",
+      "url": "https://connorgengle.github.io/AI-/why-banning-ai-avoids-the-real-problem.html",
+      "date": "February 17, 2026",
+      "dateISO": "2026-02-17",
+      "author": "Connor Gengle",
+      "authorRole": "student",
+      "blogUrl": "https://connorgengle.github.io/AI-",
+      "source": "manual-repo-scan"
     },
     {
       "title": "The Shadow of Control: The Toll of Intimate Partner Violence",
@@ -86,6 +166,17 @@
       "author": "Isabella Calmet",
       "authorRole": "student",
       "blogUrl": "https://bellacalmetjanssen-cell.github.io/isabella-calmet-.github.io"
+    },
+    {
+      "title": "Severing the Master Signal: Technical Sovereignty and the Ethics of Maintenance",
+      "url": "https://eliananodari.github.io/evering-master-signal.html",
+      "date": "February 16, 2026",
+      "dateISO": "2026-02-16",
+      "author": "Eliana Nodari",
+      "authorRole": "student",
+      "blogUrl": "https://eliananodari.github.io",
+      "source": "manual-repo-scan",
+      "note": "Student typo in filename: evering instead of severing. Homepage link broken."
     },
     {
       "title": "The Last Watercooler: Can Disney Save the Monoculture?",
@@ -1969,6 +2060,17 @@
       "author": "Kevion Milton",
       "authorRole": "student",
       "blogUrl": "https://kevionmilton.github.io"
+    },
+    {
+      "title": "The Green Mask: What We're Really Hiding Behind",
+      "url": "https://jrbrunts.github.io/the-green-mask.html",
+      "date": "January 15, 2026",
+      "dateISO": "2026-01-15",
+      "author": "Jacob Brunts",
+      "authorRole": "student",
+      "blogUrl": "https://jrbrunts.github.io",
+      "source": "manual-repo-scan",
+      "note": "Homepage shows no date for this post, so scraper skips it."
     },
     {
       "title": "The Fluency Illusion",

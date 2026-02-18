@@ -1,7 +1,50 @@
 {
   "description": "Manually-specified posts for students whose blogs don't follow the expected structure. These are merged into posts.json by the scraper.",
-  "lastUpdated": "2026-02-18T12:00:00.000Z",
+  "lastUpdated": "2026-02-18T13:00:00.000Z",
   "posts": [
+    {
+      "title": "Severing the Master Signal: Technical Sovereignty and the Ethics of Maintenance",
+      "url": "https://eliananodari.github.io/evering-master-signal.html",
+      "date": "February 16, 2026",
+      "dateISO": "2026-02-16",
+      "author": "Eliana Nodari",
+      "authorRole": "student",
+      "blogUrl": "https://eliananodari.github.io",
+      "source": "manual-repo-scan",
+      "note": "Student typo in filename: evering instead of severing. Homepage link broken."
+    },
+    {
+      "title": "The Aesthetics of the Algorithm: Why \"Drama\" is Just Inefficiency",
+      "url": "https://jrbrunts.github.io/aesthetics-of-algorithm.html",
+      "date": "February 18, 2026",
+      "dateISO": "2026-02-18",
+      "author": "Jacob Brunts",
+      "authorRole": "student",
+      "blogUrl": "https://jrbrunts.github.io",
+      "source": "manual-repo-scan"
+    },
+    {
+      "title": "The Green Mask: What We're Really Hiding Behind",
+      "url": "https://jrbrunts.github.io/the-green-mask.html",
+      "date": "January 15, 2026",
+      "dateISO": "2026-01-15",
+      "author": "Jacob Brunts",
+      "authorRole": "student",
+      "blogUrl": "https://jrbrunts.github.io",
+      "source": "manual-repo-scan",
+      "note": "Homepage shows no date for this post, so scraper skips it."
+    },
+    {
+      "title": "Agency, AI, and Intellectual Work",
+      "url": "https://samlevine277.github.io/my-first-post.html",
+      "date": "January 8, 2026",
+      "dateISO": "2026-01-08",
+      "author": "Sam Levine",
+      "authorRole": "student",
+      "blogUrl": "https://samlevine277.github.io",
+      "source": "manual-repo-scan",
+      "note": "Listed as 'My First ENGL 170 Post' on homepage but actual title differs. Pre-course date."
+    },
     {
       "title": "The Agency Paradox and Why Students Need Choice to Learn",
       "url": "https://connorgengle.github.io/AI-/agency-paradox-students-need-choice.html",
