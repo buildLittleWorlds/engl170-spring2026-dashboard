@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-02-18T16:30:00.485Z",
+  "lastUpdated": "2026-02-18T16:57:19.408Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 246,
+  "totalPosts": 247,
   "totalBlogs": 22,
   "blogsWithErrors": [
     {
@@ -41,6 +41,15 @@
       "author": "Dr. Plate",
       "authorRole": "instructor",
       "blogUrl": "https://buildlittleworlds.github.io/plate-composition-blog"
+    },
+    {
+      "title": "Error Is Entertainment",
+      "url": "https://samlevine277.github.io/revisiting_drama_sports_ai.html",
+      "date": "Feburary 18, 2026",
+      "dateISO": "2026-02-18",
+      "author": "Sam Levine",
+      "authorRole": "student",
+      "blogUrl": "https://samlevine277.github.io"
     },
     {
       "title": "The Efficiency Trap: Why Perfect Sports Might Be Boring",
