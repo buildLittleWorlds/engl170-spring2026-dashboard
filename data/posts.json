@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-02-18T05:02:48.238Z",
+  "lastUpdated": "2026-02-18T05:38:42.490Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 242,
+  "totalPosts": 244,
   "totalBlogs": 22,
   "blogsWithErrors": [
     {
@@ -46,6 +46,15 @@
     {
       "title": "Terraria vs Minecraft",
       "url": "https://jake3143.github.io/jake3143/terraria-vs-minecraft.html",
+      "date": "February 17, 2026",
+      "dateISO": "2026-02-17",
+      "author": "Jaden Walker",
+      "authorRole": "student",
+      "blogUrl": "https://jake3143.github.io/jake3143"
+    },
+    {
+      "title": "Why FNAF 6 is the best one",
+      "url": "https://jake3143.github.io/jake3143/why-fnaf-6-is-the-best-one.html",
       "date": "February 17, 2026",
       "dateISO": "2026-02-17",
       "author": "Jaden Walker",
@@ -1801,6 +1810,16 @@
       "source": "manual"
     },
     {
+      "title": "The Concerns of AI in Schools",
+      "url": "https://jake3143.github.io/jake3143/Ai-concerns.html",
+      "date": "January 21, 2026",
+      "dateISO": "2026-01-21",
+      "author": "Jaden Walker",
+      "authorRole": "student",
+      "blogUrl": "https://jake3143.github.io/jake3143",
+      "source": "manual"
+    },
+    {
       "title": "Theories of Safety: AI-Encouraged Self-Injury",
       "url": "https://jinxxywrites.github.io/Psyched-for-Psychology/safety.html",
       "date": "January 20, 2026",
@@ -1820,7 +1839,7 @@
     },
     {
       "title": "The concerns of AI in schools",
-      "url": "https://jake3143.github.io/jake3143/Ai-concerns.html",
+      "url": "https://jake3143.github.io/jake3143/ai-concerns.html",
       "date": "January 20, 2026",
       "dateISO": "2026-01-20",
       "author": "Jaden Walker",
