@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-19T16:01:52.704Z",
+  "lastUpdated": "2026-02-19T16:27:41.584Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
   "totalPosts": 251,
@@ -16,15 +16,6 @@
   ],
   "posts": [
     {
-      "title": "The Dependency Trap: Why AI Should Be Your Compass, Not Your Pilot",
-      "url": "https://bellacalmetjanssen-cell.github.io/isabella-calmet-.github.io/the-dependency-trap.html",
-      "date": "February 23, 2026",
-      "dateISO": "2026-02-23",
-      "author": "Isabella Calmet",
-      "authorRole": "student",
-      "blogUrl": "https://bellacalmetjanssen-cell.github.io/isabella-calmet-.github.io"
-    },
-    {
       "title": "Star Birds and the Strategy of Faith: Why Games Need the Human Choice",
       "url": "https://zayamaro.github.io/star-birds-and-strategy.html",
       "date": "February 22, 2026",
@@ -32,6 +23,15 @@
       "author": "Zay Amaro",
       "authorRole": "student",
       "blogUrl": "https://zayamaro.github.io"
+    },
+    {
+      "title": "The Soul of the Game vs. The Efficiency of the Machine: A Response to Sam Levine",
+      "url": "https://bellacalmetjanssen-cell.github.io/isabella-calmet-.github.io/the-soul-of-the-game.html",
+      "date": "February 19, 2026",
+      "dateISO": "2026-02-19",
+      "author": "Isabella Calmet",
+      "authorRole": "student",
+      "blogUrl": "https://bellacalmetjanssen-cell.github.io/isabella-calmet-.github.io"
     },
     {
       "title": "Nobody Hired You Because You Needed Work",
