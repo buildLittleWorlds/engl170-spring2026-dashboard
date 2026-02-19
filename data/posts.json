@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-02-19T04:17:43.874Z",
+  "lastUpdated": "2026-02-19T05:02:12.379Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 250,
+  "totalPosts": 251,
   "totalBlogs": 22,
   "blogsWithErrors": [
     {
@@ -86,6 +86,15 @@
       "author": "Zay Amaro",
       "authorRole": "student",
       "blogUrl": "https://zayamaro.github.io"
+    },
+    {
+      "title": "Efficiency or Deception? AI as a Trick of the Trade",
+      "url": "https://calebmurphy01.github.io/ai-efficiency-tricks.html",
+      "date": "February 18, 2026",
+      "dateISO": "2026-02-18",
+      "author": "Caleb Murphy",
+      "authorRole": "student",
+      "blogUrl": "https://calebmurphy01.github.io"
     },
     {
       "title": "The Aesthetics of the Algorithm: Why \"Drama\" is Just Inefficiency",
