@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-02-18T23:57:40.306Z",
+  "lastUpdated": "2026-02-19T00:49:21.656Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 249,
+  "totalPosts": 250,
   "totalBlogs": 22,
   "blogsWithErrors": [
     {
@@ -68,6 +68,15 @@
       "author": "Eliana Nodari",
       "authorRole": "student",
       "blogUrl": "https://eliananodari.github.io"
+    },
+    {
+      "title": "Blue shell: The necessary evil of Mario Kart",
+      "url": "https://jake3143.github.io/jake3143/blue-shell-the-necessary-evil-of-mario-kart.html",
+      "date": "February 18, 2026",
+      "dateISO": "2026-02-18",
+      "author": "Jaden Walker",
+      "authorRole": "student",
+      "blogUrl": "https://jake3143.github.io/jake3143"
     },
     {
       "title": "The Efficiency Trap: Why Perfect Sports Might Be Boring",
