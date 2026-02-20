@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-02-20T17:46:25.496Z",
+  "lastUpdated": "2026-02-20T18:04:35.378Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 260,
+  "totalPosts": 261,
   "totalBlogs": 22,
   "blogsWithErrors": [
     {
@@ -46,6 +46,15 @@
       "author": "Zay Amaro",
       "authorRole": "student",
       "blogUrl": "https://zayamaro.github.io"
+    },
+    {
+      "title": "Navigating Recovery: Treating PTSD and CPTSD in a Digital Age",
+      "url": "https://jinxxywrites.github.io/Psyched-for-Psychology/ptsd-therapy-and-ai.html",
+      "date": "February 20, 2026",
+      "dateISO": "2026-02-20",
+      "author": "Jinx Hixson",
+      "authorRole": "student",
+      "blogUrl": "https://jinxxywrites.github.io/Psyched-for-Psychology"
     },
     {
       "title": "Forced AI partnership",
