@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-02-20T04:02:52.333Z",
+  "lastUpdated": "2026-02-20T04:45:21.735Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 252,
+  "totalPosts": 253,
   "totalBlogs": 22,
   "blogsWithErrors": [
     {
@@ -23,6 +23,15 @@
       "author": "Zay Amaro",
       "authorRole": "student",
       "blogUrl": "https://zayamaro.github.io"
+    },
+    {
+      "title": "How Subnautica abandoned what made it successful",
+      "url": "https://jake3143.github.io/jake3143/how-subnautica-abandoned-what-made-it-successful.html",
+      "date": "February 20, 2026",
+      "dateISO": "2026-02-20",
+      "author": "Jaden Walker",
+      "authorRole": "student",
+      "blogUrl": "https://jake3143.github.io/jake3143"
     },
     {
       "title": "The Soul of the Game vs. The Efficiency of the Machine: A Response to Sam Levine",
