@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-02-20T19:28:46.385Z",
+  "lastUpdated": "2026-02-20T19:47:29.843Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 261,
+  "totalPosts": 262,
   "totalBlogs": 22,
   "blogsWithErrors": [
     {
@@ -64,6 +64,15 @@
       "author": "Sam Levine",
       "authorRole": "student",
       "blogUrl": "https://samlevine277.github.io"
+    },
+    {
+      "title": "The Friction of Friendship: Why We Need the Messy Parts of Art and Life",
+      "url": "https://eliananodari.github.io/friction-of-friendship.html",
+      "date": "February 20, 2026",
+      "dateISO": "2026-02-20",
+      "author": "Eliana Nodari",
+      "authorRole": "student",
+      "blogUrl": "https://eliananodari.github.io"
     },
     {
       "title": "The Silent Lockdown: How AI is Killing the Independent Mechanic",
