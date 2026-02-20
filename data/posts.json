@@ -1,16 +1,12 @@
 {
-  "lastUpdated": "2026-02-20T16:23:11.849Z",
+  "lastUpdated": "2026-02-20T16:45:03.666Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 259,
+  "totalPosts": 260,
   "totalBlogs": 22,
   "blogsWithErrors": [
     {
       "author": "Isaiah Forbes",
-      "error": "HTTP 404"
-    },
-    {
-      "author": "Connor Gengle",
       "error": "HTTP 404"
     }
   ],
@@ -61,8 +57,8 @@
       "blogUrl": "https://samlevine277.github.io"
     },
     {
-      "title": "The Digital Dyno: Why Trusting Your Engine to AI is a High-Stakes Gamble",
-      "url": "https://blt279.github.io/TheDigitalDyno.html",
+      "title": "The Silent Lockdown: How AI is Killing the Independent Mechanic",
+      "url": "https://blt279.github.io/TheSilentLockdown.html",
       "date": "February 20, 2026",
       "dateISO": "2026-02-20",
       "author": "Ben Teismann",
@@ -77,6 +73,15 @@
       "author": "Jaden Walker",
       "authorRole": "student",
       "blogUrl": "https://jake3143.github.io/jake3143"
+    },
+    {
+      "title": "The Digital Dyno: Why Trusting Your Engine to AI is a High-Stakes Gamble",
+      "url": "https://blt279.github.io/TheDigitalDyno.html",
+      "date": "February 19, 2026",
+      "dateISO": "2026-02-19",
+      "author": "Ben Teismann",
+      "authorRole": "student",
+      "blogUrl": "https://blt279.github.io"
     },
     {
       "title": "How difficulty made Don’t Starve a success",
@@ -197,24 +202,13 @@
       "blogUrl": "https://jake3143.github.io/jake3143"
     },
     {
-      "title": "The Agency Paradox and Why Students Need Choice to Learn",
-      "url": "https://connorgengle.github.io/AI-/agency-paradox-students-need-choice.html",
+      "title": "Performance Enhancing Drugs and the Pressure to Win",
+      "url": "https://connorgengle.github.io/AI-/performance-enhancing-drugs-pressure-to-win.html",
       "date": "February 17, 2026",
       "dateISO": "2026-02-17",
       "author": "Connor Gengle",
       "authorRole": "student",
-      "blogUrl": "https://connorgengle.github.io/AI-",
-      "source": "manual-repo-scan"
-    },
-    {
-      "title": "AI Does Not Replace Thinking, It Changes Where Thinking Happens",
-      "url": "https://connorgengle.github.io/AI-/ai-does-not-replace-thinking-it-changes-where-thinking-happens.html",
-      "date": "February 17, 2026",
-      "dateISO": "2026-02-17",
-      "author": "Connor Gengle",
-      "authorRole": "student",
-      "blogUrl": "https://connorgengle.github.io/AI-",
-      "source": "manual-repo-scan"
+      "blogUrl": "https://connorgengle.github.io/AI-"
     },
     {
       "title": "The Hidden Cost of Poor Sleep in Elite Performance",
@@ -223,28 +217,7 @@
       "dateISO": "2026-02-17",
       "author": "Connor Gengle",
       "authorRole": "student",
-      "blogUrl": "https://connorgengle.github.io/AI-",
-      "source": "manual-repo-scan"
-    },
-    {
-      "title": "NIL Deals in College Sports — Restoring Fairness or Rewriting the Game?",
-      "url": "https://connorgengle.github.io/AI-/nil-deals-college-sports.html",
-      "date": "February 17, 2026",
-      "dateISO": "2026-02-17",
-      "author": "Connor Gengle",
-      "authorRole": "student",
-      "blogUrl": "https://connorgengle.github.io/AI-",
-      "source": "manual-repo-scan"
-    },
-    {
-      "title": "Performance Enhancing Drugs and the Pressure to Win",
-      "url": "https://connorgengle.github.io/AI-/performance-enhancing-drugs-pressure-to-win.html",
-      "date": "February 17, 2026",
-      "dateISO": "2026-02-17",
-      "author": "Connor Gengle",
-      "authorRole": "student",
-      "blogUrl": "https://connorgengle.github.io/AI-",
-      "source": "manual-repo-scan"
+      "blogUrl": "https://connorgengle.github.io/AI-"
     },
     {
       "title": "Poor Nutrition and Its Impact on Athletic Success",
@@ -253,8 +226,25 @@
       "dateISO": "2026-02-17",
       "author": "Connor Gengle",
       "authorRole": "student",
-      "blogUrl": "https://connorgengle.github.io/AI-",
-      "source": "manual-repo-scan"
+      "blogUrl": "https://connorgengle.github.io/AI-"
+    },
+    {
+      "title": "NIL Deals in College Sports — Restoring Fairness or Rewriting the Game?",
+      "url": "https://connorgengle.github.io/AI-/nil-deals-college-sports.html",
+      "date": "February 17, 2026",
+      "dateISO": "2026-02-17",
+      "author": "Connor Gengle",
+      "authorRole": "student",
+      "blogUrl": "https://connorgengle.github.io/AI-"
+    },
+    {
+      "title": "The Agency Paradox and Why Students Need Choice to Learn",
+      "url": "https://connorgengle.github.io/AI-/agency-paradox-students-need-choice.html",
+      "date": "February 17, 2026",
+      "dateISO": "2026-02-17",
+      "author": "Connor Gengle",
+      "authorRole": "student",
+      "blogUrl": "https://connorgengle.github.io/AI-"
     },
     {
       "title": "Why Banning AI Feels Like Avoiding the Real Problem",
@@ -263,8 +253,16 @@
       "dateISO": "2026-02-17",
       "author": "Connor Gengle",
       "authorRole": "student",
-      "blogUrl": "https://connorgengle.github.io/AI-",
-      "source": "manual-repo-scan"
+      "blogUrl": "https://connorgengle.github.io/AI-"
+    },
+    {
+      "title": "AI Does Not Replace Thinking, It Changes Where Thinking Happens",
+      "url": "https://connorgengle.github.io/AI-/ai-does-not-replace-thinking-it-changes-where-thinking-happens.html",
+      "date": "February 17, 2026",
+      "dateISO": "2026-02-17",
+      "author": "Connor Gengle",
+      "authorRole": "student",
+      "blogUrl": "https://connorgengle.github.io/AI-"
     },
     {
       "title": "The Shadow of Control: The Toll of Intimate Partner Violence",
@@ -1956,7 +1954,7 @@
     },
     {
       "title": "Theories of Safety: AI-Encouraged Self-Injury",
-      "url": "https://jinxxywrites.github.io/Psyched-for-Psychology/safety.html",
+      "url": "https://jinxxywrites.github.io/Psyched-for-Psychology/ai-safety-and-self-harm.html",
       "date": "January 20, 2026",
       "dateISO": "2026-01-20",
       "author": "Jinx Hixson",
