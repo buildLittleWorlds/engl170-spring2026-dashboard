@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-02-20T14:07:50.540Z",
+  "lastUpdated": "2026-02-20T14:28:21.823Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 255,
+  "totalPosts": 256,
   "totalBlogs": 22,
   "blogsWithErrors": [
     {
@@ -15,6 +15,24 @@
     }
   ],
   "posts": [
+    {
+      "title": "The Soul of the Game vs. The Efficiency of the Machine: A Response to Sam Levine",
+      "url": "https://bellacalmetjanssen-cell.github.io/isabella-calmet-.github.io/the-soul-of-the-game.html",
+      "date": "February 26, 2026",
+      "dateISO": "2026-02-26",
+      "author": "Isabella Calmet",
+      "authorRole": "student",
+      "blogUrl": "https://bellacalmetjanssen-cell.github.io/isabella-calmet-.github.io"
+    },
+    {
+      "title": "The Dependency Trap: Why AI Should Be Your Compass, Not Your Pilot",
+      "url": "https://bellacalmetjanssen-cell.github.io/isabella-calmet-.github.io/the-dependency-trap.html",
+      "date": "February 23, 2026",
+      "dateISO": "2026-02-23",
+      "author": "Isabella Calmet",
+      "authorRole": "student",
+      "blogUrl": "https://bellacalmetjanssen-cell.github.io/isabella-calmet-.github.io"
+    },
     {
       "title": "Star Birds and the Strategy of Faith: Why Games Need the Human Choice",
       "url": "https://zayamaro.github.io/star-birds-and-strategy.html",
@@ -32,15 +50,6 @@
       "author": "Jaden Walker",
       "authorRole": "student",
       "blogUrl": "https://jake3143.github.io/jake3143"
-    },
-    {
-      "title": "The Soul of the Game vs. The Efficiency of the Machine: A Response to Sam Levine",
-      "url": "https://bellacalmetjanssen-cell.github.io/isabella-calmet-.github.io/the-soul-of-the-game.html",
-      "date": "February 19, 2026",
-      "dateISO": "2026-02-19",
-      "author": "Isabella Calmet",
-      "authorRole": "student",
-      "blogUrl": "https://bellacalmetjanssen-cell.github.io/isabella-calmet-.github.io"
     },
     {
       "title": "How difficulty made Don’t Starve a success",
