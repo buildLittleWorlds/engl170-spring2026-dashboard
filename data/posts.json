@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-02-20T16:06:35.307Z",
+  "lastUpdated": "2026-02-20T16:23:11.849Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 256,
+  "totalPosts": 259,
   "totalBlogs": 22,
   "blogsWithErrors": [
     {
@@ -25,6 +25,15 @@
       "blogUrl": "https://bellacalmetjanssen-cell.github.io/isabella-calmet-.github.io"
     },
     {
+      "title": "The Value of Failure: Why Difficulty is a Gift",
+      "url": "https://zayamaro.github.io/the-value-of-failure.html",
+      "date": "February 25, 2026",
+      "dateISO": "2026-02-25",
+      "author": "Zay Amaro",
+      "authorRole": "student",
+      "blogUrl": "https://zayamaro.github.io"
+    },
+    {
       "title": "The Dependency Trap: Why AI Should Be Your Compass, Not Your Pilot",
       "url": "https://bellacalmetjanssen-cell.github.io/isabella-calmet-.github.io/the-dependency-trap.html",
       "date": "February 23, 2026",
@@ -41,6 +50,24 @@
       "author": "Zay Amaro",
       "authorRole": "student",
       "blogUrl": "https://zayamaro.github.io"
+    },
+    {
+      "title": "Forced AI partnership",
+      "url": "https://samlevine277.github.io/forced-partnership-ai.html",
+      "date": "Feburary 20, 2026",
+      "dateISO": "2026-02-20",
+      "author": "Sam Levine",
+      "authorRole": "student",
+      "blogUrl": "https://samlevine277.github.io"
+    },
+    {
+      "title": "The Digital Dyno: Why Trusting Your Engine to AI is a High-Stakes Gamble",
+      "url": "https://blt279.github.io/TheDigitalDyno.html",
+      "date": "February 20, 2026",
+      "dateISO": "2026-02-20",
+      "author": "Ben Teismann",
+      "authorRole": "student",
+      "blogUrl": "https://blt279.github.io"
     },
     {
       "title": "How Subnautica abandoned what made it successful",
@@ -341,6 +368,15 @@
       "blogUrl": "https://zayamaro.github.io"
     },
     {
+      "title": "The Moral Black Box: Death by Algorithm",
+      "url": "https://blt279.github.io/TheMoralBlackBox.html",
+      "date": "February 14, 2026",
+      "dateISO": "2026-02-14",
+      "author": "Ben Teismann",
+      "authorRole": "student",
+      "blogUrl": "https://blt279.github.io"
+    },
+    {
       "title": "The Math Manifesto: Why We Need to Stop Overcomplicating Numbers",
       "url": "https://emanigerdine7-ops.github.io/math-manifesto.html",
       "date": "February 13, 2026",
@@ -366,60 +402,6 @@
       "author": "Eliana Nodari",
       "authorRole": "student",
       "blogUrl": "https://eliananodari.github.io"
-    },
-    {
-      "title": "The Moral Black Box: Death by Algorithm",
-      "url": "https://blt279.github.io/TheMoralBlackBox.html",
-      "date": "February 13, 2026",
-      "dateISO": "2026-02-13",
-      "author": "Ben Teismann",
-      "authorRole": "student",
-      "blogUrl": "https://blt279.github.io"
-    },
-    {
-      "title": "Technical Fragility: The Sunk Cost of the AI Car",
-      "url": "https://blt279.github.io/TechnicalFragility.html",
-      "date": "February 13, 2026",
-      "dateISO": "2026-02-13",
-      "author": "Ben Teismann",
-      "authorRole": "student",
-      "blogUrl": "https://blt279.github.io"
-    },
-    {
-      "title": "Cybersecurity and Remote Terror",
-      "url": "https://blt279.github.io/CybersecurityandRemoteTerror.html",
-      "date": "February 13, 2026",
-      "dateISO": "2026-02-13",
-      "author": "Ben Teismann",
-      "authorRole": "student",
-      "blogUrl": "https://blt279.github.io"
-    },
-    {
-      "title": "The Death of the Blue-Collar Backbone",
-      "url": "https://blt279.github.io/TheDeathoftheBlue-CollarBackbone.html",
-      "date": "February 13, 2026",
-      "dateISO": "2026-02-13",
-      "author": "Ben Teismann",
-      "authorRole": "student",
-      "blogUrl": "https://blt279.github.io"
-    },
-    {
-      "title": "The Algorithmic Bias",
-      "url": "https://blt279.github.io/TheAlgorithmicBias.html",
-      "date": "February 13, 2026",
-      "dateISO": "2026-02-13",
-      "author": "Ben Teismann",
-      "authorRole": "student",
-      "blogUrl": "https://blt279.github.io"
-    },
-    {
-      "title": "The Surveillance Cabin",
-      "url": "https://blt279.github.io/TheSurveillanceCabin.html",
-      "date": "February 13, 2026",
-      "dateISO": "2026-02-13",
-      "author": "Ben Teismann",
-      "authorRole": "student",
-      "blogUrl": "https://blt279.github.io"
     },
     {
       "title": "The Healing Algorithm: How Artificial Intelligence is Rewriting the Future of Medicine",
@@ -773,6 +755,15 @@
       "blogUrl": "https://qubitn.github.io"
     },
     {
+      "title": "Technical Fragility: The Sunk Cost of the AI Car",
+      "url": "https://blt279.github.io/TechnicalFragility.html",
+      "date": "February 8, 2026",
+      "dateISO": "2026-02-08",
+      "author": "Ben Teismann",
+      "authorRole": "student",
+      "blogUrl": "https://blt279.github.io"
+    },
+    {
       "title": "The Blueprint of a Champion: Decoding the \"Ideal\" Boxing Physique",
       "url": "https://tombishop4.github.io/blueprint-champion-boxing-physique.html",
       "date": "February 8, 2026",
@@ -996,6 +987,15 @@
       "author": "Caleb Murphy",
       "authorRole": "student",
       "blogUrl": "https://calebmurphy01.github.io"
+    },
+    {
+      "title": "Cybersecurity and Remote Terror",
+      "url": "https://blt279.github.io/CybersecurityandRemoteTerror.html",
+      "date": "February 3, 2026",
+      "dateISO": "2026-02-03",
+      "author": "Ben Teismann",
+      "authorRole": "student",
+      "blogUrl": "https://blt279.github.io"
     },
     {
       "title": "The Synthesis of Intelligence and Athletics: AI Integration in Global Sports via Podcasts",
@@ -1332,6 +1332,15 @@
       "blogUrl": "https://eliananodari.github.io"
     },
     {
+      "title": "The Death of the Blue-Collar Backbone",
+      "url": "https://blt279.github.io/TheDeathoftheBlue-CollarBackbone.html",
+      "date": "January 30, 2026",
+      "dateISO": "2026-01-30",
+      "author": "Ben Teismann",
+      "authorRole": "student",
+      "blogUrl": "https://blt279.github.io"
+    },
+    {
       "title": "The Human Variable in Boxing: A Reply to Tom",
       "url": "https://calebmurphy01.github.io/the-human-variable-in-boxing.html",
       "date": "January 30, 2026",
@@ -1456,6 +1465,15 @@
       "author": "Jacob Brunts",
       "authorRole": "student",
       "blogUrl": "https://jrbrunts.github.io"
+    },
+    {
+      "title": "The Algorithmic Bias",
+      "url": "https://blt279.github.io/TheAlgorithmicBias.html",
+      "date": "January 27, 2026",
+      "dateISO": "2026-01-27",
+      "author": "Ben Teismann",
+      "authorRole": "student",
+      "blogUrl": "https://blt279.github.io"
     },
     {
       "title": "Hacking the Limit: Can AI Remove the 'Random' from the Athlete?",
@@ -1816,6 +1834,15 @@
       "author": "Zay Amaro",
       "authorRole": "student",
       "blogUrl": "https://zayamaro.github.io"
+    },
+    {
+      "title": "The Surveillance Cabin",
+      "url": "https://blt279.github.io/TheSurveillanceCabin.html",
+      "date": "January 22, 2026",
+      "dateISO": "2026-01-22",
+      "author": "Ben Teismann",
+      "authorRole": "student",
+      "blogUrl": "https://blt279.github.io"
     },
     {
       "title": "The Dopamine Ceiling: Escaping the Infinite Scroll",
