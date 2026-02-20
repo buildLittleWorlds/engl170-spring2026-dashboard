@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-02-20T10:47:56.637Z",
+  "lastUpdated": "2026-02-20T11:06:30.949Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 253,
+  "totalPosts": 255,
   "totalBlogs": 22,
   "blogsWithErrors": [
     {
@@ -88,6 +88,15 @@
       "blogUrl": "https://eliananodari.github.io"
     },
     {
+      "title": "Olympics and the NHL",
+      "url": "https://braydenwilson22.github.io/olympics-and-the-nhl.html",
+      "date": "February 18, 2026",
+      "dateISO": "2026-02-18",
+      "author": "Brayden Wilson",
+      "authorRole": "student",
+      "blogUrl": "https://braydenwilson22.github.io"
+    },
+    {
       "title": "Blue shell: The necessary evil of Mario Kart",
       "url": "https://jake3143.github.io/jake3143/blue-shell-the-necessary-evil-of-mario-kart.html",
       "date": "February 18, 2026",
@@ -123,6 +132,15 @@
       "authorRole": "student",
       "blogUrl": "https://jrbrunts.github.io",
       "source": "manual-repo-scan"
+    },
+    {
+      "title": "The Swipe Paradox: Evaluating the Digital Transformation of Intimacy",
+      "url": "https://tombishop4.github.io/the-swipe-paradox-evaluating-the-digital-transformation-of-intimacy.html",
+      "date": "February 17, 2026",
+      "dateISO": "2026-02-17",
+      "author": "Tom Bishop",
+      "authorRole": "student",
+      "blogUrl": "https://tombishop4.github.io"
     },
     {
       "title": "Terraria vs Minecraft",
