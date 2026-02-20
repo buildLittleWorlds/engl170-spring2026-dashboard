@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-02-20T02:07:04.531Z",
+  "lastUpdated": "2026-02-20T03:12:30.681Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 251,
+  "totalPosts": 252,
   "totalBlogs": 22,
   "blogsWithErrors": [
     {
@@ -32,6 +32,15 @@
       "author": "Isabella Calmet",
       "authorRole": "student",
       "blogUrl": "https://bellacalmetjanssen-cell.github.io/isabella-calmet-.github.io"
+    },
+    {
+      "title": "How difficulty made Don’t Starve a success",
+      "url": "https://jake3143.github.io/jake3143/how-difficulty-made-dont-starve-a-success.html",
+      "date": "February 19, 2026",
+      "dateISO": "2026-02-19",
+      "author": "Jaden Walker",
+      "authorRole": "student",
+      "blogUrl": "https://jake3143.github.io/jake3143"
     },
     {
       "title": "Nobody Hired You Because You Needed Work",
