@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-02-22T03:31:47.147Z",
+  "lastUpdated": "2026-02-22T04:24:19.384Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 262,
+  "totalPosts": 263,
   "totalBlogs": 22,
   "blogsWithErrors": [
     {
@@ -46,6 +46,15 @@
       "author": "Zay Amaro",
       "authorRole": "student",
       "blogUrl": "https://zayamaro.github.io"
+    },
+    {
+      "title": "Not every game needs to be an esport",
+      "url": "https://jake3143.github.io/jake3143/not-every-game-needs-to-be-an-esport.html",
+      "date": "February 21, 2026",
+      "dateISO": "2026-02-21",
+      "author": "Jaden Walker",
+      "authorRole": "student",
+      "blogUrl": "https://jake3143.github.io/jake3143"
     },
     {
       "title": "Navigating Recovery: Treating PTSD and CPTSD in a Digital Age",
@@ -102,7 +111,7 @@
       "blogUrl": "https://blt279.github.io"
     },
     {
-      "title": "How difficulty made Don’t Starve a success",
+      "title": "How difficulty made Don't Starve a success",
       "url": "https://jake3143.github.io/jake3143/how-difficulty-made-dont-starve-a-success.html",
       "date": "February 19, 2026",
       "dateISO": "2026-02-19",
