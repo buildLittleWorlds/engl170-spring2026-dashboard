@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-02-22T17:33:05.051Z",
+  "lastUpdated": "2026-02-22T17:47:23.090Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 263,
+  "totalPosts": 261,
   "totalBlogs": 22,
   "blogsWithErrors": [
     {
@@ -344,17 +344,6 @@
       "author": "Isabella Calmet",
       "authorRole": "student",
       "blogUrl": "https://bellacalmetjanssen-cell.github.io/isabella-calmet-.github.io"
-    },
-    {
-      "title": "Severing the Master Signal: Technical Sovereignty and the Ethics of Maintenance",
-      "url": "https://eliananodari.github.io/evering-master-signal.html",
-      "date": "February 16, 2026",
-      "dateISO": "2026-02-16",
-      "author": "Eliana Nodari",
-      "authorRole": "student",
-      "blogUrl": "https://eliananodari.github.io",
-      "source": "manual-repo-scan",
-      "note": "Student typo in filename: evering instead of severing. Homepage link broken."
     },
     {
       "title": "The Last Watercooler: Can Disney Save the Monoculture?",
@@ -1967,16 +1956,6 @@
       "author": "Isaiah Forbes",
       "authorRole": "student",
       "blogUrl": "https://iforbes07.github.io/Pablowanye.github.io",
-      "source": "manual"
-    },
-    {
-      "title": "The Concerns of AI in Schools",
-      "url": "https://jake3143.github.io/jake3143/Ai-concerns.html",
-      "date": "January 21, 2026",
-      "dateISO": "2026-01-21",
-      "author": "Jaden Walker",
-      "authorRole": "student",
-      "blogUrl": "https://jake3143.github.io/jake3143",
       "source": "manual"
     },
     {
