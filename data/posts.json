@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-02-23T15:58:49.137Z",
+  "lastUpdated": "2026-02-23T16:27:17.394Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 281,
+  "totalPosts": 282,
   "totalBlogs": 22,
   "blogsWithErrors": [
     {
@@ -11,6 +11,15 @@
     }
   ],
   "posts": [
+    {
+      "title": "The Friction of Faith: Why Sports Need the Messy Human Moment",
+      "url": "https://zayamaro.github.io/the-friction-of-faith.html",
+      "date": "March 5, 2026",
+      "dateISO": "2026-03-05",
+      "author": "Zay Amaro",
+      "authorRole": "student",
+      "blogUrl": "https://zayamaro.github.io"
+    },
     {
       "title": "The Frictionless Trap: Why We Don’t Give People the Time of Day",
       "url": "https://dominicdebro.github.io/the-frictionless-trap.html",
