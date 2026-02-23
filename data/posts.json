@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-02-23T05:46:03.863Z",
+  "lastUpdated": "2026-02-23T06:14:14.444Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 278,
+  "totalPosts": 281,
   "totalBlogs": 22,
   "blogsWithErrors": [
     {
@@ -210,6 +210,15 @@
       "blogUrl": "https://jake3143.github.io/jake3143"
     },
     {
+      "title": "From \"Winning\" Music to \"Winning\" Your Day",
+      "url": "https://olliebear2006ya-dotcom.github.io/Olivias-Disney-Blog/winning.html",
+      "date": "Februrary 20, 2026",
+      "dateISO": "2026-02-20",
+      "author": "Olivia Andresen",
+      "authorRole": "student",
+      "blogUrl": "https://olliebear2006ya-dotcom.github.io/Olivias-Disney-Blog"
+    },
+    {
       "title": "Navigating Recovery: Treating PTSD and CPTSD in a Digital Age",
       "url": "https://jinxxywrites.github.io/Psyched-for-Psychology/ptsd-therapy-and-ai.html",
       "date": "February 20, 2026",
@@ -280,6 +289,15 @@
       "author": "Dr. Plate",
       "authorRole": "instructor",
       "blogUrl": "https://buildlittleworlds.github.io/plate-composition-blog"
+    },
+    {
+      "title": "The Death of the Gatekeeper",
+      "url": "https://olliebear2006ya-dotcom.github.io/Olivias-Disney-Blog/the-death.html",
+      "date": "Februrary 18, 2026",
+      "dateISO": "2026-02-18",
+      "author": "Olivia Andresen",
+      "authorRole": "student",
+      "blogUrl": "https://olliebear2006ya-dotcom.github.io/Olivias-Disney-Blog"
     },
     {
       "title": "CPTSD Rates After Intimate Partner Violence",
@@ -443,6 +461,15 @@
       "author": "Connor Gengle",
       "authorRole": "student",
       "blogUrl": "https://connorgengle.github.io/AI-"
+    },
+    {
+      "title": "The \"Standardized Human\" at the Turnstile: A Disney Perspective",
+      "url": "https://olliebear2006ya-dotcom.github.io/Olivias-Disney-Blog/the-turnstile.html",
+      "date": "Februrary 16, 2026",
+      "dateISO": "2026-02-16",
+      "author": "Olivia Andresen",
+      "authorRole": "student",
+      "blogUrl": "https://olliebear2006ya-dotcom.github.io/Olivias-Disney-Blog"
     },
     {
       "title": "The Shadow of Control: The Toll of Intimate Partner Violence",
