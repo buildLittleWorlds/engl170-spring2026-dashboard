@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-02-23T22:56:11.816Z",
+  "lastUpdated": "2026-02-23T23:18:37.380Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 284,
+  "totalPosts": 285,
   "totalBlogs": 22,
   "blogsWithErrors": [
     {
@@ -73,6 +73,15 @@
       "author": "Eliana Nodari",
       "authorRole": "student",
       "blogUrl": "https://eliananodari.github.io"
+    },
+    {
+      "title": "The Infrastructure Mirage: A Rebuttal to Jonas Rodrigues’ \"The Invisible Architect\"",
+      "url": "https://blt279.github.io/TheInfrastructureMirage.html",
+      "date": "February 23, 2026",
+      "dateISO": "2026-02-23",
+      "author": "Ben Teismann",
+      "authorRole": "student",
+      "blogUrl": "https://blt279.github.io"
     },
     {
       "title": "The Dependency Trap: Why AI Should Be Your Compass, Not Your Pilot",
