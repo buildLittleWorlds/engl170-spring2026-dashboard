@@ -1,14 +1,10 @@
 {
-  "lastUpdated": "2026-02-23T14:27:12.390Z",
+  "lastUpdated": "2026-02-23T14:51:19.401Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 266,
+  "totalPosts": 281,
   "totalBlogs": 22,
   "blogsWithErrors": [
-    {
-      "author": "Olivia Andresen",
-      "error": "HTTP 503"
-    },
     {
       "author": "Isaiah Forbes",
       "error": "HTTP 404"
@@ -214,6 +210,15 @@
       "blogUrl": "https://jake3143.github.io/jake3143"
     },
     {
+      "title": "From \"Winning\" Music to \"Winning\" Your Day",
+      "url": "https://olliebear2006ya-dotcom.github.io/Olivias-Disney-Blog/winning.html",
+      "date": "Februrary 20, 2026",
+      "dateISO": "2026-02-20",
+      "author": "Olivia Andresen",
+      "authorRole": "student",
+      "blogUrl": "https://olliebear2006ya-dotcom.github.io/Olivias-Disney-Blog"
+    },
+    {
       "title": "Navigating Recovery: Treating PTSD and CPTSD in a Digital Age",
       "url": "https://jinxxywrites.github.io/Psyched-for-Psychology/ptsd-therapy-and-ai.html",
       "date": "February 20, 2026",
@@ -284,6 +289,15 @@
       "author": "Dr. Plate",
       "authorRole": "instructor",
       "blogUrl": "https://buildlittleworlds.github.io/plate-composition-blog"
+    },
+    {
+      "title": "The Death of the Gatekeeper",
+      "url": "https://olliebear2006ya-dotcom.github.io/Olivias-Disney-Blog/the-death.html",
+      "date": "Februrary 18, 2026",
+      "dateISO": "2026-02-18",
+      "author": "Olivia Andresen",
+      "authorRole": "student",
+      "blogUrl": "https://olliebear2006ya-dotcom.github.io/Olivias-Disney-Blog"
     },
     {
       "title": "CPTSD Rates After Intimate Partner Violence",
@@ -449,6 +463,15 @@
       "blogUrl": "https://connorgengle.github.io/AI-"
     },
     {
+      "title": "The \"Standardized Human\" at the Turnstile: A Disney Perspective",
+      "url": "https://olliebear2006ya-dotcom.github.io/Olivias-Disney-Blog/the-turnstile.html",
+      "date": "Februrary 16, 2026",
+      "dateISO": "2026-02-16",
+      "author": "Olivia Andresen",
+      "authorRole": "student",
+      "blogUrl": "https://olliebear2006ya-dotcom.github.io/Olivias-Disney-Blog"
+    },
+    {
       "title": "The Shadow of Control: The Toll of Intimate Partner Violence",
       "url": "https://jinxxywrites.github.io/Psyched-for-Psychology/ipv.effects.html",
       "date": "February 16, 2026",
@@ -501,6 +524,15 @@
       "author": "Isabella Calmet",
       "authorRole": "student",
       "blogUrl": "https://bellacalmetjanssen-cell.github.io/isabella-calmet-.github.io"
+    },
+    {
+      "title": "The Last Watercooler: Can Disney Save the Monoculture?",
+      "url": "https://olliebear2006ya-dotcom.github.io/Olivias-Disney-Blog/watercooler.html",
+      "date": "Februrary 15, 2026",
+      "dateISO": "2026-02-15",
+      "author": "Olivia Andresen",
+      "authorRole": "student",
+      "blogUrl": "https://olliebear2006ya-dotcom.github.io/Olivias-Disney-Blog"
     },
     {
       "title": "AI in sports vs work",
@@ -701,6 +733,15 @@
       "blogUrl": "https://zayamaro.github.io"
     },
     {
+      "title": "The \"Standardized Human\" at the Turnstile",
+      "url": "https://olliebear2006ya-dotcom.github.io/Olivias-Disney-Blog/human.html",
+      "date": "Februrary 10, 2026",
+      "dateISO": "2026-02-10",
+      "author": "Olivia Andresen",
+      "authorRole": "student",
+      "blogUrl": "https://olliebear2006ya-dotcom.github.io/Olivias-Disney-Blog"
+    },
+    {
       "title": "The Zero-Failure Protocol: Why Prediction Demands Intervention",
       "url": "https://jrbrunts.github.io/zero-failure-protocol.html",
       "date": "February 10, 2026",
@@ -852,6 +893,15 @@
       "author": "Zay Amaro",
       "authorRole": "student",
       "blogUrl": "https://zayamaro.github.io"
+    },
+    {
+      "title": "When \"Zero Failure\" Becomes the Show",
+      "url": "https://olliebear2006ya-dotcom.github.io/Olivias-Disney-Blog/zero.html",
+      "date": "Februrary 8, 2026",
+      "dateISO": "2026-02-08",
+      "author": "Olivia Andresen",
+      "authorRole": "student",
+      "blogUrl": "https://olliebear2006ya-dotcom.github.io/Olivias-Disney-Blog"
     },
     {
       "title": "The Ghost in the Canvas: Why Creativity Requires the Risk of Failure",
@@ -1052,6 +1102,15 @@
       "blogUrl": "https://buildlittleworlds.github.io/plate-composition-blog"
     },
     {
+      "title": "From High Scores to High Notes: What Disney Can Teach Us About the Gamification of Music",
+      "url": "https://olliebear2006ya-dotcom.github.io/Olivias-Disney-Blog/from-highscores.html",
+      "date": "Februrary 4, 2026",
+      "dateISO": "2026-02-04",
+      "author": "Olivia Andresen",
+      "authorRole": "student",
+      "blogUrl": "https://olliebear2006ya-dotcom.github.io/Olivias-Disney-Blog"
+    },
+    {
       "title": "Response: The Systemic Soul",
       "url": "https://emanigerdine7-ops.github.io/the-systemic-soul.html",
       "date": "February 4, 2026",
@@ -1176,6 +1235,15 @@
       "author": "Zay Amaro",
       "authorRole": "student",
       "blogUrl": "https://zayamaro.github.io"
+    },
+    {
+      "title": "The Digital Frontier and the Mouse: Bridging Reality and Simulation",
+      "url": "https://olliebear2006ya-dotcom.github.io/Olivias-Disney-Blog/the-digital-frontier.html",
+      "date": "Februrary 2, 2026",
+      "dateISO": "2026-02-02",
+      "author": "Olivia Andresen",
+      "authorRole": "student",
+      "blogUrl": "https://olliebear2006ya-dotcom.github.io/Olivias-Disney-Blog"
     },
     {
       "title": "The Restoration Window: A Framework for Fair Healing",
@@ -1330,6 +1398,15 @@
       "authorRole": "student",
       "blogUrl": "https://iforbes07.github.io/Pablowanye.github.io",
       "source": "manual"
+    },
+    {
+      "title": "The Heroism of \"Enough\"",
+      "url": "https://olliebear2006ya-dotcom.github.io/Olivias-Disney-Blog/the-heroism.html",
+      "date": "February 1, 2026",
+      "dateISO": "2026-02-01",
+      "author": "Olivia Andresen",
+      "authorRole": "student",
+      "blogUrl": "https://olliebear2006ya-dotcom.github.io/Olivias-Disney-Blog"
     },
     {
       "title": "AI-Sports Response (Sports)",
@@ -1548,6 +1625,15 @@
       "blogUrl": "https://calebmurphy01.github.io"
     },
     {
+      "title": "The Happily Ever After Project",
+      "url": "https://olliebear2006ya-dotcom.github.io/Olivias-Disney-Blog/the-happily-project.html",
+      "date": "January 28, 2026",
+      "dateISO": "2026-01-28",
+      "author": "Olivia Andresen",
+      "authorRole": "student",
+      "blogUrl": "https://olliebear2006ya-dotcom.github.io/Olivias-Disney-Blog"
+    },
+    {
       "title": "AI and the End of Human-Led Therapy",
       "url": "https://jinxxywrites.github.io/Psyched-for-Psychology/ai-ending-human-therapy.html",
       "date": "January 28, 2026",
@@ -1710,6 +1796,15 @@
       "blogUrl": "https://calebmurphy01.github.io"
     },
     {
+      "title": "Comment on Mastermind in the Machine",
+      "url": "https://olliebear2006ya-dotcom.github.io/Olivias-Disney-Blog/comment-mastermind-machine.html",
+      "date": "January 25, 2026",
+      "dateISO": "2026-01-25",
+      "author": "Olivia Andresen",
+      "authorRole": "student",
+      "blogUrl": "https://olliebear2006ya-dotcom.github.io/Olivias-Disney-Blog"
+    },
+    {
       "title": "The Silicon Mirage: Why AI Abundance May Be Our Newest Form of Scarcity",
       "url": "https://gabriel-bell.github.io/the-silicon-mirage.html",
       "date": "January 25, 2026",
@@ -1845,6 +1940,15 @@
       "blogUrl": "https://buildlittleworlds.github.io/plate-composition-blog"
     },
     {
+      "title": "From Magic Wands to Microchips",
+      "url": "https://olliebear2006ya-dotcom.github.io/Olivias-Disney-Blog/from-magic-wands.html",
+      "date": "January 23, 2026",
+      "dateISO": "2026-01-23",
+      "author": "Olivia Andresen",
+      "authorRole": "student",
+      "blogUrl": "https://olliebear2006ya-dotcom.github.io/Olivias-Disney-Blog"
+    },
+    {
       "title": "The Price of Everything and the Value of Nothing: Challenging the Monetary Monopoly",
       "url": "https://gabriel-bell.github.io/defining-value.html",
       "date": "January 23, 2026",
@@ -1942,6 +2046,15 @@
       "author": "Dominic Debro",
       "authorRole": "student",
       "blogUrl": "https://dominicdebro.github.io"
+    },
+    {
+      "title": "The Cost of a Soul",
+      "url": "https://olliebear2006ya-dotcom.github.io/Olivias-Disney-Blog/the-cost-of-a-soul.html",
+      "date": "January 21, 2026",
+      "dateISO": "2026-01-21",
+      "author": "Olivia Andresen",
+      "authorRole": "student",
+      "blogUrl": "https://olliebear2006ya-dotcom.github.io/Olivias-Disney-Blog"
     },
     {
       "title": "Digital Age Compulsions: AI, OCD, and the \"Dopamine Ceiling\"",
@@ -2242,6 +2355,15 @@
       "blogUrl": "https://blt279.github.io"
     },
     {
+      "title": "The Sorcerer's Tool",
+      "url": "https://olliebear2006ya-dotcom.github.io/Olivias-Disney-Blog/the-sorcerers-tool.html",
+      "date": "January 15, 2026",
+      "dateISO": "2026-01-15",
+      "author": "Olivia Andresen",
+      "authorRole": "student",
+      "blogUrl": "https://olliebear2006ya-dotcom.github.io/Olivias-Disney-Blog"
+    },
+    {
       "title": "The Fluency Illusion: AI-Induced Learned Helplessness",
       "url": "https://jinxxywrites.github.io/Psyched-for-Psychology/fluency-illusion-helplessness.html",
       "date": "January 15, 2026",
@@ -2332,6 +2454,15 @@
       "author": "Dr. Plate",
       "authorRole": "instructor",
       "blogUrl": "https://buildlittleworlds.github.io/plate-composition-blog"
+    },
+    {
+      "title": "The Higher Thinking Post",
+      "url": "https://olliebear2006ya-dotcom.github.io/Olivias-Disney-Blog/the-higher-thinking-post.html",
+      "date": "January 13, 2026",
+      "dateISO": "2026-01-13",
+      "author": "Olivia Andresen",
+      "authorRole": "student",
+      "blogUrl": "https://olliebear2006ya-dotcom.github.io/Olivias-Disney-Blog"
     },
     {
       "title": "\"Mastermind\" Machinery: AI, Agency, and Mental Health",
