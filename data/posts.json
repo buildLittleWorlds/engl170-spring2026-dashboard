@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-02-23T00:52:41.811Z",
+  "lastUpdated": "2026-02-23T01:32:44.910Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 272,
+  "totalPosts": 276,
   "totalBlogs": 22,
   "blogsWithErrors": [
     {
@@ -11,6 +11,24 @@
     }
   ],
   "posts": [
+    {
+      "title": "The Frictionless Trap: Why We Don’t Give People the Time of Day",
+      "url": "https://dominicdebro.github.io/the-frictionless-trap.html",
+      "date": "March 3, 2026",
+      "dateISO": "2026-03-03",
+      "author": "Dominic Debro",
+      "authorRole": "student",
+      "blogUrl": "https://dominicdebro.github.io"
+    },
+    {
+      "title": "The Invisible Superstar: Fame in the Age of the Fractured Mirror",
+      "url": "https://dominicdebro.github.io/invisible-superstar.html",
+      "date": "February 28, 2026",
+      "dateISO": "2026-02-28",
+      "author": "Dominic Debro",
+      "authorRole": "student",
+      "blogUrl": "https://dominicdebro.github.io"
+    },
     {
       "title": "The Soul of the Game vs. The Efficiency of the Machine: A Response to Sam Levine",
       "url": "https://bellacalmetjanssen-cell.github.io/isabella-calmet-.github.io/the-soul-of-the-game.html",
@@ -37,6 +55,15 @@
       "author": "Isabella Calmet",
       "authorRole": "student",
       "blogUrl": "https://bellacalmetjanssen-cell.github.io/isabella-calmet-.github.io"
+    },
+    {
+      "title": "The Fragile Blueprint: Why AI in Infrastructure is a Disaster Waiting to Happen",
+      "url": "https://blt279.github.io/TheFragileBlueprint.html",
+      "date": "February 22, 2026",
+      "dateISO": "2026-02-22",
+      "author": "Ben Teismann",
+      "authorRole": "student",
+      "blogUrl": "https://blt279.github.io"
     },
     {
       "title": "The Curated Cage: Why Convenience is the New Control",
@@ -145,6 +172,15 @@
       "author": "Donovan Campbell",
       "authorRole": "student",
       "blogUrl": "https://terryrozier1267.github.io"
+    },
+    {
+      "title": "The Passenger Trap: Why AI Autonomy is a Mechanical Death Sentence",
+      "url": "https://blt279.github.io/ThePassengerTrap.html",
+      "date": "February 21, 2026",
+      "dateISO": "2026-02-21",
+      "author": "Ben Teismann",
+      "authorRole": "student",
+      "blogUrl": "https://blt279.github.io"
     },
     {
       "title": "Not every game needs to be an esport",
