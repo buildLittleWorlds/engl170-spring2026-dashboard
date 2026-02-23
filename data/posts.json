@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-02-23T02:29:36.987Z",
+  "lastUpdated": "2026-02-23T03:32:22.627Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 276,
+  "totalPosts": 278,
   "totalBlogs": 22,
   "blogsWithErrors": [
     {
@@ -57,6 +57,15 @@
       "blogUrl": "https://bellacalmetjanssen-cell.github.io/isabella-calmet-.github.io"
     },
     {
+      "title": "The Shackles of Busywork: Graeber’s Taxonomy of Labor",
+      "url": "https://calebmurphy01.github.io/the-shackles-of-busywork.html",
+      "date": "February 23, 2026",
+      "dateISO": "2026-02-23",
+      "author": "Caleb Murphy",
+      "authorRole": "student",
+      "blogUrl": "https://calebmurphy01.github.io"
+    },
+    {
       "title": "The Fragile Blueprint: Why AI in Infrastructure is a Disaster Waiting to Happen",
       "url": "https://blt279.github.io/TheFragileBlueprint.html",
       "date": "February 22, 2026",
@@ -82,6 +91,15 @@
       "author": "Zay Amaro",
       "authorRole": "student",
       "blogUrl": "https://zayamaro.github.io"
+    },
+    {
+      "title": "The Crisis of Meaning: David Graeber's Bullshit Jobs",
+      "url": "https://calebmurphy01.github.io/graeber-bullshit-jobs.html",
+      "date": "February 22, 2026",
+      "dateISO": "2026-02-22",
+      "author": "Caleb Murphy",
+      "authorRole": "student",
+      "blogUrl": "https://calebmurphy01.github.io"
     },
     {
       "title": "Beyond the Box Score: Why We Crave the Fluency of Football Stats",
