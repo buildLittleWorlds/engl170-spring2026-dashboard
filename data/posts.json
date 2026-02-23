@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-02-23T00:09:21.748Z",
+  "lastUpdated": "2026-02-23T00:52:41.811Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 271,
+  "totalPosts": 272,
   "totalBlogs": 22,
   "blogsWithErrors": [
     {
@@ -37,6 +37,15 @@
       "author": "Isabella Calmet",
       "authorRole": "student",
       "blogUrl": "https://bellacalmetjanssen-cell.github.io/isabella-calmet-.github.io"
+    },
+    {
+      "title": "The Curated Cage: Why Convenience is the New Control",
+      "url": "https://dominicdebro.github.io/the-curated-cage.html",
+      "date": "February 22, 2026",
+      "dateISO": "2026-02-22",
+      "author": "Dominic Debro",
+      "authorRole": "student",
+      "blogUrl": "https://dominicdebro.github.io"
     },
     {
       "title": "Star Birds and the Strategy of Faith: Why Games Need the Human Choice",
