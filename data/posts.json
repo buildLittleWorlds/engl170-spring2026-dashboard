@@ -1,10 +1,14 @@
 {
-  "lastUpdated": "2026-02-24T05:01:25.676Z",
+  "lastUpdated": "2026-02-24T05:36:06.406Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 285,
+  "totalPosts": 274,
   "totalBlogs": 22,
   "blogsWithErrors": [
+    {
+      "author": "Jacob Brunts",
+      "error": "HTTP 503"
+    },
     {
       "author": "Isaiah Forbes",
       "error": "HTTP 404"
@@ -643,15 +647,6 @@
       "blogUrl": "https://braydenwilson22.github.io"
     },
     {
-      "title": "The Biological Commons: Data as the New Public Utility",
-      "url": "https://jrbrunts.github.io/biological-commons.html",
-      "date": "February 12, 2026",
-      "dateISO": "2026-02-12",
-      "author": "Jacob Brunts",
-      "authorRole": "student",
-      "blogUrl": "https://jrbrunts.github.io"
-    },
-    {
       "title": "The Great Phase Change",
       "url": "https://qubitn.github.io/the-great-phase-change.html",
       "date": "February 12, 2026",
@@ -776,15 +771,6 @@
       "author": "Olivia Andresen",
       "authorRole": "student",
       "blogUrl": "https://olliebear2006ya-dotcom.github.io/Olivias-Disney-Blog"
-    },
-    {
-      "title": "The Zero-Failure Protocol: Why Prediction Demands Intervention",
-      "url": "https://jrbrunts.github.io/zero-failure-protocol.html",
-      "date": "February 10, 2026",
-      "dateISO": "2026-02-10",
-      "author": "Jacob Brunts",
-      "authorRole": "student",
-      "blogUrl": "https://jrbrunts.github.io"
     },
     {
       "title": "The Algo-Parlay: Can AI Actually Predict the Win?",
@@ -958,15 +944,6 @@
       "blogUrl": "https://gabriel-bell.github.io"
     },
     {
-      "title": "The Neurochemistry of Connection: Optimizing the Social Signal",
-      "url": "https://jrbrunts.github.io/neurochemistry-connection.html",
-      "date": "February 8, 2026",
-      "dateISO": "2026-02-08",
-      "author": "Jacob Brunts",
-      "authorRole": "student",
-      "blogUrl": "https://jrbrunts.github.io"
-    },
-    {
       "title": "risk automation in sports",
       "url": "https://samlevine277.github.io/clarifying-risk-automation-sport.html",
       "date": "Feburary 8, 2026",
@@ -1100,15 +1077,6 @@
       "author": "Eliana Nodari",
       "authorRole": "student",
       "blogUrl": "https://eliananodari.github.io"
-    },
-    {
-      "title": "The Unified Protocol: Silicon for the Soul and the Sinew",
-      "url": "https://jrbrunts.github.io/the-unified-protocol.html",
-      "date": "February 5, 2026",
-      "dateISO": "2026-02-05",
-      "author": "Jacob Brunts",
-      "authorRole": "student",
-      "blogUrl": "https://jrbrunts.github.io"
     },
     {
       "title": "The 70% Fallacy: A Counter-Perspective",
@@ -1280,33 +1248,6 @@
       "author": "Olivia Andresen",
       "authorRole": "student",
       "blogUrl": "https://olliebear2006ya-dotcom.github.io/Olivias-Disney-Blog"
-    },
-    {
-      "title": "The Restoration Window: A Framework for Fair Healing",
-      "url": "https://jrbrunts.github.io/restoration-window.html",
-      "date": "February 2, 2026",
-      "dateISO": "2026-02-02",
-      "author": "Jacob Brunts",
-      "authorRole": "student",
-      "blogUrl": "https://jrbrunts.github.io"
-    },
-    {
-      "title": "The Infinite Therapist: Democratizing the Mind",
-      "url": "https://jrbrunts.github.io/infinite-therapist.html",
-      "date": "February 2, 2026",
-      "dateISO": "2026-02-02",
-      "author": "Jacob Brunts",
-      "authorRole": "student",
-      "blogUrl": "https://jrbrunts.github.io"
-    },
-    {
-      "title": "The Lazarus Protocol: Beyond Injury Prevention",
-      "url": "https://jrbrunts.github.io/the-lazarus-protocol.html",
-      "date": "February 2, 2026",
-      "dateISO": "2026-02-02",
-      "author": "Jacob Brunts",
-      "authorRole": "student",
-      "blogUrl": "https://jrbrunts.github.io"
     },
     {
       "title": "Beyond the Screen: Navigating the 10% Void",
@@ -1535,15 +1476,6 @@
       "blogUrl": "https://calebmurphy01.github.io"
     },
     {
-      "title": "The White Flag: Accepting the Efficiency Engine",
-      "url": "https://jrbrunts.github.io/the-white-flag.html",
-      "date": "January 30, 2026",
-      "dateISO": "2026-01-30",
-      "author": "Jacob Brunts",
-      "authorRole": "student",
-      "blogUrl": "https://jrbrunts.github.io"
-    },
-    {
       "title": "Moral Agency and the Machine: Why AI Companies are Failing the History of Care",
       "url": "https://jinxxywrites.github.io/Psyched-for-Psychology/moral-history-of-care.html",
       "date": "January 30, 2026",
@@ -1686,15 +1618,6 @@
       "author": "Eliana Nodari",
       "authorRole": "student",
       "blogUrl": "https://eliananodari.github.io"
-    },
-    {
-      "title": "The Quantified Athlete: How AI is Breaking the Human Limit",
-      "url": "https://jrbrunts.github.io/beyond-the-limit.html",
-      "date": "January 27, 2026",
-      "dateISO": "2026-01-27",
-      "author": "Jacob Brunts",
-      "authorRole": "student",
-      "blogUrl": "https://jrbrunts.github.io"
     },
     {
       "title": "The Algorithmic Bias",
@@ -1938,15 +1861,6 @@
       "author": "Gabriel Bell",
       "authorRole": "student",
       "blogUrl": "https://gabriel-bell.github.io"
-    },
-    {
-      "title": "Quiet the Noise: When AI Rewrites Our Biology",
-      "url": "https://jrbrunts.github.io/quiet-the-noise.html",
-      "date": "January 24, 2026",
-      "dateISO": "2026-01-24",
-      "author": "Jacob Brunts",
-      "authorRole": "student",
-      "blogUrl": "https://jrbrunts.github.io"
     },
     {
       "title": "The Squared Circle and the Gridiron: Can AI Predict the Knockout?",
@@ -2227,15 +2141,6 @@
       "author": "Sam Levine",
       "authorRole": "student",
       "blogUrl": "https://samlevine277.github.io"
-    },
-    {
-      "title": "The Friction of Fluency: Why \"Easy\" AI is a Myth",
-      "url": "https://jrbrunts.github.io/friction-of-fluency.html",
-      "date": "January 18, 2026",
-      "dateISO": "2026-01-18",
-      "author": "Jacob Brunts",
-      "authorRole": "student",
-      "blogUrl": "https://jrbrunts.github.io"
     },
     {
       "title": "The Exaggeration Effect and the \"Loud Lie Economy\"",
