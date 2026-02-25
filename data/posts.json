@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-02-25T17:43:51.923Z",
+  "lastUpdated": "2026-02-25T18:12:25.933Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 289,
+  "totalPosts": 290,
   "totalBlogs": 22,
   "blogsWithErrors": [
     {
@@ -64,6 +64,15 @@
       "author": "Jinx Hixson",
       "authorRole": "student",
       "blogUrl": "https://jinxxywrites.github.io/Psyched-for-Psychology"
+    },
+    {
+      "title": "The Echo Chamber of the Self: Why We Need the Uncontrollable",
+      "url": "https://eliananodari.github.io/echo-chamber-of-the-self.html",
+      "date": "February 25, 2026",
+      "dateISO": "2026-02-25",
+      "author": "Eliana Nodari",
+      "authorRole": "student",
+      "blogUrl": "https://eliananodari.github.io"
     },
     {
       "title": "AI Design and Human Craft",
