@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-02-25T16:17:23.890Z",
+  "lastUpdated": "2026-02-25T16:47:00.505Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 287,
+  "totalPosts": 289,
   "totalBlogs": 22,
   "blogsWithErrors": [
     {
@@ -64,6 +64,24 @@
       "author": "Jinx Hixson",
       "authorRole": "student",
       "blogUrl": "https://jinxxywrites.github.io/Psyched-for-Psychology"
+    },
+    {
+      "title": "AI Design and Human Craft",
+      "url": "https://qubitn.github.io/ai-design-and-human-craft.html",
+      "date": "February 25, 2026",
+      "dateISO": "2026-02-25",
+      "author": "Jonas Rodrigues",
+      "authorRole": "student",
+      "blogUrl": "https://qubitn.github.io"
+    },
+    {
+      "title": "The Terminal Window",
+      "url": "https://qubitn.github.io/the-terminal-window.html",
+      "date": "February 25, 2026",
+      "dateISO": "2026-02-25",
+      "author": "Jonas Rodrigues",
+      "authorRole": "student",
+      "blogUrl": "https://qubitn.github.io"
     },
     {
       "title": "The Value of Failure: Why Difficulty is a Gift",
