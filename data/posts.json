@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-02-25T15:47:37.355Z",
+  "lastUpdated": "2026-02-25T16:17:23.890Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 285,
+  "totalPosts": 287,
   "totalBlogs": 22,
   "blogsWithErrors": [
     {
@@ -11,6 +11,15 @@
     }
   ],
   "posts": [
+    {
+      "title": "The Busywork of Data: Are Algorithms Just Distracting Us?",
+      "url": "https://zayamaro.github.io/the-busywork-of-data.html",
+      "date": "March 10, 2026",
+      "dateISO": "2026-03-10",
+      "author": "Zay Amaro",
+      "authorRole": "student",
+      "blogUrl": "https://zayamaro.github.io"
+    },
     {
       "title": "The Friction of Faith: Why Sports Need the Messy Human Moment",
       "url": "https://zayamaro.github.io/the-friction-of-faith.html",
@@ -46,6 +55,15 @@
       "author": "Isabella Calmet",
       "authorRole": "student",
       "blogUrl": "https://bellacalmetjanssen-cell.github.io/isabella-calmet-.github.io"
+    },
+    {
+      "title": "The Silent Threat: The Consequences of Social Isolation",
+      "url": "https://jinxxywrites.github.io/Psyched-for-Psychology/social-isolation.html",
+      "date": "February 25, 2026",
+      "dateISO": "2026-02-25",
+      "author": "Jinx Hixson",
+      "authorRole": "student",
+      "blogUrl": "https://jinxxywrites.github.io/Psyched-for-Psychology"
     },
     {
       "title": "The Value of Failure: Why Difficulty is a Gift",
