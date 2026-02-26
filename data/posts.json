@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-02-26T04:53:22.565Z",
+  "lastUpdated": "2026-02-26T05:27:48.163Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 290,
+  "totalPosts": 292,
   "totalBlogs": 22,
   "blogsWithErrors": [
     {
@@ -93,6 +93,15 @@
       "blogUrl": "https://qubitn.github.io"
     },
     {
+      "title": "The Surveillance Cabin: Biometric Harvesting Under the Guise of Safety",
+      "url": "https://blt279.github.io/SurveillanceCabin.html",
+      "date": "February 25, 2026",
+      "dateISO": "2026-02-25",
+      "author": "Ben Teismann",
+      "authorRole": "student",
+      "blogUrl": "https://blt279.github.io"
+    },
+    {
       "title": "The Value of Failure: Why Difficulty is a Gift",
       "url": "https://zayamaro.github.io/the-value-of-failure.html",
       "date": "February 25, 2026",
@@ -100,6 +109,15 @@
       "author": "Zay Amaro",
       "authorRole": "student",
       "blogUrl": "https://zayamaro.github.io"
+    },
+    {
+      "title": "The AI Jukebox: Creative Evolution or Just More Bullshit Jobs?",
+      "url": "https://calebmurphy01.github.io/ai-music-bullshit-jobs.html",
+      "date": "February 25, 2026",
+      "dateISO": "2026-02-25",
+      "author": "Caleb Murphy",
+      "authorRole": "student",
+      "blogUrl": "https://calebmurphy01.github.io"
     },
     {
       "title": "The Vital Pillar: Why Human Connection is the Key to Mental Health",
