@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-02-26T21:09:09.663Z",
+  "lastUpdated": "2026-02-26T21:26:10.748Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 292,
+  "totalPosts": 295,
   "totalBlogs": 22,
   "blogsWithErrors": [
     {
@@ -55,6 +55,15 @@
       "author": "Isabella Calmet",
       "authorRole": "student",
       "blogUrl": "https://bellacalmetjanssen-cell.github.io/isabella-calmet-.github.io"
+    },
+    {
+      "title": "The Curation Crisis: Why More Ideas Aren't Always Better",
+      "url": "https://terryrozier1267.github.io/curation-crisis.html",
+      "date": "February 26, 2026",
+      "dateISO": "2026-02-26",
+      "author": "Donovan Campbell",
+      "authorRole": "student",
+      "blogUrl": "https://terryrozier1267.github.io"
     },
     {
       "title": "The Silent Threat: The Consequences of Social Isolation",
@@ -172,6 +181,24 @@
       "author": "Ben Teismann",
       "authorRole": "student",
       "blogUrl": "https://blt279.github.io"
+    },
+    {
+      "title": "Star Birds and the Strategy of Faith: A Response to Zay",
+      "url": "https://tombishop4.github.io/star-birds-response.html",
+      "date": "February 22, 2026",
+      "dateISO": "2026-02-22",
+      "author": "Tom Bishop",
+      "authorRole": "student",
+      "blogUrl": "https://tombishop4.github.io"
+    },
+    {
+      "title": "The Resume of Romance: When Dating Becomes a Personal Brand",
+      "url": "https://tombishop4.github.io/resume-of-romance.html",
+      "date": "February 22, 2026",
+      "dateISO": "2026-02-22",
+      "author": "Tom Bishop",
+      "authorRole": "student",
+      "blogUrl": "https://tombishop4.github.io"
     },
     {
       "title": "The Curated Cage: Why Convenience is the New Control",
