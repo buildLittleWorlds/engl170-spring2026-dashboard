@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-02-26T22:16:41.715Z",
+  "lastUpdated": "2026-02-26T22:35:03.794Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 295,
+  "totalPosts": 305,
   "totalBlogs": 22,
   "blogsWithErrors": [
     {
@@ -172,6 +172,106 @@
       "author": "Caleb Murphy",
       "authorRole": "student",
       "blogUrl": "https://calebmurphy01.github.io"
+    },
+    {
+      "title": "The 2026 Playbook: Why Your Gut is Wrong and the Algorithm is Right",
+      "url": "https://iforbes07.github.io/Pablowanye.github.io/2026-playbook-algorithm.html",
+      "date": "February 23, 2026",
+      "dateISO": "2026-02-23",
+      "author": "Isaiah Forbes",
+      "authorRole": "student",
+      "blogUrl": "https://iforbes07.github.io/Pablowanye.github.io",
+      "source": "manual"
+    },
+    {
+      "title": "The Entertainment Singularity: Why Disney's 'Playable Music' is the Future of Art",
+      "url": "https://iforbes07.github.io/Pablowanye.github.io/entertainment-singularity-disney.html",
+      "date": "February 23, 2026",
+      "dateISO": "2026-02-23",
+      "author": "Isaiah Forbes",
+      "authorRole": "student",
+      "blogUrl": "https://iforbes07.github.io/Pablowanye.github.io",
+      "source": "manual"
+    },
+    {
+      "title": "The Agency Paradox: Why You Can't Always Take Your Friends to the Top",
+      "url": "https://iforbes07.github.io/Pablowanye.github.io/agency-paradox-friends.html",
+      "date": "February 23, 2026",
+      "dateISO": "2026-02-23",
+      "author": "Isaiah Forbes",
+      "authorRole": "student",
+      "blogUrl": "https://iforbes07.github.io/Pablowanye.github.io",
+      "source": "manual"
+    },
+    {
+      "title": "The Digital Tug-of-War: Why AI Dependency is the Silent Threat We Aren't Talking About",
+      "url": "https://iforbes07.github.io/Pablowanye.github.io/digital-tug-of-war.html",
+      "date": "February 23, 2026",
+      "dateISO": "2026-02-23",
+      "author": "Isaiah Forbes",
+      "authorRole": "student",
+      "blogUrl": "https://iforbes07.github.io/Pablowanye.github.io",
+      "source": "manual"
+    },
+    {
+      "title": "The Digital Panopticon: Why Your 'Safe' Workplace is a High-Stakes Laboratory",
+      "url": "https://iforbes07.github.io/Pablowanye.github.io/digital-panopticon.html",
+      "date": "February 23, 2026",
+      "dateISO": "2026-02-23",
+      "author": "Isaiah Forbes",
+      "authorRole": "student",
+      "blogUrl": "https://iforbes07.github.io/Pablowanye.github.io",
+      "source": "manual"
+    },
+    {
+      "title": "The Digital Drift: Why the 'Partnership' with AI is a Slow-Motion Surrender",
+      "url": "https://iforbes07.github.io/Pablowanye.github.io/digital-drift-ai.html",
+      "date": "February 23, 2026",
+      "dateISO": "2026-02-23",
+      "author": "Isaiah Forbes",
+      "authorRole": "student",
+      "blogUrl": "https://iforbes07.github.io/Pablowanye.github.io",
+      "source": "manual"
+    },
+    {
+      "title": "The Biological 'Superstimulus': Why You Can't Compare the Two",
+      "url": "https://iforbes07.github.io/Pablowanye.github.io/biological-superstimulus.html",
+      "date": "February 23, 2026",
+      "dateISO": "2026-02-23",
+      "author": "Isaiah Forbes",
+      "authorRole": "student",
+      "blogUrl": "https://iforbes07.github.io/Pablowanye.github.io",
+      "source": "manual"
+    },
+    {
+      "title": "The Myth of the 'Sacred Struggle': Why AI is Democratizing the Human Soul",
+      "url": "https://iforbes07.github.io/Pablowanye.github.io/myth-sacred-struggle.html",
+      "date": "February 23, 2026",
+      "dateISO": "2026-02-23",
+      "author": "Isaiah Forbes",
+      "authorRole": "student",
+      "blogUrl": "https://iforbes07.github.io/Pablowanye.github.io",
+      "source": "manual"
+    },
+    {
+      "title": "The Digital Safeguard: Why AI in Infrastructure is the Evolution Engineering Needs",
+      "url": "https://iforbes07.github.io/Pablowanye.github.io/digital-safeguard-infrastructure.html",
+      "date": "February 23, 2026",
+      "dateISO": "2026-02-23",
+      "author": "Isaiah Forbes",
+      "authorRole": "student",
+      "blogUrl": "https://iforbes07.github.io/Pablowanye.github.io",
+      "source": "manual"
+    },
+    {
+      "title": "The Safety Dividend: Why AI is the Lifebelt the Trucking Industry Desperately Needs",
+      "url": "https://iforbes07.github.io/Pablowanye.github.io/safety-dividend-trucking.html",
+      "date": "February 23, 2026",
+      "dateISO": "2026-02-23",
+      "author": "Isaiah Forbes",
+      "authorRole": "student",
+      "blogUrl": "https://iforbes07.github.io/Pablowanye.github.io",
+      "source": "manual"
     },
     {
       "title": "The Fragile Blueprint: Why AI in Infrastructure is a Disaster Waiting to Happen",
