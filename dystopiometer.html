@@ -1,0 +1,925 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>The Dystopiometer — ENGL 170 Blog Network</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,600;1,400&family=Instrument+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+  <style>
+    /* === Dystopiometer-specific styles === */
+
+    .dystopia-hero {
+      text-align: center;
+      padding: var(--space-3xl) var(--space-xl) var(--space-2xl);
+      border-bottom: 1px solid var(--border-subtle);
+    }
+
+    .dystopia-hero h2 {
+      font-family: var(--font-display);
+      font-size: 3rem;
+      font-weight: 400;
+      color: var(--text-primary);
+      margin-bottom: var(--space-sm);
+      letter-spacing: 0.02em;
+    }
+
+    .dystopia-hero .hero-subtitle {
+      font-family: var(--font-display);
+      font-style: italic;
+      font-size: 1.2rem;
+      color: var(--text-secondary);
+      max-width: 600px;
+      margin: 0 auto var(--space-xl);
+      line-height: 1.6;
+    }
+
+    /* Big number display */
+    .class-pulse {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      gap: var(--space-3xl);
+      padding: var(--space-xl) 0;
+    }
+
+    .pulse-stat {
+      text-align: center;
+    }
+
+    .pulse-number {
+      font-family: var(--font-display);
+      font-size: 4rem;
+      font-weight: 600;
+      line-height: 1;
+      color: var(--accent-warm);
+    }
+
+    .pulse-label {
+      display: block;
+      font-size: 0.75rem;
+      text-transform: uppercase;
+      letter-spacing: 0.1em;
+      color: var(--text-tertiary);
+      margin-top: var(--space-xs);
+    }
+
+    /* Rubric section */
+    .rubric-section {
+      max-width: var(--max-width);
+      margin: 0 auto;
+      padding: var(--space-3xl) var(--space-xl);
+      border-bottom: 1px solid var(--border-subtle);
+    }
+
+    .section-title {
+      font-family: var(--font-display);
+      font-size: 1.8rem;
+      font-weight: 400;
+      color: var(--text-primary);
+      margin-bottom: var(--space-lg);
+    }
+
+    .section-intro {
+      color: var(--text-secondary);
+      max-width: 700px;
+      margin-bottom: var(--space-2xl);
+      line-height: 1.7;
+    }
+
+    .rubric-scale {
+      display: flex;
+      gap: 2px;
+      border-radius: 8px;
+      overflow: hidden;
+      margin-bottom: var(--space-2xl);
+    }
+
+    .rubric-band {
+      flex: 1;
+      padding: var(--space-lg) var(--space-md);
+      text-align: center;
+      position: relative;
+      min-height: 140px;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      transition: transform 0.2s ease;
+    }
+
+    .rubric-band:hover {
+      transform: translateY(-3px);
+      z-index: 1;
+    }
+
+    .rubric-band .band-score {
+      font-family: var(--font-display);
+      font-size: 1.5rem;
+      font-weight: 600;
+      margin-bottom: var(--space-xs);
+    }
+
+    .rubric-band .band-name {
+      font-size: 0.8rem;
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: 0.06em;
+      margin-bottom: var(--space-sm);
+    }
+
+    .rubric-band .band-desc {
+      font-size: 0.7rem;
+      line-height: 1.4;
+      opacity: 0.85;
+    }
+
+    /* Tier colors - utopian to dystopian */
+    .tier-utopian { background: #1a3a2a; color: #7dd3a8; }
+    .tier-optimist { background: #1a3325; color: #90c9a0; }
+    .tier-balanced { background: #2a2820; color: #c4b078; }
+    .tier-pessimist { background: #3a2020; color: #d4887a; }
+    .tier-dystopian { background: #3d1515; color: #e8605a; }
+
+    /* Distribution chart */
+    .chart-section {
+      max-width: var(--max-width);
+      margin: 0 auto;
+      padding: var(--space-3xl) var(--space-xl);
+      border-bottom: 1px solid var(--border-subtle);
+    }
+
+    .distribution-chart {
+      display: flex;
+      align-items: flex-end;
+      justify-content: center;
+      gap: 6px;
+      height: 250px;
+      padding: var(--space-xl) 0;
+    }
+
+    .chart-bar-group {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: var(--space-xs);
+      flex: 1;
+      max-width: 80px;
+    }
+
+    .chart-bar {
+      width: 100%;
+      border-radius: 4px 4px 0 0;
+      min-height: 4px;
+      transition: height 0.6s ease-out;
+      position: relative;
+      cursor: pointer;
+    }
+
+    .chart-bar:hover {
+      filter: brightness(1.3);
+    }
+
+    .chart-bar .bar-count {
+      position: absolute;
+      top: -24px;
+      left: 50%;
+      transform: translateX(-50%);
+      font-size: 0.8rem;
+      font-weight: 600;
+      color: var(--text-primary);
+    }
+
+    .chart-bar-label {
+      font-size: 0.75rem;
+      color: var(--text-tertiary);
+      text-align: center;
+    }
+
+    /* Student leaderboard */
+    .leaderboard-section {
+      max-width: var(--max-width);
+      margin: 0 auto;
+      padding: var(--space-3xl) var(--space-xl);
+      border-bottom: 1px solid var(--border-subtle);
+    }
+
+    .student-row {
+      display: grid;
+      grid-template-columns: 200px 1fr 80px 80px;
+      align-items: center;
+      padding: var(--space-md) 0;
+      border-bottom: 1px solid var(--border-subtle);
+      gap: var(--space-md);
+    }
+
+    .student-row:last-child {
+      border-bottom: none;
+    }
+
+    .student-name-cell {
+      font-family: var(--font-display);
+      font-size: 1.1rem;
+      color: var(--text-primary);
+    }
+
+    .student-bar-cell {
+      position: relative;
+      height: 28px;
+    }
+
+    .student-meter {
+      height: 100%;
+      border-radius: 14px;
+      position: relative;
+      overflow: hidden;
+      transition: width 0.8s ease-out;
+    }
+
+    .student-meter .meter-fill {
+      height: 100%;
+      border-radius: 14px;
+      transition: width 0.8s ease-out;
+    }
+
+    .student-meter .meter-range {
+      position: absolute;
+      top: 0;
+      height: 100%;
+      border-radius: 14px;
+      opacity: 0.3;
+    }
+
+    .student-score-cell {
+      font-family: var(--font-display);
+      font-size: 1.3rem;
+      font-weight: 600;
+      text-align: center;
+    }
+
+    .student-tier-cell {
+      font-size: 0.7rem;
+      text-transform: uppercase;
+      letter-spacing: 0.06em;
+      text-align: center;
+      padding: 4px 8px;
+      border-radius: 4px;
+    }
+
+    /* Scatter / timeline */
+    .timeline-section {
+      max-width: var(--max-width);
+      margin: 0 auto;
+      padding: var(--space-3xl) var(--space-xl);
+      border-bottom: 1px solid var(--border-subtle);
+    }
+
+    .timeline-canvas {
+      width: 100%;
+      height: 400px;
+      position: relative;
+      background: var(--bg-surface);
+      border-radius: 8px;
+      border: 1px solid var(--border-subtle);
+      overflow: hidden;
+    }
+
+    .timeline-y-axis {
+      position: absolute;
+      left: 0;
+      top: 0;
+      bottom: 30px;
+      width: 50px;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+      padding: 10px 8px;
+    }
+
+    .timeline-y-label {
+      font-size: 0.65rem;
+      color: var(--text-tertiary);
+      text-align: right;
+    }
+
+    .timeline-plot {
+      position: absolute;
+      left: 55px;
+      right: 10px;
+      top: 10px;
+      bottom: 30px;
+    }
+
+    .timeline-dot {
+      position: absolute;
+      width: 8px;
+      height: 8px;
+      border-radius: 50%;
+      transform: translate(-50%, -50%);
+      cursor: pointer;
+      transition: all 0.2s ease;
+      opacity: 0.75;
+    }
+
+    .timeline-dot:hover {
+      opacity: 1;
+      transform: translate(-50%, -50%) scale(1.8);
+      z-index: 10;
+    }
+
+    .timeline-x-axis {
+      position: absolute;
+      bottom: 0;
+      left: 55px;
+      right: 10px;
+      height: 30px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+    .timeline-x-label {
+      font-size: 0.65rem;
+      color: var(--text-tertiary);
+    }
+
+    .timeline-gridline {
+      position: absolute;
+      left: 55px;
+      right: 10px;
+      height: 1px;
+      background: var(--border-subtle);
+    }
+
+    /* Center line at 5.5 */
+    .timeline-center {
+      background: var(--border-medium);
+      height: 1px;
+    }
+
+    /* Tooltip */
+    .tooltip {
+      position: fixed;
+      background: var(--bg-elevated);
+      border: 1px solid var(--border-medium);
+      border-radius: 6px;
+      padding: 10px 14px;
+      font-size: 0.8rem;
+      color: var(--text-primary);
+      pointer-events: none;
+      z-index: 100;
+      max-width: 280px;
+      box-shadow: 0 8px 24px rgba(0,0,0,0.4);
+      display: none;
+    }
+
+    .tooltip .tt-title {
+      font-family: var(--font-display);
+      font-size: 1rem;
+      margin-bottom: 4px;
+    }
+
+    .tooltip .tt-meta {
+      color: var(--text-tertiary);
+      font-size: 0.7rem;
+    }
+
+    .tooltip .tt-score {
+      font-family: var(--font-display);
+      font-size: 1.2rem;
+      font-weight: 600;
+      margin-top: 4px;
+    }
+
+    /* Findings section */
+    .findings-section {
+      max-width: var(--max-width);
+      margin: 0 auto;
+      padding: var(--space-3xl) var(--space-xl);
+    }
+
+    .findings-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+      gap: var(--space-xl);
+      margin-top: var(--space-xl);
+    }
+
+    .finding-card {
+      background: var(--bg-surface);
+      border: 1px solid var(--border-subtle);
+      border-radius: 8px;
+      padding: var(--space-xl);
+    }
+
+    .finding-card h4 {
+      font-family: var(--font-display);
+      font-size: 1.2rem;
+      font-weight: 400;
+      color: var(--accent-warm);
+      margin-bottom: var(--space-md);
+    }
+
+    .finding-card p {
+      color: var(--text-secondary);
+      font-size: 0.9rem;
+      line-height: 1.7;
+    }
+
+    .finding-card .stat-highlight {
+      font-family: var(--font-display);
+      font-size: 2rem;
+      font-weight: 600;
+      color: var(--text-primary);
+      display: block;
+      margin: var(--space-sm) 0;
+    }
+
+    /* Extremes section */
+    .extremes-section {
+      max-width: var(--max-width);
+      margin: 0 auto;
+      padding: 0 var(--space-xl) var(--space-3xl);
+    }
+
+    .extremes-columns {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: var(--space-2xl);
+      margin-top: var(--space-xl);
+    }
+
+    .extreme-list h4 {
+      font-family: var(--font-display);
+      font-size: 1.2rem;
+      font-weight: 400;
+      margin-bottom: var(--space-lg);
+    }
+
+    .extreme-item {
+      display: flex;
+      gap: var(--space-md);
+      padding: var(--space-md) 0;
+      border-bottom: 1px solid var(--border-subtle);
+      align-items: flex-start;
+    }
+
+    .extreme-score {
+      font-family: var(--font-display);
+      font-size: 1.3rem;
+      font-weight: 600;
+      min-width: 40px;
+      text-align: center;
+    }
+
+    .extreme-info .extreme-title {
+      font-family: var(--font-display);
+      font-size: 1rem;
+      color: var(--text-primary);
+    }
+
+    .extreme-info .extreme-author {
+      font-size: 0.75rem;
+      color: var(--text-tertiary);
+    }
+
+    /* Responsive */
+    @media (max-width: 768px) {
+      .dystopia-hero h2 { font-size: 2rem; }
+      .class-pulse { flex-direction: column; gap: var(--space-lg); }
+      .pulse-number { font-size: 3rem; }
+      .rubric-scale { flex-direction: column; }
+      .student-row { grid-template-columns: 1fr 1fr; }
+      .student-bar-cell { display: none; }
+      .extremes-columns { grid-template-columns: 1fr; }
+    }
+  </style>
+</head>
+<body>
+  <div class="grain-overlay"></div>
+
+  <header class="site-header">
+    <div class="header-content">
+      <div class="header-top">
+        <div class="masthead">
+          <span class="issue-label">Spring 2026</span>
+          <h1 class="site-title">The Network</h1>
+          <p class="site-subtitle">ENGL 170 · Composition II</p>
+        </div>
+        <div class="network-pulse">
+          <span class="pulse-dot"></span>
+          <span class="pulse-label">Live Feed</span>
+        </div>
+      </div>
+      <nav class="header-nav">
+        <a href="index.html" class="header-nav-link">Dashboard</a>
+        <a href="network.html" class="header-nav-link">Network Map</a>
+        <a href="dystopiometer.html" class="header-nav-link" style="color: var(--accent-warm);">Dystopiometer</a>
+        <a href="directory.html" class="header-nav-link">Blog Directory</a>
+      </nav>
+    </div>
+  </header>
+
+  <!-- Hero -->
+  <section class="dystopia-hero">
+    <h2>The Dystopiometer</h2>
+    <p class="hero-subtitle">
+      Where does this class fall on the spectrum between utopian hope and dystopian dread?
+      Every post in the network, scored and mapped.
+    </p>
+    <div class="class-pulse">
+      <div class="pulse-stat">
+        <span class="pulse-number" id="avg-score">—</span>
+        <span class="pulse-label">Class Average</span>
+      </div>
+      <div class="pulse-stat">
+        <span class="pulse-number" id="total-posts">—</span>
+        <span class="pulse-label">Posts Scored</span>
+      </div>
+      <div class="pulse-stat">
+        <span class="pulse-number" id="dominant-tier">—</span>
+        <span class="pulse-label">Dominant Tier</span>
+      </div>
+    </div>
+  </section>
+
+  <!-- Rubric -->
+  <section class="rubric-section">
+    <h3 class="section-title">The Scale</h3>
+    <p class="section-intro">
+      Each post is scored from 1 to 10 based on its orientation toward the future.
+      Does the writer see progress as inevitable, or doom? Are humans empowered agents
+      or passive subjects of forces beyond their control?
+    </p>
+    <div class="rubric-scale">
+      <div class="rubric-band tier-utopian">
+        <div class="band-score">1–2</div>
+        <div class="band-name">Bright Utopian</div>
+        <div class="band-desc">Progress is inevitable. Technology will save us. Human flourishing is the default.</div>
+      </div>
+      <div class="rubric-band tier-optimist">
+        <div class="band-score">3–4</div>
+        <div class="band-name">Cautious Optimist</div>
+        <div class="band-desc">Things are improving, with caveats. Challenges are solvable. Agency is real.</div>
+      </div>
+      <div class="rubric-band tier-balanced">
+        <div class="band-score">5–6</div>
+        <div class="band-name">Balanced</div>
+        <div class="band-desc">Holds hope and concern in tension. Sees trade-offs. Doesn't commit.</div>
+      </div>
+      <div class="rubric-band tier-pessimist">
+        <div class="band-score">7–8</div>
+        <div class="band-name">Concerned Pessimist</div>
+        <div class="band-desc">Dominant worry. Something valuable is eroding. Solutions may not be adopted.</div>
+      </div>
+      <div class="rubric-band tier-dystopian">
+        <div class="band-score">9–10</div>
+        <div class="band-name">Full Dystopian</div>
+        <div class="band-desc">Doom is inevitable. Forces beyond control. Resistance may be futile.</div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Distribution -->
+  <section class="chart-section">
+    <h3 class="section-title">Score Distribution</h3>
+    <p class="section-intro">How the 299 posts distribute across the scale.</p>
+    <div class="distribution-chart" id="distribution-chart"></div>
+  </section>
+
+  <!-- Student Rankings -->
+  <section class="leaderboard-section">
+    <h3 class="section-title">Writer Profiles</h3>
+    <p class="section-intro">Each writer's average score across all their posts, ranked from most utopian to most dystopian.</p>
+    <div id="leaderboard"></div>
+  </section>
+
+  <!-- Timeline scatter -->
+  <section class="timeline-section">
+    <h3 class="section-title">Posts Over Time</h3>
+    <p class="section-intro">Every post plotted by date and score. Each dot is a post — hover to see details.</p>
+    <div class="timeline-canvas" id="timeline">
+      <div class="timeline-y-axis">
+        <span class="timeline-y-label">10 · Dystopian</span>
+        <span class="timeline-y-label">8</span>
+        <span class="timeline-y-label">6</span>
+        <span class="timeline-y-label">4</span>
+        <span class="timeline-y-label">2</span>
+        <span class="timeline-y-label">1 · Utopian</span>
+      </div>
+      <div class="timeline-plot" id="timeline-plot"></div>
+      <div class="timeline-x-axis" id="timeline-x"></div>
+    </div>
+  </section>
+
+  <!-- Findings -->
+  <section class="findings-section">
+    <h3 class="section-title">What the Data Reveals</h3>
+    <div class="findings-grid" id="findings-grid"></div>
+  </section>
+
+  <!-- Extremes -->
+  <section class="extremes-section">
+    <h3 class="section-title">The Extremes</h3>
+    <div class="extremes-columns">
+      <div class="extreme-list">
+        <h4 style="color: #e8605a;">Most Dystopian Posts</h4>
+        <div id="most-dystopian"></div>
+      </div>
+      <div class="extreme-list">
+        <h4 style="color: #7dd3a8;">Most Utopian Posts</h4>
+        <div id="most-utopian"></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Tooltip -->
+  <div class="tooltip" id="tooltip">
+    <div class="tt-title"></div>
+    <div class="tt-meta"></div>
+    <div class="tt-score"></div>
+  </div>
+
+  <script>
+    // Load and render dystopiometer data
+    fetch('data/dystopiometer.json')
+      .then(r => r.json())
+      .then(data => {
+        renderHero(data.metadata);
+        renderDistribution(data.metadata.scoreDistribution);
+        renderLeaderboard(data.students);
+        renderTimeline(data.posts);
+        renderFindings(data);
+        renderExtremes(data.posts);
+      });
+
+    function tierColor(score) {
+      if (score <= 2) return '#7dd3a8';
+      if (score <= 4) return '#90c9a0';
+      if (score <= 6) return '#c4b078';
+      if (score <= 8) return '#d4887a';
+      return '#e8605a';
+    }
+
+    function tierBg(score) {
+      if (score <= 2) return '#1a3a2a';
+      if (score <= 4) return '#1a3325';
+      if (score <= 6) return '#2a2820';
+      if (score <= 8) return '#3a2020';
+      return '#3d1515';
+    }
+
+    function tierName(score) {
+      if (score <= 2) return 'Bright Utopian';
+      if (score <= 4) return 'Cautious Optimist';
+      if (score <= 6) return 'Balanced';
+      if (score <= 8) return 'Concerned Pessimist';
+      return 'Full Dystopian';
+    }
+
+    function renderHero(meta) {
+      document.getElementById('avg-score').textContent = meta.overallAverage;
+      document.getElementById('total-posts').textContent = meta.totalPosts;
+      // Find dominant tier
+      const tiers = meta.tierDistribution;
+      const dominant = Object.entries(tiers).sort((a,b) => b[1] - a[1])[0];
+      const el = document.getElementById('dominant-tier');
+      el.textContent = dominant[0].split(' / ')[0];
+      el.style.fontSize = '1.8rem';
+    }
+
+    function renderDistribution(dist) {
+      const container = document.getElementById('distribution-chart');
+      const maxCount = Math.max(...Object.values(dist).map(Number));
+
+      for (let i = 1; i <= 10; i++) {
+        const count = Number(dist[String(i)] || 0);
+        const height = maxCount > 0 ? (count / maxCount) * 200 : 0;
+        const color = tierColor(i);
+
+        const group = document.createElement('div');
+        group.className = 'chart-bar-group';
+        group.innerHTML = `
+          <div class="chart-bar" style="height:${height}px; background:${color};">
+            <span class="bar-count">${count}</span>
+          </div>
+          <div class="chart-bar-label">${i}</div>
+        `;
+        container.appendChild(group);
+      }
+    }
+
+    function renderLeaderboard(students) {
+      const container = document.getElementById('leaderboard');
+
+      students.forEach(s => {
+        const color = tierColor(s.avgScore);
+        const bg = tierBg(s.avgScore);
+        const pct = (s.avgScore / 10) * 100;
+        const minPct = (s.minScore / 10) * 100;
+        const maxPct = (s.maxScore / 10) * 100;
+
+        const row = document.createElement('div');
+        row.className = 'student-row';
+        row.innerHTML = `
+          <div class="student-name-cell">${s.name}</div>
+          <div class="student-bar-cell">
+            <div class="student-meter" style="width:100%; background: var(--bg-elevated);">
+              <div class="meter-range" style="left:${minPct}%; width:${maxPct - minPct}%; background:${color};"></div>
+              <div class="meter-fill" style="width:${pct}%; background:${color}; opacity:0.6;"></div>
+            </div>
+          </div>
+          <div class="student-score-cell" style="color:${color}">${s.avgScore}</div>
+          <div class="student-tier-cell" style="background:${bg}; color:${color};">${tierName(s.avgScore).split(' ')[0]}</div>
+        `;
+        container.appendChild(row);
+      });
+    }
+
+    function renderTimeline(posts) {
+      const plot = document.getElementById('timeline-plot');
+      const xAxis = document.getElementById('timeline-x');
+      const tooltip = document.getElementById('tooltip');
+
+      // Filter to posts with valid dates
+      const dated = posts.filter(p => p.date && p.date !== 'unknown' && p.date !== 'unknown_date');
+      if (dated.length === 0) return;
+
+      const dates = dated.map(p => new Date(p.date));
+      const minDate = new Date(Math.min(...dates));
+      const maxDate = new Date(Math.max(...dates));
+      const dateRange = maxDate - minDate || 1;
+
+      // Add gridlines
+      const canvas = document.getElementById('timeline');
+      [1, 3, 5.5, 8, 10].forEach(score => {
+        const line = document.createElement('div');
+        const pct = ((10 - score) / 9) * 100;
+        line.className = 'timeline-gridline' + (score === 5.5 ? ' timeline-center' : '');
+        line.style.top = `${10 + (pct / 100) * (400 - 40)}px`;
+        canvas.appendChild(line);
+      });
+
+      // X axis labels
+      const monthNames = ['Jan', 'Feb', 'Mar', 'Apr', 'May'];
+      const months = new Set();
+      dated.forEach(p => {
+        const d = new Date(p.date);
+        months.add(`${d.getFullYear()}-${String(d.getMonth()+1).padStart(2,'0')}`);
+      });
+      [...months].sort().forEach(m => {
+        const label = document.createElement('span');
+        label.className = 'timeline-x-label';
+        const [y, mo] = m.split('-');
+        label.textContent = monthNames[parseInt(mo)-1] + ' ' + y.slice(2);
+        xAxis.appendChild(label);
+      });
+
+      // Plot dots
+      // Assign consistent color per student
+      const studentColors = {};
+      const colorPalette = [
+        '#7dd3a8','#90c9a0','#c4b078','#d4887a','#e8605a',
+        '#8ab4f8','#f0b27a','#c39bd3','#82e0aa','#f7dc6f',
+        '#85c1e9','#e59866','#aab7b8','#d2b4de','#f1948a',
+        '#73c6b6','#f0e68c','#d7bde2','#a9cce3','#f5b041','#eb984e'
+      ];
+      let ci = 0;
+      dated.forEach(p => {
+        if (!studentColors[p.student]) {
+          studentColors[p.student] = colorPalette[ci % colorPalette.length];
+          ci++;
+        }
+      });
+
+      dated.forEach(p => {
+        const d = new Date(p.date);
+        const x = ((d - minDate) / dateRange) * 100;
+        const y = ((10 - p.score) / 9) * 100;
+
+        const dot = document.createElement('div');
+        dot.className = 'timeline-dot';
+        dot.style.left = `${x}%`;
+        dot.style.top = `${y}%`;
+        dot.style.background = studentColors[p.student];
+
+        dot.addEventListener('mouseenter', (e) => {
+          tooltip.style.display = 'block';
+          tooltip.querySelector('.tt-title').textContent = p.title.slice(0, 60);
+          tooltip.querySelector('.tt-meta').textContent = `${p.student} · ${p.date}`;
+          const scoreEl = tooltip.querySelector('.tt-score');
+          scoreEl.textContent = `${p.score} — ${p.tier}`;
+          scoreEl.style.color = tierColor(p.score);
+        });
+
+        dot.addEventListener('mousemove', (e) => {
+          tooltip.style.left = (e.clientX + 12) + 'px';
+          tooltip.style.top = (e.clientY - 10) + 'px';
+        });
+
+        dot.addEventListener('mouseleave', () => {
+          tooltip.style.display = 'none';
+        });
+
+        plot.appendChild(dot);
+      });
+    }
+
+    function renderFindings(data) {
+      const grid = document.getElementById('findings-grid');
+      const meta = data.metadata;
+      const students = data.students;
+
+      // Most dystopian student
+      const mostDystopian = students[students.length - 1];
+      const mostUtopian = students[0];
+
+      // Score spread
+      const allScores = data.posts.map(p => p.score);
+      const std = Math.sqrt(allScores.reduce((sum, s) => sum + Math.pow(s - meta.overallAverage, 2), 0) / allScores.length);
+
+      // Percentage pessimistic
+      const pessimisticPct = Math.round(((meta.tierDistribution['Concerned Pessimist'] || 0) + (meta.tierDistribution['Full Dystopian'] || 0)) / meta.totalPosts * 100);
+      const optimisticPct = Math.round(((meta.tierDistribution['Bright Utopian'] || 0) + (meta.tierDistribution['Cautious Optimist'] || 0)) / meta.totalPosts * 100);
+
+      const findings = [
+        {
+          title: 'The Center Holds',
+          stat: '67%',
+          text: `Two-thirds of all posts land in the Balanced / Ambivalent tier (5–6). This class, as a collective, resists both uncritical techno-optimism and runaway doom. The center of gravity is a productive tension.`
+        },
+        {
+          title: 'Pessimism Outweighs Optimism',
+          stat: `${pessimisticPct}% vs ${optimisticPct}%`,
+          text: `${pessimisticPct}% of posts lean pessimistic (7+) compared to ${optimisticPct}% leaning optimistic (1–4). When students venture away from the middle, they're more likely to head toward concern than celebration.`
+        },
+        {
+          title: 'The Class Pessimist',
+          stat: mostDystopian.avgScore.toString(),
+          text: `${mostDystopian.name} (avg ${mostDystopian.avgScore}) writes consistently from a place of alarm — surveillance, mechanical vulnerability, systemic erosion. A reliable voice of warning.`
+        },
+        {
+          title: 'The Class Optimist',
+          stat: mostUtopian.avgScore.toString(),
+          text: `${mostUtopian.name} (avg ${mostUtopian.avgScore}) sees AI as a tool for empowerment and human agency. Even when engaging with risks, the tone bends toward solutions and partnership.`
+        },
+        {
+          title: 'Variation Within Writers',
+          stat: std.toFixed(1),
+          text: `Standard deviation of ${std.toFixed(1)} across all posts. Most writers don't hold a single position — they explore the spectrum, sometimes optimistic, sometimes skeptical, as the topic demands.`
+        },
+        {
+          title: 'No True Utopians',
+          stat: meta.tierDistribution['Bright Utopian'] || 0,
+          text: `Only ${meta.tierDistribution['Bright Utopian'] || 0} post(s) scored in the Bright Utopian tier. Unbridled optimism is vanishingly rare. Even the most hopeful writers hedge.`
+        }
+      ];
+
+      findings.forEach(f => {
+        const card = document.createElement('div');
+        card.className = 'finding-card';
+        card.innerHTML = `
+          <h4>${f.title}</h4>
+          <span class="stat-highlight">${f.stat}</span>
+          <p>${f.text}</p>
+        `;
+        grid.appendChild(card);
+      });
+    }
+
+    function renderExtremes(posts) {
+      const dystContainer = document.getElementById('most-dystopian');
+      const utContainer = document.getElementById('most-utopian');
+
+      // Top 8 most dystopian
+      posts.slice(0, 8).forEach(p => {
+        const item = document.createElement('div');
+        item.className = 'extreme-item';
+        item.innerHTML = `
+          <div class="extreme-score" style="color:${tierColor(p.score)}">${p.score}</div>
+          <div class="extreme-info">
+            <div class="extreme-title">${p.title.slice(0, 70)}</div>
+            <div class="extreme-author">${p.student} · ${p.date}</div>
+          </div>
+        `;
+        dystContainer.appendChild(item);
+      });
+
+      // Top 8 most utopian
+      posts.slice(-8).reverse().forEach(p => {
+        const item = document.createElement('div');
+        item.className = 'extreme-item';
+        item.innerHTML = `
+          <div class="extreme-score" style="color:${tierColor(p.score)}">${p.score}</div>
+          <div class="extreme-info">
+            <div class="extreme-title">${p.title.slice(0, 70)}</div>
+            <div class="extreme-author">${p.student} · ${p.date}</div>
+          </div>
+        `;
+        utContainer.appendChild(item);
+      });
+    }
+  </script>
+</body>
+</html>
