@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-02-27T19:41:13.187Z",
+  "lastUpdated": "2026-02-27T19:56:07.631Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 311,
+  "totalPosts": 314,
   "totalBlogs": 22,
   "blogsWithErrors": [
     {
@@ -499,6 +499,15 @@
       "blogUrl": "https://olliebear2006ya-dotcom.github.io/Olivias-Disney-Blog"
     },
     {
+      "title": "The Post-Labor Protocol: Why the Economy is Just an Algorithm",
+      "url": "https://jrbrunts.github.io/post-labor-protocol.html",
+      "date": "February 20, 2026",
+      "dateISO": "2026-02-20",
+      "author": "Jacob Brunts",
+      "authorRole": "student",
+      "blogUrl": "https://jrbrunts.github.io"
+    },
+    {
       "title": "Navigating Recovery: Treating PTSD and CPTSD in a Digital Age",
       "url": "https://jinxxywrites.github.io/Psyched-for-Psychology/ptsd-therapy-and-ai.html",
       "date": "February 20, 2026",
@@ -580,6 +589,15 @@
       "blogUrl": "https://olliebear2006ya-dotcom.github.io/Olivias-Disney-Blog"
     },
     {
+      "title": "The Aesthetics of the Algorithm: Why \"Drama\" is Just Inefficiency",
+      "url": "https://jrbrunts.github.io/aesthetics-of-algorithm.html",
+      "date": "February 18, 2026",
+      "dateISO": "2026-02-18",
+      "author": "Jacob Brunts",
+      "authorRole": "student",
+      "blogUrl": "https://jrbrunts.github.io"
+    },
+    {
       "title": "CPTSD Rates After Intimate Partner Violence",
       "url": "https://jinxxywrites.github.io/Psyched-for-Psychology/ipv-cptsd.html",
       "date": "February 18, 2026",
@@ -643,14 +661,13 @@
       "blogUrl": "https://calebmurphy01.github.io"
     },
     {
-      "title": "The Aesthetics of the Algorithm: Why \"Drama\" is Just Inefficiency",
-      "url": "https://jrbrunts.github.io/aesthetics-of-algorithm.html",
-      "date": "February 18, 2026",
-      "dateISO": "2026-02-18",
+      "title": "The Sentimental Bottleneck: Why the 50/50 Rule is Legislated Error",
+      "url": "https://jrbrunts.github.io/sentimental-bottleneck.html",
+      "date": "February 17, 2026",
+      "dateISO": "2026-02-17",
       "author": "Jacob Brunts",
       "authorRole": "student",
-      "blogUrl": "https://jrbrunts.github.io",
-      "source": "manual-repo-scan"
+      "blogUrl": "https://jrbrunts.github.io"
     },
     {
       "title": "The Swipe Paradox: Evaluating the Digital Transformation of Intimacy",
@@ -2644,6 +2661,15 @@
       "blogUrl": "https://olliebear2006ya-dotcom.github.io/Olivias-Disney-Blog"
     },
     {
+      "title": "The Green Mask: What We’re Really Hiding Behind",
+      "url": "https://jrbrunts.github.io/the-green-mask.html",
+      "date": "January 15, 2026",
+      "dateISO": "2026-01-15",
+      "author": "Jacob Brunts",
+      "authorRole": "student",
+      "blogUrl": "https://jrbrunts.github.io"
+    },
+    {
       "title": "The Fluency Illusion: AI-Induced Learned Helplessness",
       "url": "https://jinxxywrites.github.io/Psyched-for-Psychology/fluency-illusion-helplessness.html",
       "date": "January 15, 2026",
@@ -2689,17 +2715,6 @@
       "blogUrl": "https://kevionmilton.github.io"
     },
     {
-      "title": "The Green Mask: What We're Really Hiding Behind",
-      "url": "https://jrbrunts.github.io/the-green-mask.html",
-      "date": "January 15, 2026",
-      "dateISO": "2026-01-15",
-      "author": "Jacob Brunts",
-      "authorRole": "student",
-      "blogUrl": "https://jrbrunts.github.io",
-      "source": "manual-repo-scan",
-      "note": "Homepage shows no date for this post, so scraper skips it."
-    },
-    {
       "title": "The Fluency Illusion",
       "url": "https://buildlittleworlds.github.io/plate-composition-blog/posts/the-fluency-illusion/",
       "date": "January 14, 2026",
@@ -2743,6 +2758,15 @@
       "author": "Olivia Andresen",
       "authorRole": "student",
       "blogUrl": "https://olliebear2006ya-dotcom.github.io/Olivias-Disney-Blog"
+    },
+    {
+      "title": "The Obsolescence Trap: Why \"Choice\" Is Not Enough",
+      "url": "https://jrbrunts.github.io/obsolescence-trap.html",
+      "date": "January 13, 2026",
+      "dateISO": "2026-01-13",
+      "author": "Jacob Brunts",
+      "authorRole": "student",
+      "blogUrl": "https://jrbrunts.github.io"
     },
     {
       "title": "\"Mastermind\" Machinery: AI, Agency, and Mental Health",
