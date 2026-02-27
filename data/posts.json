@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-02-27T21:31:57.754Z",
+  "lastUpdated": "2026-02-27T21:47:01.317Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 317,
+  "totalPosts": 318,
   "totalBlogs": 22,
   "blogsWithErrors": [
     {
@@ -55,6 +55,15 @@
       "author": "Jinx Hixson",
       "authorRole": "student",
       "blogUrl": "https://jinxxywrites.github.io/Psyched-for-Psychology"
+    },
+    {
+      "title": "The Vanishing Square: Reclaiming the Pillar of Connection and the Decline of Third Places",
+      "url": "https://eliananodari.github.io/the-vanishing-square.html",
+      "date": "February 27, 2026",
+      "dateISO": "2026-02-27",
+      "author": "Eliana Nodari",
+      "authorRole": "student",
+      "blogUrl": "https://eliananodari.github.io"
     },
     {
       "title": "The Cost of Giving Up",
