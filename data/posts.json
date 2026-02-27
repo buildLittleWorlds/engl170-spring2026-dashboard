@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-02-27T20:13:26.735Z",
+  "lastUpdated": "2026-02-27T20:30:36.703Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 314,
+  "totalPosts": 315,
   "totalBlogs": 22,
   "blogsWithErrors": [
     {
@@ -308,6 +308,15 @@
       "authorRole": "student",
       "blogUrl": "https://iforbes07.github.io/Pablowanye.github.io",
       "source": "manual"
+    },
+    {
+      "title": "The Cognitive Cleanroom: The Economics of the Curated Cage",
+      "url": "https://jrbrunts.github.io/cognitive-cleanroom.html",
+      "date": "February 22, 2026",
+      "dateISO": "2026-02-22",
+      "author": "Jacob Brunts",
+      "authorRole": "student",
+      "blogUrl": "https://jrbrunts.github.io"
     },
     {
       "title": "The Fragile Blueprint: Why AI in Infrastructure is a Disaster Waiting to Happen",
