@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-02-27T14:05:59.389Z",
+  "lastUpdated": "2026-02-27T14:26:35.881Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 306,
+  "totalPosts": 307,
   "totalBlogs": 22,
   "blogsWithErrors": [
     {
@@ -39,19 +39,10 @@
       "blogUrl": "https://zayamaro.github.io"
     },
     {
-      "title": "The Frictionless Trap: Why We Don’t Give People the Time of Day",
-      "url": "https://dominicdebro.github.io/the-frictionless-trap.html",
-      "date": "March 3, 2026",
-      "dateISO": "2026-03-03",
-      "author": "Dominic Debro",
-      "authorRole": "student",
-      "blogUrl": "https://dominicdebro.github.io"
-    },
-    {
-      "title": "The Invisible Superstar: Fame in the Age of the Fractured Mirror",
-      "url": "https://dominicdebro.github.io/invisible-superstar.html",
-      "date": "February 28, 2026",
-      "dateISO": "2026-02-28",
+      "title": "The Cost of Giving Up",
+      "url": "https://dominicdebro.github.io/the-cost-of-giving-up.html",
+      "date": "February 27, 2026",
+      "dateISO": "2026-02-27",
       "author": "Dominic Debro",
       "authorRole": "student",
       "blogUrl": "https://dominicdebro.github.io"
@@ -308,6 +299,24 @@
       "author": "Tom Bishop",
       "authorRole": "student",
       "blogUrl": "https://tombishop4.github.io"
+    },
+    {
+      "title": "The Frictionless Trap: Why We Don’t Give People the Time of Day",
+      "url": "https://dominicdebro.github.io/the-frictionless-trap.html",
+      "date": "February 22, 2026",
+      "dateISO": "2026-02-22",
+      "author": "Dominic Debro",
+      "authorRole": "student",
+      "blogUrl": "https://dominicdebro.github.io"
+    },
+    {
+      "title": "The Invisible Superstar: Fame in the Age of the Fractured Mirror",
+      "url": "https://dominicdebro.github.io/invisible-superstar.html",
+      "date": "February 22, 2026",
+      "dateISO": "2026-02-22",
+      "author": "Dominic Debro",
+      "authorRole": "student",
+      "blogUrl": "https://dominicdebro.github.io"
     },
     {
       "title": "The Curated Cage: Why Convenience is the New Control",
