@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-02-27T15:48:19.921Z",
+  "lastUpdated": "2026-02-27T16:03:56.375Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 307,
+  "totalPosts": 308,
   "totalBlogs": 22,
   "blogsWithErrors": [
     {
@@ -37,6 +37,15 @@
       "author": "Zay Amaro",
       "authorRole": "student",
       "blogUrl": "https://zayamaro.github.io"
+    },
+    {
+      "title": "The Biological Buffer: The Neuroscience of Love and Connection",
+      "url": "https://jinxxywrites.github.io/Psyched-for-Psychology/neuroscience-of-connection.html",
+      "date": "February 27, 2026",
+      "dateISO": "2026-02-27",
+      "author": "Jinx Hixson",
+      "authorRole": "student",
+      "blogUrl": "https://jinxxywrites.github.io/Psyched-for-Psychology"
     },
     {
       "title": "The Cost of Giving Up",
