@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-02-27T00:48:25.555Z",
+  "lastUpdated": "2026-02-27T01:24:38.380Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 305,
+  "totalPosts": 306,
   "totalBlogs": 22,
   "blogsWithErrors": [
     {
@@ -11,6 +11,15 @@
     }
   ],
   "posts": [
+    {
+      "title": "The Invisible Champion: When the Box Score Lies",
+      "url": "https://zayamaro.github.io/the-invisible-champion.html",
+      "date": "March 15, 2026",
+      "dateISO": "2026-03-15",
+      "author": "Zay Amaro",
+      "authorRole": "student",
+      "blogUrl": "https://zayamaro.github.io"
+    },
     {
       "title": "The Busywork of Data: Are Algorithms Just Distracting Us?",
       "url": "https://zayamaro.github.io/the-busywork-of-data.html",
