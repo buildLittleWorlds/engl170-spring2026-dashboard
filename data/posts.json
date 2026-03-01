@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-03-01T19:57:35.723Z",
+  "lastUpdated": "2026-03-01T20:11:01.241Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 318,
+  "totalPosts": 319,
   "totalBlogs": 22,
   "blogsWithErrors": [
     {
@@ -37,6 +37,15 @@
       "author": "Zay Amaro",
       "authorRole": "student",
       "blogUrl": "https://zayamaro.github.io"
+    },
+    {
+      "title": "Responsibility Laundering: The \"Moral Black Box\" of the Highway",
+      "url": "https://blt279.github.io/ResponsibilityLaundering.html",
+      "date": "February 28, 2026",
+      "dateISO": "2026-02-28",
+      "author": "Ben Teismann",
+      "authorRole": "student",
+      "blogUrl": "https://blt279.github.io"
     },
     {
       "title": "Forced Partnerships: The New \"Magic\" of Disney’s AI Strategy",
