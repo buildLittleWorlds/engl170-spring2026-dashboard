@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-03-01T20:54:57.908Z",
+  "lastUpdated": "2026-03-01T21:08:16.898Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 319,
+  "totalPosts": 320,
   "totalBlogs": 22,
   "blogsWithErrors": [
     {
@@ -11,6 +11,15 @@
     }
   ],
   "posts": [
+    {
+      "title": "The Forced Huddle: When AI Becomes a Mandatory Teammate",
+      "url": "https://zayamaro.github.io/the-forced-huddle.html",
+      "date": "March 20, 2026",
+      "dateISO": "2026-03-20",
+      "author": "Zay Amaro",
+      "authorRole": "student",
+      "blogUrl": "https://zayamaro.github.io"
+    },
     {
       "title": "The Invisible Champion: When the Box Score Lies",
       "url": "https://zayamaro.github.io/the-invisible-champion.html",
