@@ -1,10 +1,14 @@
 {
-  "lastUpdated": "2026-03-02T13:43:43.556Z",
+  "lastUpdated": "2026-03-02T14:08:16.659Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 327,
+  "totalPosts": 319,
   "totalBlogs": 22,
   "blogsWithErrors": [
+    {
+      "author": "Jaden Walker",
+      "error": "HTTP 503"
+    },
     {
       "author": "Isaiah Forbes",
       "error": "HTTP 404"
@@ -598,15 +602,6 @@
       "blogUrl": "https://blt279.github.io"
     },
     {
-      "title": "Not every game needs to be an esport",
-      "url": "https://jake3143.github.io/jake3143/not-every-game-needs-to-be-an-esport.html",
-      "date": "February 21, 2026",
-      "dateISO": "2026-02-21",
-      "author": "Jaden Walker",
-      "authorRole": "student",
-      "blogUrl": "https://jake3143.github.io/jake3143"
-    },
-    {
       "title": "From \"Winning\" Music to \"Winning\" Your Day",
       "url": "https://olliebear2006ya-dotcom.github.io/Olivias-Disney-Blog/winning.html",
       "date": "Februrary 20, 2026",
@@ -661,15 +656,6 @@
       "blogUrl": "https://blt279.github.io"
     },
     {
-      "title": "How Subnautica abandoned what made it successful",
-      "url": "https://jake3143.github.io/jake3143/how-subnautica-abandoned-what-made-it-successful.html",
-      "date": "February 20, 2026",
-      "dateISO": "2026-02-20",
-      "author": "Jaden Walker",
-      "authorRole": "student",
-      "blogUrl": "https://jake3143.github.io/jake3143"
-    },
-    {
       "title": "The Digital Dyno: Why Trusting Your Engine to AI is a High-Stakes Gamble",
       "url": "https://blt279.github.io/TheDigitalDyno.html",
       "date": "February 19, 2026",
@@ -677,15 +663,6 @@
       "author": "Ben Teismann",
       "authorRole": "student",
       "blogUrl": "https://blt279.github.io"
-    },
-    {
-      "title": "How difficulty made Don't Starve a success",
-      "url": "https://jake3143.github.io/jake3143/how-difficulty-made-dont-starve-a-success.html",
-      "date": "February 19, 2026",
-      "dateISO": "2026-02-19",
-      "author": "Jaden Walker",
-      "authorRole": "student",
-      "blogUrl": "https://jake3143.github.io/jake3143"
     },
     {
       "title": "Nobody Hired You Because You Needed Work",
@@ -751,15 +728,6 @@
       "blogUrl": "https://braydenwilson22.github.io"
     },
     {
-      "title": "Blue shell: The necessary evil of Mario Kart",
-      "url": "https://jake3143.github.io/jake3143/blue-shell-the-necessary-evil-of-mario-kart.html",
-      "date": "February 18, 2026",
-      "dateISO": "2026-02-18",
-      "author": "Jaden Walker",
-      "authorRole": "student",
-      "blogUrl": "https://jake3143.github.io/jake3143"
-    },
-    {
       "title": "The Efficiency Trap: Why Perfect Sports Might Be Boring",
       "url": "https://zayamaro.github.io/efficiency-vs-drama.html",
       "date": "February 18, 2026",
@@ -794,24 +762,6 @@
       "author": "Tom Bishop",
       "authorRole": "student",
       "blogUrl": "https://tombishop4.github.io"
-    },
-    {
-      "title": "Terraria vs Minecraft",
-      "url": "https://jake3143.github.io/jake3143/terraria-vs-minecraft.html",
-      "date": "February 17, 2026",
-      "dateISO": "2026-02-17",
-      "author": "Jaden Walker",
-      "authorRole": "student",
-      "blogUrl": "https://jake3143.github.io/jake3143"
-    },
-    {
-      "title": "Why FNAF 6 is the best one",
-      "url": "https://jake3143.github.io/jake3143/why-fnaf-6-is-the-best-one.html",
-      "date": "February 17, 2026",
-      "dateISO": "2026-02-17",
-      "author": "Jaden Walker",
-      "authorRole": "student",
-      "blogUrl": "https://jake3143.github.io/jake3143"
     },
     {
       "title": "Performance Enhancing Drugs and the Pressure to Win",
@@ -1127,15 +1077,6 @@
       "author": "Brayden Wilson",
       "authorRole": "student",
       "blogUrl": "https://braydenwilson22.github.io"
-    },
-    {
-      "title": "Game Review - Star Birds",
-      "url": "https://jake3143.github.io/jake3143/game-review-star-birds.html",
-      "date": "February 11, 2026",
-      "dateISO": "2026-02-11",
-      "author": "Jaden Walker",
-      "authorRole": "student",
-      "blogUrl": "https://jake3143.github.io/jake3143"
     },
     {
       "title": "The Off-Script Athlete: Why We Need Moral Agency in Sports",
@@ -1651,6 +1592,16 @@
       "blogUrl": "https://zayamaro.github.io"
     },
     {
+      "title": "AI Art Is Nothing of Concern",
+      "url": "https://jake3143.github.io/jake3143/ai-art-is-nothing-of-concern.html",
+      "date": "February 3, 2026",
+      "dateISO": "2026-02-03",
+      "author": "Jaden Walker",
+      "authorRole": "student",
+      "blogUrl": "https://jake3143.github.io/jake3143",
+      "source": "manual-repo-scan"
+    },
+    {
       "title": "The Digital Frontier and the Mouse: Bridging Reality and Simulation",
       "url": "https://olliebear2006ya-dotcom.github.io/Olivias-Disney-Blog/the-digital-frontier.html",
       "date": "Februrary 2, 2026",
@@ -1777,15 +1728,6 @@
       "blogUrl": "https://bellacalmetjanssen-cell.github.io/isabella-calmet-.github.io"
     },
     {
-      "title": "AI art is nothing of concern",
-      "url": "https://jake3143.github.io/jake3143/ai-art-is-nothing-of-concern.html",
-      "date": "February 2, 2026",
-      "dateISO": "2026-02-02",
-      "author": "Jaden Walker",
-      "authorRole": "student",
-      "blogUrl": "https://jake3143.github.io/jake3143"
-    },
-    {
       "title": "Beyond the Illusion: Why Data Hits a Ceiling",
       "url": "https://zayamaro.github.io/the-seventy-percent-limit.html",
       "date": "February 2, 2026",
@@ -1884,15 +1826,6 @@
       "author": "Isabella Calmet",
       "authorRole": "student",
       "blogUrl": "https://bellacalmetjanssen-cell.github.io/isabella-calmet-.github.io"
-    },
-    {
-      "title": "What Is Happening to OpenAI?",
-      "url": "https://jake3143.github.io/jake3143/what-is-happening-to-openai.html",
-      "date": "February 1, 2026",
-      "dateISO": "2026-02-01",
-      "author": "Jaden Walker",
-      "authorRole": "student",
-      "blogUrl": "https://jake3143.github.io/jake3143"
     },
     {
       "title": "The Lazarus Effect: Can We Delete the Consequences of Randomness?",
@@ -2064,6 +1997,16 @@
       "author": "Eliana Nodari",
       "authorRole": "student",
       "blogUrl": "https://eliananodari.github.io"
+    },
+    {
+      "title": "What is Happening to OpenAI?",
+      "url": "https://jake3143.github.io/jake3143/what-is-happening-to-openai.html",
+      "date": "January 28, 2026",
+      "dateISO": "2026-01-28",
+      "author": "Jaden Walker",
+      "authorRole": "student",
+      "blogUrl": "https://jake3143.github.io/jake3143",
+      "source": "manual"
     },
     {
       "title": "The Quantified Athlete: How AI is Breaking the Human Limit",
@@ -2569,15 +2512,6 @@
       "author": "Dominic Debro",
       "authorRole": "student",
       "blogUrl": "https://dominicdebro.github.io"
-    },
-    {
-      "title": "The concerns of AI in schools",
-      "url": "https://jake3143.github.io/jake3143/ai-concerns.html",
-      "date": "January 20, 2026",
-      "dateISO": "2026-01-20",
-      "author": "Jaden Walker",
-      "authorRole": "student",
-      "blogUrl": "https://jake3143.github.io/jake3143"
     },
     {
       "title": "Why I Picked My Career: Physical Therapy",
