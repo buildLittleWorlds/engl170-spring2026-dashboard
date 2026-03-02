@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-03-02T03:19:19.461Z",
+  "lastUpdated": "2026-03-02T04:10:39.022Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 320,
+  "totalPosts": 321,
   "totalBlogs": 22,
   "blogsWithErrors": [
     {
@@ -46,6 +46,15 @@
       "author": "Zay Amaro",
       "authorRole": "student",
       "blogUrl": "https://zayamaro.github.io"
+    },
+    {
+      "title": "The Human Bill",
+      "url": "https://qubitn.github.io/the-human-bill.html",
+      "date": "March 1, 2026",
+      "dateISO": "2026-03-01",
+      "author": "Jonas Rodrigues",
+      "authorRole": "student",
+      "blogUrl": "https://qubitn.github.io"
     },
     {
       "title": "Responsibility Laundering: The \"Moral Black Box\" of the Highway",
