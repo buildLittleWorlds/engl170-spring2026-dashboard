@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-03-02T05:53:49.332Z",
+  "lastUpdated": "2026-03-02T06:21:06.069Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 326,
+  "totalPosts": 327,
   "totalBlogs": 22,
   "blogsWithErrors": [
     {
@@ -82,6 +82,15 @@
       "author": "Jonas Rodrigues",
       "authorRole": "student",
       "blogUrl": "https://qubitn.github.io"
+    },
+    {
+      "title": "The Human Proof: Finding Signs of Life in a \"Dead\" Internet",
+      "url": "https://dominicdebro.github.io/the-human-proof.html",
+      "date": "March 1, 2026",
+      "dateISO": "2026-03-01",
+      "author": "Dominic Debro",
+      "authorRole": "student",
+      "blogUrl": "https://dominicdebro.github.io"
     },
     {
       "title": "The Great Recalibration: Why Gen Z is Building an Analog Fortress",
