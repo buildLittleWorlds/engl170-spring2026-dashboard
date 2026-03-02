@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-03-02T04:10:39.022Z",
+  "lastUpdated": "2026-03-02T04:55:15.679Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 321,
+  "totalPosts": 325,
   "totalBlogs": 22,
   "blogsWithErrors": [
     {
@@ -48,6 +48,33 @@
       "blogUrl": "https://zayamaro.github.io"
     },
     {
+      "title": "The Accountability Gap",
+      "url": "https://qubitn.github.io/the-accountability-gap.html",
+      "date": "March 1, 2026",
+      "dateISO": "2026-03-01",
+      "author": "Jonas Rodrigues",
+      "authorRole": "student",
+      "blogUrl": "https://qubitn.github.io"
+    },
+    {
+      "title": "The Hallucination Loop",
+      "url": "https://qubitn.github.io/the-hallucination-loop.html",
+      "date": "March 1, 2026",
+      "dateISO": "2026-03-01",
+      "author": "Jonas Rodrigues",
+      "authorRole": "student",
+      "blogUrl": "https://qubitn.github.io"
+    },
+    {
+      "title": "The \"God\" in the Machine",
+      "url": "https://qubitn.github.io/the-god-in-the-machine.html",
+      "date": "March 1, 2026",
+      "dateISO": "2026-03-01",
+      "author": "Jonas Rodrigues",
+      "authorRole": "student",
+      "blogUrl": "https://qubitn.github.io"
+    },
+    {
       "title": "The Human Bill",
       "url": "https://qubitn.github.io/the-human-bill.html",
       "date": "March 1, 2026",
@@ -55,6 +82,15 @@
       "author": "Jonas Rodrigues",
       "authorRole": "student",
       "blogUrl": "https://qubitn.github.io"
+    },
+    {
+      "title": "The New Old: Why Gen Z is Redesigning the Present with the Past",
+      "url": "https://dominicdebro.github.io/the-new-old.html",
+      "date": "March 1, 2026",
+      "dateISO": "2026-03-01",
+      "author": "Dominic Debro",
+      "authorRole": "student",
+      "blogUrl": "https://dominicdebro.github.io"
     },
     {
       "title": "Responsibility Laundering: The \"Moral Black Box\" of the Highway",
