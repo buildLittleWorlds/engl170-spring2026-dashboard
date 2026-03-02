@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-03-02T05:28:49.316Z",
+  "lastUpdated": "2026-03-02T05:53:49.332Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 325,
+  "totalPosts": 326,
   "totalBlogs": 22,
   "blogsWithErrors": [
     {
@@ -82,6 +82,15 @@
       "author": "Jonas Rodrigues",
       "authorRole": "student",
       "blogUrl": "https://qubitn.github.io"
+    },
+    {
+      "title": "The Great Recalibration: Why Gen Z is Building an Analog Fortress",
+      "url": "https://dominicdebro.github.io/the-great-recalibration.html",
+      "date": "March 1, 2026",
+      "dateISO": "2026-03-01",
+      "author": "Dominic Debro",
+      "authorRole": "student",
+      "blogUrl": "https://dominicdebro.github.io"
     },
     {
       "title": "The New Old: Why Gen Z is Redesigning the Present with the Past",
