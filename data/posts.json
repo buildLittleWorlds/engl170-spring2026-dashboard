@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-03-03T23:30:51.660Z",
+  "lastUpdated": "2026-03-03T23:45:14.234Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 327,
+  "totalPosts": 328,
   "totalBlogs": 22,
   "blogsWithErrors": [
     {
@@ -46,6 +46,15 @@
       "author": "Zay Amaro",
       "authorRole": "student",
       "blogUrl": "https://zayamaro.github.io"
+    },
+    {
+      "title": "The \"Atom\" of the AI: The GPU and the Physicality of Thought",
+      "url": "https://gabriel-bell.github.io/the-atom-of-the-ai.html",
+      "date": "March 3, 2026",
+      "dateISO": "2026-03-03",
+      "author": "Gabriel Bell",
+      "authorRole": "student",
+      "blogUrl": "https://gabriel-bell.github.io"
     },
     {
       "title": "The Accountability Gap",
