@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-03-04T16:25:26.205Z",
+  "lastUpdated": "2026-03-04T16:49:09.744Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 353,
+  "totalPosts": 355,
   "totalBlogs": 22,
   "blogsWithErrors": [
     {
@@ -46,6 +46,24 @@
       "author": "Zay Amaro",
       "authorRole": "student",
       "blogUrl": "https://zayamaro.github.io"
+    },
+    {
+      "title": "The Architecture of Distrust: How Technical Dangers Fuel Social Fracture",
+      "url": "https://gabriel-bell.github.io/architecture-of-distrust.html",
+      "date": "March 4, 2026",
+      "dateISO": "2026-03-04",
+      "author": "Gabriel Bell",
+      "authorRole": "student",
+      "blogUrl": "https://gabriel-bell.github.io"
+    },
+    {
+      "title": "The Digital Fracture: How Eroded Connection Dissolves Society",
+      "url": "https://gabriel-bell.github.io/the-digital-fracture.html",
+      "date": "March 4, 2026",
+      "dateISO": "2026-03-04",
+      "author": "Gabriel Bell",
+      "authorRole": "student",
+      "blogUrl": "https://gabriel-bell.github.io"
     },
     {
       "title": "Prosthetic Intelligence",
