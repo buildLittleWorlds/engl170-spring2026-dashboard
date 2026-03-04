@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-03-04T03:12:37.307Z",
+  "lastUpdated": "2026-03-04T04:01:18.891Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 329,
+  "totalPosts": 352,
   "totalBlogs": 22,
   "blogsWithErrors": [
     {
@@ -64,6 +64,213 @@
       "author": "Gabriel Bell",
       "authorRole": "student",
       "blogUrl": "https://gabriel-bell.github.io"
+    },
+    {
+      "title": "The Paradox of Connection: How Social Media Reshapes Human Social Skills",
+      "url": "https://tombishop4.github.io/paradox-of-connection-social-media.html",
+      "date": "March 3, 2026",
+      "dateISO": "2026-03-03",
+      "author": "Tom Bishop",
+      "authorRole": "student",
+      "blogUrl": "https://tombishop4.github.io"
+    },
+    {
+      "title": "The Forced Huddle and the New Digital Mandate",
+      "url": "https://kevionmilton.github.io/forced-huddle-digital-mandate.html",
+      "date": "March 3, 2026",
+      "dateISO": "2026-03-03",
+      "author": "Kevion Milton",
+      "authorRole": "student",
+      "blogUrl": "https://kevionmilton.github.io"
+    },
+    {
+      "title": "NIL and the Algorithm of Value: How Data is Rewriting the Amateur Game",
+      "url": "https://kevionmilton.github.io/nil-algorithm-of-value.html",
+      "date": "March 3, 2026",
+      "dateISO": "2026-03-03",
+      "author": "Kevion Milton",
+      "authorRole": "student",
+      "blogUrl": "https://kevionmilton.github.io"
+    },
+    {
+      "title": "The Physics of the Play: Wearables as Classroom Texts",
+      "url": "https://kevionmilton.github.io/physics-of-play-wearables.html",
+      "date": "March 3, 2026",
+      "dateISO": "2026-03-03",
+      "author": "Kevion Milton",
+      "authorRole": "student",
+      "blogUrl": "https://kevionmilton.github.io"
+    },
+    {
+      "title": "Predictive Analytics and the Loss of Wonder",
+      "url": "https://kevionmilton.github.io/predictive-analytics-loss-wonder.html",
+      "date": "March 3, 2026",
+      "dateISO": "2026-03-03",
+      "author": "Kevion Milton",
+      "authorRole": "student",
+      "blogUrl": "https://kevionmilton.github.io"
+    },
+    {
+      "title": "The Algorithmic Fan: How AI is Curating Our Obsession",
+      "url": "https://kevionmilton.github.io/algorithmic-fan-curating-obsession.html",
+      "date": "March 3, 2026",
+      "dateISO": "2026-03-03",
+      "author": "Kevion Milton",
+      "authorRole": "student",
+      "blogUrl": "https://kevionmilton.github.io"
+    },
+    {
+      "title": "The Automated Recap and the Death of the Beat Reporter",
+      "url": "https://kevionmilton.github.io/automated-recap-beat-reporter.html",
+      "date": "March 3, 2026",
+      "dateISO": "2026-03-03",
+      "author": "Kevion Milton",
+      "authorRole": "student",
+      "blogUrl": "https://kevionmilton.github.io"
+    },
+    {
+      "title": "The AI Symphony: Why Generative Tools are Unlocking Unprecedented Creativity",
+      "url": "https://terryrozier1267.github.io/ai-symphony-generative-creativity.html",
+      "date": "March 3, 2026",
+      "dateISO": "2026-03-03",
+      "author": "Donovan Campbell",
+      "authorRole": "student",
+      "blogUrl": "https://terryrozier1267.github.io"
+    },
+    {
+      "title": "The Biological Tax: Why We Can't Afford the Cost of Social Isolation",
+      "url": "https://terryrozier1267.github.io/biological-tax-social-isolation.html",
+      "date": "March 3, 2026",
+      "dateISO": "2026-03-03",
+      "author": "Donovan Campbell",
+      "authorRole": "student",
+      "blogUrl": "https://terryrozier1267.github.io"
+    },
+    {
+      "title": "The Case for Friction: Why We Need to Break the \"Curated Cage\"",
+      "url": "https://terryrozier1267.github.io/case-for-friction-curated-cage.html",
+      "date": "March 3, 2026",
+      "dateISO": "2026-03-03",
+      "author": "Donovan Campbell",
+      "authorRole": "student",
+      "blogUrl": "https://terryrozier1267.github.io"
+    },
+    {
+      "title": "The Cognitive Compass: Why AI Should Inform, Not Replace, the Human Mind",
+      "url": "https://terryrozier1267.github.io/cognitive-compass-ai-inform.html",
+      "date": "March 3, 2026",
+      "dateISO": "2026-03-03",
+      "author": "Donovan Campbell",
+      "authorRole": "student",
+      "blogUrl": "https://terryrozier1267.github.io"
+    },
+    {
+      "title": "The Soul is in the Stumble: Why We Must Defend Friction in a Digital Age",
+      "url": "https://terryrozier1267.github.io/soul-in-the-stumble-friction.html",
+      "date": "March 3, 2026",
+      "dateISO": "2026-03-03",
+      "author": "Donovan Campbell",
+      "authorRole": "student",
+      "blogUrl": "https://terryrozier1267.github.io"
+    },
+    {
+      "title": "The Strength in the Struggle: Why Difficulty is Our Greatest Teacher",
+      "url": "https://terryrozier1267.github.io/strength-in-the-struggle.html",
+      "date": "March 3, 2026",
+      "dateISO": "2026-03-03",
+      "author": "Donovan Campbell",
+      "authorRole": "student",
+      "blogUrl": "https://terryrozier1267.github.io"
+    },
+    {
+      "title": "The Vital Pillar: Why Social Connection is a Biological Necessity",
+      "url": "https://terryrozier1267.github.io/vital-pillar-social-connection.html",
+      "date": "March 3, 2026",
+      "dateISO": "2026-03-03",
+      "author": "Donovan Campbell",
+      "authorRole": "student",
+      "blogUrl": "https://terryrozier1267.github.io"
+    },
+    {
+      "title": "How Memory and Attention Shape Our Perception of Time",
+      "url": "https://connorgengle.github.io/AI-/memory-attention-perception-time.html",
+      "date": "March 3, 2026",
+      "dateISO": "2026-03-03",
+      "author": "Connor Gengle",
+      "authorRole": "student",
+      "blogUrl": "https://connorgengle.github.io/AI-"
+    },
+    {
+      "title": "The Discomfort of Silence in a Constantly Noisy World",
+      "url": "https://connorgengle.github.io/AI-/discomfort-silence-noisy-world.html",
+      "date": "March 3, 2026",
+      "dateISO": "2026-03-03",
+      "author": "Connor Gengle",
+      "authorRole": "student",
+      "blogUrl": "https://connorgengle.github.io/AI-"
+    },
+    {
+      "title": "The Feeling of Being Afraid of Making the Wrong Decision",
+      "url": "https://connorgengle.github.io/AI-/afraid-making-wrong-decision.html",
+      "date": "March 3, 2026",
+      "dateISO": "2026-03-03",
+      "author": "Connor Gengle",
+      "authorRole": "student",
+      "blogUrl": "https://connorgengle.github.io/AI-"
+    },
+    {
+      "title": "The Psychology Behind Music and Mood Changes",
+      "url": "https://connorgengle.github.io/AI-/psychology-music-mood-changes.html",
+      "date": "March 3, 2026",
+      "dateISO": "2026-03-03",
+      "author": "Connor Gengle",
+      "authorRole": "student",
+      "blogUrl": "https://connorgengle.github.io/AI-"
+    },
+    {
+      "title": "Understanding Our Tendency to Romanticize Earlier Times",
+      "url": "https://connorgengle.github.io/AI-/romanticize-earlier-times.html",
+      "date": "March 3, 2026",
+      "dateISO": "2026-03-03",
+      "author": "Connor Gengle",
+      "authorRole": "student",
+      "blogUrl": "https://connorgengle.github.io/AI-"
+    },
+    {
+      "title": "Understanding Why Social Comparison Is So Hard to Stop",
+      "url": "https://connorgengle.github.io/AI-/social-comparison-hard-to-stop.html",
+      "date": "March 3, 2026",
+      "dateISO": "2026-03-03",
+      "author": "Connor Gengle",
+      "authorRole": "student",
+      "blogUrl": "https://connorgengle.github.io/AI-"
+    },
+    {
+      "title": "Why Humans Are Drawn to Stories of Survival and Resilience",
+      "url": "https://connorgengle.github.io/AI-/humans-drawn-survival-resilience.html",
+      "date": "March 3, 2026",
+      "dateISO": "2026-03-03",
+      "author": "Connor Gengle",
+      "authorRole": "student",
+      "blogUrl": "https://connorgengle.github.io/AI-"
+    },
+    {
+      "title": "Why Small Daily Habits Shape the Entire Direction of Our Lives",
+      "url": "https://connorgengle.github.io/AI-/small-daily-habits-shape-lives.html",
+      "date": "March 3, 2026",
+      "dateISO": "2026-03-03",
+      "author": "Connor Gengle",
+      "authorRole": "student",
+      "blogUrl": "https://connorgengle.github.io/AI-"
+    },
+    {
+      "title": "Why We Are So Fascinated by True Crime",
+      "url": "https://connorgengle.github.io/AI-/fascinated-by-true-crime.html",
+      "date": "March 3, 2026",
+      "dateISO": "2026-03-03",
+      "author": "Connor Gengle",
+      "authorRole": "student",
+      "blogUrl": "https://connorgengle.github.io/AI-"
     },
     {
       "title": "The Accountability Gap",
