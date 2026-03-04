@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-03-04T02:12:54.475Z",
+  "lastUpdated": "2026-03-04T03:12:37.307Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 328,
+  "totalPosts": 329,
   "totalBlogs": 22,
   "blogsWithErrors": [
     {
@@ -46,6 +46,15 @@
       "author": "Zay Amaro",
       "authorRole": "student",
       "blogUrl": "https://zayamaro.github.io"
+    },
+    {
+      "title": "The Productivity Illusion: Beyond the Busywork of Data",
+      "url": "https://gabriel-bell.github.io/the-productivity-illusion.html",
+      "date": "March 3, 2026",
+      "dateISO": "2026-03-03",
+      "author": "Gabriel Bell",
+      "authorRole": "student",
+      "blogUrl": "https://gabriel-bell.github.io"
     },
     {
       "title": "The \"Atom\" of the AI: The GPU and the Physicality of Thought",
