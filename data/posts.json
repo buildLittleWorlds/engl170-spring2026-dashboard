@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-03-04T16:06:38.282Z",
+  "lastUpdated": "2026-03-04T16:25:26.205Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 352,
+  "totalPosts": 353,
   "totalBlogs": 22,
   "blogsWithErrors": [
     {
@@ -46,6 +46,15 @@
       "author": "Zay Amaro",
       "authorRole": "student",
       "blogUrl": "https://zayamaro.github.io"
+    },
+    {
+      "title": "Prosthetic Intelligence",
+      "url": "https://qubitn.github.io/prosthetic-intelligence.html",
+      "date": "March 4, 2026",
+      "dateISO": "2026-03-04",
+      "author": "Jonas Rodrigues",
+      "authorRole": "student",
+      "blogUrl": "https://qubitn.github.io"
     },
     {
       "title": "The Productivity Illusion: Beyond the Busywork of Data",
