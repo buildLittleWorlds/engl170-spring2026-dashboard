@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-03-05T00:29:22.976Z",
+  "lastUpdated": "2026-03-05T00:57:18.757Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 357,
+  "totalPosts": 358,
   "totalBlogs": 22,
   "blogsWithErrors": [
     {
@@ -352,6 +352,15 @@
       "author": "Jonas Rodrigues",
       "authorRole": "student",
       "blogUrl": "https://qubitn.github.io"
+    },
+    {
+      "title": "The Death of the Blue-Collar Backbone: AI as a Class-Based Lockouty",
+      "url": "https://blt279.github.io/Blue-CollarBackbone.html",
+      "date": "March 1, 2026",
+      "dateISO": "2026-03-01",
+      "author": "Ben Teismann",
+      "authorRole": "student",
+      "blogUrl": "https://blt279.github.io"
     },
     {
       "title": "The Human Proof: Finding Signs of Life in a \"Dead\" Internet",
