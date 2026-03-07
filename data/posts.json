@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-03-06T23:58:28.819Z",
+  "lastUpdated": "2026-03-07T00:45:46.194Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 358,
+  "totalPosts": 359,
   "totalBlogs": 22,
   "blogsWithErrors": [
     {
@@ -37,6 +37,15 @@
       "author": "Zay Amaro",
       "authorRole": "student",
       "blogUrl": "https://zayamaro.github.io"
+    },
+    {
+      "title": "Legalized gambling for kids",
+      "url": "https://jake3143.github.io/jake3143/legalized-gambling-for-kids.html",
+      "date": "March 6, 2026",
+      "dateISO": "2026-03-06",
+      "author": "Jaden Walker",
+      "authorRole": "student",
+      "blogUrl": "https://jake3143.github.io/jake3143"
     },
     {
       "title": "The Friction of Faith: Why Sports Need the Messy Human Moment",
