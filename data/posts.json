@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-07T03:05:41.704Z",
+  "lastUpdated": "2026-03-07T03:51:15.308Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
   "totalPosts": 360,
@@ -37,6 +37,15 @@
       "author": "Zay Amaro",
       "authorRole": "student",
       "blogUrl": "https://zayamaro.github.io"
+    },
+    {
+      "title": "The Innovation Mandate: Why \"Forced Partnership\" is Just Good Business",
+      "url": "https://jrbrunts.github.io/innovation-mandate.html",
+      "date": "March 6, 2026",
+      "dateISO": "2026-03-06",
+      "author": "Jacob Brunts",
+      "authorRole": "student",
+      "blogUrl": "https://jrbrunts.github.io"
     },
     {
       "title": "Legalized gambling for kids",
@@ -415,15 +424,6 @@
       "author": "Olivia Andresen",
       "authorRole": "student",
       "blogUrl": "https://olliebear2006ya-dotcom.github.io/Olivias-Disney-Blog"
-    },
-    {
-      "title": "The Innovation Mandate: Why \"Forced Partnership\" is Just Good Business",
-      "url": "https://jrbrunts.github.io/innovation-mandate.html",
-      "date": "February 27, 2026",
-      "dateISO": "2026-02-27",
-      "author": "Jacob Brunts",
-      "authorRole": "student",
-      "blogUrl": "https://jrbrunts.github.io"
     },
     {
       "title": "The Biological Buffer: The Neuroscience of Love and Connection",
@@ -1957,15 +1957,6 @@
       "blogUrl": "https://olliebear2006ya-dotcom.github.io/Olivias-Disney-Blog"
     },
     {
-      "title": "The Restoration Window: A Framework for Fair Healing",
-      "url": "https://jrbrunts.github.io/restoration-window.html",
-      "date": "February 2, 2026",
-      "dateISO": "2026-02-02",
-      "author": "Jacob Brunts",
-      "authorRole": "student",
-      "blogUrl": "https://jrbrunts.github.io"
-    },
-    {
       "title": "The Infinite Therapist: Democratizing the Mind",
       "url": "https://jrbrunts.github.io/infinite-therapist.html",
       "date": "February 2, 2026",
@@ -1977,6 +1968,15 @@
     {
       "title": "The Lazarus Protocol: Beyond Injury Prevention",
       "url": "https://jrbrunts.github.io/the-lazarus-protocol.html",
+      "date": "February 2, 2026",
+      "dateISO": "2026-02-02",
+      "author": "Jacob Brunts",
+      "authorRole": "student",
+      "blogUrl": "https://jrbrunts.github.io"
+    },
+    {
+      "title": "The Restoration Window: A Framework for Fair Healing",
+      "url": "https://jrbrunts.github.io/restoration-window.html",
       "date": "February 2, 2026",
       "dateISO": "2026-02-02",
       "author": "Jacob Brunts",
