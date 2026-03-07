@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-03-07T02:11:19.066Z",
+  "lastUpdated": "2026-03-07T03:05:41.704Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 359,
+  "totalPosts": 360,
   "totalBlogs": 22,
   "blogsWithErrors": [
     {
@@ -415,6 +415,15 @@
       "author": "Olivia Andresen",
       "authorRole": "student",
       "blogUrl": "https://olliebear2006ya-dotcom.github.io/Olivias-Disney-Blog"
+    },
+    {
+      "title": "The Innovation Mandate: Why \"Forced Partnership\" is Just Good Business",
+      "url": "https://jrbrunts.github.io/innovation-mandate.html",
+      "date": "February 27, 2026",
+      "dateISO": "2026-02-27",
+      "author": "Jacob Brunts",
+      "authorRole": "student",
+      "blogUrl": "https://jrbrunts.github.io"
     },
     {
       "title": "The Biological Buffer: The Neuroscience of Love and Connection",
