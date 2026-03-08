@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-03-08T06:22:28.832Z",
+  "lastUpdated": "2026-03-08T06:44:24.575Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 360,
+  "totalPosts": 363,
   "totalBlogs": 22,
   "blogsWithErrors": [
     {
@@ -39,6 +39,15 @@
       "blogUrl": "https://zayamaro.github.io"
     },
     {
+      "title": "The Biometric Barrier: The Death of Trust and the Shared Drive",
+      "url": "https://blt279.github.io/the-biometric-barrier.html",
+      "date": "March 8, 2026",
+      "dateISO": "2026-03-08",
+      "author": "Ben Teismann",
+      "authorRole": "student",
+      "blogUrl": "https://blt279.github.io"
+    },
+    {
       "title": "The Innovation Mandate: Why \"Forced Partnership\" is Just Good Business",
       "url": "https://jrbrunts.github.io/innovation-mandate.html",
       "date": "March 6, 2026",
@@ -55,6 +64,15 @@
       "author": "Jaden Walker",
       "authorRole": "student",
       "blogUrl": "https://jake3143.github.io/jake3143"
+    },
+    {
+      "title": "The Green-Washing of the Algorithm: The Environmental Cost of \"Efficient\" AI",
+      "url": "https://blt279.github.io/green-washing-the-algorithm.html",
+      "date": "March 5, 2026",
+      "dateISO": "2026-03-05",
+      "author": "Ben Teismann",
+      "authorRole": "student",
+      "blogUrl": "https://blt279.github.io"
     },
     {
       "title": "The Friction of Faith: Why Sports Need the Messy Human Moment",
@@ -127,6 +145,15 @@
       "author": "Gabriel Bell",
       "authorRole": "student",
       "blogUrl": "https://gabriel-bell.github.io"
+    },
+    {
+      "title": "The Dying Automotive Soul",
+      "url": "https://blt279.github.io/the-dying-automotive-soul.html",
+      "date": "March 3, 2026",
+      "dateISO": "2026-03-03",
+      "author": "Ben Teismann",
+      "authorRole": "student",
+      "blogUrl": "https://blt279.github.io"
     },
     {
       "title": "The Paradox of Connection: How Social Media Reshapes Human Social Skills",
@@ -372,7 +399,7 @@
       "blogUrl": "https://qubitn.github.io"
     },
     {
-      "title": "The Death of the Blue-Collar Backbone: AI as a Class-Based Lockouty",
+      "title": "The Death of the Blue-Collar Backbone: AI as a Class-Based Lockout",
       "url": "https://blt279.github.io/Blue-CollarBackbone.html",
       "date": "March 1, 2026",
       "dateISO": "2026-03-01",
