@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-03-08T09:38:06.388Z",
+  "lastUpdated": "2026-03-08T09:52:28.876Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 363,
+  "totalPosts": 364,
   "totalBlogs": 22,
   "blogsWithErrors": [
     {
@@ -46,6 +46,15 @@
       "author": "Ben Teismann",
       "authorRole": "student",
       "blogUrl": "https://blt279.github.io"
+    },
+    {
+      "title": "Why do you have to earn something you paid for?",
+      "url": "https://jake3143.github.io/jake3143/why-do-you-have-to-earn-something-you-paid-for.html",
+      "date": "March 7, 2026",
+      "dateISO": "2026-03-07",
+      "author": "Jaden Walker",
+      "authorRole": "student",
+      "blogUrl": "https://jake3143.github.io/jake3143"
     },
     {
       "title": "The Innovation Mandate: Why \"Forced Partnership\" is Just Good Business",
