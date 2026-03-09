@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-03-09T16:56:06.398Z",
+  "lastUpdated": "2026-03-09T17:23:40.277Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 364,
+  "totalPosts": 370,
   "totalBlogs": 22,
   "blogsWithErrors": [
     {
@@ -372,6 +372,26 @@
       "blogUrl": "https://connorgengle.github.io/AI-"
     },
     {
+      "title": "The Forensic of Fear: Why FNAF 6 is the Series' Magnum Opus",
+      "url": "https://iforbes07.github.io/Pablowanye.github.io/forensic-fear-fnaf6.html",
+      "date": "March 2, 2026",
+      "dateISO": "2026-03-02",
+      "author": "Isaiah Forbes",
+      "authorRole": "student",
+      "blogUrl": "https://iforbes07.github.io/Pablowanye.github.io",
+      "source": "manual"
+    },
+    {
+      "title": "The Siren Song of the Seamless: Why We Mistake Smoothness for Truth",
+      "url": "https://iforbes07.github.io/Pablowanye.github.io/siren-song-seamless-fluency.html",
+      "date": "March 2, 2026",
+      "dateISO": "2026-03-02",
+      "author": "Isaiah Forbes",
+      "authorRole": "student",
+      "blogUrl": "https://iforbes07.github.io/Pablowanye.github.io",
+      "source": "manual"
+    },
+    {
       "title": "The Accountability Gap",
       "url": "https://qubitn.github.io/the-accountability-gap.html",
       "date": "March 1, 2026",
@@ -444,6 +464,16 @@
       "blogUrl": "https://dominicdebro.github.io"
     },
     {
+      "title": "The Precondition of Progress: Why We Must Prove Safety Before We Scale",
+      "url": "https://iforbes07.github.io/Pablowanye.github.io/precondition-progress-safety.html",
+      "date": "March 1, 2026",
+      "dateISO": "2026-03-01",
+      "author": "Isaiah Forbes",
+      "authorRole": "student",
+      "blogUrl": "https://iforbes07.github.io/Pablowanye.github.io",
+      "source": "manual"
+    },
+    {
       "title": "Responsibility Laundering: The \"Moral Black Box\" of the Highway",
       "url": "https://blt279.github.io/ResponsibilityLaundering.html",
       "date": "February 28, 2026",
@@ -451,6 +481,26 @@
       "author": "Ben Teismann",
       "authorRole": "student",
       "blogUrl": "https://blt279.github.io"
+    },
+    {
+      "title": "The Biological Imperative: Why We Must Reclaim Human Connection",
+      "url": "https://iforbes07.github.io/Pablowanye.github.io/biological-imperative-human-connection.html",
+      "date": "February 28, 2026",
+      "dateISO": "2026-02-28",
+      "author": "Isaiah Forbes",
+      "authorRole": "student",
+      "blogUrl": "https://iforbes07.github.io/Pablowanye.github.io",
+      "source": "manual"
+    },
+    {
+      "title": "The Beauty of the Broken Note: Why We're Starving for Human Error",
+      "url": "https://iforbes07.github.io/Pablowanye.github.io/beauty-broken-note-human-error.html",
+      "date": "February 28, 2026",
+      "dateISO": "2026-02-28",
+      "author": "Isaiah Forbes",
+      "authorRole": "student",
+      "blogUrl": "https://iforbes07.github.io/Pablowanye.github.io",
+      "source": "manual"
     },
     {
       "title": "Forced Partnerships: The New \"Magic\" of Disney’s AI Strategy",
@@ -487,6 +537,16 @@
       "author": "Dominic Debro",
       "authorRole": "student",
       "blogUrl": "https://dominicdebro.github.io"
+    },
+    {
+      "title": "The House Always Wins (Especially with an Algorithm)",
+      "url": "https://iforbes07.github.io/Pablowanye.github.io/house-always-wins-algorithm.html",
+      "date": "February 27, 2026",
+      "dateISO": "2026-02-27",
+      "author": "Isaiah Forbes",
+      "authorRole": "student",
+      "blogUrl": "https://iforbes07.github.io/Pablowanye.github.io",
+      "source": "manual"
     },
     {
       "title": "The Algorithmic Muse: Why Art is Just a Neurochemical Delivery System",
