@@ -1,7 +1,67 @@
 {
   "description": "Manually-specified posts for students whose blogs don't follow the expected structure. These are merged into posts.json by the scraper.",
-  "lastUpdated": "2026-02-26T21:00:00.000Z",
+  "lastUpdated": "2026-03-09T12:00:00.000Z",
   "posts": [
+    {
+      "title": "The House Always Wins (Especially with an Algorithm)",
+      "url": "https://iforbes07.github.io/Pablowanye.github.io/house-always-wins-algorithm.html",
+      "date": "February 27, 2026",
+      "dateISO": "2026-02-27",
+      "author": "Isaiah Forbes",
+      "authorRole": "student",
+      "blogUrl": "https://iforbes07.github.io/Pablowanye.github.io",
+      "source": "manual"
+    },
+    {
+      "title": "The Biological Imperative: Why We Must Reclaim Human Connection",
+      "url": "https://iforbes07.github.io/Pablowanye.github.io/biological-imperative-human-connection.html",
+      "date": "February 28, 2026",
+      "dateISO": "2026-02-28",
+      "author": "Isaiah Forbes",
+      "authorRole": "student",
+      "blogUrl": "https://iforbes07.github.io/Pablowanye.github.io",
+      "source": "manual"
+    },
+    {
+      "title": "The Beauty of the Broken Note: Why We're Starving for Human Error",
+      "url": "https://iforbes07.github.io/Pablowanye.github.io/beauty-broken-note-human-error.html",
+      "date": "February 28, 2026",
+      "dateISO": "2026-02-28",
+      "author": "Isaiah Forbes",
+      "authorRole": "student",
+      "blogUrl": "https://iforbes07.github.io/Pablowanye.github.io",
+      "source": "manual"
+    },
+    {
+      "title": "The Precondition of Progress: Why We Must Prove Safety Before We Scale",
+      "url": "https://iforbes07.github.io/Pablowanye.github.io/precondition-progress-safety.html",
+      "date": "March 1, 2026",
+      "dateISO": "2026-03-01",
+      "author": "Isaiah Forbes",
+      "authorRole": "student",
+      "blogUrl": "https://iforbes07.github.io/Pablowanye.github.io",
+      "source": "manual"
+    },
+    {
+      "title": "The Forensic of Fear: Why FNAF 6 is the Series' Magnum Opus",
+      "url": "https://iforbes07.github.io/Pablowanye.github.io/forensic-fear-fnaf6.html",
+      "date": "March 2, 2026",
+      "dateISO": "2026-03-02",
+      "author": "Isaiah Forbes",
+      "authorRole": "student",
+      "blogUrl": "https://iforbes07.github.io/Pablowanye.github.io",
+      "source": "manual"
+    },
+    {
+      "title": "The Siren Song of the Seamless: Why We Mistake Smoothness for Truth",
+      "url": "https://iforbes07.github.io/Pablowanye.github.io/siren-song-seamless-fluency.html",
+      "date": "March 2, 2026",
+      "dateISO": "2026-03-02",
+      "author": "Isaiah Forbes",
+      "authorRole": "student",
+      "blogUrl": "https://iforbes07.github.io/Pablowanye.github.io",
+      "source": "manual"
+    },
     {
       "title": "The 2026 Playbook: Why Your Gut is Wrong and the Algorithm is Right",
       "url": "https://iforbes07.github.io/Pablowanye.github.io/2026-playbook-algorithm.html",
