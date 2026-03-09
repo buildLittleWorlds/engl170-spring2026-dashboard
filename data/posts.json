@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-03-09T17:23:40.277Z",
+  "lastUpdated": "2026-03-09T17:46:22.039Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 370,
+  "totalPosts": 383,
   "totalBlogs": 22,
   "blogsWithErrors": [
     {
@@ -39,6 +39,15 @@
       "blogUrl": "https://zayamaro.github.io"
     },
     {
+      "title": "Golf Training",
+      "url": "https://braydenwilson22.github.io/golf-training.html",
+      "date": "March 9, 2026",
+      "dateISO": "2026-03-09",
+      "author": "Brayden Wilson",
+      "authorRole": "student",
+      "blogUrl": "https://braydenwilson22.github.io"
+    },
+    {
       "title": "The Biometric Barrier: The Death of Trust and the Shared Drive",
       "url": "https://blt279.github.io/the-biometric-barrier.html",
       "date": "March 8, 2026",
@@ -46,6 +55,51 @@
       "author": "Ben Teismann",
       "authorRole": "student",
       "blogUrl": "https://blt279.github.io"
+    },
+    {
+      "title": "The Great Indoor Shift: How TGL and Simulation are Redefining Golf",
+      "url": "https://braydenwilson22.github.io/the-great-indoor-shift-how-tgl-and-simulation.html",
+      "date": "March 7, 2026",
+      "dateISO": "2026-03-07",
+      "author": "Brayden Wilson",
+      "authorRole": "student",
+      "blogUrl": "https://braydenwilson22.github.io"
+    },
+    {
+      "title": "Response: Why the \"Wild West\" is Actually a New Frontier for Fairness",
+      "url": "https://kevionmilton.github.io/response-why-the-wild-west-is-actually-a.html",
+      "date": "March 7, 2026",
+      "dateISO": "2026-03-07",
+      "author": "Kevion Milton",
+      "authorRole": "student",
+      "blogUrl": "https://kevionmilton.github.io"
+    },
+    {
+      "title": "Shai, the Thunder, and the \"Whistle\" Narrative: Skill or Special Treatment?",
+      "url": "https://kevionmilton.github.io/shai-the-thunder-and-the-whistle-narrative-skill.html",
+      "date": "March 7, 2026",
+      "dateISO": "2026-03-07",
+      "author": "Kevion Milton",
+      "authorRole": "student",
+      "blogUrl": "https://kevionmilton.github.io"
+    },
+    {
+      "title": "The $2 Million Question: Is College NIL the New \"Big Leagues\"?",
+      "url": "https://kevionmilton.github.io/the-2-million-question-is-college-nil-the.html",
+      "date": "March 7, 2026",
+      "dateISO": "2026-03-07",
+      "author": "Kevion Milton",
+      "authorRole": "student",
+      "blogUrl": "https://kevionmilton.github.io"
+    },
+    {
+      "title": "The Human Cost of the Algorithmic Playbook: AI Intuition and the Mental Toll",
+      "url": "https://kevionmilton.github.io/the-human-cost-of-the-algorithmic-playbook-ai.html",
+      "date": "March 7, 2026",
+      "dateISO": "2026-03-07",
+      "author": "Kevion Milton",
+      "authorRole": "student",
+      "blogUrl": "https://kevionmilton.github.io"
     },
     {
       "title": "Why do you have to earn something you paid for?",
@@ -64,6 +118,51 @@
       "author": "Jacob Brunts",
       "authorRole": "student",
       "blogUrl": "https://jrbrunts.github.io"
+    },
+    {
+      "title": "The Digital Renaissance: How Social Media is Architecting a More Intelligent Humanity",
+      "url": "https://tombishop4.github.io/the-digital-renaissance-how-social-media-is-architecting.html",
+      "date": "March 6, 2026",
+      "dateISO": "2026-03-06",
+      "author": "Tom Bishop",
+      "authorRole": "student",
+      "blogUrl": "https://tombishop4.github.io"
+    },
+    {
+      "title": "The Intelligence Games: How AI is Redefining the Future of Sports",
+      "url": "https://braydenwilson22.github.io/the-intelligence-games-how-ai-is-redefining-the.html",
+      "date": "March 6, 2026",
+      "dateISO": "2026-03-06",
+      "author": "Brayden Wilson",
+      "authorRole": "student",
+      "blogUrl": "https://braydenwilson22.github.io"
+    },
+    {
+      "title": "The New Golden Age: Navigating the Future of Golf in 2026",
+      "url": "https://braydenwilson22.github.io/the-new-golden-age-navigating-the-future-of.html",
+      "date": "March 6, 2026",
+      "dateISO": "2026-03-06",
+      "author": "Brayden Wilson",
+      "authorRole": "student",
+      "blogUrl": "https://braydenwilson22.github.io"
+    },
+    {
+      "title": "The Redbirds Rise Again: Previewing the 2024 St. Louis Cardinals Season and Beyond",
+      "url": "https://braydenwilson22.github.io/the-redbirds-rise-again-previewing-the-2024-st.html",
+      "date": "March 6, 2026",
+      "dateISO": "2026-03-06",
+      "author": "Brayden Wilson",
+      "authorRole": "student",
+      "blogUrl": "https://braydenwilson22.github.io"
+    },
+    {
+      "title": "AI in Basketball: Are the Refs Making Bad Calls or are the Players Just Masters of the Flop?",
+      "url": "https://kevionmilton.github.io/ai-in-basketball-are-the-refs-making-bad.html",
+      "date": "March 6, 2026",
+      "dateISO": "2026-03-06",
+      "author": "Kevion Milton",
+      "authorRole": "student",
+      "blogUrl": "https://kevionmilton.github.io"
     },
     {
       "title": "Legalized gambling for kids",
@@ -118,6 +217,24 @@
       "author": "Jonas Rodrigues",
       "authorRole": "student",
       "blogUrl": "https://qubitn.github.io"
+    },
+    {
+      "title": "The Architect and the Alchemist: How Land and Physics Redefined 20th-Century Golf",
+      "url": "https://braydenwilson22.github.io/the-architect-and-the-alchemist-how-land-and.html",
+      "date": "March 4, 2026",
+      "dateISO": "2026-03-04",
+      "author": "Brayden Wilson",
+      "authorRole": "student",
+      "blogUrl": "https://braydenwilson22.github.io"
+    },
+    {
+      "title": "The Future is Now: How AI is Changing the Game of Golf",
+      "url": "https://braydenwilson22.github.io/the-future-is-now-how-ai-is-changing.html",
+      "date": "March 4, 2026",
+      "dateISO": "2026-03-04",
+      "author": "Brayden Wilson",
+      "authorRole": "student",
+      "blogUrl": "https://braydenwilson22.github.io"
     },
     {
       "title": "From Operator to Orchestrator: The New Anatomy of Expertise",
