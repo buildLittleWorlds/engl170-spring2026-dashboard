@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-03-12T01:13:43.346Z",
+  "lastUpdated": "2026-03-12T02:01:35.628Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 385,
+  "totalPosts": 386,
   "totalBlogs": 22,
   "blogsWithErrors": [
     {
@@ -28,6 +28,15 @@
       "author": "Zay Amaro",
       "authorRole": "student",
       "blogUrl": "https://zayamaro.github.io"
+    },
+    {
+      "title": "Silicon Frontlines: How AI is Altering the Landscape of Modern War",
+      "url": "https://calebmurphy01.github.io/ai-and-modern-warfare.html",
+      "date": "March 11, 2026",
+      "dateISO": "2026-03-11",
+      "author": "Caleb Murphy",
+      "authorRole": "student",
+      "blogUrl": "https://calebmurphy01.github.io"
     },
     {
       "title": "The Soul in the Machine: Is the Music Industry Losing its Cultural Meaning?",
