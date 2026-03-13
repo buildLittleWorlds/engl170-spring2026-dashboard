@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-03-13T01:22:55.113Z",
+  "lastUpdated": "2026-03-13T02:15:38.953Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 387,
+  "totalPosts": 388,
   "totalBlogs": 22,
   "blogsWithErrors": [
     {
@@ -28,6 +28,15 @@
       "author": "Zay Amaro",
       "authorRole": "student",
       "blogUrl": "https://zayamaro.github.io"
+    },
+    {
+      "title": "The Myth of the Digital Renaissance: Why \"Efficiency\" is Atrophying the Mind",
+      "url": "https://gabriel-bell.github.io/the-multitasking-myth.html",
+      "date": "March 12, 2026",
+      "dateISO": "2026-03-12",
+      "author": "Gabriel Bell",
+      "authorRole": "student",
+      "blogUrl": "https://gabriel-bell.github.io"
     },
     {
       "title": "The Automated Lecture Hall: Is AI Replacing the Professor?",
