@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-03-16T04:48:28.974Z",
+  "lastUpdated": "2026-03-16T05:32:04.738Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 388,
+  "totalPosts": 396,
   "totalBlogs": 22,
   "blogsWithErrors": [
     {
@@ -21,6 +21,15 @@
       "blogUrl": "https://zayamaro.github.io"
     },
     {
+      "title": "Why couch co-op makes games instantly more memorable",
+      "url": "https://jake3143.github.io/jake3143/why-couch-co-op-makes-games-instantly-more-memorable.html",
+      "date": "March 15, 2026",
+      "dateISO": "2026-03-15",
+      "author": "Jaden Walker",
+      "authorRole": "student",
+      "blogUrl": "https://jake3143.github.io/jake3143"
+    },
+    {
       "title": "The Invisible Champion: When the Box Score Lies",
       "url": "https://zayamaro.github.io/the-invisible-champion.html",
       "date": "March 15, 2026",
@@ -30,6 +39,24 @@
       "blogUrl": "https://zayamaro.github.io"
     },
     {
+      "title": "Why good tutorials are harder to make than people think",
+      "url": "https://jake3143.github.io/jake3143/why-good-tutorials-are-harder-to-make-than-people-think.html",
+      "date": "March 14, 2026",
+      "dateISO": "2026-03-14",
+      "author": "Jaden Walker",
+      "authorRole": "student",
+      "blogUrl": "https://jake3143.github.io/jake3143"
+    },
+    {
+      "title": "Why daily quests make games feel like jobs",
+      "url": "https://jake3143.github.io/jake3143/why-daily-quests-make-games-feel-like-jobs.html",
+      "date": "March 13, 2026",
+      "dateISO": "2026-03-13",
+      "author": "Jaden Walker",
+      "authorRole": "student",
+      "blogUrl": "https://jake3143.github.io/jake3143"
+    },
+    {
       "title": "The Myth of the Digital Renaissance: Why \"Efficiency\" is Atrophying the Mind",
       "url": "https://gabriel-bell.github.io/the-multitasking-myth.html",
       "date": "March 12, 2026",
@@ -37,6 +64,24 @@
       "author": "Gabriel Bell",
       "authorRole": "student",
       "blogUrl": "https://gabriel-bell.github.io"
+    },
+    {
+      "title": "Why silent protagonists still work",
+      "url": "https://jake3143.github.io/jake3143/why-silent-protagonists-still-work.html",
+      "date": "March 12, 2026",
+      "dateISO": "2026-03-12",
+      "author": "Jaden Walker",
+      "authorRole": "student",
+      "blogUrl": "https://jake3143.github.io/jake3143"
+    },
+    {
+      "title": "Why remakes should not erase everything weird about old games",
+      "url": "https://jake3143.github.io/jake3143/why-remakes-should-not-erase-everything-weird-about-old-games.html",
+      "date": "March 11, 2026",
+      "dateISO": "2026-03-11",
+      "author": "Jaden Walker",
+      "authorRole": "student",
+      "blogUrl": "https://jake3143.github.io/jake3143"
     },
     {
       "title": "The Automated Lecture Hall: Is AI Replacing the Professor?",
@@ -75,6 +120,15 @@
       "blogUrl": "https://calebmurphy01.github.io"
     },
     {
+      "title": "Why good movement can carry an entire game",
+      "url": "https://jake3143.github.io/jake3143/why-good-movement-can-carry-an-entire-game.html",
+      "date": "March 10, 2026",
+      "dateISO": "2026-03-10",
+      "author": "Jaden Walker",
+      "authorRole": "student",
+      "blogUrl": "https://jake3143.github.io/jake3143"
+    },
+    {
       "title": "The Busywork of Data: Are Algorithms Just Distracting Us?",
       "url": "https://zayamaro.github.io/the-busywork-of-data.html",
       "date": "March 10, 2026",
@@ -93,6 +147,15 @@
       "blogUrl": "https://braydenwilson22.github.io"
     },
     {
+      "title": "Open world games are getting too big for their own good",
+      "url": "https://jake3143.github.io/jake3143/open-world-games-are-getting-too-big-for-their-own-good.html",
+      "date": "March 9, 2026",
+      "dateISO": "2026-03-09",
+      "author": "Jaden Walker",
+      "authorRole": "student",
+      "blogUrl": "https://jake3143.github.io/jake3143"
+    },
+    {
       "title": "The Biometric Barrier: The Death of Trust and the Shared Drive",
       "url": "https://blt279.github.io/the-biometric-barrier.html",
       "date": "March 8, 2026",
@@ -100,6 +163,15 @@
       "author": "Ben Teismann",
       "authorRole": "student",
       "blogUrl": "https://blt279.github.io"
+    },
+    {
+      "title": "Why horror games are scarier when they do not let you fight back",
+      "url": "https://jake3143.github.io/jake3143/why-horror-games-are-scarier-when-they-do-not-let-you-fight-back.html",
+      "date": "March 8, 2026",
+      "dateISO": "2026-03-08",
+      "author": "Jaden Walker",
+      "authorRole": "student",
+      "blogUrl": "https://jake3143.github.io/jake3143"
     },
     {
       "title": "The Great Indoor Shift: How TGL and Simulation are Redefining Golf",
@@ -145,15 +217,6 @@
       "author": "Kevion Milton",
       "authorRole": "student",
       "blogUrl": "https://kevionmilton.github.io"
-    },
-    {
-      "title": "Why do you have to earn something you paid for?",
-      "url": "https://jake3143.github.io/jake3143/why-do-you-have-to-earn-something-you-paid-for.html",
-      "date": "March 7, 2026",
-      "dateISO": "2026-03-07",
-      "author": "Jaden Walker",
-      "authorRole": "student",
-      "blogUrl": "https://jake3143.github.io/jake3143"
     },
     {
       "title": "The Innovation Mandate: Why \"Forced Partnership\" is Just Good Business",
@@ -208,15 +271,6 @@
       "author": "Kevion Milton",
       "authorRole": "student",
       "blogUrl": "https://kevionmilton.github.io"
-    },
-    {
-      "title": "Legalized gambling for kids",
-      "url": "https://jake3143.github.io/jake3143/legalized-gambling-for-kids.html",
-      "date": "March 6, 2026",
-      "dateISO": "2026-03-06",
-      "author": "Jaden Walker",
-      "authorRole": "student",
-      "blogUrl": "https://jake3143.github.io/jake3143"
     },
     {
       "title": "The Green-Washing of the Algorithm: The Environmental Cost of \"Efficient\" AI",
@@ -864,6 +918,15 @@
       "blogUrl": "https://bellacalmetjanssen-cell.github.io/isabella-calmet-.github.io"
     },
     {
+      "title": "Why do you have to earn something you paid for?",
+      "url": "https://jake3143.github.io/jake3143/why-do-you-have-to-earn-something-you-paid-for.html",
+      "date": "February 23, 2026",
+      "dateISO": "2026-02-23",
+      "author": "Jaden Walker",
+      "authorRole": "student",
+      "blogUrl": "https://jake3143.github.io/jake3143"
+    },
+    {
       "title": "The Shackles of Busywork: Graeber’s Taxonomy of Labor",
       "url": "https://calebmurphy01.github.io/the-shackles-of-busywork.html",
       "date": "February 23, 2026",
@@ -1034,6 +1097,15 @@
       "author": "Dominic Debro",
       "authorRole": "student",
       "blogUrl": "https://dominicdebro.github.io"
+    },
+    {
+      "title": "Legalized gambling for kids",
+      "url": "https://jake3143.github.io/jake3143/legalized-gambling-for-kids.html",
+      "date": "February 22, 2026",
+      "dateISO": "2026-02-22",
+      "author": "Jaden Walker",
+      "authorRole": "student",
+      "blogUrl": "https://jake3143.github.io/jake3143"
     },
     {
       "title": "Star Birds and the Strategy of Faith: Why Games Need the Human Choice",
