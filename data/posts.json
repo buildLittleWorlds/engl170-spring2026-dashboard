@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-03-19T23:00:34.549Z",
+  "lastUpdated": "2026-03-19T23:15:57.603Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 397,
+  "totalPosts": 398,
   "totalBlogs": 22,
   "blogsWithErrors": [
     {
@@ -19,6 +19,15 @@
       "author": "Zay Amaro",
       "authorRole": "student",
       "blogUrl": "https://zayamaro.github.io"
+    },
+    {
+      "title": "The Coercion of Survival: Why the \"Choice\" to Work is a Biological Mandate",
+      "url": "https://gabriel-bell.github.io/coercion-of-survival.html",
+      "date": "March 19, 2026",
+      "dateISO": "2026-03-19",
+      "author": "Gabriel Bell",
+      "authorRole": "student",
+      "blogUrl": "https://gabriel-bell.github.io"
     },
     {
       "title": "The Autonomy Mirage: Why the Only Choice to Refuse AI is a Total Ban",
