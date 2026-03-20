@@ -1,10 +1,14 @@
 {
-  "lastUpdated": "2026-03-20T21:20:52.944Z",
+  "lastUpdated": "2026-03-20T21:39:18.379Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 400,
+  "totalPosts": 382,
   "totalBlogs": 22,
   "blogsWithErrors": [
+    {
+      "author": "Jacob Brunts",
+      "error": "HTTP 503"
+    },
     {
       "author": "Isaiah Forbes",
       "error": "HTTP 404"
@@ -253,15 +257,6 @@
       "author": "Kevion Milton",
       "authorRole": "student",
       "blogUrl": "https://kevionmilton.github.io"
-    },
-    {
-      "title": "The Innovation Mandate: Why \"Forced Partnership\" is Just Good Business",
-      "url": "https://jrbrunts.github.io/innovation-mandate.html",
-      "date": "March 6, 2026",
-      "dateISO": "2026-03-06",
-      "author": "Jacob Brunts",
-      "authorRole": "student",
-      "blogUrl": "https://jrbrunts.github.io"
     },
     {
       "title": "The Digital Renaissance: How Social Media is Architecting a More Intelligent Humanity",
@@ -801,15 +796,6 @@
       "source": "manual"
     },
     {
-      "title": "The Algorithmic Muse: Why Art is Just a Neurochemical Delivery System",
-      "url": "https://jrbrunts.github.io/ai-jukebox-protocol.html",
-      "date": "February 26, 2026",
-      "dateISO": "2026-02-26",
-      "author": "Jacob Brunts",
-      "authorRole": "student",
-      "blogUrl": "https://jrbrunts.github.io"
-    },
-    {
       "title": "The Soul of the Game vs. The Efficiency of the Machine: A Response to Sam Levine",
       "url": "https://bellacalmetjanssen-cell.github.io/isabella-calmet-.github.io/the-soul-of-the-game.html",
       "date": "February 26, 2026",
@@ -898,15 +884,6 @@
       "author": "Caleb Murphy",
       "authorRole": "student",
       "blogUrl": "https://calebmurphy01.github.io"
-    },
-    {
-      "title": "The Market of Empathy: Why We Must Stop Blaming the Software for User Error",
-      "url": "https://jrbrunts.github.io/market-of-empathy.html",
-      "date": "February 24, 2026",
-      "dateISO": "2026-02-24",
-      "author": "Jacob Brunts",
-      "authorRole": "student",
-      "blogUrl": "https://jrbrunts.github.io"
     },
     {
       "title": "The Disney \"Play\" Philosophy: Music as a Reward",
@@ -1070,15 +1047,6 @@
       "authorRole": "student",
       "blogUrl": "https://iforbes07.github.io/Pablowanye.github.io",
       "source": "manual"
-    },
-    {
-      "title": "The Cognitive Cleanroom: The Economics of the Curated Cage",
-      "url": "https://jrbrunts.github.io/cognitive-cleanroom.html",
-      "date": "February 22, 2026",
-      "dateISO": "2026-02-22",
-      "author": "Jacob Brunts",
-      "authorRole": "student",
-      "blogUrl": "https://jrbrunts.github.io"
     },
     {
       "title": "The Fragile Blueprint: Why AI in Infrastructure is a Disaster Waiting to Happen",
@@ -1279,15 +1247,6 @@
       "blogUrl": "https://olliebear2006ya-dotcom.github.io/Olivias-Disney-Blog"
     },
     {
-      "title": "The Post-Labor Protocol: Why the Economy is Just an Algorithm",
-      "url": "https://jrbrunts.github.io/post-labor-protocol.html",
-      "date": "February 20, 2026",
-      "dateISO": "2026-02-20",
-      "author": "Jacob Brunts",
-      "authorRole": "student",
-      "blogUrl": "https://jrbrunts.github.io"
-    },
-    {
       "title": "Navigating Recovery: Treating PTSD and CPTSD in a Digital Age",
       "url": "https://jinxxywrites.github.io/Psyched-for-Psychology/ptsd-therapy-and-ai.html",
       "date": "February 20, 2026",
@@ -1369,15 +1328,6 @@
       "blogUrl": "https://olliebear2006ya-dotcom.github.io/Olivias-Disney-Blog"
     },
     {
-      "title": "The Aesthetics of the Algorithm: Why \"Drama\" is Just Inefficiency",
-      "url": "https://jrbrunts.github.io/aesthetics-of-algorithm.html",
-      "date": "February 18, 2026",
-      "dateISO": "2026-02-18",
-      "author": "Jacob Brunts",
-      "authorRole": "student",
-      "blogUrl": "https://jrbrunts.github.io"
-    },
-    {
       "title": "CPTSD Rates After Intimate Partner Violence",
       "url": "https://jinxxywrites.github.io/Psyched-for-Psychology/ipv-cptsd.html",
       "date": "February 18, 2026",
@@ -1441,13 +1391,14 @@
       "blogUrl": "https://calebmurphy01.github.io"
     },
     {
-      "title": "The Sentimental Bottleneck: Why the 50/50 Rule is Legislated Error",
-      "url": "https://jrbrunts.github.io/sentimental-bottleneck.html",
-      "date": "February 17, 2026",
-      "dateISO": "2026-02-17",
+      "title": "The Aesthetics of the Algorithm: Why \"Drama\" is Just Inefficiency",
+      "url": "https://jrbrunts.github.io/aesthetics-of-algorithm.html",
+      "date": "February 18, 2026",
+      "dateISO": "2026-02-18",
       "author": "Jacob Brunts",
       "authorRole": "student",
-      "blogUrl": "https://jrbrunts.github.io"
+      "blogUrl": "https://jrbrunts.github.io",
+      "source": "manual-repo-scan"
     },
     {
       "title": "The Swipe Paradox: Evaluating the Digital Transformation of Intimacy",
@@ -1684,15 +1635,6 @@
       "blogUrl": "https://braydenwilson22.github.io"
     },
     {
-      "title": "The Biological Commons: Data as the New Public Utility",
-      "url": "https://jrbrunts.github.io/biological-commons.html",
-      "date": "February 12, 2026",
-      "dateISO": "2026-02-12",
-      "author": "Jacob Brunts",
-      "authorRole": "student",
-      "blogUrl": "https://jrbrunts.github.io"
-    },
-    {
       "title": "The Great Phase Change",
       "url": "https://qubitn.github.io/the-great-phase-change.html",
       "date": "February 12, 2026",
@@ -1817,15 +1759,6 @@
       "author": "Olivia Andresen",
       "authorRole": "student",
       "blogUrl": "https://olliebear2006ya-dotcom.github.io/Olivias-Disney-Blog"
-    },
-    {
-      "title": "The Zero-Failure Protocol: Why Prediction Demands Intervention",
-      "url": "https://jrbrunts.github.io/zero-failure-protocol.html",
-      "date": "February 10, 2026",
-      "dateISO": "2026-02-10",
-      "author": "Jacob Brunts",
-      "authorRole": "student",
-      "blogUrl": "https://jrbrunts.github.io"
     },
     {
       "title": "The Algo-Parlay: Can AI Actually Predict the Win?",
@@ -1999,15 +1932,6 @@
       "blogUrl": "https://gabriel-bell.github.io"
     },
     {
-      "title": "The Neurochemistry of Connection: Optimizing the Social Signal",
-      "url": "https://jrbrunts.github.io/neurochemistry-connection.html",
-      "date": "February 8, 2026",
-      "dateISO": "2026-02-08",
-      "author": "Jacob Brunts",
-      "authorRole": "student",
-      "blogUrl": "https://jrbrunts.github.io"
-    },
-    {
       "title": "risk automation in sports",
       "url": "https://samlevine277.github.io/clarifying-risk-automation-sport.html",
       "date": "Feburary 8, 2026",
@@ -2141,15 +2065,6 @@
       "author": "Eliana Nodari",
       "authorRole": "student",
       "blogUrl": "https://eliananodari.github.io"
-    },
-    {
-      "title": "The Unified Protocol: Silicon for the Soul and the Sinew",
-      "url": "https://jrbrunts.github.io/the-unified-protocol.html",
-      "date": "February 5, 2026",
-      "dateISO": "2026-02-05",
-      "author": "Jacob Brunts",
-      "authorRole": "student",
-      "blogUrl": "https://jrbrunts.github.io"
     },
     {
       "title": "The 70% Fallacy: A Counter-Perspective",
@@ -2321,33 +2236,6 @@
       "author": "Olivia Andresen",
       "authorRole": "student",
       "blogUrl": "https://olliebear2006ya-dotcom.github.io/Olivias-Disney-Blog"
-    },
-    {
-      "title": "The Infinite Therapist: Democratizing the Mind",
-      "url": "https://jrbrunts.github.io/infinite-therapist.html",
-      "date": "February 2, 2026",
-      "dateISO": "2026-02-02",
-      "author": "Jacob Brunts",
-      "authorRole": "student",
-      "blogUrl": "https://jrbrunts.github.io"
-    },
-    {
-      "title": "The Lazarus Protocol: Beyond Injury Prevention",
-      "url": "https://jrbrunts.github.io/the-lazarus-protocol.html",
-      "date": "February 2, 2026",
-      "dateISO": "2026-02-02",
-      "author": "Jacob Brunts",
-      "authorRole": "student",
-      "blogUrl": "https://jrbrunts.github.io"
-    },
-    {
-      "title": "The Restoration Window: A Framework for Fair Healing",
-      "url": "https://jrbrunts.github.io/restoration-window.html",
-      "date": "February 2, 2026",
-      "dateISO": "2026-02-02",
-      "author": "Jacob Brunts",
-      "authorRole": "student",
-      "blogUrl": "https://jrbrunts.github.io"
     },
     {
       "title": "Beyond the Screen: Navigating the 10% Void",
@@ -2576,15 +2464,6 @@
       "blogUrl": "https://calebmurphy01.github.io"
     },
     {
-      "title": "The White Flag: Accepting the Efficiency Engine",
-      "url": "https://jrbrunts.github.io/the-white-flag.html",
-      "date": "January 30, 2026",
-      "dateISO": "2026-01-30",
-      "author": "Jacob Brunts",
-      "authorRole": "student",
-      "blogUrl": "https://jrbrunts.github.io"
-    },
-    {
       "title": "Moral Agency and the Machine: Why AI Companies are Failing the History of Care",
       "url": "https://jinxxywrites.github.io/Psyched-for-Psychology/moral-history-of-care.html",
       "date": "January 30, 2026",
@@ -2727,15 +2606,6 @@
       "author": "Eliana Nodari",
       "authorRole": "student",
       "blogUrl": "https://eliananodari.github.io"
-    },
-    {
-      "title": "The Quantified Athlete: How AI is Breaking the Human Limit",
-      "url": "https://jrbrunts.github.io/beyond-the-limit.html",
-      "date": "January 27, 2026",
-      "dateISO": "2026-01-27",
-      "author": "Jacob Brunts",
-      "authorRole": "student",
-      "blogUrl": "https://jrbrunts.github.io"
     },
     {
       "title": "The Algorithmic Bias",
@@ -2979,15 +2849,6 @@
       "author": "Gabriel Bell",
       "authorRole": "student",
       "blogUrl": "https://gabriel-bell.github.io"
-    },
-    {
-      "title": "Quiet the Noise: When AI Rewrites Our Biology",
-      "url": "https://jrbrunts.github.io/quiet-the-noise.html",
-      "date": "January 24, 2026",
-      "dateISO": "2026-01-24",
-      "author": "Jacob Brunts",
-      "authorRole": "student",
-      "blogUrl": "https://jrbrunts.github.io"
     },
     {
       "title": "The Squared Circle and the Gridiron: Can AI Predict the Knockout?",
@@ -3270,15 +3131,6 @@
       "blogUrl": "https://samlevine277.github.io"
     },
     {
-      "title": "The Friction of Fluency: Why \"Easy\" AI is a Myth",
-      "url": "https://jrbrunts.github.io/friction-of-fluency.html",
-      "date": "January 18, 2026",
-      "dateISO": "2026-01-18",
-      "author": "Jacob Brunts",
-      "authorRole": "student",
-      "blogUrl": "https://jrbrunts.github.io"
-    },
-    {
       "title": "The Exaggeration Effect and the \"Loud Lie Economy\"",
       "url": "https://jinxxywrites.github.io/Psyched-for-Psychology/social-media-exaggeration.html",
       "date": "January 18, 2026",
@@ -3441,15 +3293,6 @@
       "blogUrl": "https://olliebear2006ya-dotcom.github.io/Olivias-Disney-Blog"
     },
     {
-      "title": "The Green Mask: What We’re Really Hiding Behind",
-      "url": "https://jrbrunts.github.io/the-green-mask.html",
-      "date": "January 15, 2026",
-      "dateISO": "2026-01-15",
-      "author": "Jacob Brunts",
-      "authorRole": "student",
-      "blogUrl": "https://jrbrunts.github.io"
-    },
-    {
       "title": "The Fluency Illusion: AI-Induced Learned Helplessness",
       "url": "https://jinxxywrites.github.io/Psyched-for-Psychology/fluency-illusion-helplessness.html",
       "date": "January 15, 2026",
@@ -3495,6 +3338,17 @@
       "blogUrl": "https://kevionmilton.github.io"
     },
     {
+      "title": "The Green Mask: What We're Really Hiding Behind",
+      "url": "https://jrbrunts.github.io/the-green-mask.html",
+      "date": "January 15, 2026",
+      "dateISO": "2026-01-15",
+      "author": "Jacob Brunts",
+      "authorRole": "student",
+      "blogUrl": "https://jrbrunts.github.io",
+      "source": "manual-repo-scan",
+      "note": "Homepage shows no date for this post, so scraper skips it."
+    },
+    {
       "title": "The Fluency Illusion",
       "url": "https://buildlittleworlds.github.io/plate-composition-blog/posts/the-fluency-illusion/",
       "date": "January 14, 2026",
@@ -3538,15 +3392,6 @@
       "author": "Olivia Andresen",
       "authorRole": "student",
       "blogUrl": "https://olliebear2006ya-dotcom.github.io/Olivias-Disney-Blog"
-    },
-    {
-      "title": "The Obsolescence Trap: Why \"Choice\" Is Not Enough",
-      "url": "https://jrbrunts.github.io/obsolescence-trap.html",
-      "date": "January 13, 2026",
-      "dateISO": "2026-01-13",
-      "author": "Jacob Brunts",
-      "authorRole": "student",
-      "blogUrl": "https://jrbrunts.github.io"
     },
     {
       "title": "\"Mastermind\" Machinery: AI, Agency, and Mental Health",
