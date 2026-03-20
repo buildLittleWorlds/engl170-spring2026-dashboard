@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-03-20T16:31:48.211Z",
+  "lastUpdated": "2026-03-20T16:56:18.991Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 399,
+  "totalPosts": 400,
   "totalBlogs": 22,
   "blogsWithErrors": [
     {
@@ -11,6 +11,15 @@
     }
   ],
   "posts": [
+    {
+      "title": "The Efficiency Engine: AI as the Ultimate Symptom of Late-Stage Capitalism",
+      "url": "https://gabriel-bell.github.io/late-stage-symptom.html",
+      "date": "March 20, 2026",
+      "dateISO": "2026-03-20",
+      "author": "Gabriel Bell",
+      "authorRole": "student",
+      "blogUrl": "https://gabriel-bell.github.io"
+    },
     {
       "title": "The Forced Huddle: When AI Becomes a Mandatory Teammate",
       "url": "https://zayamaro.github.io/the-forced-huddle.html",
