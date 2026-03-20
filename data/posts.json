@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-03-20T00:00:36.198Z",
+  "lastUpdated": "2026-03-20T00:49:16.884Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 398,
+  "totalPosts": 399,
   "totalBlogs": 22,
   "blogsWithErrors": [
     {
@@ -19,6 +19,15 @@
       "author": "Zay Amaro",
       "authorRole": "student",
       "blogUrl": "https://zayamaro.github.io"
+    },
+    {
+      "title": "The 10x Paradox: Why AI Productivity Must Be Traded for Time, Not Output",
+      "url": "https://gabriel-bell.github.io/ten-x-paradox.html",
+      "date": "March 19, 2026",
+      "dateISO": "2026-03-19",
+      "author": "Gabriel Bell",
+      "authorRole": "student",
+      "blogUrl": "https://gabriel-bell.github.io"
     },
     {
       "title": "The Coercion of Survival: Why the \"Choice\" to Work is a Biological Mandate",
