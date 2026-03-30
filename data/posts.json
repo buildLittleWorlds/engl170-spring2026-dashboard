@@ -1,14 +1,10 @@
 {
-  "lastUpdated": "2026-03-30T22:19:52.289Z",
+  "lastUpdated": "2026-03-30T22:40:09.698Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 380,
+  "totalPosts": 400,
   "totalBlogs": 22,
   "blogsWithErrors": [
-    {
-      "author": "Donovan Campbell",
-      "error": "HTTP 503"
-    },
     {
       "author": "Isaiah Forbes",
       "error": "HTTP 404"
@@ -484,6 +480,69 @@
       "blogUrl": "https://kevionmilton.github.io"
     },
     {
+      "title": "The AI Symphony: Why Generative Tools are Unlocking Unprecedented Creativity",
+      "url": "https://terryrozier1267.github.io/ai-symphony-generative-creativity.html",
+      "date": "March 3, 2026",
+      "dateISO": "2026-03-03",
+      "author": "Donovan Campbell",
+      "authorRole": "student",
+      "blogUrl": "https://terryrozier1267.github.io"
+    },
+    {
+      "title": "The Biological Tax: Why We Can't Afford the Cost of Social Isolation",
+      "url": "https://terryrozier1267.github.io/biological-tax-social-isolation.html",
+      "date": "March 3, 2026",
+      "dateISO": "2026-03-03",
+      "author": "Donovan Campbell",
+      "authorRole": "student",
+      "blogUrl": "https://terryrozier1267.github.io"
+    },
+    {
+      "title": "The Case for Friction: Why We Need to Break the \"Curated Cage\"",
+      "url": "https://terryrozier1267.github.io/case-for-friction-curated-cage.html",
+      "date": "March 3, 2026",
+      "dateISO": "2026-03-03",
+      "author": "Donovan Campbell",
+      "authorRole": "student",
+      "blogUrl": "https://terryrozier1267.github.io"
+    },
+    {
+      "title": "The Cognitive Compass: Why AI Should Inform, Not Replace, the Human Mind",
+      "url": "https://terryrozier1267.github.io/cognitive-compass-ai-inform.html",
+      "date": "March 3, 2026",
+      "dateISO": "2026-03-03",
+      "author": "Donovan Campbell",
+      "authorRole": "student",
+      "blogUrl": "https://terryrozier1267.github.io"
+    },
+    {
+      "title": "The Soul is in the Stumble: Why We Must Defend Friction in a Digital Age",
+      "url": "https://terryrozier1267.github.io/soul-in-the-stumble-friction.html",
+      "date": "March 3, 2026",
+      "dateISO": "2026-03-03",
+      "author": "Donovan Campbell",
+      "authorRole": "student",
+      "blogUrl": "https://terryrozier1267.github.io"
+    },
+    {
+      "title": "The Strength in the Struggle: Why Difficulty is Our Greatest Teacher",
+      "url": "https://terryrozier1267.github.io/strength-in-the-struggle.html",
+      "date": "March 3, 2026",
+      "dateISO": "2026-03-03",
+      "author": "Donovan Campbell",
+      "authorRole": "student",
+      "blogUrl": "https://terryrozier1267.github.io"
+    },
+    {
+      "title": "The Vital Pillar: Why Social Connection is a Biological Necessity",
+      "url": "https://terryrozier1267.github.io/vital-pillar-social-connection.html",
+      "date": "March 3, 2026",
+      "dateISO": "2026-03-03",
+      "author": "Donovan Campbell",
+      "authorRole": "student",
+      "blogUrl": "https://terryrozier1267.github.io"
+    },
+    {
       "title": "How Memory and Attention Shape Our Perception of Time",
       "url": "https://connorgengle.github.io/AI-/memory-attention-perception-time.html",
       "date": "March 3, 2026",
@@ -758,6 +817,15 @@
       "author": "Isabella Calmet",
       "authorRole": "student",
       "blogUrl": "https://bellacalmetjanssen-cell.github.io/isabella-calmet-.github.io"
+    },
+    {
+      "title": "The Curation Crisis: Why More Ideas Aren't Always Better",
+      "url": "https://terryrozier1267.github.io/curation-crisis.html",
+      "date": "February 26, 2026",
+      "dateISO": "2026-02-26",
+      "author": "Donovan Campbell",
+      "authorRole": "student",
+      "blogUrl": "https://terryrozier1267.github.io"
     },
     {
       "title": "The House Always Wins: The Gamification of the Disney Kingdom",
@@ -1092,6 +1160,96 @@
       "author": "Caleb Murphy",
       "authorRole": "student",
       "blogUrl": "https://calebmurphy01.github.io"
+    },
+    {
+      "title": "Beyond the Box Score: Why We Crave the Fluency of Football Stats",
+      "url": "https://terryrozier1267.github.io/beyond-the-box-score.html",
+      "date": "February 22, 2026",
+      "dateISO": "2026-02-22",
+      "author": "Donovan Campbell",
+      "authorRole": "student",
+      "blogUrl": "https://terryrozier1267.github.io"
+    },
+    {
+      "title": "The Alchemy of Error: Why We Must Fail to Know",
+      "url": "https://terryrozier1267.github.io/alchemy-of-error.html",
+      "date": "February 22, 2026",
+      "dateISO": "2026-02-22",
+      "author": "Donovan Campbell",
+      "authorRole": "student",
+      "blogUrl": "https://terryrozier1267.github.io"
+    },
+    {
+      "title": "The Architecture of \"What If\": Why Sports Need Their Ghosts",
+      "url": "https://terryrozier1267.github.io/architecture-of-what-if.html",
+      "date": "February 22, 2026",
+      "dateISO": "2026-02-22",
+      "author": "Donovan Campbell",
+      "authorRole": "student",
+      "blogUrl": "https://terryrozier1267.github.io"
+    },
+    {
+      "title": "The Augmented Athlete: Why the 50/50 Rule is the Future of Human Greatness",
+      "url": "https://terryrozier1267.github.io/augmented-athlete.html",
+      "date": "February 22, 2026",
+      "dateISO": "2026-02-22",
+      "author": "Donovan Campbell",
+      "authorRole": "student",
+      "blogUrl": "https://terryrozier1267.github.io"
+    },
+    {
+      "title": "The Data-Driven Dynasty: Why I'm All In on the AI Athlete",
+      "url": "https://terryrozier1267.github.io/data-driven-dynasty.html",
+      "date": "February 22, 2026",
+      "dateISO": "2026-02-22",
+      "author": "Donovan Campbell",
+      "authorRole": "student",
+      "blogUrl": "https://terryrozier1267.github.io"
+    },
+    {
+      "title": "The Dual Engines of Dependency: Why Social Media and AI are Equally Addicting",
+      "url": "https://terryrozier1267.github.io/dual-engines-of-dependency.html",
+      "date": "February 22, 2026",
+      "dateISO": "2026-02-22",
+      "author": "Donovan Campbell",
+      "authorRole": "student",
+      "blogUrl": "https://terryrozier1267.github.io"
+    },
+    {
+      "title": "The Exoskeleton of Intellect: Why the \"Obsolescence Trap\" is the Modern Reality",
+      "url": "https://terryrozier1267.github.io/exoskeleton-of-intellect.html",
+      "date": "February 22, 2026",
+      "dateISO": "2026-02-22",
+      "author": "Donovan Campbell",
+      "authorRole": "student",
+      "blogUrl": "https://terryrozier1267.github.io"
+    },
+    {
+      "title": "The House Always Wins (Especially with an Algorithm)",
+      "url": "https://terryrozier1267.github.io/house-always-wins.html",
+      "date": "February 22, 2026",
+      "dateISO": "2026-02-22",
+      "author": "Donovan Campbell",
+      "authorRole": "student",
+      "blogUrl": "https://terryrozier1267.github.io"
+    },
+    {
+      "title": "The Human Premium: Why the \"New Sincerity\" is the Future of Creativity",
+      "url": "https://terryrozier1267.github.io/human-premium.html",
+      "date": "February 22, 2026",
+      "dateISO": "2026-02-22",
+      "author": "Donovan Campbell",
+      "authorRole": "student",
+      "blogUrl": "https://terryrozier1267.github.io"
+    },
+    {
+      "title": "The Intelligence Leap: Why AI in 2026 is No Longer Just Following a Script",
+      "url": "https://terryrozier1267.github.io/intelligence-leap.html",
+      "date": "February 22, 2026",
+      "dateISO": "2026-02-22",
+      "author": "Donovan Campbell",
+      "authorRole": "student",
+      "blogUrl": "https://terryrozier1267.github.io"
     },
     {
       "title": "The Passenger Trap: Why AI Autonomy is a Mechanical Death Sentence",
@@ -2300,6 +2458,15 @@
       "blogUrl": "https://zayamaro.github.io"
     },
     {
+      "title": "The Guardian in the Machine: Why AI is the Next Great Revolution in Sports Safety",
+      "url": "https://terryrozier1267.github.io/guardian-in-the-machine.html",
+      "date": "February 2, 2026",
+      "dateISO": "2026-02-02",
+      "author": "Donovan Campbell",
+      "authorRole": "student",
+      "blogUrl": "https://terryrozier1267.github.io"
+    },
+    {
       "title": "Beyond the Ink: Why the Digital Pen is the Key to Unlocking Creative Potential",
       "url": "https://iforbes07.github.io/Pablowanye.github.io/beyond-the-ink.html",
       "date": "February 2, 2026",
@@ -3028,6 +3195,15 @@
       "author": "Caleb Murphy",
       "authorRole": "student",
       "blogUrl": "https://calebmurphy01.github.io"
+    },
+    {
+      "title": "The Automation Anxiety: Is AI Really Taking Our Jobs?",
+      "url": "https://terryrozier1267.github.io/automation-anxiety.html",
+      "date": "January 21, 2026",
+      "dateISO": "2026-01-21",
+      "author": "Donovan Campbell",
+      "authorRole": "student",
+      "blogUrl": "https://terryrozier1267.github.io"
     },
     {
       "title": "The Digital Detective: How AI is Finding Out About Murders",
