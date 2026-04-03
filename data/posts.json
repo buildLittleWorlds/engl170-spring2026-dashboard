@@ -1,14 +1,10 @@
 {
-  "lastUpdated": "2026-04-03T08:07:00.153Z",
+  "lastUpdated": "2026-04-03T08:29:59.223Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 380,
+  "totalPosts": 400,
   "totalBlogs": 22,
   "blogsWithErrors": [
-    {
-      "author": "Jinx Hixson",
-      "error": "HTTP 503"
-    },
     {
       "author": "Isaiah Forbes",
       "error": "HTTP 404"
@@ -768,6 +764,15 @@
       "blogUrl": "https://olliebear2006ya-dotcom.github.io/Olivias-Disney-Blog"
     },
     {
+      "title": "The Biological Buffer: The Neuroscience of Love and Connection",
+      "url": "https://jinxxywrites.github.io/Psyched-for-Psychology/neuroscience-of-connection.html",
+      "date": "February 27, 2026",
+      "dateISO": "2026-02-27",
+      "author": "Jinx Hixson",
+      "authorRole": "student",
+      "blogUrl": "https://jinxxywrites.github.io/Psyched-for-Psychology"
+    },
+    {
       "title": "The Vanishing Square: Reclaiming the Pillar of Connection and the Decline of Third Places",
       "url": "https://eliananodari.github.io/the-vanishing-square.html",
       "date": "February 27, 2026",
@@ -830,6 +835,15 @@
       "author": "Olivia Andresen",
       "authorRole": "student",
       "blogUrl": "https://olliebear2006ya-dotcom.github.io/Olivias-Disney-Blog"
+    },
+    {
+      "title": "The Silent Threat: The Consequences of Social Isolation",
+      "url": "https://jinxxywrites.github.io/Psyched-for-Psychology/social-isolation.html",
+      "date": "February 25, 2026",
+      "dateISO": "2026-02-25",
+      "author": "Jinx Hixson",
+      "authorRole": "student",
+      "blogUrl": "https://jinxxywrites.github.io/Psyched-for-Psychology"
     },
     {
       "title": "The Echo Chamber of the Self: Why We Need the Uncontrollable",
@@ -902,6 +916,15 @@
       "author": "Olivia Andresen",
       "authorRole": "student",
       "blogUrl": "https://olliebear2006ya-dotcom.github.io/Olivias-Disney-Blog"
+    },
+    {
+      "title": "The Vital Pillar: Why Human Connection is the Key to Mental Health",
+      "url": "https://jinxxywrites.github.io/Psyched-for-Psychology/pillar-of-connection.html",
+      "date": "February 23, 2026",
+      "dateISO": "2026-02-23",
+      "author": "Jinx Hixson",
+      "authorRole": "student",
+      "blogUrl": "https://jinxxywrites.github.io/Psyched-for-Psychology"
     },
     {
       "title": "The Economics of Empathy: Monetizing the Lonely Teenager",
@@ -1265,6 +1288,15 @@
       "blogUrl": "https://jrbrunts.github.io"
     },
     {
+      "title": "Navigating Recovery: Treating PTSD and CPTSD in a Digital Age",
+      "url": "https://jinxxywrites.github.io/Psyched-for-Psychology/ptsd-therapy-and-ai.html",
+      "date": "February 20, 2026",
+      "dateISO": "2026-02-20",
+      "author": "Jinx Hixson",
+      "authorRole": "student",
+      "blogUrl": "https://jinxxywrites.github.io/Psyched-for-Psychology"
+    },
+    {
       "title": "Forced AI partnership",
       "url": "https://samlevine277.github.io/forced-partnership-ai.html",
       "date": "Feburary 20, 2026",
@@ -1344,6 +1376,15 @@
       "author": "Jacob Brunts",
       "authorRole": "student",
       "blogUrl": "https://jrbrunts.github.io"
+    },
+    {
+      "title": "CPTSD Rates After Intimate Partner Violence",
+      "url": "https://jinxxywrites.github.io/Psyched-for-Psychology/ipv-cptsd.html",
+      "date": "February 18, 2026",
+      "dateISO": "2026-02-18",
+      "author": "Jinx Hixson",
+      "authorRole": "student",
+      "blogUrl": "https://jinxxywrites.github.io/Psyched-for-Psychology"
     },
     {
       "title": "Error Is Entertainment",
@@ -1508,6 +1549,15 @@
       "blogUrl": "https://olliebear2006ya-dotcom.github.io/Olivias-Disney-Blog"
     },
     {
+      "title": "The Shadow of Control: The Toll of Intimate Partner Violence",
+      "url": "https://jinxxywrites.github.io/Psyched-for-Psychology/ipv.effects.html",
+      "date": "February 16, 2026",
+      "dateISO": "2026-02-16",
+      "author": "Jinx Hixson",
+      "authorRole": "student",
+      "blogUrl": "https://jinxxywrites.github.io/Psyched-for-Psychology"
+    },
+    {
       "title": "The 50/50 Rule Under Fire",
       "url": "https://samlevine277.github.io/algorithmic-mirror-response.html",
       "date": "Feburary 16, 2026",
@@ -1607,6 +1657,15 @@
       "blogUrl": "https://emanigerdine7-ops.github.io"
     },
     {
+      "title": "The Warning Signs of Abuse and Their Psychological Toll",
+      "url": "https://jinxxywrites.github.io/Psyched-for-Psychology/domestic-violence-signs.html",
+      "date": "February 13, 2026",
+      "dateISO": "2026-02-13",
+      "author": "Jinx Hixson",
+      "authorRole": "student",
+      "blogUrl": "https://jinxxywrites.github.io/Psyched-for-Psychology"
+    },
+    {
       "title": "The Digital Lifeboat and the Architecture of Silence",
       "url": "https://eliananodari.github.io/digital-lifeboat-architecture.html",
       "date": "February 13, 2026",
@@ -1695,6 +1754,15 @@
       "author": "Emani Gerdine",
       "authorRole": "student",
       "blogUrl": "https://emanigerdine7-ops.github.io"
+    },
+    {
+      "title": "Defining Healthy vs. Unhealthy Relationship Dynamics",
+      "url": "https://jinxxywrites.github.io/Psyched-for-Psychology/healthy-vs-unhealthy.html",
+      "date": "February 11, 2026",
+      "dateISO": "2026-02-11",
+      "author": "Jinx Hixson",
+      "authorRole": "student",
+      "blogUrl": "https://jinxxywrites.github.io/Psyched-for-Psychology"
     },
     {
       "title": "AI in olympics vs. workforce",
@@ -1812,6 +1880,15 @@
       "author": "Emani Gerdine",
       "authorRole": "student",
       "blogUrl": "https://emanigerdine7-ops.github.io"
+    },
+    {
+      "title": "Fostering Healthy Relationship Skills: A Psychological Blueprint",
+      "url": "https://jinxxywrites.github.io/Psyched-for-Psychology/healthy-relationship-skills.html",
+      "date": "February 9, 2026",
+      "dateISO": "2026-02-09",
+      "author": "Jinx Hixson",
+      "authorRole": "student",
+      "blogUrl": "https://jinxxywrites.github.io/Psyched-for-Psychology"
     },
     {
       "title": "automation in rugby",
@@ -2048,6 +2125,15 @@
       "blogUrl": "https://samlevine277.github.io"
     },
     {
+      "title": "The Biological Necessity of Connection: Mental and Physical Health in a Digital Era",
+      "url": "https://jinxxywrites.github.io/Psyched-for-Psychology/health-and-connection.html",
+      "date": "February 6, 2026",
+      "dateISO": "2026-02-06",
+      "author": "Jinx Hixson",
+      "authorRole": "student",
+      "blogUrl": "https://jinxxywrites.github.io/Psyched-for-Psychology"
+    },
+    {
       "title": "The Slot-Machine Symphony: Why Authenticity Matters in the Age of AI",
       "url": "https://eliananodari.github.io/the-slot-machine-symphony.html",
       "date": "February 6, 2026",
@@ -2127,6 +2213,15 @@
       "author": "Emani Gerdine",
       "authorRole": "student",
       "blogUrl": "https://emanigerdine7-ops.github.io"
+    },
+    {
+      "title": "The Lasting Power of Connection: Why Human Therapy Still Matters",
+      "url": "https://jinxxywrites.github.io/Psyched-for-Psychology/cbct-human-connection.html",
+      "date": "February 4, 2026",
+      "dateISO": "2026-02-04",
+      "author": "Jinx Hixson",
+      "authorRole": "student",
+      "blogUrl": "https://jinxxywrites.github.io/Psyched-for-Psychology"
     },
     {
       "title": "AI vs. Social Media",
@@ -2280,6 +2375,15 @@
       "author": "Emani Gerdine",
       "authorRole": "student",
       "blogUrl": "https://emanigerdine7-ops.github.io"
+    },
+    {
+      "title": "Hollow Presence: The Parasocial Trap of AI Therapy",
+      "url": "https://jinxxywrites.github.io/Psyched-for-Psychology/parasocial-ai-therapy.html",
+      "date": "February 2, 2026",
+      "dateISO": "2026-02-02",
+      "author": "Jinx Hixson",
+      "authorRole": "student",
+      "blogUrl": "https://jinxxywrites.github.io/Psyched-for-Psychology"
     },
     {
       "title": "AI-Rugby (Sports)",
@@ -2481,6 +2585,15 @@
       "blogUrl": "https://jrbrunts.github.io"
     },
     {
+      "title": "Moral Agency and the Machine: Why AI Companies are Failing the History of Care",
+      "url": "https://jinxxywrites.github.io/Psyched-for-Psychology/moral-history-of-care.html",
+      "date": "January 30, 2026",
+      "dateISO": "2026-01-30",
+      "author": "Jinx Hixson",
+      "authorRole": "student",
+      "blogUrl": "https://jinxxywrites.github.io/Psyched-for-Psychology"
+    },
+    {
       "title": "The Pulse of the Machine: Balancing Human Creativity and Artificial Intelligence",
       "url": "https://eliananodari.github.io/pulse-of-the-machine.html",
       "date": "January 30, 2026",
@@ -2598,6 +2711,15 @@
       "blogUrl": "https://olliebear2006ya-dotcom.github.io/Olivias-Disney-Blog"
     },
     {
+      "title": "AI and the End of Human-Led Therapy",
+      "url": "https://jinxxywrites.github.io/Psyched-for-Psychology/ai-ending-human-therapy.html",
+      "date": "January 28, 2026",
+      "dateISO": "2026-01-28",
+      "author": "Jinx Hixson",
+      "authorRole": "student",
+      "blogUrl": "https://jinxxywrites.github.io/Psyched-for-Psychology"
+    },
+    {
       "title": "Coding Our Future",
       "url": "https://eliananodari.github.io/coding-our-future.html",
       "date": "January 28, 2026",
@@ -2632,6 +2754,15 @@
       "author": "Zay Amaro",
       "authorRole": "student",
       "blogUrl": "https://zayamaro.github.io"
+    },
+    {
+      "title": "The Internal Loop: Treating \"Pure O\" with a \"Low-Ceiling Lifestyle\"",
+      "url": "https://jinxxywrites.github.io/Psyched-for-Psychology/pure-o-low-ceiling.html",
+      "date": "January 26, 2026",
+      "dateISO": "2026-01-26",
+      "author": "Jinx Hixson",
+      "authorRole": "student",
+      "blogUrl": "https://jinxxywrites.github.io/Psyched-for-Psychology"
     },
     {
       "title": "AI-Performance Partner (Sports)",
@@ -3003,6 +3134,15 @@
       "blogUrl": "https://olliebear2006ya-dotcom.github.io/Olivias-Disney-Blog"
     },
     {
+      "title": "Digital Age Compulsions: AI, OCD, and the \"Dopamine Ceiling\"",
+      "url": "https://jinxxywrites.github.io/Psyched-for-Psychology/ai-ocd-and-dopamine.html",
+      "date": "January 21, 2026",
+      "dateISO": "2026-01-21",
+      "author": "Jinx Hixson",
+      "authorRole": "student",
+      "blogUrl": "https://jinxxywrites.github.io/Psyched-for-Psychology"
+    },
+    {
       "title": "AI autonomy",
       "url": "https://samlevine277.github.io/ai-autonomy.html",
       "date": "January 21, 2026",
@@ -3076,6 +3216,15 @@
       "source": "manual"
     },
     {
+      "title": "Theories of Safety: AI-Encouraged Self-Injury",
+      "url": "https://jinxxywrites.github.io/Psyched-for-Psychology/ai-safety-and-self-harm.html",
+      "date": "January 20, 2026",
+      "dateISO": "2026-01-20",
+      "author": "Jinx Hixson",
+      "authorRole": "student",
+      "blogUrl": "https://jinxxywrites.github.io/Psyched-for-Psychology"
+    },
+    {
       "title": "Beyond the Screen: Cultivating a \"Low-Ceiling\" Lifestyle",
       "url": "https://dominicdebro.github.io/low-ceiling-lifestyle.html",
       "date": "January 20, 2026",
@@ -3128,6 +3277,15 @@
       "author": "Jacob Brunts",
       "authorRole": "student",
       "blogUrl": "https://jrbrunts.github.io"
+    },
+    {
+      "title": "The Exaggeration Effect and the \"Loud Lie Economy\"",
+      "url": "https://jinxxywrites.github.io/Psyched-for-Psychology/social-media-exaggeration.html",
+      "date": "January 18, 2026",
+      "dateISO": "2026-01-18",
+      "author": "Jinx Hixson",
+      "authorRole": "student",
+      "blogUrl": "https://jinxxywrites.github.io/Psyched-for-Psychology"
     },
     {
       "title": "Forklifts and fundamentals",
@@ -3292,6 +3450,15 @@
       "blogUrl": "https://jrbrunts.github.io"
     },
     {
+      "title": "The Fluency Illusion: AI-Induced Learned Helplessness",
+      "url": "https://jinxxywrites.github.io/Psyched-for-Psychology/fluency-illusion-helplessness.html",
+      "date": "January 15, 2026",
+      "dateISO": "2026-01-15",
+      "author": "Jinx Hixson",
+      "authorRole": "student",
+      "blogUrl": "https://jinxxywrites.github.io/Psyched-for-Psychology"
+    },
+    {
       "title": "Myths and Truths about AI and the Environment",
       "url": "https://eliananodari.github.io/ai-and-the-environment.html",
       "date": "January 15, 2026",
@@ -3380,6 +3547,15 @@
       "author": "Jacob Brunts",
       "authorRole": "student",
       "blogUrl": "https://jrbrunts.github.io"
+    },
+    {
+      "title": "\"Mastermind\" Machinery: AI, Agency, and Mental Health",
+      "url": "https://jinxxywrites.github.io/Psyched-for-Psychology/ai-mental-health-agency.html",
+      "date": "January 13, 2026",
+      "dateISO": "2026-01-13",
+      "author": "Jinx Hixson",
+      "authorRole": "student",
+      "blogUrl": "https://jinxxywrites.github.io/Psyched-for-Psychology"
     },
     {
       "title": "Expanding on the Effects of Banning AI",
