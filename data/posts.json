@@ -1,10 +1,14 @@
 {
-  "lastUpdated": "2026-05-31T21:38:39.982Z",
+  "lastUpdated": "2026-05-31T22:07:13.997Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 400,
+  "totalPosts": 378,
   "totalBlogs": 22,
   "blogsWithErrors": [
+    {
+      "author": "Kevion Milton",
+      "error": "HTTP 503"
+    },
     {
       "author": "Isaiah Forbes",
       "error": "HTTP 404"
@@ -219,42 +223,6 @@
       "blogUrl": "https://braydenwilson22.github.io"
     },
     {
-      "title": "Response: Why the \"Wild West\" is Actually a New Frontier for Fairness",
-      "url": "https://kevionmilton.github.io/response-why-the-wild-west-is-actually-a.html",
-      "date": "March 7, 2026",
-      "dateISO": "2026-03-07",
-      "author": "Kevion Milton",
-      "authorRole": "student",
-      "blogUrl": "https://kevionmilton.github.io"
-    },
-    {
-      "title": "Shai, the Thunder, and the \"Whistle\" Narrative: Skill or Special Treatment?",
-      "url": "https://kevionmilton.github.io/shai-the-thunder-and-the-whistle-narrative-skill.html",
-      "date": "March 7, 2026",
-      "dateISO": "2026-03-07",
-      "author": "Kevion Milton",
-      "authorRole": "student",
-      "blogUrl": "https://kevionmilton.github.io"
-    },
-    {
-      "title": "The $2 Million Question: Is College NIL the New \"Big Leagues\"?",
-      "url": "https://kevionmilton.github.io/the-2-million-question-is-college-nil-the.html",
-      "date": "March 7, 2026",
-      "dateISO": "2026-03-07",
-      "author": "Kevion Milton",
-      "authorRole": "student",
-      "blogUrl": "https://kevionmilton.github.io"
-    },
-    {
-      "title": "The Human Cost of the Algorithmic Playbook: AI Intuition and the Mental Toll",
-      "url": "https://kevionmilton.github.io/the-human-cost-of-the-algorithmic-playbook-ai.html",
-      "date": "March 7, 2026",
-      "dateISO": "2026-03-07",
-      "author": "Kevion Milton",
-      "authorRole": "student",
-      "blogUrl": "https://kevionmilton.github.io"
-    },
-    {
       "title": "The Innovation Mandate: Why \"Forced Partnership\" is Just Good Business",
       "url": "https://jrbrunts.github.io/innovation-mandate.html",
       "date": "March 6, 2026",
@@ -298,15 +266,6 @@
       "author": "Brayden Wilson",
       "authorRole": "student",
       "blogUrl": "https://braydenwilson22.github.io"
-    },
-    {
-      "title": "AI in Basketball: Are the Refs Making Bad Calls or are the Players Just Masters of the Flop?",
-      "url": "https://kevionmilton.github.io/ai-in-basketball-are-the-refs-making-bad.html",
-      "date": "March 6, 2026",
-      "dateISO": "2026-03-06",
-      "author": "Kevion Milton",
-      "authorRole": "student",
-      "blogUrl": "https://kevionmilton.github.io"
     },
     {
       "title": "The Green-Washing of the Algorithm: The Environmental Cost of \"Efficient\" AI",
@@ -424,60 +383,6 @@
       "author": "Tom Bishop",
       "authorRole": "student",
       "blogUrl": "https://tombishop4.github.io"
-    },
-    {
-      "title": "The Forced Huddle and the New Digital Mandate",
-      "url": "https://kevionmilton.github.io/forced-huddle-digital-mandate.html",
-      "date": "March 3, 2026",
-      "dateISO": "2026-03-03",
-      "author": "Kevion Milton",
-      "authorRole": "student",
-      "blogUrl": "https://kevionmilton.github.io"
-    },
-    {
-      "title": "NIL and the Algorithm of Value: How Data is Rewriting the Amateur Game",
-      "url": "https://kevionmilton.github.io/nil-algorithm-of-value.html",
-      "date": "March 3, 2026",
-      "dateISO": "2026-03-03",
-      "author": "Kevion Milton",
-      "authorRole": "student",
-      "blogUrl": "https://kevionmilton.github.io"
-    },
-    {
-      "title": "The Physics of the Play: Wearables as Classroom Texts",
-      "url": "https://kevionmilton.github.io/physics-of-play-wearables.html",
-      "date": "March 3, 2026",
-      "dateISO": "2026-03-03",
-      "author": "Kevion Milton",
-      "authorRole": "student",
-      "blogUrl": "https://kevionmilton.github.io"
-    },
-    {
-      "title": "Predictive Analytics and the Loss of Wonder",
-      "url": "https://kevionmilton.github.io/predictive-analytics-loss-wonder.html",
-      "date": "March 3, 2026",
-      "dateISO": "2026-03-03",
-      "author": "Kevion Milton",
-      "authorRole": "student",
-      "blogUrl": "https://kevionmilton.github.io"
-    },
-    {
-      "title": "The Algorithmic Fan: How AI is Curating Our Obsession",
-      "url": "https://kevionmilton.github.io/algorithmic-fan-curating-obsession.html",
-      "date": "March 3, 2026",
-      "dateISO": "2026-03-03",
-      "author": "Kevion Milton",
-      "authorRole": "student",
-      "blogUrl": "https://kevionmilton.github.io"
-    },
-    {
-      "title": "The Automated Recap and the Death of the Beat Reporter",
-      "url": "https://kevionmilton.github.io/automated-recap-beat-reporter.html",
-      "date": "March 3, 2026",
-      "dateISO": "2026-03-03",
-      "author": "Kevion Milton",
-      "authorRole": "student",
-      "blogUrl": "https://kevionmilton.github.io"
     },
     {
       "title": "The AI Symphony: Why Generative Tools are Unlocking Unprecedented Creativity",
@@ -1936,33 +1841,6 @@
       "blogUrl": "https://dominicdebro.github.io"
     },
     {
-      "title": "The Digital Scout: How AI is Picking the Next Generation of Stars",
-      "url": "https://kevionmilton.github.io/digital-scout-ai-next-generation.html",
-      "date": "February 9, 2026",
-      "dateISO": "2026-02-09",
-      "author": "Kevion Milton",
-      "authorRole": "student",
-      "blogUrl": "https://kevionmilton.github.io"
-    },
-    {
-      "title": "Health vs. Hype: Is AI a Bodyguard or a Performance Enhancer?",
-      "url": "https://kevionmilton.github.io/health-vs-hype-ai-bodyguard.html",
-      "date": "February 9, 2026",
-      "dateISO": "2026-02-09",
-      "author": "Kevion Milton",
-      "authorRole": "student",
-      "blogUrl": "https://kevionmilton.github.io"
-    },
-    {
-      "title": "RE: \"The Cold Doctor\" (AI in Healthcare)",
-      "url": "https://kevionmilton.github.io/the-cold-doctor-ai-healthcare.html",
-      "date": "February 9, 2026",
-      "dateISO": "2026-02-09",
-      "author": "Kevion Milton",
-      "authorRole": "student",
-      "blogUrl": "https://kevionmilton.github.io"
-    },
-    {
       "title": "The Biological Locker Room: Why Teams Can't Be Simulated",
       "url": "https://zayamaro.github.io/the-biological-locker-room.html",
       "date": "February 9, 2026",
@@ -2078,33 +1956,6 @@
       "author": "Isabella Calmet",
       "authorRole": "student",
       "blogUrl": "https://bellacalmetjanssen-cell.github.io/isabella-calmet-.github.io"
-    },
-    {
-      "title": "The Myth of Objective Perfection",
-      "url": "https://kevionmilton.github.io/myth-of-objective-perfection.html",
-      "date": "February 8, 2026",
-      "dateISO": "2026-02-08",
-      "author": "Kevion Milton",
-      "authorRole": "student",
-      "blogUrl": "https://kevionmilton.github.io"
-    },
-    {
-      "title": "The 2026 Playbook: Why AI Predictions are No Longer Just Science Fiction",
-      "url": "https://kevionmilton.github.io/2026-playbook-ai-predictions.html",
-      "date": "February 8, 2026",
-      "dateISO": "2026-02-08",
-      "author": "Kevion Milton",
-      "authorRole": "student",
-      "blogUrl": "https://kevionmilton.github.io"
-    },
-    {
-      "title": "Mastering the \"Digital Tape\": What Jacob Burrell Taught Me About Prediction Markets",
-      "url": "https://kevionmilton.github.io/digital-tape-prediction-markets.html",
-      "date": "February 8, 2026",
-      "dateISO": "2026-02-08",
-      "author": "Kevion Milton",
-      "authorRole": "student",
-      "blogUrl": "https://kevionmilton.github.io"
     },
     {
       "title": "The Human Edge in the Arena: Responding to Zay",
@@ -2837,15 +2688,6 @@
       "blogUrl": "https://bellacalmetjanssen-cell.github.io/isabella-calmet-.github.io"
     },
     {
-      "title": "The \"You-First\" Era: From Mass Media to Personalized Reality",
-      "url": "https://kevionmilton.github.io/you-first-era.html",
-      "date": "January 26, 2026",
-      "dateISO": "2026-01-26",
-      "author": "Kevion Milton",
-      "authorRole": "student",
-      "blogUrl": "https://kevionmilton.github.io"
-    },
-    {
       "title": "Markets, Metrics, and the Myth of Certainty",
       "url": "https://zayamaro.github.io/markets-and-metrics.html",
       "date": "January 26, 2026",
@@ -3089,15 +2931,6 @@
       "blogUrl": "https://tombishop4.github.io"
     },
     {
-      "title": "The Genetic Playbook: Is Precision Nutrition the Final Frontier?",
-      "url": "https://kevionmilton.github.io/genetic-playbook.html",
-      "date": "January 23, 2026",
-      "dateISO": "2026-01-23",
-      "author": "Kevion Milton",
-      "authorRole": "student",
-      "blogUrl": "https://kevionmilton.github.io"
-    },
-    {
       "title": "The Stats Illusion: Why NFL Predictions Feel True",
       "url": "https://zayamaro.github.io/stats-illusion.html",
       "date": "January 23, 2026",
@@ -3168,15 +3001,6 @@
       "author": "Dominic Debro",
       "authorRole": "student",
       "blogUrl": "https://dominicdebro.github.io"
-    },
-    {
-      "title": "The 2026 Sports Convergence: 3D Avatars, Aero-Engineering, and the Agentic Scout",
-      "url": "https://kevionmilton.github.io/sports-convergence.html",
-      "date": "January 21, 2026",
-      "dateISO": "2026-01-21",
-      "author": "Kevion Milton",
-      "authorRole": "student",
-      "blogUrl": "https://kevionmilton.github.io"
     },
     {
       "title": "Lifting Gear and AI: Tools vs. Crutches",
@@ -3351,15 +3175,6 @@
       "blogUrl": "https://braydenwilson22.github.io"
     },
     {
-      "title": "The Digital Whistle: How AI is Changing Basketball Officiating",
-      "url": "https://kevionmilton.github.io/ai-in-sports.html",
-      "date": "January 18, 2026",
-      "dateISO": "2026-01-18",
-      "author": "Kevion Milton",
-      "authorRole": "student",
-      "blogUrl": "https://kevionmilton.github.io"
-    },
-    {
       "title": "The Planning Is the Thinking",
       "url": "https://buildlittleworlds.github.io/plate-composition-blog/posts/the-planning-is-the-thinking/",
       "date": "January 16, 2026",
@@ -3484,15 +3299,6 @@
       "author": "Dominic Debro",
       "authorRole": "student",
       "blogUrl": "https://dominicdebro.github.io"
-    },
-    {
-      "title": "Welcome to My Blog",
-      "url": "https://kevionmilton.github.io/first-post.html",
-      "date": "January 15, 2026",
-      "dateISO": "2026-01-15",
-      "author": "Kevion Milton",
-      "authorRole": "student",
-      "blogUrl": "https://kevionmilton.github.io"
     },
     {
       "title": "The Fluency Illusion",
