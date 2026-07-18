@@ -1,13 +1,37 @@
 {
-  "lastUpdated": "2026-07-18T18:35:47.400Z",
+  "lastUpdated": "2026-07-18T19:49:04.947Z",
   "course": "ENGL 170",
   "semester": "Spring 2026",
-  "totalPosts": 400,
+  "totalPosts": 309,
   "totalBlogs": 22,
   "blogsWithErrors": [
     {
+      "author": "Olivia Andresen",
+      "error": "HTTP 503"
+    },
+    {
+      "author": "Eliana Nodari",
+      "error": "HTTP 503"
+    },
+    {
+      "author": "Mr Spock",
+      "error": "HTTP 503"
+    },
+    {
+      "author": "Kevion Milton",
+      "error": "HTTP 503"
+    },
+    {
+      "author": "Caleb Murphy",
+      "error": "HTTP 503"
+    },
+    {
       "author": "Isaiah Forbes",
       "error": "HTTP 404"
+    },
+    {
+      "author": "Connor Gengle",
+      "error": "HTTP 503"
     }
   ],
   "posts": [
@@ -120,42 +144,6 @@
       "blogUrl": "https://jake3143.github.io/jake3143"
     },
     {
-      "title": "The Automated Lecture Hall: Is AI Replacing the Professor?",
-      "url": "https://calebmurphy01.github.io/the-automated-lecture-hall.html",
-      "date": "March 11, 2026",
-      "dateISO": "2026-03-11",
-      "author": "Caleb Murphy",
-      "authorRole": "student",
-      "blogUrl": "https://calebmurphy01.github.io"
-    },
-    {
-      "title": "Silicon Frontlines: How AI is Altering the Landscape of Modern War",
-      "url": "https://calebmurphy01.github.io/ai-and-modern-warfare.html",
-      "date": "March 11, 2026",
-      "dateISO": "2026-03-11",
-      "author": "Caleb Murphy",
-      "authorRole": "student",
-      "blogUrl": "https://calebmurphy01.github.io"
-    },
-    {
-      "title": "The Soul in the Machine: Is the Music Industry Losing its Cultural Meaning?",
-      "url": "https://calebmurphy01.github.io/the-soul-in-the-machine.html",
-      "date": "March 11, 2026",
-      "dateISO": "2026-03-11",
-      "author": "Caleb Murphy",
-      "authorRole": "student",
-      "blogUrl": "https://calebmurphy01.github.io"
-    },
-    {
-      "title": "The Great Linguistic Shift: How AI is Redefining \"Job,\" \"Career,\" and \"Passion\"",
-      "url": "https://calebmurphy01.github.io/redefining-work-in-the-age-of-ai.html",
-      "date": "March 11, 2026",
-      "dateISO": "2026-03-11",
-      "author": "Caleb Murphy",
-      "authorRole": "student",
-      "blogUrl": "https://calebmurphy01.github.io"
-    },
-    {
       "title": "Why good movement can carry an entire game",
       "url": "https://jake3143.github.io/jake3143/why-good-movement-can-carry-an-entire-game.html",
       "date": "March 10, 2026",
@@ -219,42 +207,6 @@
       "blogUrl": "https://braydenwilson22.github.io"
     },
     {
-      "title": "Response: Why the \"Wild West\" is Actually a New Frontier for Fairness",
-      "url": "https://kevionmilton.github.io/response-why-the-wild-west-is-actually-a.html",
-      "date": "March 7, 2026",
-      "dateISO": "2026-03-07",
-      "author": "Kevion Milton",
-      "authorRole": "student",
-      "blogUrl": "https://kevionmilton.github.io"
-    },
-    {
-      "title": "Shai, the Thunder, and the \"Whistle\" Narrative: Skill or Special Treatment?",
-      "url": "https://kevionmilton.github.io/shai-the-thunder-and-the-whistle-narrative-skill.html",
-      "date": "March 7, 2026",
-      "dateISO": "2026-03-07",
-      "author": "Kevion Milton",
-      "authorRole": "student",
-      "blogUrl": "https://kevionmilton.github.io"
-    },
-    {
-      "title": "The $2 Million Question: Is College NIL the New \"Big Leagues\"?",
-      "url": "https://kevionmilton.github.io/the-2-million-question-is-college-nil-the.html",
-      "date": "March 7, 2026",
-      "dateISO": "2026-03-07",
-      "author": "Kevion Milton",
-      "authorRole": "student",
-      "blogUrl": "https://kevionmilton.github.io"
-    },
-    {
-      "title": "The Human Cost of the Algorithmic Playbook: AI Intuition and the Mental Toll",
-      "url": "https://kevionmilton.github.io/the-human-cost-of-the-algorithmic-playbook-ai.html",
-      "date": "March 7, 2026",
-      "dateISO": "2026-03-07",
-      "author": "Kevion Milton",
-      "authorRole": "student",
-      "blogUrl": "https://kevionmilton.github.io"
-    },
-    {
       "title": "The Innovation Mandate: Why \"Forced Partnership\" is Just Good Business",
       "url": "https://jrbrunts.github.io/innovation-mandate.html",
       "date": "March 6, 2026",
@@ -298,15 +250,6 @@
       "author": "Brayden Wilson",
       "authorRole": "student",
       "blogUrl": "https://braydenwilson22.github.io"
-    },
-    {
-      "title": "AI in Basketball: Are the Refs Making Bad Calls or are the Players Just Masters of the Flop?",
-      "url": "https://kevionmilton.github.io/ai-in-basketball-are-the-refs-making-bad.html",
-      "date": "March 6, 2026",
-      "dateISO": "2026-03-06",
-      "author": "Kevion Milton",
-      "authorRole": "student",
-      "blogUrl": "https://kevionmilton.github.io"
     },
     {
       "title": "The Green-Washing of the Algorithm: The Environmental Cost of \"Efficient\" AI",
@@ -426,60 +369,6 @@
       "blogUrl": "https://tombishop4.github.io"
     },
     {
-      "title": "The Forced Huddle and the New Digital Mandate",
-      "url": "https://kevionmilton.github.io/forced-huddle-digital-mandate.html",
-      "date": "March 3, 2026",
-      "dateISO": "2026-03-03",
-      "author": "Kevion Milton",
-      "authorRole": "student",
-      "blogUrl": "https://kevionmilton.github.io"
-    },
-    {
-      "title": "NIL and the Algorithm of Value: How Data is Rewriting the Amateur Game",
-      "url": "https://kevionmilton.github.io/nil-algorithm-of-value.html",
-      "date": "March 3, 2026",
-      "dateISO": "2026-03-03",
-      "author": "Kevion Milton",
-      "authorRole": "student",
-      "blogUrl": "https://kevionmilton.github.io"
-    },
-    {
-      "title": "The Physics of the Play: Wearables as Classroom Texts",
-      "url": "https://kevionmilton.github.io/physics-of-play-wearables.html",
-      "date": "March 3, 2026",
-      "dateISO": "2026-03-03",
-      "author": "Kevion Milton",
-      "authorRole": "student",
-      "blogUrl": "https://kevionmilton.github.io"
-    },
-    {
-      "title": "Predictive Analytics and the Loss of Wonder",
-      "url": "https://kevionmilton.github.io/predictive-analytics-loss-wonder.html",
-      "date": "March 3, 2026",
-      "dateISO": "2026-03-03",
-      "author": "Kevion Milton",
-      "authorRole": "student",
-      "blogUrl": "https://kevionmilton.github.io"
-    },
-    {
-      "title": "The Algorithmic Fan: How AI is Curating Our Obsession",
-      "url": "https://kevionmilton.github.io/algorithmic-fan-curating-obsession.html",
-      "date": "March 3, 2026",
-      "dateISO": "2026-03-03",
-      "author": "Kevion Milton",
-      "authorRole": "student",
-      "blogUrl": "https://kevionmilton.github.io"
-    },
-    {
-      "title": "The Automated Recap and the Death of the Beat Reporter",
-      "url": "https://kevionmilton.github.io/automated-recap-beat-reporter.html",
-      "date": "March 3, 2026",
-      "dateISO": "2026-03-03",
-      "author": "Kevion Milton",
-      "authorRole": "student",
-      "blogUrl": "https://kevionmilton.github.io"
-    },
-    {
       "title": "The AI Symphony: Why Generative Tools are Unlocking Unprecedented Creativity",
       "url": "https://terryrozier1267.github.io/ai-symphony-generative-creativity.html",
       "date": "March 3, 2026",
@@ -541,87 +430,6 @@
       "author": "Donovan Campbell",
       "authorRole": "student",
       "blogUrl": "https://terryrozier1267.github.io"
-    },
-    {
-      "title": "How Memory and Attention Shape Our Perception of Time",
-      "url": "https://connorgengle.github.io/AI-/memory-attention-perception-time.html",
-      "date": "March 3, 2026",
-      "dateISO": "2026-03-03",
-      "author": "Connor Gengle",
-      "authorRole": "student",
-      "blogUrl": "https://connorgengle.github.io/AI-"
-    },
-    {
-      "title": "The Discomfort of Silence in a Constantly Noisy World",
-      "url": "https://connorgengle.github.io/AI-/discomfort-silence-noisy-world.html",
-      "date": "March 3, 2026",
-      "dateISO": "2026-03-03",
-      "author": "Connor Gengle",
-      "authorRole": "student",
-      "blogUrl": "https://connorgengle.github.io/AI-"
-    },
-    {
-      "title": "The Feeling of Being Afraid of Making the Wrong Decision",
-      "url": "https://connorgengle.github.io/AI-/afraid-making-wrong-decision.html",
-      "date": "March 3, 2026",
-      "dateISO": "2026-03-03",
-      "author": "Connor Gengle",
-      "authorRole": "student",
-      "blogUrl": "https://connorgengle.github.io/AI-"
-    },
-    {
-      "title": "The Psychology Behind Music and Mood Changes",
-      "url": "https://connorgengle.github.io/AI-/psychology-music-mood-changes.html",
-      "date": "March 3, 2026",
-      "dateISO": "2026-03-03",
-      "author": "Connor Gengle",
-      "authorRole": "student",
-      "blogUrl": "https://connorgengle.github.io/AI-"
-    },
-    {
-      "title": "Understanding Our Tendency to Romanticize Earlier Times",
-      "url": "https://connorgengle.github.io/AI-/romanticize-earlier-times.html",
-      "date": "March 3, 2026",
-      "dateISO": "2026-03-03",
-      "author": "Connor Gengle",
-      "authorRole": "student",
-      "blogUrl": "https://connorgengle.github.io/AI-"
-    },
-    {
-      "title": "Understanding Why Social Comparison Is So Hard to Stop",
-      "url": "https://connorgengle.github.io/AI-/social-comparison-hard-to-stop.html",
-      "date": "March 3, 2026",
-      "dateISO": "2026-03-03",
-      "author": "Connor Gengle",
-      "authorRole": "student",
-      "blogUrl": "https://connorgengle.github.io/AI-"
-    },
-    {
-      "title": "Why Humans Are Drawn to Stories of Survival and Resilience",
-      "url": "https://connorgengle.github.io/AI-/humans-drawn-survival-resilience.html",
-      "date": "March 3, 2026",
-      "dateISO": "2026-03-03",
-      "author": "Connor Gengle",
-      "authorRole": "student",
-      "blogUrl": "https://connorgengle.github.io/AI-"
-    },
-    {
-      "title": "Why Small Daily Habits Shape the Entire Direction of Our Lives",
-      "url": "https://connorgengle.github.io/AI-/small-daily-habits-shape-lives.html",
-      "date": "March 3, 2026",
-      "dateISO": "2026-03-03",
-      "author": "Connor Gengle",
-      "authorRole": "student",
-      "blogUrl": "https://connorgengle.github.io/AI-"
-    },
-    {
-      "title": "Why We Are So Fascinated by True Crime",
-      "url": "https://connorgengle.github.io/AI-/fascinated-by-true-crime.html",
-      "date": "March 3, 2026",
-      "dateISO": "2026-03-03",
-      "author": "Connor Gengle",
-      "authorRole": "student",
-      "blogUrl": "https://connorgengle.github.io/AI-"
     },
     {
       "title": "The Forensic of Fear: Why FNAF 6 is the Series' Magnum Opus",
@@ -755,15 +563,6 @@
       "source": "manual"
     },
     {
-      "title": "Forced Partnerships: The New \"Magic\" of Disney’s AI Strategy",
-      "url": "https://olliebear2006ya-dotcom.github.io/Olivias-Disney-Blog/forced.html",
-      "date": "Februrary 27, 2026",
-      "dateISO": "2026-02-27",
-      "author": "Olivia Andresen",
-      "authorRole": "student",
-      "blogUrl": "https://olliebear2006ya-dotcom.github.io/Olivias-Disney-Blog"
-    },
-    {
       "title": "The Biological Buffer: The Neuroscience of Love and Connection",
       "url": "https://jinxxywrites.github.io/Psyched-for-Psychology/neuroscience-of-connection.html",
       "date": "February 27, 2026",
@@ -771,15 +570,6 @@
       "author": "Jinx Hixson",
       "authorRole": "student",
       "blogUrl": "https://jinxxywrites.github.io/Psyched-for-Psychology"
-    },
-    {
-      "title": "The Vanishing Square: Reclaiming the Pillar of Connection and the Decline of Third Places",
-      "url": "https://eliananodari.github.io/the-vanishing-square.html",
-      "date": "February 27, 2026",
-      "dateISO": "2026-02-27",
-      "author": "Eliana Nodari",
-      "authorRole": "student",
-      "blogUrl": "https://eliananodari.github.io"
     },
     {
       "title": "The Cost of Giving Up",
@@ -828,15 +618,6 @@
       "blogUrl": "https://terryrozier1267.github.io"
     },
     {
-      "title": "The House Always Wins: The Gamification of the Disney Kingdom",
-      "url": "https://olliebear2006ya-dotcom.github.io/Olivias-Disney-Blog/game.html",
-      "date": "Februrary 25, 2026",
-      "dateISO": "2026-02-25",
-      "author": "Olivia Andresen",
-      "authorRole": "student",
-      "blogUrl": "https://olliebear2006ya-dotcom.github.io/Olivias-Disney-Blog"
-    },
-    {
       "title": "The Silent Threat: The Consequences of Social Isolation",
       "url": "https://jinxxywrites.github.io/Psyched-for-Psychology/social-isolation.html",
       "date": "February 25, 2026",
@@ -844,15 +625,6 @@
       "author": "Jinx Hixson",
       "authorRole": "student",
       "blogUrl": "https://jinxxywrites.github.io/Psyched-for-Psychology"
-    },
-    {
-      "title": "The Echo Chamber of the Self: Why We Need the Uncontrollable",
-      "url": "https://eliananodari.github.io/echo-chamber-of-the-self.html",
-      "date": "February 25, 2026",
-      "dateISO": "2026-02-25",
-      "author": "Eliana Nodari",
-      "authorRole": "student",
-      "blogUrl": "https://eliananodari.github.io"
     },
     {
       "title": "AI Design and Human Craft",
@@ -891,15 +663,6 @@
       "blogUrl": "https://zayamaro.github.io"
     },
     {
-      "title": "The AI Jukebox: Creative Evolution or Just More Bullshit Jobs?",
-      "url": "https://calebmurphy01.github.io/ai-music-bullshit-jobs.html",
-      "date": "February 25, 2026",
-      "dateISO": "2026-02-25",
-      "author": "Caleb Murphy",
-      "authorRole": "student",
-      "blogUrl": "https://calebmurphy01.github.io"
-    },
-    {
       "title": "The Market of Empathy: Why We Must Stop Blaming the Software for User Error",
       "url": "https://jrbrunts.github.io/market-of-empathy.html",
       "date": "February 24, 2026",
@@ -909,15 +672,6 @@
       "blogUrl": "https://jrbrunts.github.io"
     },
     {
-      "title": "The Disney \"Play\" Philosophy: Music as a Reward",
-      "url": "https://olliebear2006ya-dotcom.github.io/Olivias-Disney-Blog/play.html",
-      "date": "Februrary 23, 2026",
-      "dateISO": "2026-02-23",
-      "author": "Olivia Andresen",
-      "authorRole": "student",
-      "blogUrl": "https://olliebear2006ya-dotcom.github.io/Olivias-Disney-Blog"
-    },
-    {
       "title": "The Vital Pillar: Why Human Connection is the Key to Mental Health",
       "url": "https://jinxxywrites.github.io/Psyched-for-Psychology/pillar-of-connection.html",
       "date": "February 23, 2026",
@@ -925,15 +679,6 @@
       "author": "Jinx Hixson",
       "authorRole": "student",
       "blogUrl": "https://jinxxywrites.github.io/Psyched-for-Psychology"
-    },
-    {
-      "title": "The Economics of Empathy: Monetizing the Lonely Teenager",
-      "url": "https://eliananodari.github.io/the-economics-of-empathy.html",
-      "date": "February 23, 2026",
-      "dateISO": "2026-02-23",
-      "author": "Eliana Nodari",
-      "authorRole": "student",
-      "blogUrl": "https://eliananodari.github.io"
     },
     {
       "title": "The Infrastructure Mirage: A Rebuttal to Jonas Rodrigues’ \"The Invisible Architect\"",
@@ -961,15 +706,6 @@
       "author": "Jaden Walker",
       "authorRole": "student",
       "blogUrl": "https://jake3143.github.io/jake3143"
-    },
-    {
-      "title": "The Shackles of Busywork: Graeber’s Taxonomy of Labor",
-      "url": "https://calebmurphy01.github.io/the-shackles-of-busywork.html",
-      "date": "February 23, 2026",
-      "dateISO": "2026-02-23",
-      "author": "Caleb Murphy",
-      "authorRole": "student",
-      "blogUrl": "https://calebmurphy01.github.io"
     },
     {
       "title": "The 2026 Playbook: Why Your Gut is Wrong and the Algorithm is Right",
@@ -1153,15 +889,6 @@
       "blogUrl": "https://zayamaro.github.io"
     },
     {
-      "title": "The Crisis of Meaning: David Graeber's Bullshit Jobs",
-      "url": "https://calebmurphy01.github.io/graeber-bullshit-jobs.html",
-      "date": "February 22, 2026",
-      "dateISO": "2026-02-22",
-      "author": "Caleb Murphy",
-      "authorRole": "student",
-      "blogUrl": "https://calebmurphy01.github.io"
-    },
-    {
       "title": "Beyond the Box Score: Why We Crave the Fluency of Football Stats",
       "url": "https://terryrozier1267.github.io/beyond-the-box-score.html",
       "date": "February 22, 2026",
@@ -1270,15 +997,6 @@
       "blogUrl": "https://jake3143.github.io/jake3143"
     },
     {
-      "title": "From \"Winning\" Music to \"Winning\" Your Day",
-      "url": "https://olliebear2006ya-dotcom.github.io/Olivias-Disney-Blog/winning.html",
-      "date": "Februrary 20, 2026",
-      "dateISO": "2026-02-20",
-      "author": "Olivia Andresen",
-      "authorRole": "student",
-      "blogUrl": "https://olliebear2006ya-dotcom.github.io/Olivias-Disney-Blog"
-    },
-    {
       "title": "The Post-Labor Protocol: Why the Economy is Just an Algorithm",
       "url": "https://jrbrunts.github.io/post-labor-protocol.html",
       "date": "February 20, 2026",
@@ -1304,15 +1022,6 @@
       "author": "Sam Levine",
       "authorRole": "student",
       "blogUrl": "https://samlevine277.github.io"
-    },
-    {
-      "title": "The Friction of Friendship: Why We Need the Messy Parts of Art and Life",
-      "url": "https://eliananodari.github.io/friction-of-friendship.html",
-      "date": "February 20, 2026",
-      "dateISO": "2026-02-20",
-      "author": "Eliana Nodari",
-      "authorRole": "student",
-      "blogUrl": "https://eliananodari.github.io"
     },
     {
       "title": "The Silent Lockdown: How AI is Killing the Independent Mechanic",
@@ -1360,15 +1069,6 @@
       "blogUrl": "https://buildlittleworlds.github.io/plate-composition-blog"
     },
     {
-      "title": "The Death of the Gatekeeper",
-      "url": "https://olliebear2006ya-dotcom.github.io/Olivias-Disney-Blog/the-death.html",
-      "date": "Februrary 18, 2026",
-      "dateISO": "2026-02-18",
-      "author": "Olivia Andresen",
-      "authorRole": "student",
-      "blogUrl": "https://olliebear2006ya-dotcom.github.io/Olivias-Disney-Blog"
-    },
-    {
       "title": "The Aesthetics of the Algorithm: Why \"Drama\" is Just Inefficiency",
       "url": "https://jrbrunts.github.io/aesthetics-of-algorithm.html",
       "date": "February 18, 2026",
@@ -1396,15 +1096,6 @@
       "blogUrl": "https://samlevine277.github.io"
     },
     {
-      "title": "The Mercy of the Mundane: Why Art Needs the Boring Parts",
-      "url": "https://eliananodari.github.io/mercy-of-the-mundane.html",
-      "date": "February 18, 2026",
-      "dateISO": "2026-02-18",
-      "author": "Eliana Nodari",
-      "authorRole": "student",
-      "blogUrl": "https://eliananodari.github.io"
-    },
-    {
       "title": "Olympics and the NHL",
       "url": "https://braydenwilson22.github.io/olympics-and-the-nhl.html",
       "date": "February 18, 2026",
@@ -1430,15 +1121,6 @@
       "author": "Zay Amaro",
       "authorRole": "student",
       "blogUrl": "https://zayamaro.github.io"
-    },
-    {
-      "title": "Efficiency or Deception? AI as a Trick of the Trade",
-      "url": "https://calebmurphy01.github.io/ai-efficiency-tricks.html",
-      "date": "February 18, 2026",
-      "dateISO": "2026-02-18",
-      "author": "Caleb Murphy",
-      "authorRole": "student",
-      "blogUrl": "https://calebmurphy01.github.io"
     },
     {
       "title": "The Sentimental Bottleneck: Why the 50/50 Rule is Legislated Error",
@@ -1477,58 +1159,14 @@
       "blogUrl": "https://jake3143.github.io/jake3143"
     },
     {
-      "title": "Performance Enhancing Drugs and the Pressure to Win",
-      "url": "https://connorgengle.github.io/AI-/performance-enhancing-drugs-pressure-to-win.html",
-      "date": "February 17, 2026",
-      "dateISO": "2026-02-17",
-      "author": "Connor Gengle",
-      "authorRole": "student",
-      "blogUrl": "https://connorgengle.github.io/AI-"
-    },
-    {
-      "title": "The Hidden Cost of Poor Sleep in Elite Performance",
-      "url": "https://connorgengle.github.io/AI-/hidden-cost-of-poor-sleep.html",
-      "date": "February 17, 2026",
-      "dateISO": "2026-02-17",
-      "author": "Connor Gengle",
-      "authorRole": "student",
-      "blogUrl": "https://connorgengle.github.io/AI-"
-    },
-    {
-      "title": "Poor Nutrition and Its Impact on Athletic Success",
-      "url": "https://connorgengle.github.io/AI-/poor-nutrition-athletic-success.html",
-      "date": "February 17, 2026",
-      "dateISO": "2026-02-17",
-      "author": "Connor Gengle",
-      "authorRole": "student",
-      "blogUrl": "https://connorgengle.github.io/AI-"
-    },
-    {
-      "title": "NIL Deals in College Sports — Restoring Fairness or Rewriting the Game?",
-      "url": "https://connorgengle.github.io/AI-/nil-deals-college-sports.html",
-      "date": "February 17, 2026",
-      "dateISO": "2026-02-17",
-      "author": "Connor Gengle",
-      "authorRole": "student",
-      "blogUrl": "https://connorgengle.github.io/AI-"
-    },
-    {
       "title": "The Agency Paradox and Why Students Need Choice to Learn",
       "url": "https://connorgengle.github.io/AI-/agency-paradox-students-need-choice.html",
       "date": "February 17, 2026",
       "dateISO": "2026-02-17",
       "author": "Connor Gengle",
       "authorRole": "student",
-      "blogUrl": "https://connorgengle.github.io/AI-"
-    },
-    {
-      "title": "Why Banning AI Feels Like Avoiding the Real Problem",
-      "url": "https://connorgengle.github.io/AI-/why-banning-ai-avoids-the-real-problem.html",
-      "date": "February 17, 2026",
-      "dateISO": "2026-02-17",
-      "author": "Connor Gengle",
-      "authorRole": "student",
-      "blogUrl": "https://connorgengle.github.io/AI-"
+      "blogUrl": "https://connorgengle.github.io/AI-",
+      "source": "manual-repo-scan"
     },
     {
       "title": "AI Does Not Replace Thinking, It Changes Where Thinking Happens",
@@ -1537,16 +1175,58 @@
       "dateISO": "2026-02-17",
       "author": "Connor Gengle",
       "authorRole": "student",
-      "blogUrl": "https://connorgengle.github.io/AI-"
+      "blogUrl": "https://connorgengle.github.io/AI-",
+      "source": "manual-repo-scan"
     },
     {
-      "title": "The \"Standardized Human\" at the Turnstile: A Disney Perspective",
-      "url": "https://olliebear2006ya-dotcom.github.io/Olivias-Disney-Blog/the-turnstile.html",
-      "date": "Februrary 16, 2026",
-      "dateISO": "2026-02-16",
-      "author": "Olivia Andresen",
+      "title": "The Hidden Cost of Poor Sleep in Elite Performance",
+      "url": "https://connorgengle.github.io/AI-/hidden-cost-of-poor-sleep.html",
+      "date": "February 17, 2026",
+      "dateISO": "2026-02-17",
+      "author": "Connor Gengle",
       "authorRole": "student",
-      "blogUrl": "https://olliebear2006ya-dotcom.github.io/Olivias-Disney-Blog"
+      "blogUrl": "https://connorgengle.github.io/AI-",
+      "source": "manual-repo-scan"
+    },
+    {
+      "title": "NIL Deals in College Sports — Restoring Fairness or Rewriting the Game?",
+      "url": "https://connorgengle.github.io/AI-/nil-deals-college-sports.html",
+      "date": "February 17, 2026",
+      "dateISO": "2026-02-17",
+      "author": "Connor Gengle",
+      "authorRole": "student",
+      "blogUrl": "https://connorgengle.github.io/AI-",
+      "source": "manual-repo-scan"
+    },
+    {
+      "title": "Performance Enhancing Drugs and the Pressure to Win",
+      "url": "https://connorgengle.github.io/AI-/performance-enhancing-drugs-pressure-to-win.html",
+      "date": "February 17, 2026",
+      "dateISO": "2026-02-17",
+      "author": "Connor Gengle",
+      "authorRole": "student",
+      "blogUrl": "https://connorgengle.github.io/AI-",
+      "source": "manual-repo-scan"
+    },
+    {
+      "title": "Poor Nutrition and Its Impact on Athletic Success",
+      "url": "https://connorgengle.github.io/AI-/poor-nutrition-athletic-success.html",
+      "date": "February 17, 2026",
+      "dateISO": "2026-02-17",
+      "author": "Connor Gengle",
+      "authorRole": "student",
+      "blogUrl": "https://connorgengle.github.io/AI-",
+      "source": "manual-repo-scan"
+    },
+    {
+      "title": "Why Banning AI Feels Like Avoiding the Real Problem",
+      "url": "https://connorgengle.github.io/AI-/why-banning-ai-avoids-the-real-problem.html",
+      "date": "February 17, 2026",
+      "dateISO": "2026-02-17",
+      "author": "Connor Gengle",
+      "authorRole": "student",
+      "blogUrl": "https://connorgengle.github.io/AI-",
+      "source": "manual-repo-scan"
     },
     {
       "title": "The Shadow of Control: The Toll of Intimate Partner Violence",
@@ -1565,15 +1245,6 @@
       "author": "Sam Levine",
       "authorRole": "student",
       "blogUrl": "https://samlevine277.github.io"
-    },
-    {
-      "title": "Severing the Master Signal: Technical Sovereignty and the Ethics of Maintenance",
-      "url": "https://eliananodari.github.io/severing-master-signal.html",
-      "date": "February 16, 2026",
-      "dateISO": "2026-02-16",
-      "author": "Eliana Nodari",
-      "authorRole": "student",
-      "blogUrl": "https://eliananodari.github.io"
     },
     {
       "title": "The Invisible Coach: How Artificial Intelligence is Rewriting the Rules of Sports Training",
@@ -1601,15 +1272,6 @@
       "author": "Isabella Calmet",
       "authorRole": "student",
       "blogUrl": "https://bellacalmetjanssen-cell.github.io/isabella-calmet-.github.io"
-    },
-    {
-      "title": "The Last Watercooler: Can Disney Save the Monoculture?",
-      "url": "https://olliebear2006ya-dotcom.github.io/Olivias-Disney-Blog/watercooler.html",
-      "date": "Februrary 15, 2026",
-      "dateISO": "2026-02-15",
-      "author": "Olivia Andresen",
-      "authorRole": "student",
-      "blogUrl": "https://olliebear2006ya-dotcom.github.io/Olivias-Disney-Blog"
     },
     {
       "title": "AI in sports vs work",
@@ -1666,15 +1328,6 @@
       "blogUrl": "https://jinxxywrites.github.io/Psyched-for-Psychology"
     },
     {
-      "title": "The Digital Lifeboat and the Architecture of Silence",
-      "url": "https://eliananodari.github.io/digital-lifeboat-architecture.html",
-      "date": "February 13, 2026",
-      "dateISO": "2026-02-13",
-      "author": "Eliana Nodari",
-      "authorRole": "student",
-      "blogUrl": "https://eliananodari.github.io"
-    },
-    {
       "title": "The Healing Algorithm: How Artificial Intelligence is Rewriting the Future of Medicine",
       "url": "https://braydenwilson22.github.io/healing-algorithm-ai-medicine.html",
       "date": "February 13, 2026",
@@ -1718,15 +1371,6 @@
       "author": "Dominic Debro",
       "authorRole": "student",
       "blogUrl": "https://dominicdebro.github.io"
-    },
-    {
-      "title": "The Rhetoric of the Script: Responding to Zaya Maro",
-      "url": "https://calebmurphy01.github.io/off-script-rhetoric.html",
-      "date": "February 12, 2026",
-      "dateISO": "2026-02-12",
-      "author": "Caleb Murphy",
-      "authorRole": "student",
-      "blogUrl": "https://calebmurphy01.github.io"
     },
     {
       "title": "The Roommate Reality: Why Boundaries and Safety Matter",
@@ -1774,15 +1418,6 @@
       "blogUrl": "https://samlevine277.github.io"
     },
     {
-      "title": "The Digital Lifeboat: Why Technology Is Not the Villain",
-      "url": "https://eliananodari.github.io/the-digital-lifeboat.html",
-      "date": "February 11, 2026",
-      "dateISO": "2026-02-11",
-      "author": "Eliana Nodari",
-      "authorRole": "student",
-      "blogUrl": "https://eliananodari.github.io"
-    },
-    {
       "title": "Faster, Higher, Stronger… Smarter? The AI Revolution at the Olympic Games",
       "url": "https://braydenwilson22.github.io/faster-higher-stronger-smarter-ai-olympics.html",
       "date": "February 11, 2026",
@@ -1810,15 +1445,6 @@
       "blogUrl": "https://zayamaro.github.io"
     },
     {
-      "title": "The \"Standardized Human\" at the Turnstile",
-      "url": "https://olliebear2006ya-dotcom.github.io/Olivias-Disney-Blog/human.html",
-      "date": "Februrary 10, 2026",
-      "dateISO": "2026-02-10",
-      "author": "Olivia Andresen",
-      "authorRole": "student",
-      "blogUrl": "https://olliebear2006ya-dotcom.github.io/Olivias-Disney-Blog"
-    },
-    {
       "title": "The Zero-Failure Protocol: Why Prediction Demands Intervention",
       "url": "https://jrbrunts.github.io/zero-failure-protocol.html",
       "date": "February 10, 2026",
@@ -1826,24 +1452,6 @@
       "author": "Jacob Brunts",
       "authorRole": "student",
       "blogUrl": "https://jrbrunts.github.io"
-    },
-    {
-      "title": "The Algo-Parlay: Can AI Actually Predict the Win?",
-      "url": "https://calebmurphy01.github.io/ai-betting-trust.html",
-      "date": "February 10, 2026",
-      "dateISO": "2026-02-10",
-      "author": "Caleb Murphy",
-      "authorRole": "student",
-      "blogUrl": "https://calebmurphy01.github.io"
-    },
-    {
-      "title": "The 1-Yard Conspiracy: Kyren Williams and the Parlay Killer",
-      "url": "https://calebmurphy01.github.io/kyren-williams-conspiracy.html",
-      "date": "February 10, 2026",
-      "dateISO": "2026-02-10",
-      "author": "Caleb Murphy",
-      "authorRole": "student",
-      "blogUrl": "https://calebmurphy01.github.io"
     },
     {
       "title": "New Vulnerabilities",
@@ -1900,15 +1508,6 @@
       "blogUrl": "https://samlevine277.github.io"
     },
     {
-      "title": "The Curated Self vs. The Beautiful Mess: Why We Must Reclaim Our Flaws",
-      "url": "https://eliananodari.github.io/curated-self-vs-beautiful-mess.html",
-      "date": "February 9, 2026",
-      "dateISO": "2026-02-09",
-      "author": "Eliana Nodari",
-      "authorRole": "student",
-      "blogUrl": "https://eliananodari.github.io"
-    },
-    {
       "title": "Beyond the Touchline: The Invisible Impact of Relationships on Professional Rugby",
       "url": "https://tombishop4.github.io/beyond-touchline-relationships-rugby.html",
       "date": "February 9, 2026",
@@ -1936,33 +1535,6 @@
       "blogUrl": "https://dominicdebro.github.io"
     },
     {
-      "title": "The Digital Scout: How AI is Picking the Next Generation of Stars",
-      "url": "https://kevionmilton.github.io/digital-scout-ai-next-generation.html",
-      "date": "February 9, 2026",
-      "dateISO": "2026-02-09",
-      "author": "Kevion Milton",
-      "authorRole": "student",
-      "blogUrl": "https://kevionmilton.github.io"
-    },
-    {
-      "title": "Health vs. Hype: Is AI a Bodyguard or a Performance Enhancer?",
-      "url": "https://kevionmilton.github.io/health-vs-hype-ai-bodyguard.html",
-      "date": "February 9, 2026",
-      "dateISO": "2026-02-09",
-      "author": "Kevion Milton",
-      "authorRole": "student",
-      "blogUrl": "https://kevionmilton.github.io"
-    },
-    {
-      "title": "RE: \"The Cold Doctor\" (AI in Healthcare)",
-      "url": "https://kevionmilton.github.io/the-cold-doctor-ai-healthcare.html",
-      "date": "February 9, 2026",
-      "dateISO": "2026-02-09",
-      "author": "Kevion Milton",
-      "authorRole": "student",
-      "blogUrl": "https://kevionmilton.github.io"
-    },
-    {
       "title": "The Biological Locker Room: Why Teams Can't Be Simulated",
       "url": "https://zayamaro.github.io/the-biological-locker-room.html",
       "date": "February 9, 2026",
@@ -1970,15 +1542,6 @@
       "author": "Zay Amaro",
       "authorRole": "student",
       "blogUrl": "https://zayamaro.github.io"
-    },
-    {
-      "title": "When \"Zero Failure\" Becomes the Show",
-      "url": "https://olliebear2006ya-dotcom.github.io/Olivias-Disney-Blog/zero.html",
-      "date": "Februrary 8, 2026",
-      "dateISO": "2026-02-08",
-      "author": "Olivia Andresen",
-      "authorRole": "student",
-      "blogUrl": "https://olliebear2006ya-dotcom.github.io/Olivias-Disney-Blog"
     },
     {
       "title": "The Ghost in the Canvas: Why Creativity Requires the Risk of Failure",
@@ -2080,42 +1643,6 @@
       "blogUrl": "https://bellacalmetjanssen-cell.github.io/isabella-calmet-.github.io"
     },
     {
-      "title": "The Myth of Objective Perfection",
-      "url": "https://kevionmilton.github.io/myth-of-objective-perfection.html",
-      "date": "February 8, 2026",
-      "dateISO": "2026-02-08",
-      "author": "Kevion Milton",
-      "authorRole": "student",
-      "blogUrl": "https://kevionmilton.github.io"
-    },
-    {
-      "title": "The 2026 Playbook: Why AI Predictions are No Longer Just Science Fiction",
-      "url": "https://kevionmilton.github.io/2026-playbook-ai-predictions.html",
-      "date": "February 8, 2026",
-      "dateISO": "2026-02-08",
-      "author": "Kevion Milton",
-      "authorRole": "student",
-      "blogUrl": "https://kevionmilton.github.io"
-    },
-    {
-      "title": "Mastering the \"Digital Tape\": What Jacob Burrell Taught Me About Prediction Markets",
-      "url": "https://kevionmilton.github.io/digital-tape-prediction-markets.html",
-      "date": "February 8, 2026",
-      "dateISO": "2026-02-08",
-      "author": "Kevion Milton",
-      "authorRole": "student",
-      "blogUrl": "https://kevionmilton.github.io"
-    },
-    {
-      "title": "The Human Edge in the Arena: Responding to Zay",
-      "url": "https://calebmurphy01.github.io/athlete-intuition.html",
-      "date": "February 8, 2026",
-      "dateISO": "2026-02-08",
-      "author": "Caleb Murphy",
-      "authorRole": "student",
-      "blogUrl": "https://calebmurphy01.github.io"
-    },
-    {
       "title": "Off-script but not offline",
       "url": "https://samlevine277.github.io/off-script-but-not-offline.html",
       "date": "Feburary 7, 2026",
@@ -2132,15 +1659,6 @@
       "author": "Jinx Hixson",
       "authorRole": "student",
       "blogUrl": "https://jinxxywrites.github.io/Psyched-for-Psychology"
-    },
-    {
-      "title": "The Slot-Machine Symphony: Why Authenticity Matters in the Age of AI",
-      "url": "https://eliananodari.github.io/the-slot-machine-symphony.html",
-      "date": "February 6, 2026",
-      "dateISO": "2026-02-06",
-      "author": "Eliana Nodari",
-      "authorRole": "student",
-      "blogUrl": "https://eliananodari.github.io"
     },
     {
       "title": "The Unified Protocol: Silicon for the Soul and the Sinew",
@@ -2177,15 +1695,6 @@
       "author": "Dr. Plate",
       "authorRole": "instructor",
       "blogUrl": "https://buildlittleworlds.github.io/plate-composition-blog"
-    },
-    {
-      "title": "From High Scores to High Notes: What Disney Can Teach Us About the Gamification of Music",
-      "url": "https://olliebear2006ya-dotcom.github.io/Olivias-Disney-Blog/from-highscores.html",
-      "date": "Februrary 4, 2026",
-      "dateISO": "2026-02-04",
-      "author": "Olivia Andresen",
-      "authorRole": "student",
-      "blogUrl": "https://olliebear2006ya-dotcom.github.io/Olivias-Disney-Blog"
     },
     {
       "title": "Response: The Systemic Soul",
@@ -2233,15 +1742,6 @@
       "blogUrl": "https://samlevine277.github.io"
     },
     {
-      "title": "The Digital Dual-Threat: Why We’re Hooked on Feeds and Prompts",
-      "url": "https://eliananodari.github.io/digital-dual-threat.html",
-      "date": "February 4, 2026",
-      "dateISO": "2026-02-04",
-      "author": "Eliana Nodari",
-      "authorRole": "student",
-      "blogUrl": "https://eliananodari.github.io"
-    },
-    {
       "title": "How the \"Gamification\" of Music Rewires the Audience",
       "url": "https://qubitn.github.io/the-gamification-of-music.html",
       "date": "February 4, 2026",
@@ -2249,15 +1749,6 @@
       "author": "Jonas Rodrigues",
       "authorRole": "student",
       "blogUrl": "https://qubitn.github.io"
-    },
-    {
-      "title": "The Data vs. The Drama: A Reply to Tom",
-      "url": "https://calebmurphy01.github.io/the-data-vs-the-drama.html",
-      "date": "February 4, 2026",
-      "dateISO": "2026-02-04",
-      "author": "Caleb Murphy",
-      "authorRole": "student",
-      "blogUrl": "https://calebmurphy01.github.io"
     },
     {
       "title": "Cybersecurity and Remote Terror",
@@ -2312,15 +1803,6 @@
       "author": "Zay Amaro",
       "authorRole": "student",
       "blogUrl": "https://zayamaro.github.io"
-    },
-    {
-      "title": "The Digital Frontier and the Mouse: Bridging Reality and Simulation",
-      "url": "https://olliebear2006ya-dotcom.github.io/Olivias-Disney-Blog/the-digital-frontier.html",
-      "date": "Februrary 2, 2026",
-      "dateISO": "2026-02-02",
-      "author": "Olivia Andresen",
-      "authorRole": "student",
-      "blogUrl": "https://olliebear2006ya-dotcom.github.io/Olivias-Disney-Blog"
     },
     {
       "title": "The Infinite Therapist: Democratizing the Mind",
@@ -2395,15 +1877,6 @@
       "blogUrl": "https://samlevine277.github.io"
     },
     {
-      "title": "The Digital Heartbeat: Navigating the Symbiosis of Human Intuition and AI",
-      "url": "https://eliananodari.github.io/digital-heartbeat.html",
-      "date": "February 2, 2026",
-      "dateISO": "2026-02-02",
-      "author": "Eliana Nodari",
-      "authorRole": "student",
-      "blogUrl": "https://eliananodari.github.io"
-    },
-    {
       "title": "Post AI Development",
       "url": "https://qubitn.github.io/post-ai-development.html",
       "date": "February 2, 2026",
@@ -2475,15 +1948,6 @@
       "authorRole": "student",
       "blogUrl": "https://iforbes07.github.io/Pablowanye.github.io",
       "source": "manual"
-    },
-    {
-      "title": "The Heroism of \"Enough\"",
-      "url": "https://olliebear2006ya-dotcom.github.io/Olivias-Disney-Blog/the-heroism.html",
-      "date": "February 1, 2026",
-      "dateISO": "2026-02-01",
-      "author": "Olivia Andresen",
-      "authorRole": "student",
-      "blogUrl": "https://olliebear2006ya-dotcom.github.io/Olivias-Disney-Blog"
     },
     {
       "title": "AI-Sports Response (Sports)",
@@ -2567,15 +2031,6 @@
       "blogUrl": "https://zayamaro.github.io"
     },
     {
-      "title": "The End of Line-by-Line: A Reply to Jeffrey Way",
-      "url": "https://calebmurphy01.github.io/the-end-of-line-by-line.html",
-      "date": "January 31, 2026",
-      "dateISO": "2026-01-31",
-      "author": "Caleb Murphy",
-      "authorRole": "student",
-      "blogUrl": "https://calebmurphy01.github.io"
-    },
-    {
       "title": "The White Flag: Accepting the Efficiency Engine",
       "url": "https://jrbrunts.github.io/the-white-flag.html",
       "date": "January 30, 2026",
@@ -2594,15 +2049,6 @@
       "blogUrl": "https://jinxxywrites.github.io/Psyched-for-Psychology"
     },
     {
-      "title": "The Pulse of the Machine: Balancing Human Creativity and Artificial Intelligence",
-      "url": "https://eliananodari.github.io/pulse-of-the-machine.html",
-      "date": "January 30, 2026",
-      "dateISO": "2026-01-30",
-      "author": "Eliana Nodari",
-      "authorRole": "student",
-      "blogUrl": "https://eliananodari.github.io"
-    },
-    {
       "title": "The Death of the Blue-Collar Backbone",
       "url": "https://blt279.github.io/TheDeathoftheBlue-CollarBackbone.html",
       "date": "January 30, 2026",
@@ -2610,33 +2056,6 @@
       "author": "Ben Teismann",
       "authorRole": "student",
       "blogUrl": "https://blt279.github.io"
-    },
-    {
-      "title": "The Human Variable in Boxing: A Reply to Tom",
-      "url": "https://calebmurphy01.github.io/the-human-variable-in-boxing.html",
-      "date": "January 30, 2026",
-      "dateISO": "2026-01-30",
-      "author": "Caleb Murphy",
-      "authorRole": "student",
-      "blogUrl": "https://calebmurphy01.github.io"
-    },
-    {
-      "title": "The Human Element in Prediction Markets",
-      "url": "https://calebmurphy01.github.io/the-human-element-in-prediction-markets.html",
-      "date": "January 30, 2026",
-      "dateISO": "2026-01-30",
-      "author": "Caleb Murphy",
-      "authorRole": "student",
-      "blogUrl": "https://calebmurphy01.github.io"
-    },
-    {
-      "title": "Trading Strategies and Market Logic",
-      "url": "https://calebmurphy01.github.io/trading-strategies-and-market-logic.html",
-      "date": "January 30, 2026",
-      "dateISO": "2026-01-30",
-      "author": "Caleb Murphy",
-      "authorRole": "student",
-      "blogUrl": "https://calebmurphy01.github.io"
     },
     {
       "title": "The Moral Agency That Lives Outside the Therapist",
@@ -2693,24 +2112,6 @@
       "blogUrl": "https://zayamaro.github.io"
     },
     {
-      "title": "The Ghost in the Dashboard: A Reply to Zay",
-      "url": "https://calebmurphy01.github.io/the-ghost-in-the-dashboard.html",
-      "date": "January 29, 2026",
-      "dateISO": "2026-01-29",
-      "author": "Caleb Murphy",
-      "authorRole": "student",
-      "blogUrl": "https://calebmurphy01.github.io"
-    },
-    {
-      "title": "The Happily Ever After Project",
-      "url": "https://olliebear2006ya-dotcom.github.io/Olivias-Disney-Blog/the-happily-project.html",
-      "date": "January 28, 2026",
-      "dateISO": "2026-01-28",
-      "author": "Olivia Andresen",
-      "authorRole": "student",
-      "blogUrl": "https://olliebear2006ya-dotcom.github.io/Olivias-Disney-Blog"
-    },
-    {
       "title": "AI and the End of Human-Led Therapy",
       "url": "https://jinxxywrites.github.io/Psyched-for-Psychology/ai-ending-human-therapy.html",
       "date": "January 28, 2026",
@@ -2718,15 +2119,6 @@
       "author": "Jinx Hixson",
       "authorRole": "student",
       "blogUrl": "https://jinxxywrites.github.io/Psyched-for-Psychology"
-    },
-    {
-      "title": "Coding Our Future",
-      "url": "https://eliananodari.github.io/coding-our-future.html",
-      "date": "January 28, 2026",
-      "dateISO": "2026-01-28",
-      "author": "Eliana Nodari",
-      "authorRole": "student",
-      "blogUrl": "https://eliananodari.github.io"
     },
     {
       "title": "The Quantified Athlete: How AI is Breaking the Human Limit",
@@ -2772,15 +2164,6 @@
       "author": "Sam Levine",
       "authorRole": "student",
       "blogUrl": "https://samlevine277.github.io"
-    },
-    {
-      "title": "The Evolution of the Architect: Professional Adaptation in the Age of Agentic AI",
-      "url": "https://eliananodari.github.io/evolution-of-the-architect.html",
-      "date": "January 26, 2026",
-      "dateISO": "2026-01-26",
-      "author": "Eliana Nodari",
-      "authorRole": "student",
-      "blogUrl": "https://eliananodari.github.io"
     },
     {
       "title": "Reading the Tape: Response to Caleb Murphy",
@@ -2837,15 +2220,6 @@
       "blogUrl": "https://bellacalmetjanssen-cell.github.io/isabella-calmet-.github.io"
     },
     {
-      "title": "The \"You-First\" Era: From Mass Media to Personalized Reality",
-      "url": "https://kevionmilton.github.io/you-first-era.html",
-      "date": "January 26, 2026",
-      "dateISO": "2026-01-26",
-      "author": "Kevion Milton",
-      "authorRole": "student",
-      "blogUrl": "https://kevionmilton.github.io"
-    },
-    {
       "title": "Markets, Metrics, and the Myth of Certainty",
       "url": "https://zayamaro.github.io/markets-and-metrics.html",
       "date": "January 26, 2026",
@@ -2853,33 +2227,6 @@
       "author": "Zay Amaro",
       "authorRole": "student",
       "blogUrl": "https://zayamaro.github.io"
-    },
-    {
-      "title": "Markets and Metrics",
-      "url": "https://calebmurphy01.github.io/markets-and-metrics.html",
-      "date": "January 26, 2026",
-      "dateISO": "2026-01-26",
-      "author": "Caleb Murphy",
-      "authorRole": "student",
-      "blogUrl": "https://calebmurphy01.github.io"
-    },
-    {
-      "title": "The Speed of Truth",
-      "url": "https://calebmurphy01.github.io/the-speed-of-truth.html",
-      "date": "January 26, 2026",
-      "dateISO": "2026-01-26",
-      "author": "Caleb Murphy",
-      "authorRole": "student",
-      "blogUrl": "https://calebmurphy01.github.io"
-    },
-    {
-      "title": "Comment on Mastermind in the Machine",
-      "url": "https://olliebear2006ya-dotcom.github.io/Olivias-Disney-Blog/comment-mastermind-machine.html",
-      "date": "January 25, 2026",
-      "dateISO": "2026-01-25",
-      "author": "Olivia Andresen",
-      "authorRole": "student",
-      "blogUrl": "https://olliebear2006ya-dotcom.github.io/Olivias-Disney-Blog"
     },
     {
       "title": "The Silicon Mirage: Why AI Abundance May Be Our Newest Form of Scarcity",
@@ -3017,15 +2364,6 @@
       "blogUrl": "https://buildlittleworlds.github.io/plate-composition-blog"
     },
     {
-      "title": "From Magic Wands to Microchips",
-      "url": "https://olliebear2006ya-dotcom.github.io/Olivias-Disney-Blog/from-magic-wands.html",
-      "date": "January 23, 2026",
-      "dateISO": "2026-01-23",
-      "author": "Olivia Andresen",
-      "authorRole": "student",
-      "blogUrl": "https://olliebear2006ya-dotcom.github.io/Olivias-Disney-Blog"
-    },
-    {
       "title": "The Price of Everything and the Value of Nothing: Challenging the Monetary Monopoly",
       "url": "https://gabriel-bell.github.io/defining-value.html",
       "date": "January 23, 2026",
@@ -3051,15 +2389,6 @@
       "author": "Emani Gerdine",
       "authorRole": "student",
       "blogUrl": "https://emanigerdine7-ops.github.io"
-    },
-    {
-      "title": "The Worth of Expression",
-      "url": "https://eliananodari.github.io/the-worth-of-expression.html",
-      "date": "January 23, 2026",
-      "dateISO": "2026-01-23",
-      "author": "Eliana Nodari",
-      "authorRole": "student",
-      "blogUrl": "https://eliananodari.github.io"
     },
     {
       "title": "Beyond Silicon Valley",
@@ -3089,15 +2418,6 @@
       "blogUrl": "https://tombishop4.github.io"
     },
     {
-      "title": "The Genetic Playbook: Is Precision Nutrition the Final Frontier?",
-      "url": "https://kevionmilton.github.io/genetic-playbook.html",
-      "date": "January 23, 2026",
-      "dateISO": "2026-01-23",
-      "author": "Kevion Milton",
-      "authorRole": "student",
-      "blogUrl": "https://kevionmilton.github.io"
-    },
-    {
       "title": "The Stats Illusion: Why NFL Predictions Feel True",
       "url": "https://zayamaro.github.io/stats-illusion.html",
       "date": "January 23, 2026",
@@ -3125,15 +2445,6 @@
       "blogUrl": "https://dominicdebro.github.io"
     },
     {
-      "title": "The Cost of a Soul",
-      "url": "https://olliebear2006ya-dotcom.github.io/Olivias-Disney-Blog/the-cost-of-a-soul.html",
-      "date": "January 21, 2026",
-      "dateISO": "2026-01-21",
-      "author": "Olivia Andresen",
-      "authorRole": "student",
-      "blogUrl": "https://olliebear2006ya-dotcom.github.io/Olivias-Disney-Blog"
-    },
-    {
       "title": "Digital Age Compulsions: AI, OCD, and the \"Dopamine Ceiling\"",
       "url": "https://jinxxywrites.github.io/Psyched-for-Psychology/ai-ocd-and-dopamine.html",
       "date": "January 21, 2026",
@@ -3152,15 +2463,6 @@
       "blogUrl": "https://samlevine277.github.io"
     },
     {
-      "title": "The Dopamine Ceiling and the Loud Lie Economy",
-      "url": "https://eliananodari.github.io/the-dopamine-ceiling.html",
-      "date": "January 21, 2026",
-      "dateISO": "2026-01-21",
-      "author": "Eliana Nodari",
-      "authorRole": "student",
-      "blogUrl": "https://eliananodari.github.io"
-    },
-    {
       "title": "The Efficiency Paradox: Why Faster Isn't Always Better",
       "url": "https://dominicdebro.github.io/efficiency-paradox.html",
       "date": "January 21, 2026",
@@ -3170,15 +2472,6 @@
       "blogUrl": "https://dominicdebro.github.io"
     },
     {
-      "title": "The 2026 Sports Convergence: 3D Avatars, Aero-Engineering, and the Agentic Scout",
-      "url": "https://kevionmilton.github.io/sports-convergence.html",
-      "date": "January 21, 2026",
-      "dateISO": "2026-01-21",
-      "author": "Kevion Milton",
-      "authorRole": "student",
-      "blogUrl": "https://kevionmilton.github.io"
-    },
-    {
       "title": "Lifting Gear and AI: Tools vs. Crutches",
       "url": "https://zayamaro.github.io/lifting-gear.html",
       "date": "January 21, 2026",
@@ -3186,15 +2479,6 @@
       "author": "Zay Amaro",
       "authorRole": "student",
       "blogUrl": "https://zayamaro.github.io"
-    },
-    {
-      "title": "The Gambler’s Pivot",
-      "url": "https://calebmurphy01.github.io/the-gamblers-pivot.html",
-      "date": "January 21, 2026",
-      "dateISO": "2026-01-21",
-      "author": "Caleb Murphy",
-      "authorRole": "student",
-      "blogUrl": "https://calebmurphy01.github.io"
     },
     {
       "title": "The Automation Anxiety: Is AI Really Taking Our Jobs?",
@@ -3351,15 +2635,6 @@
       "blogUrl": "https://braydenwilson22.github.io"
     },
     {
-      "title": "The Digital Whistle: How AI is Changing Basketball Officiating",
-      "url": "https://kevionmilton.github.io/ai-in-sports.html",
-      "date": "January 18, 2026",
-      "dateISO": "2026-01-18",
-      "author": "Kevion Milton",
-      "authorRole": "student",
-      "blogUrl": "https://kevionmilton.github.io"
-    },
-    {
       "title": "The Planning Is the Thinking",
       "url": "https://buildlittleworlds.github.io/plate-composition-blog/posts/the-planning-is-the-thinking/",
       "date": "January 16, 2026",
@@ -3432,15 +2707,6 @@
       "blogUrl": "https://blt279.github.io"
     },
     {
-      "title": "The Sorcerer's Tool",
-      "url": "https://olliebear2006ya-dotcom.github.io/Olivias-Disney-Blog/the-sorcerers-tool.html",
-      "date": "January 15, 2026",
-      "dateISO": "2026-01-15",
-      "author": "Olivia Andresen",
-      "authorRole": "student",
-      "blogUrl": "https://olliebear2006ya-dotcom.github.io/Olivias-Disney-Blog"
-    },
-    {
       "title": "The Green Mask: What We’re Really Hiding Behind",
       "url": "https://jrbrunts.github.io/the-green-mask.html",
       "date": "January 15, 2026",
@@ -3457,15 +2723,6 @@
       "author": "Jinx Hixson",
       "authorRole": "student",
       "blogUrl": "https://jinxxywrites.github.io/Psyched-for-Psychology"
-    },
-    {
-      "title": "Myths and Truths about AI and the Environment",
-      "url": "https://eliananodari.github.io/ai-and-the-environment.html",
-      "date": "January 15, 2026",
-      "dateISO": "2026-01-15",
-      "author": "Eliana Nodari",
-      "authorRole": "student",
-      "blogUrl": "https://eliananodari.github.io"
     },
     {
       "title": "Welcome To My Blog",
@@ -3486,15 +2743,6 @@
       "blogUrl": "https://dominicdebro.github.io"
     },
     {
-      "title": "Welcome to My Blog",
-      "url": "https://kevionmilton.github.io/first-post.html",
-      "date": "January 15, 2026",
-      "dateISO": "2026-01-15",
-      "author": "Kevion Milton",
-      "authorRole": "student",
-      "blogUrl": "https://kevionmilton.github.io"
-    },
-    {
       "title": "The Fluency Illusion",
       "url": "https://buildlittleworlds.github.io/plate-composition-blog/posts/the-fluency-illusion/",
       "date": "January 14, 2026",
@@ -3513,15 +2761,6 @@
       "blogUrl": "https://gabriel-bell.github.io"
     },
     {
-      "title": "Using AI to Elevate Thinking",
-      "url": "https://eliananodari.github.io/relocating-thinking.html",
-      "date": "January 14, 2026",
-      "dateISO": "2026-01-14",
-      "author": "Eliana Nodari",
-      "authorRole": "student",
-      "blogUrl": "https://eliananodari.github.io"
-    },
-    {
       "title": "What We Outsource To",
       "url": "https://buildlittleworlds.github.io/plate-composition-blog/posts/what-we-outsource-to/",
       "date": "January 13, 2026",
@@ -3529,15 +2768,6 @@
       "author": "Dr. Plate",
       "authorRole": "instructor",
       "blogUrl": "https://buildlittleworlds.github.io/plate-composition-blog"
-    },
-    {
-      "title": "The Higher Thinking Post",
-      "url": "https://olliebear2006ya-dotcom.github.io/Olivias-Disney-Blog/the-higher-thinking-post.html",
-      "date": "January 13, 2026",
-      "dateISO": "2026-01-13",
-      "author": "Olivia Andresen",
-      "authorRole": "student",
-      "blogUrl": "https://olliebear2006ya-dotcom.github.io/Olivias-Disney-Blog"
     },
     {
       "title": "The Obsolescence Trap: Why \"Choice\" Is Not Enough",
@@ -3556,15 +2786,6 @@
       "author": "Jinx Hixson",
       "authorRole": "student",
       "blogUrl": "https://jinxxywrites.github.io/Psyched-for-Psychology"
-    },
-    {
-      "title": "Expanding on the Effects of Banning AI",
-      "url": "https://eliananodari.github.io/response-what-a-ban-cant-teach.html",
-      "date": "January 13, 2026",
-      "dateISO": "2026-01-13",
-      "author": "Eliana Nodari",
-      "authorRole": "student",
-      "blogUrl": "https://eliananodari.github.io"
     },
     {
       "title": "Two Theories of Safety",
@@ -3592,15 +2813,6 @@
       "author": "Dr. Plate",
       "authorRole": "instructor",
       "blogUrl": "https://buildlittleworlds.github.io/plate-composition-blog"
-    },
-    {
-      "title": "What If Writers Built Specs Like Coders Do?",
-      "url": "https://buildlittleworlds.github.io/specs-for-writing.html",
-      "date": "January 12, 2026",
-      "dateISO": "2026-01-12",
-      "author": "Mr Spock",
-      "authorRole": "student",
-      "blogUrl": "https://buildlittleworlds.github.io/"
     },
     {
       "title": "Thinking at a Higher Level",
